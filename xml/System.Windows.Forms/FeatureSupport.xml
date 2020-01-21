@@ -89,6 +89,22 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Forms.IFeatureSupport.GetVersionPresent(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IFeatureSupport.GetVersionPresent(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IFeatureSupport.GetVersionPresent(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IFeatureSupport.GetVersionPresent(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IFeatureSupport.GetVersionPresent(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IFeatureSupport.GetVersionPresent(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IFeatureSupport.GetVersionPresent(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IFeatureSupport.GetVersionPresent(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IFeatureSupport.GetVersionPresent(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IFeatureSupport.GetVersionPresent(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IFeatureSupport.GetVersionPresent(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IFeatureSupport.GetVersionPresent(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IFeatureSupport.GetVersionPresent(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IFeatureSupport.GetVersionPresent(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IFeatureSupport.GetVersionPresent(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IFeatureSupport.GetVersionPresent(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IFeatureSupport.GetVersionPresent(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Forms</AssemblyName>
@@ -190,6 +206,22 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Forms.IFeatureSupport.IsPresent(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IFeatureSupport.IsPresent(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IFeatureSupport.IsPresent(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IFeatureSupport.IsPresent(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IFeatureSupport.IsPresent(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IFeatureSupport.IsPresent(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IFeatureSupport.IsPresent(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IFeatureSupport.IsPresent(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IFeatureSupport.IsPresent(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IFeatureSupport.IsPresent(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IFeatureSupport.IsPresent(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IFeatureSupport.IsPresent(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IFeatureSupport.IsPresent(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IFeatureSupport.IsPresent(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IFeatureSupport.IsPresent(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IFeatureSupport.IsPresent(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IFeatureSupport.IsPresent(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Forms</AssemblyName>
@@ -234,6 +266,22 @@
       <MemberSignature Language="F#" Value="abstract member IsPresent : obj * Version -&gt; bool&#xA;override this.IsPresent : obj * Version -&gt; bool" Usage="featureSupport.IsPresent (feature, minimumVersion)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Forms.IFeatureSupport.IsPresent(System.Object,System.Version)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IFeatureSupport.IsPresent(System.Object,System.Version)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IFeatureSupport.IsPresent(System.Object,System.Version)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IFeatureSupport.IsPresent(System.Object,System.Version)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IFeatureSupport.IsPresent(System.Object,System.Version)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IFeatureSupport.IsPresent(System.Object,System.Version)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IFeatureSupport.IsPresent(System.Object,System.Version)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IFeatureSupport.IsPresent(System.Object,System.Version)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IFeatureSupport.IsPresent(System.Object,System.Version)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IFeatureSupport.IsPresent(System.Object,System.Version)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IFeatureSupport.IsPresent(System.Object,System.Version)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IFeatureSupport.IsPresent(System.Object,System.Version)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IFeatureSupport.IsPresent(System.Object,System.Version)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IFeatureSupport.IsPresent(System.Object,System.Version)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IFeatureSupport.IsPresent(System.Object,System.Version)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IFeatureSupport.IsPresent(System.Object,System.Version)</InterfaceMember>
         <InterfaceMember>M:System.Windows.Forms.IFeatureSupport.IsPresent(System.Object,System.Version)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

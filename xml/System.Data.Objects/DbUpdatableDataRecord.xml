@@ -35,6 +35,16 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Data.IExtendedDataRecord.DataRecordInfo</InterfaceMember>
+        <InterfaceMember>P:System.Data.IExtendedDataRecord.DataRecordInfo</InterfaceMember>
+        <InterfaceMember>P:System.Data.IExtendedDataRecord.DataRecordInfo</InterfaceMember>
+        <InterfaceMember>P:System.Data.IExtendedDataRecord.DataRecordInfo</InterfaceMember>
+        <InterfaceMember>P:System.Data.IExtendedDataRecord.DataRecordInfo</InterfaceMember>
+        <InterfaceMember>P:System.Data.IExtendedDataRecord.DataRecordInfo</InterfaceMember>
+        <InterfaceMember>P:System.Data.IExtendedDataRecord.DataRecordInfo</InterfaceMember>
+        <InterfaceMember>P:System.Data.IExtendedDataRecord.DataRecordInfo</InterfaceMember>
+        <InterfaceMember>P:System.Data.IExtendedDataRecord.DataRecordInfo</InterfaceMember>
+        <InterfaceMember>P:System.Data.IExtendedDataRecord.DataRecordInfo</InterfaceMember>
+        <InterfaceMember>P:System.Data.IExtendedDataRecord.DataRecordInfo</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Entity</AssemblyName>
@@ -59,6 +69,16 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Data.IDataRecord.FieldCount</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataRecord.FieldCount</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataRecord.FieldCount</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataRecord.FieldCount</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataRecord.FieldCount</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataRecord.FieldCount</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataRecord.FieldCount</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataRecord.FieldCount</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataRecord.FieldCount</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataRecord.FieldCount</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataRecord.FieldCount</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Entity</AssemblyName>
@@ -82,6 +102,16 @@
       <MemberSignature Language="F#" Value="override this.GetBoolean : int -&gt; bool" Usage="dbUpdatableDataRecord.GetBoolean ordinal" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Data.IDataRecord.GetBoolean(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetBoolean(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetBoolean(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetBoolean(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetBoolean(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetBoolean(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetBoolean(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetBoolean(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetBoolean(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetBoolean(System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Data.IDataRecord.GetBoolean(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -111,6 +141,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.IDataRecord.GetByte(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetByte(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetByte(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetByte(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetByte(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetByte(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetByte(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetByte(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetByte(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetByte(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetByte(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Entity</AssemblyName>
@@ -138,6 +178,16 @@
       <MemberSignature Language="F#" Value="override this.GetBytes : int * int64 * byte[] * int * int -&gt; int64" Usage="dbUpdatableDataRecord.GetBytes (ordinal, dataIndex, buffer, bufferIndex, length)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Data.IDataRecord.GetBytes(System.Int32,System.Int64,System.Byte[],System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetBytes(System.Int32,System.Int64,System.Byte[],System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetBytes(System.Int32,System.Int64,System.Byte[],System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetBytes(System.Int32,System.Int64,System.Byte[],System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetBytes(System.Int32,System.Int64,System.Byte[],System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetBytes(System.Int32,System.Int64,System.Byte[],System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetBytes(System.Int32,System.Int64,System.Byte[],System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetBytes(System.Int32,System.Int64,System.Byte[],System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetBytes(System.Int32,System.Int64,System.Byte[],System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetBytes(System.Int32,System.Int64,System.Byte[],System.Int32,System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Data.IDataRecord.GetBytes(System.Int32,System.Int64,System.Byte[],System.Int32,System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -175,6 +225,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.IDataRecord.GetChar(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetChar(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetChar(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetChar(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetChar(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetChar(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetChar(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetChar(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetChar(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetChar(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetChar(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Entity</AssemblyName>
@@ -202,6 +262,16 @@
       <MemberSignature Language="F#" Value="override this.GetChars : int * int64 * char[] * int * int -&gt; int64" Usage="dbUpdatableDataRecord.GetChars (ordinal, dataIndex, buffer, bufferIndex, length)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Data.IDataRecord.GetChars(System.Int32,System.Int64,System.Char[],System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetChars(System.Int32,System.Int64,System.Char[],System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetChars(System.Int32,System.Int64,System.Char[],System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetChars(System.Int32,System.Int64,System.Char[],System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetChars(System.Int32,System.Int64,System.Char[],System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetChars(System.Int32,System.Int64,System.Char[],System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetChars(System.Int32,System.Int64,System.Char[],System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetChars(System.Int32,System.Int64,System.Char[],System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetChars(System.Int32,System.Int64,System.Char[],System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetChars(System.Int32,System.Int64,System.Char[],System.Int32,System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Data.IDataRecord.GetChars(System.Int32,System.Int64,System.Char[],System.Int32,System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -239,6 +309,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.IExtendedDataRecord.GetDataReader(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IExtendedDataRecord.GetDataReader(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IExtendedDataRecord.GetDataReader(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IExtendedDataRecord.GetDataReader(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IExtendedDataRecord.GetDataReader(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IExtendedDataRecord.GetDataReader(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IExtendedDataRecord.GetDataReader(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IExtendedDataRecord.GetDataReader(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IExtendedDataRecord.GetDataReader(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IExtendedDataRecord.GetDataReader(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IExtendedDataRecord.GetDataReader(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Entity</AssemblyName>
@@ -266,6 +346,16 @@
       <MemberSignature Language="F#" Value="abstract member GetDataRecord : int -&gt; System.Data.Common.DbDataRecord&#xA;override this.GetDataRecord : int -&gt; System.Data.Common.DbDataRecord" Usage="dbUpdatableDataRecord.GetDataRecord ordinal" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Data.IExtendedDataRecord.GetDataRecord(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IExtendedDataRecord.GetDataRecord(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IExtendedDataRecord.GetDataRecord(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IExtendedDataRecord.GetDataRecord(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IExtendedDataRecord.GetDataRecord(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IExtendedDataRecord.GetDataRecord(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IExtendedDataRecord.GetDataRecord(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IExtendedDataRecord.GetDataRecord(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IExtendedDataRecord.GetDataRecord(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IExtendedDataRecord.GetDataRecord(System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Data.IExtendedDataRecord.GetDataRecord(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -295,6 +385,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.IDataRecord.GetDataTypeName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetDataTypeName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetDataTypeName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetDataTypeName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetDataTypeName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetDataTypeName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetDataTypeName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetDataTypeName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetDataTypeName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetDataTypeName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetDataTypeName(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Entity</AssemblyName>
@@ -322,6 +422,16 @@
       <MemberSignature Language="F#" Value="override this.GetDateTime : int -&gt; DateTime" Usage="dbUpdatableDataRecord.GetDateTime ordinal" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Data.IDataRecord.GetDateTime(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetDateTime(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetDateTime(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetDateTime(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetDateTime(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetDateTime(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetDateTime(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetDateTime(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetDateTime(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetDateTime(System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Data.IDataRecord.GetDateTime(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -376,6 +486,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.IDataRecord.GetDecimal(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetDecimal(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetDecimal(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetDecimal(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetDecimal(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetDecimal(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetDecimal(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetDecimal(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetDecimal(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetDecimal(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetDecimal(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Entity</AssemblyName>
@@ -403,6 +523,16 @@
       <MemberSignature Language="F#" Value="override this.GetDouble : int -&gt; double" Usage="dbUpdatableDataRecord.GetDouble ordinal" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Data.IDataRecord.GetDouble(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetDouble(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetDouble(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetDouble(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetDouble(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetDouble(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetDouble(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetDouble(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetDouble(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetDouble(System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Data.IDataRecord.GetDouble(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -432,6 +562,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.IDataRecord.GetFieldType(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetFieldType(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetFieldType(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetFieldType(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetFieldType(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetFieldType(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetFieldType(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetFieldType(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetFieldType(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetFieldType(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetFieldType(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Entity</AssemblyName>
@@ -459,6 +599,16 @@
       <MemberSignature Language="F#" Value="override this.GetFloat : int -&gt; single" Usage="dbUpdatableDataRecord.GetFloat ordinal" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Data.IDataRecord.GetFloat(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetFloat(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetFloat(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetFloat(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetFloat(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetFloat(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetFloat(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetFloat(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetFloat(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetFloat(System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Data.IDataRecord.GetFloat(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -488,6 +638,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.IDataRecord.GetGuid(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetGuid(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetGuid(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetGuid(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetGuid(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetGuid(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetGuid(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetGuid(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetGuid(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetGuid(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetGuid(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Entity</AssemblyName>
@@ -515,6 +675,16 @@
       <MemberSignature Language="F#" Value="override this.GetInt16 : int -&gt; int16" Usage="dbUpdatableDataRecord.GetInt16 ordinal" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Data.IDataRecord.GetInt16(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetInt16(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetInt16(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetInt16(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetInt16(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetInt16(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetInt16(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetInt16(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetInt16(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetInt16(System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Data.IDataRecord.GetInt16(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -544,6 +714,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.IDataRecord.GetInt32(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetInt32(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetInt32(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetInt32(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetInt32(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetInt32(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetInt32(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetInt32(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetInt32(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetInt32(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetInt32(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Entity</AssemblyName>
@@ -571,6 +751,16 @@
       <MemberSignature Language="F#" Value="override this.GetInt64 : int -&gt; int64" Usage="dbUpdatableDataRecord.GetInt64 ordinal" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Data.IDataRecord.GetInt64(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetInt64(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetInt64(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetInt64(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetInt64(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetInt64(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetInt64(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetInt64(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetInt64(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetInt64(System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Data.IDataRecord.GetInt64(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -600,6 +790,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.IDataRecord.GetName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetName(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Entity</AssemblyName>
@@ -627,6 +827,16 @@
       <MemberSignature Language="F#" Value="override this.GetOrdinal : string -&gt; int" Usage="dbUpdatableDataRecord.GetOrdinal name" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Data.IDataRecord.GetOrdinal(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetOrdinal(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetOrdinal(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetOrdinal(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetOrdinal(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetOrdinal(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetOrdinal(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetOrdinal(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetOrdinal(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetOrdinal(System.String)</InterfaceMember>
         <InterfaceMember>M:System.Data.IDataRecord.GetOrdinal(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -681,6 +891,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.IDataRecord.GetString(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetString(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetString(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetString(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetString(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetString(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetString(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetString(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetString(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetString(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetString(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Entity</AssemblyName>
@@ -708,6 +928,16 @@
       <MemberSignature Language="F#" Value="override this.GetValue : int -&gt; obj" Usage="dbUpdatableDataRecord.GetValue ordinal" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Data.IDataRecord.GetValue(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetValue(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetValue(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetValue(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetValue(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetValue(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetValue(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetValue(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetValue(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetValue(System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Data.IDataRecord.GetValue(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -742,6 +972,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.IDataRecord.GetValues(System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetValues(System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetValues(System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetValues(System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetValues(System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetValues(System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetValues(System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetValues(System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetValues(System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetValues(System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetValues(System.Object[])</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Entity</AssemblyName>
@@ -769,6 +1009,16 @@
       <MemberSignature Language="F#" Value="override this.IsDBNull : int -&gt; bool" Usage="dbUpdatableDataRecord.IsDBNull ordinal" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Data.IDataRecord.IsDBNull(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.IsDBNull(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.IsDBNull(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.IsDBNull(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.IsDBNull(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.IsDBNull(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.IsDBNull(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.IsDBNull(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.IsDBNull(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.IsDBNull(System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Data.IDataRecord.IsDBNull(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -808,6 +1058,16 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Data.IDataRecord.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataRecord.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataRecord.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataRecord.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataRecord.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataRecord.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataRecord.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataRecord.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataRecord.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataRecord.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataRecord.Item(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Entity</AssemblyName>
@@ -835,6 +1095,16 @@
       <MemberSignature Language="F#" Value="member this.Item(string) : obj" Usage="System.Data.Objects.DbUpdatableDataRecord.Item" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Data.IDataRecord.Item(System.String)</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataRecord.Item(System.String)</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataRecord.Item(System.String)</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataRecord.Item(System.String)</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataRecord.Item(System.String)</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataRecord.Item(System.String)</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataRecord.Item(System.String)</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataRecord.Item(System.String)</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataRecord.Item(System.String)</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataRecord.Item(System.String)</InterfaceMember>
         <InterfaceMember>P:System.Data.IDataRecord.Item(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1322,6 +1592,16 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Data::IDataReader ^ System.Data.IDataRecord.GetData(int ordinal) = System::Data::IDataRecord::GetData;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Data.IDataRecord.GetData(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetData(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetData(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetData(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetData(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetData(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetData(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetData(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetData(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataRecord.GetData(System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Data.IDataRecord.GetData(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

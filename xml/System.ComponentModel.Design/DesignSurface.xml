@@ -621,6 +621,22 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -853,6 +869,22 @@
       <MemberSignature Language="F#" Value="abstract member GetService : Type -&gt; obj&#xA;override this.GetService : Type -&gt; obj" Usage="designSurface.GetService serviceType" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
         <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

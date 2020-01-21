@@ -79,6 +79,17 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Description.IServiceBehavior.AddBindingParameters(System.ServiceModel.Description.ServiceDescription,System.ServiceModel.ServiceHostBase,System.Collections.ObjectModel.Collection{System.ServiceModel.Description.ServiceEndpoint},System.ServiceModel.Channels.BindingParameterCollection)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Description.IServiceBehavior.AddBindingParameters(System.ServiceModel.Description.ServiceDescription,System.ServiceModel.ServiceHostBase,System.Collections.ObjectModel.Collection{System.ServiceModel.Description.ServiceEndpoint},System.ServiceModel.Channels.BindingParameterCollection)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Description.IServiceBehavior.AddBindingParameters(System.ServiceModel.Description.ServiceDescription,System.ServiceModel.ServiceHostBase,System.Collections.ObjectModel.Collection{System.ServiceModel.Description.ServiceEndpoint},System.ServiceModel.Channels.BindingParameterCollection)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Description.IServiceBehavior.AddBindingParameters(System.ServiceModel.Description.ServiceDescription,System.ServiceModel.ServiceHostBase,System.Collections.ObjectModel.Collection{System.ServiceModel.Description.ServiceEndpoint},System.ServiceModel.Channels.BindingParameterCollection)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Description.IServiceBehavior.AddBindingParameters(System.ServiceModel.Description.ServiceDescription,System.ServiceModel.ServiceHostBase,System.Collections.ObjectModel.Collection{System.ServiceModel.Description.ServiceEndpoint},System.ServiceModel.Channels.BindingParameterCollection)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Description.IServiceBehavior.AddBindingParameters(System.ServiceModel.Description.ServiceDescription,System.ServiceModel.ServiceHostBase,System.Collections.ObjectModel.Collection{System.ServiceModel.Description.ServiceEndpoint},System.ServiceModel.Channels.BindingParameterCollection)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Description.IServiceBehavior.AddBindingParameters(System.ServiceModel.Description.ServiceDescription,System.ServiceModel.ServiceHostBase,System.Collections.ObjectModel.Collection{System.ServiceModel.Description.ServiceEndpoint},System.ServiceModel.Channels.BindingParameterCollection)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Description.IServiceBehavior.AddBindingParameters(System.ServiceModel.Description.ServiceDescription,System.ServiceModel.ServiceHostBase,System.Collections.ObjectModel.Collection{System.ServiceModel.Description.ServiceEndpoint},System.ServiceModel.Channels.BindingParameterCollection)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Description.IServiceBehavior.AddBindingParameters(System.ServiceModel.Description.ServiceDescription,System.ServiceModel.ServiceHostBase,System.Collections.ObjectModel.Collection{System.ServiceModel.Description.ServiceEndpoint},System.ServiceModel.Channels.BindingParameterCollection)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Description.IServiceBehavior.AddBindingParameters(System.ServiceModel.Description.ServiceDescription,System.ServiceModel.ServiceHostBase,System.Collections.ObjectModel.Collection{System.ServiceModel.Description.ServiceEndpoint},System.ServiceModel.Channels.BindingParameterCollection)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Description.IServiceBehavior.AddBindingParameters(System.ServiceModel.Description.ServiceDescription,System.ServiceModel.ServiceHostBase,System.Collections.ObjectModel.Collection{System.ServiceModel.Description.ServiceEndpoint},System.ServiceModel.Channels.BindingParameterCollection)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Description.IServiceBehavior.AddBindingParameters(System.ServiceModel.Description.ServiceDescription,System.ServiceModel.ServiceHostBase,System.Collections.ObjectModel.Collection{System.ServiceModel.Description.ServiceEndpoint},System.ServiceModel.Channels.BindingParameterCollection)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.WorkflowServices</AssemblyName>
@@ -111,6 +122,17 @@
       <MemberSignature Language="F#" Value="abstract member ApplyDispatchBehavior : System.ServiceModel.Description.ServiceDescription * System.ServiceModel.ServiceHostBase -&gt; unit&#xA;override this.ApplyDispatchBehavior : System.ServiceModel.Description.ServiceDescription * System.ServiceModel.ServiceHostBase -&gt; unit" Usage="durableServiceAttribute.ApplyDispatchBehavior (serviceDescription, serviceHostBase)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ServiceModel.Description.IServiceBehavior.ApplyDispatchBehavior(System.ServiceModel.Description.ServiceDescription,System.ServiceModel.ServiceHostBase)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Description.IServiceBehavior.ApplyDispatchBehavior(System.ServiceModel.Description.ServiceDescription,System.ServiceModel.ServiceHostBase)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Description.IServiceBehavior.ApplyDispatchBehavior(System.ServiceModel.Description.ServiceDescription,System.ServiceModel.ServiceHostBase)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Description.IServiceBehavior.ApplyDispatchBehavior(System.ServiceModel.Description.ServiceDescription,System.ServiceModel.ServiceHostBase)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Description.IServiceBehavior.ApplyDispatchBehavior(System.ServiceModel.Description.ServiceDescription,System.ServiceModel.ServiceHostBase)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Description.IServiceBehavior.ApplyDispatchBehavior(System.ServiceModel.Description.ServiceDescription,System.ServiceModel.ServiceHostBase)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Description.IServiceBehavior.ApplyDispatchBehavior(System.ServiceModel.Description.ServiceDescription,System.ServiceModel.ServiceHostBase)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Description.IServiceBehavior.ApplyDispatchBehavior(System.ServiceModel.Description.ServiceDescription,System.ServiceModel.ServiceHostBase)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Description.IServiceBehavior.ApplyDispatchBehavior(System.ServiceModel.Description.ServiceDescription,System.ServiceModel.ServiceHostBase)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Description.IServiceBehavior.ApplyDispatchBehavior(System.ServiceModel.Description.ServiceDescription,System.ServiceModel.ServiceHostBase)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Description.IServiceBehavior.ApplyDispatchBehavior(System.ServiceModel.Description.ServiceDescription,System.ServiceModel.ServiceHostBase)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Description.IServiceBehavior.ApplyDispatchBehavior(System.ServiceModel.Description.ServiceDescription,System.ServiceModel.ServiceHostBase)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -173,6 +195,17 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.FillInstance(System.ServiceModel.Administration.IWmiInstance)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.FillInstance(System.ServiceModel.Administration.IWmiInstance)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.FillInstance(System.ServiceModel.Administration.IWmiInstance)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.FillInstance(System.ServiceModel.Administration.IWmiInstance)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.FillInstance(System.ServiceModel.Administration.IWmiInstance)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.FillInstance(System.ServiceModel.Administration.IWmiInstance)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.FillInstance(System.ServiceModel.Administration.IWmiInstance)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.FillInstance(System.ServiceModel.Administration.IWmiInstance)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.FillInstance(System.ServiceModel.Administration.IWmiInstance)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.FillInstance(System.ServiceModel.Administration.IWmiInstance)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.FillInstance(System.ServiceModel.Administration.IWmiInstance)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.FillInstance(System.ServiceModel.Administration.IWmiInstance)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.WorkflowServices</AssemblyName>
@@ -199,6 +232,17 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::String ^ System.ServiceModel.Administration.IWmiInstanceProvider.GetInstanceType() = System::ServiceModel::Administration::IWmiInstanceProvider::GetInstanceType;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.GetInstanceType</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.GetInstanceType</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.GetInstanceType</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.GetInstanceType</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.GetInstanceType</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.GetInstanceType</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.GetInstanceType</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.GetInstanceType</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.GetInstanceType</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.GetInstanceType</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.GetInstanceType</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.GetInstanceType</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -253,6 +297,17 @@
       <MemberSignature Language="F#" Value="abstract member Validate : System.ServiceModel.Description.ServiceDescription * System.ServiceModel.ServiceHostBase -&gt; unit&#xA;override this.Validate : System.ServiceModel.Description.ServiceDescription * System.ServiceModel.ServiceHostBase -&gt; unit" Usage="durableServiceAttribute.Validate (serviceDescription, serviceHostBase)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ServiceModel.Description.IServiceBehavior.Validate(System.ServiceModel.Description.ServiceDescription,System.ServiceModel.ServiceHostBase)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Description.IServiceBehavior.Validate(System.ServiceModel.Description.ServiceDescription,System.ServiceModel.ServiceHostBase)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Description.IServiceBehavior.Validate(System.ServiceModel.Description.ServiceDescription,System.ServiceModel.ServiceHostBase)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Description.IServiceBehavior.Validate(System.ServiceModel.Description.ServiceDescription,System.ServiceModel.ServiceHostBase)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Description.IServiceBehavior.Validate(System.ServiceModel.Description.ServiceDescription,System.ServiceModel.ServiceHostBase)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Description.IServiceBehavior.Validate(System.ServiceModel.Description.ServiceDescription,System.ServiceModel.ServiceHostBase)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Description.IServiceBehavior.Validate(System.ServiceModel.Description.ServiceDescription,System.ServiceModel.ServiceHostBase)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Description.IServiceBehavior.Validate(System.ServiceModel.Description.ServiceDescription,System.ServiceModel.ServiceHostBase)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Description.IServiceBehavior.Validate(System.ServiceModel.Description.ServiceDescription,System.ServiceModel.ServiceHostBase)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Description.IServiceBehavior.Validate(System.ServiceModel.Description.ServiceDescription,System.ServiceModel.ServiceHostBase)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Description.IServiceBehavior.Validate(System.ServiceModel.Description.ServiceDescription,System.ServiceModel.ServiceHostBase)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Description.IServiceBehavior.Validate(System.ServiceModel.Description.ServiceDescription,System.ServiceModel.ServiceHostBase)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

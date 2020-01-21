@@ -135,6 +135,21 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.AddEventHandler(System.Object,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.AddEventHandler(System.Object,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.AddEventHandler(System.Object,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.AddEventHandler(System.Object,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.AddEventHandler(System.Object,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.AddEventHandler(System.Object,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.AddEventHandler(System.Object,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.AddEventHandler(System.Object,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.AddEventHandler(System.Object,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.AddEventHandler(System.Object,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.AddEventHandler(System.Object,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.AddEventHandler(System.Object,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.AddEventHandler(System.Object,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.AddEventHandler(System.Object,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.AddEventHandler(System.Object,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.AddEventHandler(System.Object,System.Delegate)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Reflection</AssemblyName>
@@ -286,6 +301,21 @@ You might use the `AddEventHandler` method when you load a type after the progra
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.Attributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.Attributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.Attributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.Attributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.Attributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.Attributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.Attributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.Attributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.Attributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.Attributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.Attributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.Attributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.Attributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.Attributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.Attributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.Attributes</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Reflection</AssemblyName>
@@ -337,6 +367,17 @@ You might use the `AddEventHandler` method when you load a type after the progra
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.Equals(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Reflection</AssemblyName>
@@ -386,6 +427,21 @@ You might use the `AddEventHandler` method when you load a type after the progra
       <MemberSignature Language="C++ CLI" Value="public:&#xA; property Type ^ EventHandlerType { Type ^ get(); };" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.EventHandlerType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.EventHandlerType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.EventHandlerType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.EventHandlerType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.EventHandlerType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.EventHandlerType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.EventHandlerType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.EventHandlerType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.EventHandlerType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.EventHandlerType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.EventHandlerType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.EventHandlerType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.EventHandlerType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.EventHandlerType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.EventHandlerType</InterfaceMember>
         <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.EventHandlerType</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -460,6 +516,21 @@ You might use the `AddEventHandler` method when you load a type after the progra
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetAddMethod</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetAddMethod</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetAddMethod</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetAddMethod</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetAddMethod</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetAddMethod</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetAddMethod</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetAddMethod</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetAddMethod</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetAddMethod</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetAddMethod</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetAddMethod</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetAddMethod</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetAddMethod</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetAddMethod</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetAddMethod</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Reflection</AssemblyName>
@@ -520,6 +591,21 @@ add_<EventName>(<EventHandlerType> handler)
       <MemberSignature Language="F#" Value="abstract member GetAddMethod : bool -&gt; System.Reflection.MethodInfo" Usage="eventInfo.GetAddMethod nonPublic" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetAddMethod(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetAddMethod(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetAddMethod(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetAddMethod(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetAddMethod(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetAddMethod(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetAddMethod(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetAddMethod(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetAddMethod(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetAddMethod(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetAddMethod(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetAddMethod(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetAddMethod(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetAddMethod(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetAddMethod(System.Boolean)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetAddMethod(System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -587,6 +673,17 @@ add_<EventName>(<EventHandlerType> handler)
       <MemberSignature Language="F#" Value="override this.GetHashCode : unit -&gt; int" Usage="eventInfo.GetHashCode " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetHashCode</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetHashCode</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -768,6 +865,21 @@ add_<EventName>(<EventHandlerType> handler)
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRaiseMethod</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRaiseMethod</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRaiseMethod</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRaiseMethod</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRaiseMethod</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRaiseMethod</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRaiseMethod</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRaiseMethod</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRaiseMethod</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRaiseMethod</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRaiseMethod</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRaiseMethod</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRaiseMethod</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRaiseMethod</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRaiseMethod</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRaiseMethod</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Reflection</AssemblyName>
@@ -819,6 +931,21 @@ add_<EventName>(<EventHandlerType> handler)
       <MemberSignature Language="F#" Value="abstract member GetRaiseMethod : bool -&gt; System.Reflection.MethodInfo" Usage="eventInfo.GetRaiseMethod nonPublic" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRaiseMethod(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRaiseMethod(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRaiseMethod(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRaiseMethod(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRaiseMethod(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRaiseMethod(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRaiseMethod(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRaiseMethod(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRaiseMethod(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRaiseMethod(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRaiseMethod(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRaiseMethod(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRaiseMethod(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRaiseMethod(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRaiseMethod(System.Boolean)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRaiseMethod(System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -890,6 +1017,21 @@ add_<EventName>(<EventHandlerType> handler)
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRemoveMethod</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRemoveMethod</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRemoveMethod</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRemoveMethod</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRemoveMethod</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRemoveMethod</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRemoveMethod</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRemoveMethod</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRemoveMethod</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRemoveMethod</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRemoveMethod</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRemoveMethod</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRemoveMethod</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRemoveMethod</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRemoveMethod</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRemoveMethod</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Reflection</AssemblyName>
@@ -945,6 +1087,21 @@ remove_<EventName>(<EventHandlerType> handler)
       <MemberSignature Language="F#" Value="abstract member GetRemoveMethod : bool -&gt; System.Reflection.MethodInfo" Usage="eventInfo.GetRemoveMethod nonPublic" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRemoveMethod(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRemoveMethod(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRemoveMethod(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRemoveMethod(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRemoveMethod(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRemoveMethod(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRemoveMethod(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRemoveMethod(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRemoveMethod(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRemoveMethod(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRemoveMethod(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRemoveMethod(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRemoveMethod(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRemoveMethod(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRemoveMethod(System.Boolean)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetRemoveMethod(System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1045,6 +1202,21 @@ remove_<EventName>(<EventHandlerType> handler)
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.IsMulticast</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.IsMulticast</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.IsMulticast</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.IsMulticast</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.IsMulticast</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.IsMulticast</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.IsMulticast</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.IsMulticast</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.IsMulticast</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.IsMulticast</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.IsMulticast</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.IsMulticast</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.IsMulticast</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.IsMulticast</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.IsMulticast</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.IsMulticast</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Reflection</AssemblyName>
@@ -1091,6 +1263,21 @@ remove_<EventName>(<EventHandlerType> handler)
       <MemberSignature Language="F#" Value="member this.IsSpecialName : bool" Usage="System.Reflection.EventInfo.IsSpecialName" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.IsSpecialName</InterfaceMember>
         <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.IsSpecialName</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1144,6 +1331,21 @@ remove_<EventName>(<EventHandlerType> handler)
       <MemberSignature Language="F#" Value="member this.MemberType : System.Reflection.MemberTypes" Usage="System.Reflection.EventInfo.MemberType" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.MemberType</InterfaceMember>
         <InterfaceMember>P:System.Runtime.InteropServices._EventInfo.MemberType</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1329,6 +1531,21 @@ remove_<EventName>(<EventHandlerType> handler)
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.RemoveEventHandler(System.Object,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.RemoveEventHandler(System.Object,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.RemoveEventHandler(System.Object,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.RemoveEventHandler(System.Object,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.RemoveEventHandler(System.Object,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.RemoveEventHandler(System.Object,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.RemoveEventHandler(System.Object,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.RemoveEventHandler(System.Object,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.RemoveEventHandler(System.Object,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.RemoveEventHandler(System.Object,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.RemoveEventHandler(System.Object,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.RemoveEventHandler(System.Object,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.RemoveEventHandler(System.Object,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.RemoveEventHandler(System.Object,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.RemoveEventHandler(System.Object,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.RemoveEventHandler(System.Object,System.Delegate)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Reflection</AssemblyName>
@@ -1465,6 +1682,21 @@ remove_<EventName>(<EventHandlerType> handler)
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -1518,6 +1750,20 @@ remove_<EventName>(<EventHandlerType> handler)
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetType</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -1551,6 +1797,21 @@ remove_<EventName>(<EventHandlerType> handler)
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Runtime.InteropServices._EventInfo.GetTypeInfo(System::UInt32 iTInfo, System::UInt32 lcid, IntPtr ppTInfo) = System::Runtime::InteropServices::_EventInfo::GetTypeInfo;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1601,6 +1862,21 @@ remove_<EventName>(<EventHandlerType> handler)
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -1645,6 +1921,21 @@ remove_<EventName>(<EventHandlerType> handler)
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Runtime.InteropServices._EventInfo.Invoke(System::UInt32 dispIdMember, Guid % riid, System::UInt32 lcid, short wFlags, IntPtr pDispParams, IntPtr pVarResult, IntPtr pExcepInfo, IntPtr puArgErr) = System::Runtime::InteropServices::_EventInfo::Invoke;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices._EventInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

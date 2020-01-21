@@ -279,6 +279,17 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Entity</AssemblyName>
@@ -322,6 +333,17 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Entity</AssemblyName>
@@ -354,6 +376,17 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Collections::IList ^ System.ComponentModel.IListSource.GetList() = System::ComponentModel::IListSource::GetList;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -395,6 +428,17 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Entity</AssemblyName>
@@ -426,6 +470,17 @@
       <MemberSignature Language="F#" Usage="System.Linq.IQueryable.Expression" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
         <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -465,6 +520,17 @@
       <MemberSignature Language="F#" Usage="System.Linq.IQueryable.Provider" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
         <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
       </Implements>
       <AssemblyInfo>

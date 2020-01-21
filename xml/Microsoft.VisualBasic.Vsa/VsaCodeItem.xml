@@ -63,6 +63,9 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Vsa.IVsaCodeItem.AddEventSource(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Vsa.IVsaCodeItem.AddEventSource(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Vsa.IVsaCodeItem.AddEventSource(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Vsa.IVsaCodeItem.AddEventSource(System.String,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic.Vsa</AssemblyName>
@@ -93,6 +96,9 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Vsa.IVsaCodeItem.AppendSourceText(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Vsa.IVsaCodeItem.AppendSourceText(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Vsa.IVsaCodeItem.AppendSourceText(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Vsa.IVsaCodeItem.AppendSourceText(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic.Vsa</AssemblyName>
@@ -121,6 +127,9 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Vsa.IVsaCodeItem.CodeDOM</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaCodeItem.CodeDOM</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaCodeItem.CodeDOM</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaCodeItem.CodeDOM</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic.Vsa</AssemblyName>
@@ -145,6 +154,9 @@
       <MemberSignature Language="F#" Value="abstract member RemoveEventSource : string -&gt; unit&#xA;override this.RemoveEventSource : string -&gt; unit" Usage="vsaCodeItem.RemoveEventSource EventSourceName" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Vsa.IVsaCodeItem.RemoveEventSource(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Vsa.IVsaCodeItem.RemoveEventSource(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Vsa.IVsaCodeItem.RemoveEventSource(System.String)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Vsa.IVsaCodeItem.RemoveEventSource(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -173,6 +185,9 @@
       <MemberSignature Language="F#" Value="member this.SourceText : string with get, set" Usage="Microsoft.VisualBasic.Vsa.VsaCodeItem.SourceText" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaCodeItem.SourceText</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaCodeItem.SourceText</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaCodeItem.SourceText</InterfaceMember>
         <InterfaceMember>P:Microsoft.Vsa.IVsaCodeItem.SourceText</InterfaceMember>
       </Implements>
       <AssemblyInfo>

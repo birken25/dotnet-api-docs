@@ -156,6 +156,18 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Build.Framework.ITask.Execute</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITask.Execute</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITask.Execute</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITask.Execute</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITask.Execute</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITask.Execute</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITask.Execute</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITask.Execute</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITask.Execute</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITask.Execute</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITask.Execute</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITask.Execute</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITask.Execute</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Workflow.ComponentModel</AssemblyName>
@@ -312,6 +324,18 @@
       <MemberSignature Language="F#" Usage="Microsoft.Build.Framework.ITask.HostObject" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:Microsoft.Build.Framework.ITask.HostObject</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Framework.ITask.HostObject</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Framework.ITask.HostObject</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Framework.ITask.HostObject</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Framework.ITask.HostObject</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Framework.ITask.HostObject</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Framework.ITask.HostObject</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Framework.ITask.HostObject</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Framework.ITask.HostObject</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Framework.ITask.HostObject</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Framework.ITask.HostObject</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Framework.ITask.HostObject</InterfaceMember>
         <InterfaceMember>P:Microsoft.Build.Framework.ITask.HostObject</InterfaceMember>
       </Implements>
       <AssemblyInfo>

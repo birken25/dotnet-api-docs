@@ -65,6 +65,9 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Extensions.Localization.Internal.IResourceStringProvider.GetAllResourceStrings(System.Globalization.CultureInfo,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Localization.Internal.IResourceStringProvider.GetAllResourceStrings(System.Globalization.CultureInfo,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Localization.Internal.IResourceStringProvider.GetAllResourceStrings(System.Globalization.CultureInfo,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Localization.Internal.IResourceStringProvider.GetAllResourceStrings(System.Globalization.CultureInfo,System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Localization</AssemblyName>

@@ -230,6 +230,18 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Workflow.ComponentModel.IActivityEventListener`1.OnEvent(System.Object,`0)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.IActivityEventListener`1.OnEvent(System.Object,`0)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.IActivityEventListener`1.OnEvent(System.Object,`0)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.IActivityEventListener`1.OnEvent(System.Object,`0)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.IActivityEventListener`1.OnEvent(System.Object,`0)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.IActivityEventListener`1.OnEvent(System.Object,`0)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.IActivityEventListener`1.OnEvent(System.Object,`0)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.IActivityEventListener`1.OnEvent(System.Object,`0)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.IActivityEventListener`1.OnEvent(System.Object,`0)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.IActivityEventListener`1.OnEvent(System.Object,`0)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.IActivityEventListener`1.OnEvent(System.Object,`0)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.IActivityEventListener`1.OnEvent(System.Object,`0)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.IActivityEventListener`1.OnEvent(System.Object,`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Workflow.ComponentModel</AssemblyName>
@@ -258,6 +270,18 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Workflow::ComponentModel::ActivityExecutionStatus System.Workflow.ComponentModel.ICompensatableActivity.Compensate(System::Workflow::ComponentModel::ActivityExecutionContext ^ executionContext) = System::Workflow::ComponentModel::ICompensatableActivity::Compensate;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Workflow.ComponentModel.ICompensatableActivity.Compensate(System.Workflow.ComponentModel.ActivityExecutionContext)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.ICompensatableActivity.Compensate(System.Workflow.ComponentModel.ActivityExecutionContext)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.ICompensatableActivity.Compensate(System.Workflow.ComponentModel.ActivityExecutionContext)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.ICompensatableActivity.Compensate(System.Workflow.ComponentModel.ActivityExecutionContext)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.ICompensatableActivity.Compensate(System.Workflow.ComponentModel.ActivityExecutionContext)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.ICompensatableActivity.Compensate(System.Workflow.ComponentModel.ActivityExecutionContext)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.ICompensatableActivity.Compensate(System.Workflow.ComponentModel.ActivityExecutionContext)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.ICompensatableActivity.Compensate(System.Workflow.ComponentModel.ActivityExecutionContext)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.ICompensatableActivity.Compensate(System.Workflow.ComponentModel.ActivityExecutionContext)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.ICompensatableActivity.Compensate(System.Workflow.ComponentModel.ActivityExecutionContext)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.ICompensatableActivity.Compensate(System.Workflow.ComponentModel.ActivityExecutionContext)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.ICompensatableActivity.Compensate(System.Workflow.ComponentModel.ActivityExecutionContext)</InterfaceMember>
         <InterfaceMember>M:System.Workflow.ComponentModel.ICompensatableActivity.Compensate(System.Workflow.ComponentModel.ActivityExecutionContext)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

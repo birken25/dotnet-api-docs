@@ -284,6 +284,18 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetCharacterRect(System.Windows.Documents.LogicalDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetCharacterRect(System.Windows.Documents.LogicalDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetCharacterRect(System.Windows.Documents.LogicalDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetCharacterRect(System.Windows.Documents.LogicalDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetCharacterRect(System.Windows.Documents.LogicalDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetCharacterRect(System.Windows.Documents.LogicalDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetCharacterRect(System.Windows.Documents.LogicalDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetCharacterRect(System.Windows.Documents.LogicalDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetCharacterRect(System.Windows.Documents.LogicalDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetCharacterRect(System.Windows.Documents.LogicalDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetCharacterRect(System.Windows.Documents.LogicalDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetCharacterRect(System.Windows.Documents.LogicalDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetCharacterRect(System.Windows.Documents.LogicalDirection)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -598,6 +610,18 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetPointerContext(System.Windows.Documents.LogicalDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetPointerContext(System.Windows.Documents.LogicalDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetPointerContext(System.Windows.Documents.LogicalDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetPointerContext(System.Windows.Documents.LogicalDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetPointerContext(System.Windows.Documents.LogicalDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetPointerContext(System.Windows.Documents.LogicalDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetPointerContext(System.Windows.Documents.LogicalDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetPointerContext(System.Windows.Documents.LogicalDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetPointerContext(System.Windows.Documents.LogicalDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetPointerContext(System.Windows.Documents.LogicalDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetPointerContext(System.Windows.Documents.LogicalDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetPointerContext(System.Windows.Documents.LogicalDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetPointerContext(System.Windows.Documents.LogicalDirection)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -745,6 +769,18 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetTextInRun(System.Windows.Documents.LogicalDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetTextInRun(System.Windows.Documents.LogicalDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetTextInRun(System.Windows.Documents.LogicalDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetTextInRun(System.Windows.Documents.LogicalDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetTextInRun(System.Windows.Documents.LogicalDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetTextInRun(System.Windows.Documents.LogicalDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetTextInRun(System.Windows.Documents.LogicalDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetTextInRun(System.Windows.Documents.LogicalDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetTextInRun(System.Windows.Documents.LogicalDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetTextInRun(System.Windows.Documents.LogicalDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetTextInRun(System.Windows.Documents.LogicalDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetTextInRun(System.Windows.Documents.LogicalDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetTextInRun(System.Windows.Documents.LogicalDirection)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -792,6 +828,18 @@
       <MemberSignature Language="F#" Value="member this.GetTextInRun : System.Windows.Documents.LogicalDirection * char[] * int * int -&gt; int" Usage="textPointer.GetTextInRun (direction, textBuffer, startIndex, count)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetTextInRun(System.Windows.Documents.LogicalDirection,System.Char[],System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetTextInRun(System.Windows.Documents.LogicalDirection,System.Char[],System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetTextInRun(System.Windows.Documents.LogicalDirection,System.Char[],System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetTextInRun(System.Windows.Documents.LogicalDirection,System.Char[],System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetTextInRun(System.Windows.Documents.LogicalDirection,System.Char[],System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetTextInRun(System.Windows.Documents.LogicalDirection,System.Char[],System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetTextInRun(System.Windows.Documents.LogicalDirection,System.Char[],System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetTextInRun(System.Windows.Documents.LogicalDirection,System.Char[],System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetTextInRun(System.Windows.Documents.LogicalDirection,System.Char[],System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetTextInRun(System.Windows.Documents.LogicalDirection,System.Char[],System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetTextInRun(System.Windows.Documents.LogicalDirection,System.Char[],System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetTextInRun(System.Windows.Documents.LogicalDirection,System.Char[],System.Int32,System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetTextInRun(System.Windows.Documents.LogicalDirection,System.Char[],System.Int32,System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -843,6 +891,18 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetTextRunLength(System.Windows.Documents.LogicalDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetTextRunLength(System.Windows.Documents.LogicalDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetTextRunLength(System.Windows.Documents.LogicalDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetTextRunLength(System.Windows.Documents.LogicalDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetTextRunLength(System.Windows.Documents.LogicalDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetTextRunLength(System.Windows.Documents.LogicalDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetTextRunLength(System.Windows.Documents.LogicalDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetTextRunLength(System.Windows.Documents.LogicalDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetTextRunLength(System.Windows.Documents.LogicalDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetTextRunLength(System.Windows.Documents.LogicalDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetTextRunLength(System.Windows.Documents.LogicalDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetTextRunLength(System.Windows.Documents.LogicalDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.GetTextRunLength(System.Windows.Documents.LogicalDirection)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -884,6 +944,18 @@
       <MemberSignature Language="F#" Value="member this.HasValidLayout : bool" Usage="System.Windows.Documents.TextPointer.HasValidLayout" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Windows.Documents.ITextPointer.HasValidLayout</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.ITextPointer.HasValidLayout</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.ITextPointer.HasValidLayout</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.ITextPointer.HasValidLayout</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.ITextPointer.HasValidLayout</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.ITextPointer.HasValidLayout</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.ITextPointer.HasValidLayout</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.ITextPointer.HasValidLayout</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.ITextPointer.HasValidLayout</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.ITextPointer.HasValidLayout</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.ITextPointer.HasValidLayout</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.ITextPointer.HasValidLayout</InterfaceMember>
         <InterfaceMember>P:System.Windows.Documents.ITextPointer.HasValidLayout</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -972,6 +1044,18 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Documents.ITextPointer.InsertTextInRun(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.InsertTextInRun(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.InsertTextInRun(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.InsertTextInRun(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.InsertTextInRun(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.InsertTextInRun(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.InsertTextInRun(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.InsertTextInRun(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.InsertTextInRun(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.InsertTextInRun(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.InsertTextInRun(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.InsertTextInRun(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextPointer.InsertTextInRun(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -1009,6 +1093,18 @@
       <MemberSignature Language="F#" Value="member this.IsAtInsertionPosition : bool" Usage="System.Windows.Documents.TextPointer.IsAtInsertionPosition" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Windows.Documents.ITextPointer.IsAtInsertionPosition</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.ITextPointer.IsAtInsertionPosition</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.ITextPointer.IsAtInsertionPosition</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.ITextPointer.IsAtInsertionPosition</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.ITextPointer.IsAtInsertionPosition</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.ITextPointer.IsAtInsertionPosition</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.ITextPointer.IsAtInsertionPosition</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.ITextPointer.IsAtInsertionPosition</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.ITextPointer.IsAtInsertionPosition</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.ITextPointer.IsAtInsertionPosition</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.ITextPointer.IsAtInsertionPosition</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.ITextPointer.IsAtInsertionPosition</InterfaceMember>
         <InterfaceMember>P:System.Windows.Documents.ITextPointer.IsAtInsertionPosition</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1121,6 +1217,18 @@
       <MemberSignature Language="F#" Value="member this.LogicalDirection : System.Windows.Documents.LogicalDirection" Usage="System.Windows.Documents.TextPointer.LogicalDirection" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Windows.Documents.ITextPointer.LogicalDirection</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.ITextPointer.LogicalDirection</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.ITextPointer.LogicalDirection</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.ITextPointer.LogicalDirection</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.ITextPointer.LogicalDirection</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.ITextPointer.LogicalDirection</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.ITextPointer.LogicalDirection</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.ITextPointer.LogicalDirection</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.ITextPointer.LogicalDirection</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.ITextPointer.LogicalDirection</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.ITextPointer.LogicalDirection</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.ITextPointer.LogicalDirection</InterfaceMember>
         <InterfaceMember>P:System.Windows.Documents.ITextPointer.LogicalDirection</InterfaceMember>
       </Implements>
       <AssemblyInfo>

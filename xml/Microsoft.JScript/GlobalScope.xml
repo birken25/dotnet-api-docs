@@ -74,6 +74,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.AddField(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.AddField(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.AddField(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.AddField(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.AddField(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.AddField(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.AddField(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.AddField(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.AddField(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.AddField(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.AddField(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.AddField(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.AddField(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.AddField(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.AddField(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.JScript</AssemblyName>
@@ -167,6 +181,20 @@
       <MemberSignature Language="F#" Value="override this.GetFields : System.Reflection.BindingFlags -&gt; System.Reflection.FieldInfo[]" Usage="globalScope.GetFields bindingAttr" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Reflection.IReflect.GetFields(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetFields(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetFields(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetFields(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetFields(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetFields(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetFields(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetFields(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetFields(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetFields(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetFields(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetFields(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetFields(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetFields(System.Reflection.BindingFlags)</InterfaceMember>
         <InterfaceMember>M:System.Reflection.IReflect.GetFields(System.Reflection.BindingFlags)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -262,6 +290,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Reflection.IReflect.GetMember(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMember(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMember(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMember(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMember(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMember(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMember(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMember(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMember(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMember(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMember(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMember(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMember(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMember(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMember(System.String,System.Reflection.BindingFlags)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.JScript</AssemblyName>
@@ -303,6 +345,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Reflection.IReflect.GetMembers(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMembers(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMembers(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMembers(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMembers(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMembers(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMembers(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMembers(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMembers(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMembers(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMembers(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMembers(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMembers(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMembers(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMembers(System.Reflection.BindingFlags)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.JScript</AssemblyName>
@@ -336,6 +392,20 @@
       <MemberSignature Language="F#" Value="override this.GetMethods : System.Reflection.BindingFlags -&gt; System.Reflection.MethodInfo[]" Usage="globalScope.GetMethods bindingAttr" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMethods(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMethods(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMethods(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMethods(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMethods(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMethods(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMethods(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMethods(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMethods(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMethods(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMethods(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMethods(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMethods(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMethods(System.Reflection.BindingFlags)</InterfaceMember>
         <InterfaceMember>M:System.Reflection.IReflect.GetMethods(System.Reflection.BindingFlags)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -371,6 +441,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Reflection.IReflect.GetProperties(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetProperties(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetProperties(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetProperties(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetProperties(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetProperties(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetProperties(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetProperties(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetProperties(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetProperties(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetProperties(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetProperties(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetProperties(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetProperties(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetProperties(System.Reflection.BindingFlags)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.JScript</AssemblyName>
@@ -403,6 +487,20 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Reflection::MethodInfo ^ System.Runtime.InteropServices.Expando.IExpando.AddMethod(System::String ^ name, Delegate ^ method) = System::Runtime::InteropServices::Expando::IExpando::AddMethod;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.AddMethod(System.String,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.AddMethod(System.String,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.AddMethod(System.String,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.AddMethod(System.String,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.AddMethod(System.String,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.AddMethod(System.String,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.AddMethod(System.String,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.AddMethod(System.String,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.AddMethod(System.String,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.AddMethod(System.String,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.AddMethod(System.String,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.AddMethod(System.String,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.AddMethod(System.String,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.AddMethod(System.String,System.Delegate)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.AddMethod(System.String,System.Delegate)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -437,6 +535,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.AddProperty(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.AddProperty(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.AddProperty(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.AddProperty(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.AddProperty(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.AddProperty(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.AddProperty(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.AddProperty(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.AddProperty(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.AddProperty(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.AddProperty(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.AddProperty(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.AddProperty(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.AddProperty(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.AddProperty(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.JScript</AssemblyName>
@@ -467,6 +579,20 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Runtime.InteropServices.Expando.IExpando.RemoveMember(System::Reflection::MemberInfo ^ m) = System::Runtime::InteropServices::Expando::IExpando::RemoveMember;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.RemoveMember(System.Reflection.MemberInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.RemoveMember(System.Reflection.MemberInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.RemoveMember(System.Reflection.MemberInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.RemoveMember(System.Reflection.MemberInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.RemoveMember(System.Reflection.MemberInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.RemoveMember(System.Reflection.MemberInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.RemoveMember(System.Reflection.MemberInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.RemoveMember(System.Reflection.MemberInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.RemoveMember(System.Reflection.MemberInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.RemoveMember(System.Reflection.MemberInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.RemoveMember(System.Reflection.MemberInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.RemoveMember(System.Reflection.MemberInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.RemoveMember(System.Reflection.MemberInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.RemoveMember(System.Reflection.MemberInfo)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices.Expando.IExpando.RemoveMember(System.Reflection.MemberInfo)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

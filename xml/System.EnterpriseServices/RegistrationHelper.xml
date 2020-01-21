@@ -74,6 +74,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.EnterpriseServices.IRegistrationHelper.InstallAssembly(System.String,System.String@,System.String@,System.EnterpriseServices.InstallationFlags)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.IRegistrationHelper.InstallAssembly(System.String,System.String@,System.String@,System.EnterpriseServices.InstallationFlags)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.IRegistrationHelper.InstallAssembly(System.String,System.String@,System.String@,System.EnterpriseServices.InstallationFlags)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.IRegistrationHelper.InstallAssembly(System.String,System.String@,System.String@,System.EnterpriseServices.InstallationFlags)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.IRegistrationHelper.InstallAssembly(System.String,System.String@,System.String@,System.EnterpriseServices.InstallationFlags)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.IRegistrationHelper.InstallAssembly(System.String,System.String@,System.String@,System.EnterpriseServices.InstallationFlags)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.IRegistrationHelper.InstallAssembly(System.String,System.String@,System.String@,System.EnterpriseServices.InstallationFlags)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.IRegistrationHelper.InstallAssembly(System.String,System.String@,System.String@,System.EnterpriseServices.InstallationFlags)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.IRegistrationHelper.InstallAssembly(System.String,System.String@,System.String@,System.EnterpriseServices.InstallationFlags)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.IRegistrationHelper.InstallAssembly(System.String,System.String@,System.String@,System.EnterpriseServices.InstallationFlags)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.IRegistrationHelper.InstallAssembly(System.String,System.String@,System.String@,System.EnterpriseServices.InstallationFlags)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.IRegistrationHelper.InstallAssembly(System.String,System.String@,System.String@,System.EnterpriseServices.InstallationFlags)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.IRegistrationHelper.InstallAssembly(System.String,System.String@,System.String@,System.EnterpriseServices.InstallationFlags)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.IRegistrationHelper.InstallAssembly(System.String,System.String@,System.String@,System.EnterpriseServices.InstallationFlags)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.IRegistrationHelper.InstallAssembly(System.String,System.String@,System.String@,System.EnterpriseServices.InstallationFlags)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.EnterpriseServices</AssemblyName>
@@ -226,6 +240,20 @@
       <MemberSignature Language="F#" Value="abstract member UninstallAssembly : string * string -&gt; unit&#xA;override this.UninstallAssembly : string * string -&gt; unit" Usage="registrationHelper.UninstallAssembly (assembly, application)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.EnterpriseServices.IRegistrationHelper.UninstallAssembly(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.IRegistrationHelper.UninstallAssembly(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.IRegistrationHelper.UninstallAssembly(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.IRegistrationHelper.UninstallAssembly(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.IRegistrationHelper.UninstallAssembly(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.IRegistrationHelper.UninstallAssembly(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.IRegistrationHelper.UninstallAssembly(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.IRegistrationHelper.UninstallAssembly(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.IRegistrationHelper.UninstallAssembly(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.IRegistrationHelper.UninstallAssembly(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.IRegistrationHelper.UninstallAssembly(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.IRegistrationHelper.UninstallAssembly(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.IRegistrationHelper.UninstallAssembly(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.IRegistrationHelper.UninstallAssembly(System.String,System.String)</InterfaceMember>
         <InterfaceMember>M:System.EnterpriseServices.IRegistrationHelper.UninstallAssembly(System.String,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

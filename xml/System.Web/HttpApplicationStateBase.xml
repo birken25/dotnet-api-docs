@@ -89,8 +89,8 @@
         <ReturnType>System.Void</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="name" Type="System.String" Index="0" FrameworkAlternate="netframework-4.8" />
-        <Parameter Name="value" Type="System.Object" Index="1" FrameworkAlternate="netframework-4.8" />
+        <Parameter Name="name" Type="System.String" />
+        <Parameter Name="value" Type="System.Object" />
       </Parameters>
       <Docs>
         <param name="name">The name of the object to add to the collection.</param>
@@ -194,6 +194,28 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -207,8 +229,8 @@
         <ReturnType>System.Void</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="array" Type="System.Array" Index="0" FrameworkAlternate="netframework-4.8" />
-        <Parameter Name="index" Type="System.Int32" Index="1" FrameworkAlternate="netframework-4.8" />
+        <Parameter Name="array" Type="System.Array" />
+        <Parameter Name="index" Type="System.Int32" />
       </Parameters>
       <Docs>
         <param name="array">The one-dimensional array that is the destination for the elements that are copied from the collection. The array must have zero-based indexing.</param>
@@ -227,6 +249,28 @@
       <MemberSignature Language="F#" Value="member this.Count : int" Usage="System.Web.HttpApplicationStateBase.Count" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
         <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -276,7 +320,7 @@
         <ReturnType>System.Object</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="index" Type="System.Int32" Index="0" FrameworkAlternate="netframework-4.8" />
+        <Parameter Name="index" Type="System.Int32" />
       </Parameters>
       <Docs>
         <param name="index">The index of the application state object to get.</param>
@@ -306,7 +350,7 @@
         <ReturnType>System.Object</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="name" Type="System.String" Index="0" FrameworkAlternate="netframework-4.8" />
+        <Parameter Name="name" Type="System.String" />
       </Parameters>
       <Docs>
         <param name="name">The name of the object to get.</param>
@@ -325,6 +369,28 @@
       <MemberSignature Language="F#" Value="override this.GetEnumerator : unit -&gt; System.Collections.IEnumerator" Usage="httpApplicationStateBase.GetEnumerator " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
         <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -366,7 +432,7 @@
         <ReturnType>System.String</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="index" Type="System.Int32" Index="0" FrameworkAlternate="netframework-4.8" />
+        <Parameter Name="index" Type="System.Int32" />
       </Parameters>
       <Docs>
         <param name="index">The index of the application state object to get.</param>
@@ -385,6 +451,28 @@
       <MemberSignature Language="F#" Value="member this.IsSynchronized : bool" Usage="System.Web.HttpApplicationStateBase.IsSynchronized" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
         <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -435,7 +523,7 @@
         <ReturnType>System.Object</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="index" Type="System.Int32" Index="0" FrameworkAlternate="netframework-4.8" />
+        <Parameter Name="index" Type="System.Int32" />
       </Parameters>
       <Docs>
         <param name="index">The index of the object in the collection.</param>
@@ -465,7 +553,7 @@
         <ReturnType>System.Object</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="name" Type="System.String" Index="0" FrameworkAlternate="netframework-4.8" />
+        <Parameter Name="name" Type="System.String" />
       </Parameters>
       <Docs>
         <param name="name">The name of the object in the collection.</param>
@@ -521,7 +609,7 @@
         <ReturnType>System.Void</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="name" Type="System.String" Index="0" FrameworkAlternate="netframework-4.8" />
+        <Parameter Name="name" Type="System.String" />
       </Parameters>
       <Docs>
         <param name="name">The name of the object to remove from the collection.</param>
@@ -576,7 +664,7 @@
         <ReturnType>System.Void</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="index" Type="System.Int32" Index="0" FrameworkAlternate="netframework-4.8" />
+        <Parameter Name="index" Type="System.Int32" />
       </Parameters>
       <Docs>
         <param name="index">The position in the collection of the item to remove.</param>
@@ -605,8 +693,8 @@
         <ReturnType>System.Void</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="name" Type="System.String" Index="0" FrameworkAlternate="netframework-4.8" />
-        <Parameter Name="value" Type="System.Object" Index="1" FrameworkAlternate="netframework-4.8" />
+        <Parameter Name="name" Type="System.String" />
+        <Parameter Name="value" Type="System.Object" />
       </Parameters>
       <Docs>
         <param name="name">The name of the object to update.</param>
@@ -660,6 +748,28 @@
       <MemberSignature Language="F#" Value="member this.SyncRoot : obj" Usage="System.Web.HttpApplicationStateBase.SyncRoot" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
         <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
       </Implements>
       <AssemblyInfo>

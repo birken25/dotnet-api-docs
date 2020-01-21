@@ -70,6 +70,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.ExtractForeignKey(System.Collections.IDictionary,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.ExtractForeignKey(System.Collections.IDictionary,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.ExtractForeignKey(System.Collections.IDictionary,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.ExtractForeignKey(System.Collections.IDictionary,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.ExtractForeignKey(System.Collections.IDictionary,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.ExtractForeignKey(System.Collections.IDictionary,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.ExtractForeignKey(System.Collections.IDictionary,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.ExtractForeignKey(System.Collections.IDictionary,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.ExtractForeignKey(System.Collections.IDictionary,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.ExtractForeignKey(System.Collections.IDictionary,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.ExtractForeignKey(System.Collections.IDictionary,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.DynamicData</AssemblyName>
@@ -106,6 +116,16 @@
       <MemberSignature Language="F#" Value="member this.ForeignKeyNames : System.Collections.ObjectModel.ReadOnlyCollection&lt;string&gt;" Usage="System.Web.DynamicData.MetaForeignKeyColumn.ForeignKeyNames" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaForeignKeyColumn.ForeignKeyNames</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaForeignKeyColumn.ForeignKeyNames</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaForeignKeyColumn.ForeignKeyNames</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaForeignKeyColumn.ForeignKeyNames</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaForeignKeyColumn.ForeignKeyNames</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaForeignKeyColumn.ForeignKeyNames</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaForeignKeyColumn.ForeignKeyNames</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaForeignKeyColumn.ForeignKeyNames</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaForeignKeyColumn.ForeignKeyNames</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaForeignKeyColumn.ForeignKeyNames</InterfaceMember>
         <InterfaceMember>P:System.Web.DynamicData.IMetaForeignKeyColumn.ForeignKeyNames</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -167,6 +187,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.GetForeignKeyDetailsPath(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.GetForeignKeyDetailsPath(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.GetForeignKeyDetailsPath(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.GetForeignKeyDetailsPath(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.GetForeignKeyDetailsPath(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.GetForeignKeyDetailsPath(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.GetForeignKeyDetailsPath(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.GetForeignKeyDetailsPath(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.GetForeignKeyDetailsPath(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.GetForeignKeyDetailsPath(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.GetForeignKeyDetailsPath(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.DynamicData</AssemblyName>
@@ -218,6 +248,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.GetForeignKeyPath(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.GetForeignKeyPath(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.GetForeignKeyPath(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.GetForeignKeyPath(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.GetForeignKeyPath(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.GetForeignKeyPath(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.GetForeignKeyPath(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.GetForeignKeyPath(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.GetForeignKeyPath(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.GetForeignKeyPath(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.GetForeignKeyPath(System.String,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.DynamicData</AssemblyName>
@@ -267,6 +307,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.GetForeignKeyPath(System.String,System.Object,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.GetForeignKeyPath(System.String,System.Object,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.GetForeignKeyPath(System.String,System.Object,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.GetForeignKeyPath(System.String,System.Object,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.GetForeignKeyPath(System.String,System.Object,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.GetForeignKeyPath(System.String,System.Object,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.GetForeignKeyPath(System.String,System.Object,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.GetForeignKeyPath(System.String,System.Object,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.GetForeignKeyPath(System.String,System.Object,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.GetForeignKeyPath(System.String,System.Object,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.GetForeignKeyPath(System.String,System.Object,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.DynamicData</AssemblyName>
@@ -313,6 +363,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.GetForeignKeyString(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.GetForeignKeyString(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.GetForeignKeyString(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.GetForeignKeyString(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.GetForeignKeyString(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.GetForeignKeyString(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.GetForeignKeyString(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.GetForeignKeyString(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.GetForeignKeyString(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.GetForeignKeyString(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.GetForeignKeyString(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.DynamicData</AssemblyName>
@@ -352,6 +412,16 @@
       <MemberSignature Language="F#" Value="abstract member GetForeignKeyValues : obj -&gt; System.Collections.Generic.IList&lt;obj&gt;&#xA;override this.GetForeignKeyValues : obj -&gt; System.Collections.Generic.IList&lt;obj&gt;" Usage="metaForeignKeyColumn.GetForeignKeyValues row" FrameworkAlternate="netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.GetForeignKeyValues(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.GetForeignKeyValues(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.GetForeignKeyValues(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.GetForeignKeyValues(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.GetForeignKeyValues(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.GetForeignKeyValues(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.GetForeignKeyValues(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.GetForeignKeyValues(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.GetForeignKeyValues(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.GetForeignKeyValues(System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Web.DynamicData.IMetaForeignKeyColumn.GetForeignKeyValues(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -417,6 +487,16 @@
       <MemberSignature Language="F#" Value="member this.IsPrimaryKeyInThisTable : bool" Usage="System.Web.DynamicData.MetaForeignKeyColumn.IsPrimaryKeyInThisTable" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaForeignKeyColumn.IsPrimaryKeyInThisTable</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaForeignKeyColumn.IsPrimaryKeyInThisTable</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaForeignKeyColumn.IsPrimaryKeyInThisTable</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaForeignKeyColumn.IsPrimaryKeyInThisTable</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaForeignKeyColumn.IsPrimaryKeyInThisTable</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaForeignKeyColumn.IsPrimaryKeyInThisTable</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaForeignKeyColumn.IsPrimaryKeyInThisTable</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaForeignKeyColumn.IsPrimaryKeyInThisTable</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaForeignKeyColumn.IsPrimaryKeyInThisTable</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaForeignKeyColumn.IsPrimaryKeyInThisTable</InterfaceMember>
         <InterfaceMember>P:System.Web.DynamicData.IMetaForeignKeyColumn.IsPrimaryKeyInThisTable</InterfaceMember>
       </Implements>
       <AssemblyInfo>

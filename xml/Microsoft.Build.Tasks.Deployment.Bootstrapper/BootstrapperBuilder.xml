@@ -109,6 +109,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBootstrapperBuilder.Build(Microsoft.Build.Tasks.Deployment.Bootstrapper.BuildSettings)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBootstrapperBuilder.Build(Microsoft.Build.Tasks.Deployment.Bootstrapper.BuildSettings)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBootstrapperBuilder.Build(Microsoft.Build.Tasks.Deployment.Bootstrapper.BuildSettings)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBootstrapperBuilder.Build(Microsoft.Build.Tasks.Deployment.Bootstrapper.BuildSettings)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBootstrapperBuilder.Build(Microsoft.Build.Tasks.Deployment.Bootstrapper.BuildSettings)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBootstrapperBuilder.Build(Microsoft.Build.Tasks.Deployment.Bootstrapper.BuildSettings)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBootstrapperBuilder.Build(Microsoft.Build.Tasks.Deployment.Bootstrapper.BuildSettings)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBootstrapperBuilder.Build(Microsoft.Build.Tasks.Deployment.Bootstrapper.BuildSettings)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBootstrapperBuilder.Build(Microsoft.Build.Tasks.Deployment.Bootstrapper.BuildSettings)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBootstrapperBuilder.Build(Microsoft.Build.Tasks.Deployment.Bootstrapper.BuildSettings)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBootstrapperBuilder.Build(Microsoft.Build.Tasks.Deployment.Bootstrapper.BuildSettings)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBootstrapperBuilder.Build(Microsoft.Build.Tasks.Deployment.Bootstrapper.BuildSettings)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBootstrapperBuilder.Build(Microsoft.Build.Tasks.Deployment.Bootstrapper.BuildSettings)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBootstrapperBuilder.Build(Microsoft.Build.Tasks.Deployment.Bootstrapper.BuildSettings)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBootstrapperBuilder.Build(Microsoft.Build.Tasks.Deployment.Bootstrapper.BuildSettings)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Build.Tasks.v4.0</AssemblyName>
@@ -185,6 +199,20 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBootstrapperBuilder.Path</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBootstrapperBuilder.Path</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBootstrapperBuilder.Path</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBootstrapperBuilder.Path</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBootstrapperBuilder.Path</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBootstrapperBuilder.Path</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBootstrapperBuilder.Path</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBootstrapperBuilder.Path</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBootstrapperBuilder.Path</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBootstrapperBuilder.Path</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBootstrapperBuilder.Path</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBootstrapperBuilder.Path</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBootstrapperBuilder.Path</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBootstrapperBuilder.Path</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBootstrapperBuilder.Path</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Build.Tasks.v4.0</AssemblyName>
@@ -222,6 +250,20 @@
       <MemberSignature Language="F#" Value="member this.Products : Microsoft.Build.Tasks.Deployment.Bootstrapper.ProductCollection" Usage="Microsoft.Build.Tasks.Deployment.Bootstrapper.BootstrapperBuilder.Products" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBootstrapperBuilder.Products</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBootstrapperBuilder.Products</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBootstrapperBuilder.Products</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBootstrapperBuilder.Products</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBootstrapperBuilder.Products</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBootstrapperBuilder.Products</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBootstrapperBuilder.Products</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBootstrapperBuilder.Products</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBootstrapperBuilder.Products</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBootstrapperBuilder.Products</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBootstrapperBuilder.Products</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBootstrapperBuilder.Products</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBootstrapperBuilder.Products</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBootstrapperBuilder.Products</InterfaceMember>
         <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBootstrapperBuilder.Products</InterfaceMember>
       </Implements>
       <AssemblyInfo>

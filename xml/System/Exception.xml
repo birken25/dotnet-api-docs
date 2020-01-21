@@ -635,6 +635,20 @@ Stack Trace:
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices._Exception.GetBaseException</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Exception.GetBaseException</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Exception.GetBaseException</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Exception.GetBaseException</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Exception.GetBaseException</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Exception.GetBaseException</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Exception.GetBaseException</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Exception.GetBaseException</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Exception.GetBaseException</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Exception.GetBaseException</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Exception.GetBaseException</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Exception.GetBaseException</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Exception.GetBaseException</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Exception.GetBaseException</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Exception.GetBaseException</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Runtime</AssemblyName>
@@ -700,6 +714,44 @@ Stack Trace:
       <MemberSignature Language="F#" Value="abstract member GetObjectData : System.Runtime.Serialization.SerializationInfo * System.Runtime.Serialization.StreamingContext -&gt; unit&#xA;override this.GetObjectData : System.Runtime.Serialization.SerializationInfo * System.Runtime.Serialization.StreamingContext -&gt; unit" Usage="exception.GetObjectData (info, context)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Exception.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Exception.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Exception.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Exception.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Exception.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Exception.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Exception.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Exception.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Exception.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Exception.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Exception.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Exception.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Exception.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Exception.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices._Exception.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
       </Implements>
@@ -772,6 +824,20 @@ Stack Trace:
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices._Exception.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Exception.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Exception.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Exception.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Exception.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Exception.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Exception.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Exception.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Exception.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Exception.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Exception.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Exception.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Exception.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Exception.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Exception.GetType</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -818,6 +884,20 @@ Stack Trace:
       <MemberSignature Language="F#" Value="member this.HelpLink : string with get, set" Usage="System.Exception.HelpLink" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.HelpLink</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.HelpLink</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.HelpLink</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.HelpLink</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.HelpLink</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.HelpLink</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.HelpLink</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.HelpLink</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.HelpLink</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.HelpLink</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.HelpLink</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.HelpLink</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.HelpLink</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.HelpLink</InterfaceMember>
         <InterfaceMember>P:System.Runtime.InteropServices._Exception.HelpLink</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -943,6 +1023,20 @@ Stack Trace:
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.InteropServices._Exception.InnerException</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.InnerException</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.InnerException</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.InnerException</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.InnerException</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.InnerException</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.InnerException</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.InnerException</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.InnerException</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.InnerException</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.InnerException</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.InnerException</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.InnerException</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.InnerException</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.InnerException</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Runtime</AssemblyName>
@@ -1008,6 +1102,20 @@ Stack Trace:
       <MemberSignature Language="F#" Value="member this.Message : string" Usage="System.Exception.Message" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.Message</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.Message</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.Message</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.Message</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.Message</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.Message</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.Message</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.Message</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.Message</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.Message</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.Message</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.Message</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.Message</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.Message</InterfaceMember>
         <InterfaceMember>P:System.Runtime.InteropServices._Exception.Message</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1148,6 +1256,20 @@ Stack Trace:
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.InteropServices._Exception.Source</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.Source</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.Source</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.Source</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.Source</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.Source</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.Source</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.Source</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.Source</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.Source</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.Source</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.Source</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.Source</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.Source</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.Source</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Runtime</AssemblyName>
@@ -1211,6 +1333,20 @@ Stack Trace:
       <MemberSignature Language="F#" Value="member this.StackTrace : string" Usage="System.Exception.StackTrace" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.StackTrace</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.StackTrace</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.StackTrace</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.StackTrace</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.StackTrace</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.StackTrace</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.StackTrace</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.StackTrace</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.StackTrace</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.StackTrace</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.StackTrace</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.StackTrace</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.StackTrace</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.StackTrace</InterfaceMember>
         <InterfaceMember>P:System.Runtime.InteropServices._Exception.StackTrace</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1287,6 +1423,20 @@ Stack Trace:
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.InteropServices._Exception.TargetSite</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.TargetSite</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.TargetSite</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.TargetSite</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.TargetSite</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.TargetSite</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.TargetSite</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.TargetSite</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.TargetSite</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.TargetSite</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.TargetSite</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.TargetSite</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.TargetSite</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.TargetSite</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Exception.TargetSite</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -1348,6 +1498,20 @@ Stack Trace:
       <MemberSignature Language="F#" Value="override this.ToString : unit -&gt; string" Usage="exception.ToString " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.InteropServices._Exception.ToString</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Exception.ToString</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Exception.ToString</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Exception.ToString</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Exception.ToString</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Exception.ToString</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Exception.ToString</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Exception.ToString</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Exception.ToString</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Exception.ToString</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Exception.ToString</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Exception.ToString</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Exception.ToString</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Exception.ToString</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices._Exception.ToString</InterfaceMember>
       </Implements>
       <AssemblyInfo>

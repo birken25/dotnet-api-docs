@@ -103,6 +103,17 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Security.Principal.IPrincipal.Identity</InterfaceMember>
+        <InterfaceMember>P:System.Security.Principal.IPrincipal.Identity</InterfaceMember>
+        <InterfaceMember>P:System.Security.Principal.IPrincipal.Identity</InterfaceMember>
+        <InterfaceMember>P:System.Security.Principal.IPrincipal.Identity</InterfaceMember>
+        <InterfaceMember>P:System.Security.Principal.IPrincipal.Identity</InterfaceMember>
+        <InterfaceMember>P:System.Security.Principal.IPrincipal.Identity</InterfaceMember>
+        <InterfaceMember>P:System.Security.Principal.IPrincipal.Identity</InterfaceMember>
+        <InterfaceMember>P:System.Security.Principal.IPrincipal.Identity</InterfaceMember>
+        <InterfaceMember>P:System.Security.Principal.IPrincipal.Identity</InterfaceMember>
+        <InterfaceMember>P:System.Security.Principal.IPrincipal.Identity</InterfaceMember>
+        <InterfaceMember>P:System.Security.Principal.IPrincipal.Identity</InterfaceMember>
+        <InterfaceMember>P:System.Security.Principal.IPrincipal.Identity</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Extensions</AssemblyName>
@@ -146,6 +157,17 @@
       <MemberSignature Language="F#" Value="abstract member IsInRole : string -&gt; bool&#xA;override this.IsInRole : string -&gt; bool" Usage="clientRolePrincipal.IsInRole role" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Security.Principal.IPrincipal.IsInRole(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Security.Principal.IPrincipal.IsInRole(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Security.Principal.IPrincipal.IsInRole(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Security.Principal.IPrincipal.IsInRole(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Security.Principal.IPrincipal.IsInRole(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Security.Principal.IPrincipal.IsInRole(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Security.Principal.IPrincipal.IsInRole(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Security.Principal.IPrincipal.IsInRole(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Security.Principal.IPrincipal.IsInRole(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Security.Principal.IPrincipal.IsInRole(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Security.Principal.IPrincipal.IsInRole(System.String)</InterfaceMember>
         <InterfaceMember>M:System.Security.Principal.IPrincipal.IsInRole(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

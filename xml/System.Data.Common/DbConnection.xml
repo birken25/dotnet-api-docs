@@ -277,7 +277,7 @@
       </Docs>
     </Member>
     <Member MemberName="BeginTransactionAsync">
-      <MemberSignature Language="C#" Value="public System.Threading.Tasks.ValueTask&lt;System.Data.Common.DbTransaction&gt; BeginTransactionAsync (System.Threading.CancellationToken cancellationToken = null);" />
+      <MemberSignature Language="C#" Value="public System.Threading.Tasks.ValueTask&lt;System.Data.Common.DbTransaction&gt; BeginTransactionAsync (System.Threading.CancellationToken cancellationToken = default);" />
       <MemberSignature Language="ILAsm" Value=".method public hidebysig instance valuetype System.Threading.Tasks.ValueTask`1&lt;class System.Data.Common.DbTransaction&gt; BeginTransactionAsync(valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
       <MemberSignature Language="DocId" Value="M:System.Data.Common.DbConnection.BeginTransactionAsync(System.Threading.CancellationToken)" />
       <MemberSignature Language="F#" Value="member this.BeginTransactionAsync : System.Threading.CancellationToken -&gt; System.Threading.Tasks.ValueTask&lt;System.Data.Common.DbTransaction&gt;" Usage="dbConnection.BeginTransactionAsync cancellationToken" />
@@ -319,7 +319,7 @@
       </Docs>
     </Member>
     <Member MemberName="BeginTransactionAsync">
-      <MemberSignature Language="C#" Value="public System.Threading.Tasks.ValueTask&lt;System.Data.Common.DbTransaction&gt; BeginTransactionAsync (System.Data.IsolationLevel isolationLevel, System.Threading.CancellationToken cancellationToken = null);" />
+      <MemberSignature Language="C#" Value="public System.Threading.Tasks.ValueTask&lt;System.Data.Common.DbTransaction&gt; BeginTransactionAsync (System.Data.IsolationLevel isolationLevel, System.Threading.CancellationToken cancellationToken = default);" />
       <MemberSignature Language="ILAsm" Value=".method public hidebysig instance valuetype System.Threading.Tasks.ValueTask`1&lt;class System.Data.Common.DbTransaction&gt; BeginTransactionAsync(valuetype System.Data.IsolationLevel isolationLevel, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
       <MemberSignature Language="DocId" Value="M:System.Data.Common.DbConnection.BeginTransactionAsync(System.Data.IsolationLevel,System.Threading.CancellationToken)" />
       <MemberSignature Language="F#" Value="member this.BeginTransactionAsync : System.Data.IsolationLevel * System.Threading.CancellationToken -&gt; System.Threading.Tasks.ValueTask&lt;System.Data.Common.DbTransaction&gt;" Usage="dbConnection.BeginTransactionAsync (isolationLevel, cancellationToken)" />
@@ -370,6 +370,31 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.IDbConnection.ChangeDatabase(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.ChangeDatabase(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.ChangeDatabase(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.ChangeDatabase(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.ChangeDatabase(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.ChangeDatabase(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.ChangeDatabase(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.ChangeDatabase(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.ChangeDatabase(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.ChangeDatabase(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.ChangeDatabase(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.ChangeDatabase(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.ChangeDatabase(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.ChangeDatabase(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.ChangeDatabase(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.ChangeDatabase(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.ChangeDatabase(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.ChangeDatabase(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.ChangeDatabase(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.ChangeDatabase(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.ChangeDatabase(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.ChangeDatabase(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.ChangeDatabase(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.ChangeDatabase(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.ChangeDatabase(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.ChangeDatabase(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Common</AssemblyName>
@@ -411,7 +436,7 @@
       </Docs>
     </Member>
     <Member MemberName="ChangeDatabaseAsync">
-      <MemberSignature Language="C#" Value="public virtual System.Threading.Tasks.Task ChangeDatabaseAsync (string databaseName, System.Threading.CancellationToken cancellationToken = null);" />
+      <MemberSignature Language="C#" Value="public virtual System.Threading.Tasks.Task ChangeDatabaseAsync (string databaseName, System.Threading.CancellationToken cancellationToken = default);" />
       <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class System.Threading.Tasks.Task ChangeDatabaseAsync(string databaseName, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
       <MemberSignature Language="DocId" Value="M:System.Data.Common.DbConnection.ChangeDatabaseAsync(System.String,System.Threading.CancellationToken)" />
       <MemberSignature Language="F#" Value="abstract member ChangeDatabaseAsync : string * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&#xA;override this.ChangeDatabaseAsync : string * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task" Usage="dbConnection.ChangeDatabaseAsync (databaseName, cancellationToken)" />
@@ -463,6 +488,31 @@
       <MemberSignature Language="F#" Value="abstract member Close : unit -&gt; unit" Usage="dbConnection.Close " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Data.IDbConnection.Close</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.Close</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.Close</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.Close</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.Close</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.Close</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.Close</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.Close</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.Close</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.Close</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.Close</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.Close</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.Close</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.Close</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.Close</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.Close</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.Close</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.Close</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.Close</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.Close</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.Close</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.Close</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.Close</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.Close</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.Close</InterfaceMember>
         <InterfaceMember>M:System.Data.IDbConnection.Close</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -568,6 +618,31 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Data.IDbConnection.ConnectionString</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.ConnectionString</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.ConnectionString</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.ConnectionString</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.ConnectionString</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.ConnectionString</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.ConnectionString</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.ConnectionString</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.ConnectionString</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.ConnectionString</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.ConnectionString</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.ConnectionString</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.ConnectionString</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.ConnectionString</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.ConnectionString</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.ConnectionString</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.ConnectionString</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.ConnectionString</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.ConnectionString</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.ConnectionString</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.ConnectionString</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.ConnectionString</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.ConnectionString</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.ConnectionString</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.ConnectionString</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.ConnectionString</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Common</AssemblyName>
@@ -629,6 +704,31 @@
       <MemberSignature Language="F#" Value="member this.ConnectionTimeout : int" Usage="System.Data.Common.DbConnection.ConnectionTimeout" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Data.IDbConnection.ConnectionTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.ConnectionTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.ConnectionTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.ConnectionTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.ConnectionTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.ConnectionTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.ConnectionTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.ConnectionTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.ConnectionTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.ConnectionTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.ConnectionTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.ConnectionTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.ConnectionTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.ConnectionTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.ConnectionTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.ConnectionTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.ConnectionTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.ConnectionTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.ConnectionTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.ConnectionTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.ConnectionTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.ConnectionTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.ConnectionTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.ConnectionTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.ConnectionTimeout</InterfaceMember>
         <InterfaceMember>P:System.Data.IDbConnection.ConnectionTimeout</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -755,6 +855,31 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Data.IDbConnection.Database</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.Database</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.Database</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.Database</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.Database</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.Database</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.Database</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.Database</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.Database</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.Database</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.Database</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.Database</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.Database</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.Database</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.Database</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.Database</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.Database</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.Database</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.Database</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.Database</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.Database</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.Database</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.Database</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.Database</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.Database</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.Database</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Common</AssemblyName>
@@ -880,6 +1005,9 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual void Dispose();" />
       <MemberSignature Language="F#" Value="abstract member Dispose : unit -&gt; unit&#xA;override this.Dispose : unit -&gt; unit" Usage="dbConnection.Dispose " />
       <MemberType>Method</MemberType>
+      <Implements>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Common</AssemblyName>
         <AssemblyVersion>4.0.0.0</AssemblyVersion>
@@ -940,6 +1068,8 @@
       <MemberSignature Language="F#" Value="abstract member DisposeAsync : unit -&gt; System.Threading.Tasks.ValueTask&#xA;override this.DisposeAsync : unit -&gt; System.Threading.Tasks.ValueTask" Usage="dbConnection.DisposeAsync " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.IAsyncDisposable.DisposeAsync</InterfaceMember>
+        <InterfaceMember>M:System.IAsyncDisposable.DisposeAsync</InterfaceMember>
         <InterfaceMember>M:System.IAsyncDisposable.DisposeAsync</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1246,6 +1376,31 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.IDbConnection.Open</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.Open</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.Open</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.Open</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.Open</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.Open</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.Open</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.Open</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.Open</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.Open</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.Open</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.Open</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.Open</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.Open</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.Open</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.Open</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.Open</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.Open</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.Open</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.Open</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.Open</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.Open</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.Open</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.Open</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.Open</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.Open</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Common</AssemblyName>
@@ -1458,6 +1613,31 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Data.IDbConnection.State</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.State</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.State</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.State</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.State</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.State</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.State</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.State</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.State</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.State</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.State</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.State</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.State</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.State</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.State</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.State</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.State</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.State</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.State</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.State</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.State</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.State</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.State</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.State</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.State</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.State</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Common</AssemblyName>
@@ -1556,6 +1736,31 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.IDbConnection.BeginTransaction</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.BeginTransaction</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.BeginTransaction</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.BeginTransaction</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.BeginTransaction</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.BeginTransaction</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.BeginTransaction</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.BeginTransaction</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.BeginTransaction</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.BeginTransaction</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.BeginTransaction</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.BeginTransaction</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.BeginTransaction</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.BeginTransaction</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.BeginTransaction</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.BeginTransaction</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.BeginTransaction</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.BeginTransaction</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.BeginTransaction</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.BeginTransaction</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.BeginTransaction</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.BeginTransaction</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.BeginTransaction</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.BeginTransaction</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.BeginTransaction</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.BeginTransaction</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Common</AssemblyName>
@@ -1602,6 +1807,31 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Data::IDbTransaction ^ System.Data.IDbConnection.BeginTransaction(System::Data::IsolationLevel isolationLevel) = System::Data::IDbConnection::BeginTransaction;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Data.IDbConnection.BeginTransaction(System.Data.IsolationLevel)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.BeginTransaction(System.Data.IsolationLevel)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.BeginTransaction(System.Data.IsolationLevel)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.BeginTransaction(System.Data.IsolationLevel)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.BeginTransaction(System.Data.IsolationLevel)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.BeginTransaction(System.Data.IsolationLevel)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.BeginTransaction(System.Data.IsolationLevel)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.BeginTransaction(System.Data.IsolationLevel)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.BeginTransaction(System.Data.IsolationLevel)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.BeginTransaction(System.Data.IsolationLevel)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.BeginTransaction(System.Data.IsolationLevel)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.BeginTransaction(System.Data.IsolationLevel)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.BeginTransaction(System.Data.IsolationLevel)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.BeginTransaction(System.Data.IsolationLevel)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.BeginTransaction(System.Data.IsolationLevel)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.BeginTransaction(System.Data.IsolationLevel)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.BeginTransaction(System.Data.IsolationLevel)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.BeginTransaction(System.Data.IsolationLevel)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.BeginTransaction(System.Data.IsolationLevel)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.BeginTransaction(System.Data.IsolationLevel)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.BeginTransaction(System.Data.IsolationLevel)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.BeginTransaction(System.Data.IsolationLevel)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.BeginTransaction(System.Data.IsolationLevel)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.BeginTransaction(System.Data.IsolationLevel)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.BeginTransaction(System.Data.IsolationLevel)</InterfaceMember>
         <InterfaceMember>M:System.Data.IDbConnection.BeginTransaction(System.Data.IsolationLevel)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1651,6 +1881,31 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Data::IDbCommand ^ System.Data.IDbConnection.CreateCommand() = System::Data::IDbConnection::CreateCommand;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Data.IDbConnection.CreateCommand</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.CreateCommand</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.CreateCommand</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.CreateCommand</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.CreateCommand</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.CreateCommand</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.CreateCommand</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.CreateCommand</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.CreateCommand</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.CreateCommand</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.CreateCommand</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.CreateCommand</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.CreateCommand</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.CreateCommand</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.CreateCommand</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.CreateCommand</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.CreateCommand</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.CreateCommand</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.CreateCommand</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.CreateCommand</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.CreateCommand</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.CreateCommand</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.CreateCommand</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.CreateCommand</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.CreateCommand</InterfaceMember>
         <InterfaceMember>M:System.Data.IDbConnection.CreateCommand</InterfaceMember>
       </Implements>
       <AssemblyInfo>

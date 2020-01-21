@@ -177,6 +177,28 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.IExtensionCollection`1.Find``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtensionCollection`1.Find``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtensionCollection`1.Find``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtensionCollection`1.Find``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtensionCollection`1.Find``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtensionCollection`1.Find``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtensionCollection`1.Find``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtensionCollection`1.Find``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtensionCollection`1.Find``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtensionCollection`1.Find``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtensionCollection`1.Find``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtensionCollection`1.Find``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtensionCollection`1.Find``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtensionCollection`1.Find``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtensionCollection`1.Find``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtensionCollection`1.Find``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtensionCollection`1.Find``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtensionCollection`1.Find``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtensionCollection`1.Find``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtensionCollection`1.Find``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtensionCollection`1.Find``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtensionCollection`1.Find``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtensionCollection`1.Find``1</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -215,6 +237,28 @@
       <MemberSignature Language="F#" Value="abstract member FindAll : unit -&gt; System.Collections.ObjectModel.Collection&lt;'E&gt;&#xA;override this.FindAll : unit -&gt; System.Collections.ObjectModel.Collection&lt;'E&gt;" Usage="extensionCollection.FindAll " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ServiceModel.IExtensionCollection`1.FindAll``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtensionCollection`1.FindAll``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtensionCollection`1.FindAll``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtensionCollection`1.FindAll``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtensionCollection`1.FindAll``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtensionCollection`1.FindAll``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtensionCollection`1.FindAll``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtensionCollection`1.FindAll``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtensionCollection`1.FindAll``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtensionCollection`1.FindAll``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtensionCollection`1.FindAll``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtensionCollection`1.FindAll``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtensionCollection`1.FindAll``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtensionCollection`1.FindAll``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtensionCollection`1.FindAll``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtensionCollection`1.FindAll``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtensionCollection`1.FindAll``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtensionCollection`1.FindAll``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtensionCollection`1.FindAll``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtensionCollection`1.FindAll``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtensionCollection`1.FindAll``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtensionCollection`1.FindAll``1</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.IExtensionCollection`1.FindAll``1</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -360,6 +404,21 @@
       <MemberSignature Language="F#" Usage="System.Collections.Generic.ICollection&lt;System.ServiceModel.IExtension&lt;T&gt;&gt;.IsReadOnly" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
         <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
       </Implements>
       <AssemblyInfo>

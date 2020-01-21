@@ -1863,6 +1863,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -1900,6 +1914,20 @@
       <MemberSignature Language="F#" Value="member this.Disposed : EventHandler " Usage="member this.Disposed : System.EventHandler " />
       <MemberType>Event</MemberType>
       <Implements>
+        <InterfaceMember>E:System.ComponentModel.IComponent.Disposed</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IComponent.Disposed</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IComponent.Disposed</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IComponent.Disposed</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IComponent.Disposed</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IComponent.Disposed</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IComponent.Disposed</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IComponent.Disposed</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IComponent.Disposed</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IComponent.Disposed</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IComponent.Disposed</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IComponent.Disposed</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IComponent.Disposed</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IComponent.Disposed</InterfaceMember>
         <InterfaceMember>E:System.ComponentModel.IComponent.Disposed</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2909,6 +2937,20 @@ This method provides extensibility to the ASP.NET pipeline to make it easy for d
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.ComponentModel.IComponent.Site</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IComponent.Site</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IComponent.Site</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IComponent.Site</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IComponent.Site</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IComponent.Site</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IComponent.Site</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IComponent.Site</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IComponent.Site</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IComponent.Site</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IComponent.Site</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IComponent.Site</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IComponent.Site</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IComponent.Site</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IComponent.Site</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -2948,6 +2990,20 @@ This method provides extensibility to the ASP.NET pipeline to make it easy for d
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.IHttpAsyncHandler.BeginProcessRequest(System.Web.HttpContext,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpAsyncHandler.BeginProcessRequest(System.Web.HttpContext,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpAsyncHandler.BeginProcessRequest(System.Web.HttpContext,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpAsyncHandler.BeginProcessRequest(System.Web.HttpContext,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpAsyncHandler.BeginProcessRequest(System.Web.HttpContext,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpAsyncHandler.BeginProcessRequest(System.Web.HttpContext,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpAsyncHandler.BeginProcessRequest(System.Web.HttpContext,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpAsyncHandler.BeginProcessRequest(System.Web.HttpContext,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpAsyncHandler.BeginProcessRequest(System.Web.HttpContext,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpAsyncHandler.BeginProcessRequest(System.Web.HttpContext,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpAsyncHandler.BeginProcessRequest(System.Web.HttpContext,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpAsyncHandler.BeginProcessRequest(System.Web.HttpContext,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpAsyncHandler.BeginProcessRequest(System.Web.HttpContext,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpAsyncHandler.BeginProcessRequest(System.Web.HttpContext,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpAsyncHandler.BeginProcessRequest(System.Web.HttpContext,System.AsyncCallback,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -2980,6 +3036,20 @@ This method provides extensibility to the ASP.NET pipeline to make it easy for d
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Web.IHttpAsyncHandler.EndProcessRequest(IAsyncResult ^ result) = System::Web::IHttpAsyncHandler::EndProcessRequest;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.IHttpAsyncHandler.EndProcessRequest(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpAsyncHandler.EndProcessRequest(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpAsyncHandler.EndProcessRequest(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpAsyncHandler.EndProcessRequest(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpAsyncHandler.EndProcessRequest(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpAsyncHandler.EndProcessRequest(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpAsyncHandler.EndProcessRequest(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpAsyncHandler.EndProcessRequest(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpAsyncHandler.EndProcessRequest(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpAsyncHandler.EndProcessRequest(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpAsyncHandler.EndProcessRequest(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpAsyncHandler.EndProcessRequest(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpAsyncHandler.EndProcessRequest(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpAsyncHandler.EndProcessRequest(System.IAsyncResult)</InterfaceMember>
         <InterfaceMember>M:System.Web.IHttpAsyncHandler.EndProcessRequest(System.IAsyncResult)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -3017,6 +3087,19 @@ This method provides extensibility to the ASP.NET pipeline to make it easy for d
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.IHttpHandler.IsReusable</InterfaceMember>
+        <InterfaceMember>P:System.Web.IHttpHandler.IsReusable</InterfaceMember>
+        <InterfaceMember>P:System.Web.IHttpHandler.IsReusable</InterfaceMember>
+        <InterfaceMember>P:System.Web.IHttpHandler.IsReusable</InterfaceMember>
+        <InterfaceMember>P:System.Web.IHttpHandler.IsReusable</InterfaceMember>
+        <InterfaceMember>P:System.Web.IHttpHandler.IsReusable</InterfaceMember>
+        <InterfaceMember>P:System.Web.IHttpHandler.IsReusable</InterfaceMember>
+        <InterfaceMember>P:System.Web.IHttpHandler.IsReusable</InterfaceMember>
+        <InterfaceMember>P:System.Web.IHttpHandler.IsReusable</InterfaceMember>
+        <InterfaceMember>P:System.Web.IHttpHandler.IsReusable</InterfaceMember>
+        <InterfaceMember>P:System.Web.IHttpHandler.IsReusable</InterfaceMember>
+        <InterfaceMember>P:System.Web.IHttpHandler.IsReusable</InterfaceMember>
+        <InterfaceMember>P:System.Web.IHttpHandler.IsReusable</InterfaceMember>
+        <InterfaceMember>P:System.Web.IHttpHandler.IsReusable</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -3048,6 +3131,20 @@ This method provides extensibility to the ASP.NET pipeline to make it easy for d
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Web.IHttpHandler.ProcessRequest(System::Web::HttpContext ^ context) = System::Web::IHttpHandler::ProcessRequest;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.IHttpHandler.ProcessRequest(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandler.ProcessRequest(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandler.ProcessRequest(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandler.ProcessRequest(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandler.ProcessRequest(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandler.ProcessRequest(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandler.ProcessRequest(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandler.ProcessRequest(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandler.ProcessRequest(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandler.ProcessRequest(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandler.ProcessRequest(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandler.ProcessRequest(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandler.ProcessRequest(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandler.ProcessRequest(System.Web.HttpContext)</InterfaceMember>
         <InterfaceMember>M:System.Web.IHttpHandler.ProcessRequest(System.Web.HttpContext)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

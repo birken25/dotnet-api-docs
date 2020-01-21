@@ -573,6 +573,15 @@ The type `T` can be any of the following numeric types:
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Numerics.Vectors</AssemblyName>
@@ -1967,6 +1976,15 @@ The type `T` can be any of the following numeric types:
       <MemberSignature Language="F#" Value="abstract member ToString : string * IFormatProvider -&gt; string&#xA;override this.ToString : string * IFormatProvider -&gt; string" Usage="vector.ToString (format, formatProvider)" FrameworkAlternate="netcore-1.0;netcore-1.1" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
+        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
+        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
+        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
+        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
+        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
+        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
+        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
+        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
         <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

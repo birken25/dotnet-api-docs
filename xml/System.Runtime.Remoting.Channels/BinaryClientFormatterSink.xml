@@ -81,6 +81,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.AsyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.AsyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.AsyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.AsyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.AsyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.AsyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.AsyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.AsyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.AsyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.AsyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.AsyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.AsyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.AsyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.AsyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.AsyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Runtime.Remoting</AssemblyName>
@@ -112,6 +126,20 @@
       <MemberSignature Language="F#" Value="abstract member AsyncProcessRequest : System.Runtime.Remoting.Channels.IClientChannelSinkStack * System.Runtime.Remoting.Messaging.IMessage * System.Runtime.Remoting.Channels.ITransportHeaders * System.IO.Stream -&gt; unit&#xA;override this.AsyncProcessRequest : System.Runtime.Remoting.Channels.IClientChannelSinkStack * System.Runtime.Remoting.Messaging.IMessage * System.Runtime.Remoting.Channels.ITransportHeaders * System.IO.Stream -&gt; unit" Usage="binaryClientFormatterSink.AsyncProcessRequest (sinkStack, msg, headers, stream)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.AsyncProcessRequest(System.Runtime.Remoting.Channels.IClientChannelSinkStack,System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.AsyncProcessRequest(System.Runtime.Remoting.Channels.IClientChannelSinkStack,System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.AsyncProcessRequest(System.Runtime.Remoting.Channels.IClientChannelSinkStack,System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.AsyncProcessRequest(System.Runtime.Remoting.Channels.IClientChannelSinkStack,System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.AsyncProcessRequest(System.Runtime.Remoting.Channels.IClientChannelSinkStack,System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.AsyncProcessRequest(System.Runtime.Remoting.Channels.IClientChannelSinkStack,System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.AsyncProcessRequest(System.Runtime.Remoting.Channels.IClientChannelSinkStack,System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.AsyncProcessRequest(System.Runtime.Remoting.Channels.IClientChannelSinkStack,System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.AsyncProcessRequest(System.Runtime.Remoting.Channels.IClientChannelSinkStack,System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.AsyncProcessRequest(System.Runtime.Remoting.Channels.IClientChannelSinkStack,System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.AsyncProcessRequest(System.Runtime.Remoting.Channels.IClientChannelSinkStack,System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.AsyncProcessRequest(System.Runtime.Remoting.Channels.IClientChannelSinkStack,System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.AsyncProcessRequest(System.Runtime.Remoting.Channels.IClientChannelSinkStack,System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.AsyncProcessRequest(System.Runtime.Remoting.Channels.IClientChannelSinkStack,System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.AsyncProcessRequest(System.Runtime.Remoting.Channels.IClientChannelSinkStack,System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -147,6 +175,20 @@
       <MemberSignature Language="F#" Value="abstract member AsyncProcessResponse : System.Runtime.Remoting.Channels.IClientResponseChannelSinkStack * obj * System.Runtime.Remoting.Channels.ITransportHeaders * System.IO.Stream -&gt; unit&#xA;override this.AsyncProcessResponse : System.Runtime.Remoting.Channels.IClientResponseChannelSinkStack * obj * System.Runtime.Remoting.Channels.ITransportHeaders * System.IO.Stream -&gt; unit" Usage="binaryClientFormatterSink.AsyncProcessResponse (sinkStack, state, headers, stream)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.AsyncProcessResponse(System.Runtime.Remoting.Channels.IClientResponseChannelSinkStack,System.Object,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.AsyncProcessResponse(System.Runtime.Remoting.Channels.IClientResponseChannelSinkStack,System.Object,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.AsyncProcessResponse(System.Runtime.Remoting.Channels.IClientResponseChannelSinkStack,System.Object,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.AsyncProcessResponse(System.Runtime.Remoting.Channels.IClientResponseChannelSinkStack,System.Object,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.AsyncProcessResponse(System.Runtime.Remoting.Channels.IClientResponseChannelSinkStack,System.Object,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.AsyncProcessResponse(System.Runtime.Remoting.Channels.IClientResponseChannelSinkStack,System.Object,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.AsyncProcessResponse(System.Runtime.Remoting.Channels.IClientResponseChannelSinkStack,System.Object,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.AsyncProcessResponse(System.Runtime.Remoting.Channels.IClientResponseChannelSinkStack,System.Object,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.AsyncProcessResponse(System.Runtime.Remoting.Channels.IClientResponseChannelSinkStack,System.Object,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.AsyncProcessResponse(System.Runtime.Remoting.Channels.IClientResponseChannelSinkStack,System.Object,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.AsyncProcessResponse(System.Runtime.Remoting.Channels.IClientResponseChannelSinkStack,System.Object,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.AsyncProcessResponse(System.Runtime.Remoting.Channels.IClientResponseChannelSinkStack,System.Object,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.AsyncProcessResponse(System.Runtime.Remoting.Channels.IClientResponseChannelSinkStack,System.Object,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.AsyncProcessResponse(System.Runtime.Remoting.Channels.IClientResponseChannelSinkStack,System.Object,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.AsyncProcessResponse(System.Runtime.Remoting.Channels.IClientResponseChannelSinkStack,System.Object,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -185,6 +227,20 @@
       <MemberSignature Language="F#" Value="abstract member GetRequestStream : System.Runtime.Remoting.Messaging.IMessage * System.Runtime.Remoting.Channels.ITransportHeaders -&gt; System.IO.Stream&#xA;override this.GetRequestStream : System.Runtime.Remoting.Messaging.IMessage * System.Runtime.Remoting.Channels.ITransportHeaders -&gt; System.IO.Stream" Usage="binaryClientFormatterSink.GetRequestStream (msg, headers)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.GetRequestStream(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.GetRequestStream(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.GetRequestStream(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.GetRequestStream(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.GetRequestStream(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.GetRequestStream(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.GetRequestStream(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.GetRequestStream(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.GetRequestStream(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.GetRequestStream(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.GetRequestStream(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.GetRequestStream(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.GetRequestStream(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.GetRequestStream(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.GetRequestStream(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -226,6 +282,20 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.Remoting.Channels.IClientChannelSink.NextChannelSink</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Channels.IClientChannelSink.NextChannelSink</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Channels.IClientChannelSink.NextChannelSink</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Channels.IClientChannelSink.NextChannelSink</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Channels.IClientChannelSink.NextChannelSink</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Channels.IClientChannelSink.NextChannelSink</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Channels.IClientChannelSink.NextChannelSink</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Channels.IClientChannelSink.NextChannelSink</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Channels.IClientChannelSink.NextChannelSink</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Channels.IClientChannelSink.NextChannelSink</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Channels.IClientChannelSink.NextChannelSink</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Channels.IClientChannelSink.NextChannelSink</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Channels.IClientChannelSink.NextChannelSink</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Channels.IClientChannelSink.NextChannelSink</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Channels.IClientChannelSink.NextChannelSink</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Runtime.Remoting</AssemblyName>
@@ -252,6 +322,20 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessageSink.NextSink</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessageSink.NextSink</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessageSink.NextSink</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessageSink.NextSink</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessageSink.NextSink</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessageSink.NextSink</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessageSink.NextSink</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessageSink.NextSink</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessageSink.NextSink</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessageSink.NextSink</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessageSink.NextSink</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessageSink.NextSink</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessageSink.NextSink</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessageSink.NextSink</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessageSink.NextSink</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Runtime.Remoting</AssemblyName>
@@ -277,6 +361,20 @@
       <MemberSignature Language="F#" Value="abstract member ProcessMessage : System.Runtime.Remoting.Messaging.IMessage * System.Runtime.Remoting.Channels.ITransportHeaders * System.IO.Stream * ITransportHeaders * Stream -&gt; unit&#xA;override this.ProcessMessage : System.Runtime.Remoting.Messaging.IMessage * System.Runtime.Remoting.Channels.ITransportHeaders * System.IO.Stream * ITransportHeaders * Stream -&gt; unit" Usage="binaryClientFormatterSink.ProcessMessage (msg, requestHeaders, requestStream, responseHeaders, responseStream)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.ProcessMessage(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream,System.Runtime.Remoting.Channels.ITransportHeaders@,System.IO.Stream@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.ProcessMessage(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream,System.Runtime.Remoting.Channels.ITransportHeaders@,System.IO.Stream@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.ProcessMessage(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream,System.Runtime.Remoting.Channels.ITransportHeaders@,System.IO.Stream@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.ProcessMessage(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream,System.Runtime.Remoting.Channels.ITransportHeaders@,System.IO.Stream@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.ProcessMessage(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream,System.Runtime.Remoting.Channels.ITransportHeaders@,System.IO.Stream@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.ProcessMessage(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream,System.Runtime.Remoting.Channels.ITransportHeaders@,System.IO.Stream@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.ProcessMessage(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream,System.Runtime.Remoting.Channels.ITransportHeaders@,System.IO.Stream@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.ProcessMessage(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream,System.Runtime.Remoting.Channels.ITransportHeaders@,System.IO.Stream@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.ProcessMessage(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream,System.Runtime.Remoting.Channels.ITransportHeaders@,System.IO.Stream@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.ProcessMessage(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream,System.Runtime.Remoting.Channels.ITransportHeaders@,System.IO.Stream@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.ProcessMessage(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream,System.Runtime.Remoting.Channels.ITransportHeaders@,System.IO.Stream@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.ProcessMessage(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream,System.Runtime.Remoting.Channels.ITransportHeaders@,System.IO.Stream@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.ProcessMessage(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream,System.Runtime.Remoting.Channels.ITransportHeaders@,System.IO.Stream@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.ProcessMessage(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream,System.Runtime.Remoting.Channels.ITransportHeaders@,System.IO.Stream@)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.Remoting.Channels.IClientChannelSink.ProcessMessage(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream,System.Runtime.Remoting.Channels.ITransportHeaders@,System.IO.Stream@)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -316,6 +414,20 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelSinkBase.Properties</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelSinkBase.Properties</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelSinkBase.Properties</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelSinkBase.Properties</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelSinkBase.Properties</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelSinkBase.Properties</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelSinkBase.Properties</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelSinkBase.Properties</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelSinkBase.Properties</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelSinkBase.Properties</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelSinkBase.Properties</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelSinkBase.Properties</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelSinkBase.Properties</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelSinkBase.Properties</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelSinkBase.Properties</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Runtime.Remoting</AssemblyName>
@@ -349,6 +461,20 @@
       <MemberSignature Language="F#" Value="abstract member SyncProcessMessage : System.Runtime.Remoting.Messaging.IMessage -&gt; System.Runtime.Remoting.Messaging.IMessage&#xA;override this.SyncProcessMessage : System.Runtime.Remoting.Messaging.IMessage -&gt; System.Runtime.Remoting.Messaging.IMessage" Usage="binaryClientFormatterSink.SyncProcessMessage msg" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.SyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.SyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.SyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.SyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.SyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.SyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.SyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.SyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.SyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.SyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.SyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.SyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.SyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.SyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.SyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

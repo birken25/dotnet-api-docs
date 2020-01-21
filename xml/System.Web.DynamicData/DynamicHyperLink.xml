@@ -291,6 +291,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.DynamicData</AssemblyName>
@@ -318,6 +328,16 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Web.UI.IAttributeAccessor.SetAttribute(System::String ^ key, System::String ^ value) = System::Web::UI::IAttributeAccessor::SetAttribute;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
         <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

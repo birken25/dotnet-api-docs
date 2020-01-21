@@ -621,6 +621,19 @@ protected void mgr1_AuthorizeWebPart(object sender,
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.CatalogIconImageUrl</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.CatalogIconImageUrl</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.CatalogIconImageUrl</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.CatalogIconImageUrl</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.CatalogIconImageUrl</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.CatalogIconImageUrl</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.CatalogIconImageUrl</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.CatalogIconImageUrl</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.CatalogIconImageUrl</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.CatalogIconImageUrl</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.CatalogIconImageUrl</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.CatalogIconImageUrl</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.CatalogIconImageUrl</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.CatalogIconImageUrl</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -808,6 +821,19 @@ protected void mgr1_AuthorizeWebPart(object sender,
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.UI.WebControls.WebParts.IWebEditable.CreateEditorParts</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.WebControls.WebParts.IWebEditable.CreateEditorParts</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.WebControls.WebParts.IWebEditable.CreateEditorParts</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.WebControls.WebParts.IWebEditable.CreateEditorParts</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.WebControls.WebParts.IWebEditable.CreateEditorParts</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.WebControls.WebParts.IWebEditable.CreateEditorParts</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.WebControls.WebParts.IWebEditable.CreateEditorParts</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.WebControls.WebParts.IWebEditable.CreateEditorParts</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.WebControls.WebParts.IWebEditable.CreateEditorParts</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.WebControls.WebParts.IWebEditable.CreateEditorParts</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.WebControls.WebParts.IWebEditable.CreateEditorParts</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.WebControls.WebParts.IWebEditable.CreateEditorParts</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.WebControls.WebParts.IWebEditable.CreateEditorParts</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.WebControls.WebParts.IWebEditable.CreateEditorParts</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -848,6 +874,19 @@ protected void mgr1_AuthorizeWebPart(object sender,
       <MemberSignature Language="F#" Value="member this.Description : string with get, set" Usage="System.Web.UI.WebControls.WebParts.WebPart.Description" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.Description</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.Description</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.Description</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.Description</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.Description</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.Description</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.Description</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.Description</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.Description</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.Description</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.Description</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.Description</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.Description</InterfaceMember>
         <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.Description</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1881,6 +1920,19 @@ The control derives from <see cref="T:System.Web.UI.WebControls.WebParts.WebPart
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.Subtitle</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.Subtitle</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.Subtitle</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.Subtitle</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.Subtitle</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.Subtitle</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.Subtitle</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.Subtitle</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.Subtitle</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.Subtitle</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.Subtitle</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.Subtitle</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.Subtitle</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.Subtitle</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -1951,6 +2003,19 @@ The control derives from <see cref="T:System.Web.UI.WebControls.WebParts.WebPart
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.Title</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.Title</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.Title</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.Title</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.Title</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.Title</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.Title</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.Title</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.Title</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.Title</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.Title</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.Title</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.Title</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.Title</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -1995,6 +2060,19 @@ The control derives from <see cref="T:System.Web.UI.WebControls.WebParts.WebPart
       <MemberSignature Language="F#" Value="member this.TitleIconImageUrl : string with get, set" Usage="System.Web.UI.WebControls.WebParts.WebPart.TitleIconImageUrl" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.TitleIconImageUrl</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.TitleIconImageUrl</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.TitleIconImageUrl</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.TitleIconImageUrl</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.TitleIconImageUrl</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.TitleIconImageUrl</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.TitleIconImageUrl</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.TitleIconImageUrl</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.TitleIconImageUrl</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.TitleIconImageUrl</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.TitleIconImageUrl</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.TitleIconImageUrl</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.TitleIconImageUrl</InterfaceMember>
         <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.TitleIconImageUrl</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2056,6 +2134,19 @@ The control derives from <see cref="T:System.Web.UI.WebControls.WebParts.WebPart
       <MemberSignature Language="F#" Value="member this.TitleUrl : string with get, set" Usage="System.Web.UI.WebControls.WebParts.WebPart.TitleUrl" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.TitleUrl</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.TitleUrl</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.TitleUrl</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.TitleUrl</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.TitleUrl</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.TitleUrl</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.TitleUrl</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.TitleUrl</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.TitleUrl</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.TitleUrl</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.TitleUrl</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.TitleUrl</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.TitleUrl</InterfaceMember>
         <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPart.TitleUrl</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2148,6 +2239,19 @@ The control derives from <see cref="T:System.Web.UI.WebControls.WebParts.WebPart
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebActionable.Verbs</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebActionable.Verbs</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebActionable.Verbs</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebActionable.Verbs</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebActionable.Verbs</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebActionable.Verbs</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebActionable.Verbs</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebActionable.Verbs</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebActionable.Verbs</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebActionable.Verbs</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebActionable.Verbs</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebActionable.Verbs</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebActionable.Verbs</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebActionable.Verbs</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -2215,6 +2319,19 @@ The control derives from <see cref="T:System.Web.UI.WebControls.WebParts.WebPart
       <MemberSignature Language="F#" Value="member this.WebBrowsableObject : obj" Usage="System.Web.UI.WebControls.WebParts.WebPart.WebBrowsableObject" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebEditable.WebBrowsableObject</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebEditable.WebBrowsableObject</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebEditable.WebBrowsableObject</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebEditable.WebBrowsableObject</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebEditable.WebBrowsableObject</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebEditable.WebBrowsableObject</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebEditable.WebBrowsableObject</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebEditable.WebBrowsableObject</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebEditable.WebBrowsableObject</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebEditable.WebBrowsableObject</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebEditable.WebBrowsableObject</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebEditable.WebBrowsableObject</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebEditable.WebBrowsableObject</InterfaceMember>
         <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebEditable.WebBrowsableObject</InterfaceMember>
       </Implements>
       <AssemblyInfo>

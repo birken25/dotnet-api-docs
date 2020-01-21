@@ -39,6 +39,17 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Entity</AssemblyName>
@@ -111,6 +122,17 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Entity</AssemblyName>
@@ -142,6 +164,17 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Entity</AssemblyName>
@@ -166,6 +199,17 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Collections::IList ^ System.ComponentModel.IListSource.GetList() = System::ComponentModel::IListSource::GetList;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
       </Implements>
       <AssemblyInfo>

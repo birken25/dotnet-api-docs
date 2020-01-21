@@ -55,6 +55,9 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Extensions.Hosting.IHostBuilder.Build</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Hosting.IHostBuilder.Build</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Hosting.IHostBuilder.Build</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Hosting.IHostBuilder.Build</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Hosting</AssemblyName>
@@ -82,6 +85,9 @@
       <MemberSignature Language="F#" Value="abstract member ConfigureAppConfiguration : Action&lt;Microsoft.Extensions.Hosting.HostBuilderContext, Microsoft.Extensions.Configuration.IConfigurationBuilder&gt; -&gt; Microsoft.Extensions.Hosting.IHostBuilder&#xA;override this.ConfigureAppConfiguration : Action&lt;Microsoft.Extensions.Hosting.HostBuilderContext, Microsoft.Extensions.Configuration.IConfigurationBuilder&gt; -&gt; Microsoft.Extensions.Hosting.IHostBuilder" Usage="hostBuilder.ConfigureAppConfiguration configureDelegate" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Extensions.Hosting.IHostBuilder.ConfigureAppConfiguration(System.Action{Microsoft.Extensions.Hosting.HostBuilderContext,Microsoft.Extensions.Configuration.IConfigurationBuilder})</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Hosting.IHostBuilder.ConfigureAppConfiguration(System.Action{Microsoft.Extensions.Hosting.HostBuilderContext,Microsoft.Extensions.Configuration.IConfigurationBuilder})</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Hosting.IHostBuilder.ConfigureAppConfiguration(System.Action{Microsoft.Extensions.Hosting.HostBuilderContext,Microsoft.Extensions.Configuration.IConfigurationBuilder})</InterfaceMember>
         <InterfaceMember>M:Microsoft.Extensions.Hosting.IHostBuilder.ConfigureAppConfiguration(System.Action{Microsoft.Extensions.Hosting.HostBuilderContext,Microsoft.Extensions.Configuration.IConfigurationBuilder})</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -116,6 +122,9 @@
       <MemberSignature Language="F#" Value="abstract member ConfigureContainer : Action&lt;Microsoft.Extensions.Hosting.HostBuilderContext, 'ContainerBuilder&gt; -&gt; Microsoft.Extensions.Hosting.IHostBuilder&#xA;override this.ConfigureContainer : Action&lt;Microsoft.Extensions.Hosting.HostBuilderContext, 'ContainerBuilder&gt; -&gt; Microsoft.Extensions.Hosting.IHostBuilder" Usage="hostBuilder.ConfigureContainer configureDelegate" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Extensions.Hosting.IHostBuilder.ConfigureContainer``1(System.Action{Microsoft.Extensions.Hosting.HostBuilderContext,``0})</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Hosting.IHostBuilder.ConfigureContainer``1(System.Action{Microsoft.Extensions.Hosting.HostBuilderContext,``0})</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Hosting.IHostBuilder.ConfigureContainer``1(System.Action{Microsoft.Extensions.Hosting.HostBuilderContext,``0})</InterfaceMember>
         <InterfaceMember>M:Microsoft.Extensions.Hosting.IHostBuilder.ConfigureContainer``1(System.Action{Microsoft.Extensions.Hosting.HostBuilderContext,``0})</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -154,6 +163,9 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Extensions.Hosting.IHostBuilder.ConfigureHostConfiguration(System.Action{Microsoft.Extensions.Configuration.IConfigurationBuilder})</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Hosting.IHostBuilder.ConfigureHostConfiguration(System.Action{Microsoft.Extensions.Configuration.IConfigurationBuilder})</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Hosting.IHostBuilder.ConfigureHostConfiguration(System.Action{Microsoft.Extensions.Configuration.IConfigurationBuilder})</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Hosting.IHostBuilder.ConfigureHostConfiguration(System.Action{Microsoft.Extensions.Configuration.IConfigurationBuilder})</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Hosting</AssemblyName>
@@ -187,6 +199,9 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Extensions.Hosting.IHostBuilder.ConfigureServices(System.Action{Microsoft.Extensions.Hosting.HostBuilderContext,Microsoft.Extensions.DependencyInjection.IServiceCollection})</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Hosting.IHostBuilder.ConfigureServices(System.Action{Microsoft.Extensions.Hosting.HostBuilderContext,Microsoft.Extensions.DependencyInjection.IServiceCollection})</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Hosting.IHostBuilder.ConfigureServices(System.Action{Microsoft.Extensions.Hosting.HostBuilderContext,Microsoft.Extensions.DependencyInjection.IServiceCollection})</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Hosting.IHostBuilder.ConfigureServices(System.Action{Microsoft.Extensions.Hosting.HostBuilderContext,Microsoft.Extensions.DependencyInjection.IServiceCollection})</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Hosting</AssemblyName>
@@ -219,6 +234,9 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Extensions.Hosting.IHostBuilder.Properties</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.Hosting.IHostBuilder.Properties</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.Hosting.IHostBuilder.Properties</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.Hosting.IHostBuilder.Properties</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Hosting</AssemblyName>
@@ -245,6 +263,9 @@
       <MemberSignature Language="F#" Value="abstract member UseServiceProviderFactory : Microsoft.Extensions.DependencyInjection.IServiceProviderFactory&lt;'ContainerBuilder&gt; -&gt; Microsoft.Extensions.Hosting.IHostBuilder&#xA;override this.UseServiceProviderFactory : Microsoft.Extensions.DependencyInjection.IServiceProviderFactory&lt;'ContainerBuilder&gt; -&gt; Microsoft.Extensions.Hosting.IHostBuilder" Usage="hostBuilder.UseServiceProviderFactory factory" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Extensions.Hosting.IHostBuilder.UseServiceProviderFactory``1(Microsoft.Extensions.DependencyInjection.IServiceProviderFactory{``0})</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Hosting.IHostBuilder.UseServiceProviderFactory``1(Microsoft.Extensions.DependencyInjection.IServiceProviderFactory{``0})</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Hosting.IHostBuilder.UseServiceProviderFactory``1(Microsoft.Extensions.DependencyInjection.IServiceProviderFactory{``0})</InterfaceMember>
         <InterfaceMember>M:Microsoft.Extensions.Hosting.IHostBuilder.UseServiceProviderFactory``1(Microsoft.Extensions.DependencyInjection.IServiceProviderFactory{``0})</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -280,6 +301,7 @@
       <MemberSignature Language="F#" Value="abstract member UseServiceProviderFactory : Func&lt;Microsoft.Extensions.Hosting.HostBuilderContext, Microsoft.Extensions.DependencyInjection.IServiceProviderFactory&lt;'ContainerBuilder&gt;&gt; -&gt; Microsoft.Extensions.Hosting.IHostBuilder&#xA;override this.UseServiceProviderFactory : Func&lt;Microsoft.Extensions.Hosting.HostBuilderContext, Microsoft.Extensions.DependencyInjection.IServiceProviderFactory&lt;'ContainerBuilder&gt;&gt; -&gt; Microsoft.Extensions.Hosting.IHostBuilder" Usage="hostBuilder.UseServiceProviderFactory factory" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Extensions.Hosting.IHostBuilder.UseServiceProviderFactory``1(System.Func{Microsoft.Extensions.Hosting.HostBuilderContext,Microsoft.Extensions.DependencyInjection.IServiceProviderFactory{``0}})</InterfaceMember>
         <InterfaceMember>M:Microsoft.Extensions.Hosting.IHostBuilder.UseServiceProviderFactory``1(System.Func{Microsoft.Extensions.Hosting.HostBuilderContext,Microsoft.Extensions.DependencyInjection.IServiceProviderFactory{``0}})</InterfaceMember>
       </Implements>
       <AssemblyInfo>

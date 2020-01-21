@@ -100,6 +100,20 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.IHttpHandler.IsReusable</InterfaceMember>
+        <InterfaceMember>P:System.Web.IHttpHandler.IsReusable</InterfaceMember>
+        <InterfaceMember>P:System.Web.IHttpHandler.IsReusable</InterfaceMember>
+        <InterfaceMember>P:System.Web.IHttpHandler.IsReusable</InterfaceMember>
+        <InterfaceMember>P:System.Web.IHttpHandler.IsReusable</InterfaceMember>
+        <InterfaceMember>P:System.Web.IHttpHandler.IsReusable</InterfaceMember>
+        <InterfaceMember>P:System.Web.IHttpHandler.IsReusable</InterfaceMember>
+        <InterfaceMember>P:System.Web.IHttpHandler.IsReusable</InterfaceMember>
+        <InterfaceMember>P:System.Web.IHttpHandler.IsReusable</InterfaceMember>
+        <InterfaceMember>P:System.Web.IHttpHandler.IsReusable</InterfaceMember>
+        <InterfaceMember>P:System.Web.IHttpHandler.IsReusable</InterfaceMember>
+        <InterfaceMember>P:System.Web.IHttpHandler.IsReusable</InterfaceMember>
+        <InterfaceMember>P:System.Web.IHttpHandler.IsReusable</InterfaceMember>
+        <InterfaceMember>P:System.Web.IHttpHandler.IsReusable</InterfaceMember>
+        <InterfaceMember>P:System.Web.IHttpHandler.IsReusable</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Runtime.Remoting</AssemblyName>
@@ -126,6 +140,20 @@
       <MemberSignature Language="F#" Value="abstract member ProcessRequest : System.Web.HttpContext -&gt; unit&#xA;override this.ProcessRequest : System.Web.HttpContext -&gt; unit" Usage="httpRemotingHandler.ProcessRequest context" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.IHttpHandler.ProcessRequest(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandler.ProcessRequest(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandler.ProcessRequest(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandler.ProcessRequest(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandler.ProcessRequest(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandler.ProcessRequest(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandler.ProcessRequest(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandler.ProcessRequest(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandler.ProcessRequest(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandler.ProcessRequest(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandler.ProcessRequest(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandler.ProcessRequest(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandler.ProcessRequest(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandler.ProcessRequest(System.Web.HttpContext)</InterfaceMember>
         <InterfaceMember>M:System.Web.IHttpHandler.ProcessRequest(System.Web.HttpContext)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

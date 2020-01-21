@@ -291,6 +291,34 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System</AssemblyName>
@@ -400,6 +428,34 @@
       <MemberSignature Language="F#" Value="member this.Disposed : EventHandler " Usage="member this.Disposed : System.EventHandler " />
       <MemberType>Event</MemberType>
       <Implements>
+        <InterfaceMember>E:System.ComponentModel.IComponent.Disposed</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IComponent.Disposed</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IComponent.Disposed</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IComponent.Disposed</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IComponent.Disposed</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IComponent.Disposed</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IComponent.Disposed</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IComponent.Disposed</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IComponent.Disposed</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IComponent.Disposed</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IComponent.Disposed</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IComponent.Disposed</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IComponent.Disposed</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IComponent.Disposed</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IComponent.Disposed</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IComponent.Disposed</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IComponent.Disposed</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IComponent.Disposed</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IComponent.Disposed</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IComponent.Disposed</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IComponent.Disposed</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IComponent.Disposed</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IComponent.Disposed</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IComponent.Disposed</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IComponent.Disposed</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IComponent.Disposed</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IComponent.Disposed</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IComponent.Disposed</InterfaceMember>
         <InterfaceMember>E:System.ComponentModel.IComponent.Disposed</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -603,6 +659,34 @@
       <MemberSignature Language="F#" Value="member this.Site : System.ComponentModel.ISite with get, set" Usage="System.ComponentModel.Component.Site" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.ComponentModel.IComponent.Site</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IComponent.Site</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IComponent.Site</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IComponent.Site</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IComponent.Site</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IComponent.Site</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IComponent.Site</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IComponent.Site</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IComponent.Site</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IComponent.Site</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IComponent.Site</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IComponent.Site</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IComponent.Site</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IComponent.Site</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IComponent.Site</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IComponent.Site</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IComponent.Site</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IComponent.Site</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IComponent.Site</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IComponent.Site</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IComponent.Site</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IComponent.Site</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IComponent.Site</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IComponent.Site</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IComponent.Site</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IComponent.Site</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IComponent.Site</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IComponent.Site</InterfaceMember>
         <InterfaceMember>P:System.ComponentModel.IComponent.Site</InterfaceMember>
       </Implements>
       <AssemblyInfo>

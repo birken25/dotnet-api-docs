@@ -335,6 +335,37 @@ while (reader.Read())
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Xml.ReaderWriter</AssemblyName>
@@ -394,6 +425,38 @@ Loop
       <MemberSignature Language="F#" Value="abstract member GetNamespacesInScope : System.Xml.XmlNamespaceScope -&gt; System.Collections.Generic.IDictionary&lt;string, string&gt;&#xA;override this.GetNamespacesInScope : System.Xml.XmlNamespaceScope -&gt; System.Collections.Generic.IDictionary&lt;string, string&gt;" Usage="xmlNamespaceManager.GetNamespacesInScope scope" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
         <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -520,6 +583,38 @@ Loop
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Xml.ReaderWriter</AssemblyName>
@@ -580,6 +675,38 @@ Loop
       <MemberSignature Language="F#" Value="abstract member LookupPrefix : string -&gt; string&#xA;override this.LookupPrefix : string -&gt; string" Usage="xmlNamespaceManager.LookupPrefix uri" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
         <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

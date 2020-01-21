@@ -78,6 +78,16 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.IHttpHandler.IsReusable</InterfaceMember>
+        <InterfaceMember>P:System.Web.IHttpHandler.IsReusable</InterfaceMember>
+        <InterfaceMember>P:System.Web.IHttpHandler.IsReusable</InterfaceMember>
+        <InterfaceMember>P:System.Web.IHttpHandler.IsReusable</InterfaceMember>
+        <InterfaceMember>P:System.Web.IHttpHandler.IsReusable</InterfaceMember>
+        <InterfaceMember>P:System.Web.IHttpHandler.IsReusable</InterfaceMember>
+        <InterfaceMember>P:System.Web.IHttpHandler.IsReusable</InterfaceMember>
+        <InterfaceMember>P:System.Web.IHttpHandler.IsReusable</InterfaceMember>
+        <InterfaceMember>P:System.Web.IHttpHandler.IsReusable</InterfaceMember>
+        <InterfaceMember>P:System.Web.IHttpHandler.IsReusable</InterfaceMember>
+        <InterfaceMember>P:System.Web.IHttpHandler.IsReusable</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.DataVisualization</AssemblyName>
@@ -101,6 +111,16 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Web.IHttpHandler.ProcessRequest(System::Web::HttpContext ^ context) = System::Web::IHttpHandler::ProcessRequest;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.IHttpHandler.ProcessRequest(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandler.ProcessRequest(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandler.ProcessRequest(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandler.ProcessRequest(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandler.ProcessRequest(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandler.ProcessRequest(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandler.ProcessRequest(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandler.ProcessRequest(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandler.ProcessRequest(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandler.ProcessRequest(System.Web.HttpContext)</InterfaceMember>
         <InterfaceMember>M:System.Web.IHttpHandler.ProcessRequest(System.Web.HttpContext)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

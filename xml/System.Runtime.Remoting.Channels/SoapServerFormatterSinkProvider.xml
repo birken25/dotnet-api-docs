@@ -115,6 +115,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkProvider.CreateSink(System.Runtime.Remoting.Channels.IChannelReceiver)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkProvider.CreateSink(System.Runtime.Remoting.Channels.IChannelReceiver)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkProvider.CreateSink(System.Runtime.Remoting.Channels.IChannelReceiver)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkProvider.CreateSink(System.Runtime.Remoting.Channels.IChannelReceiver)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkProvider.CreateSink(System.Runtime.Remoting.Channels.IChannelReceiver)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkProvider.CreateSink(System.Runtime.Remoting.Channels.IChannelReceiver)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkProvider.CreateSink(System.Runtime.Remoting.Channels.IChannelReceiver)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkProvider.CreateSink(System.Runtime.Remoting.Channels.IChannelReceiver)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkProvider.CreateSink(System.Runtime.Remoting.Channels.IChannelReceiver)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkProvider.CreateSink(System.Runtime.Remoting.Channels.IChannelReceiver)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkProvider.CreateSink(System.Runtime.Remoting.Channels.IChannelReceiver)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkProvider.CreateSink(System.Runtime.Remoting.Channels.IChannelReceiver)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkProvider.CreateSink(System.Runtime.Remoting.Channels.IChannelReceiver)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkProvider.CreateSink(System.Runtime.Remoting.Channels.IChannelReceiver)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkProvider.CreateSink(System.Runtime.Remoting.Channels.IChannelReceiver)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Runtime.Remoting</AssemblyName>
@@ -145,6 +159,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkProvider.GetChannelData(System.Runtime.Remoting.Channels.IChannelDataStore)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkProvider.GetChannelData(System.Runtime.Remoting.Channels.IChannelDataStore)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkProvider.GetChannelData(System.Runtime.Remoting.Channels.IChannelDataStore)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkProvider.GetChannelData(System.Runtime.Remoting.Channels.IChannelDataStore)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkProvider.GetChannelData(System.Runtime.Remoting.Channels.IChannelDataStore)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkProvider.GetChannelData(System.Runtime.Remoting.Channels.IChannelDataStore)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkProvider.GetChannelData(System.Runtime.Remoting.Channels.IChannelDataStore)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkProvider.GetChannelData(System.Runtime.Remoting.Channels.IChannelDataStore)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkProvider.GetChannelData(System.Runtime.Remoting.Channels.IChannelDataStore)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkProvider.GetChannelData(System.Runtime.Remoting.Channels.IChannelDataStore)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkProvider.GetChannelData(System.Runtime.Remoting.Channels.IChannelDataStore)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkProvider.GetChannelData(System.Runtime.Remoting.Channels.IChannelDataStore)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkProvider.GetChannelData(System.Runtime.Remoting.Channels.IChannelDataStore)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkProvider.GetChannelData(System.Runtime.Remoting.Channels.IChannelDataStore)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkProvider.GetChannelData(System.Runtime.Remoting.Channels.IChannelDataStore)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Runtime.Remoting</AssemblyName>
@@ -173,6 +201,20 @@
       <MemberSignature Language="F#" Value="member this.Next : System.Runtime.Remoting.Channels.IServerChannelSinkProvider with get, set" Usage="System.Runtime.Remoting.Channels.SoapServerFormatterSinkProvider.Next" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Runtime.Remoting.Channels.IServerChannelSinkProvider.Next</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Channels.IServerChannelSinkProvider.Next</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Channels.IServerChannelSinkProvider.Next</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Channels.IServerChannelSinkProvider.Next</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Channels.IServerChannelSinkProvider.Next</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Channels.IServerChannelSinkProvider.Next</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Channels.IServerChannelSinkProvider.Next</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Channels.IServerChannelSinkProvider.Next</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Channels.IServerChannelSinkProvider.Next</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Channels.IServerChannelSinkProvider.Next</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Channels.IServerChannelSinkProvider.Next</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Channels.IServerChannelSinkProvider.Next</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Channels.IServerChannelSinkProvider.Next</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Channels.IServerChannelSinkProvider.Next</InterfaceMember>
         <InterfaceMember>P:System.Runtime.Remoting.Channels.IServerChannelSinkProvider.Next</InterfaceMember>
       </Implements>
       <AssemblyInfo>

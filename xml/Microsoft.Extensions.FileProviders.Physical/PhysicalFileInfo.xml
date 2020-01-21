@@ -65,6 +65,12 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Extensions.FileProviders.IFileInfo.CreateReadStream</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.FileProviders.IFileInfo.CreateReadStream</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.FileProviders.IFileInfo.CreateReadStream</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.FileProviders.IFileInfo.CreateReadStream</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.FileProviders.IFileInfo.CreateReadStream</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.FileProviders.IFileInfo.CreateReadStream</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.FileProviders.IFileInfo.CreateReadStream</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.FileProviders.Physical</AssemblyName>
@@ -97,6 +103,12 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Extensions.FileProviders.IFileInfo.Exists</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.FileProviders.IFileInfo.Exists</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.FileProviders.IFileInfo.Exists</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.FileProviders.IFileInfo.Exists</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.FileProviders.IFileInfo.Exists</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.FileProviders.IFileInfo.Exists</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.FileProviders.IFileInfo.Exists</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.FileProviders.Physical</AssemblyName>
@@ -128,6 +140,12 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Extensions.FileProviders.IFileInfo.IsDirectory</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.FileProviders.IFileInfo.IsDirectory</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.FileProviders.IFileInfo.IsDirectory</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.FileProviders.IFileInfo.IsDirectory</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.FileProviders.IFileInfo.IsDirectory</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.FileProviders.IFileInfo.IsDirectory</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.FileProviders.IFileInfo.IsDirectory</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.FileProviders.Physical</AssemblyName>
@@ -157,6 +175,12 @@
       <MemberSignature Language="F#" Value="member this.LastModified : DateTimeOffset" Usage="Microsoft.Extensions.FileProviders.Physical.PhysicalFileInfo.LastModified" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:Microsoft.Extensions.FileProviders.IFileInfo.LastModified</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.FileProviders.IFileInfo.LastModified</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.FileProviders.IFileInfo.LastModified</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.FileProviders.IFileInfo.LastModified</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.FileProviders.IFileInfo.LastModified</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.FileProviders.IFileInfo.LastModified</InterfaceMember>
         <InterfaceMember>P:Microsoft.Extensions.FileProviders.IFileInfo.LastModified</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -189,6 +213,12 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Extensions.FileProviders.IFileInfo.Length</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.FileProviders.IFileInfo.Length</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.FileProviders.IFileInfo.Length</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.FileProviders.IFileInfo.Length</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.FileProviders.IFileInfo.Length</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.FileProviders.IFileInfo.Length</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.FileProviders.IFileInfo.Length</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.FileProviders.Physical</AssemblyName>
@@ -220,6 +250,12 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Extensions.FileProviders.IFileInfo.Name</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.FileProviders.IFileInfo.Name</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.FileProviders.IFileInfo.Name</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.FileProviders.IFileInfo.Name</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.FileProviders.IFileInfo.Name</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.FileProviders.IFileInfo.Name</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.FileProviders.IFileInfo.Name</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.FileProviders.Physical</AssemblyName>
@@ -250,6 +286,12 @@
       <MemberSignature Language="F#" Value="member this.PhysicalPath : string" Usage="Microsoft.Extensions.FileProviders.Physical.PhysicalFileInfo.PhysicalPath" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:Microsoft.Extensions.FileProviders.IFileInfo.PhysicalPath</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.FileProviders.IFileInfo.PhysicalPath</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.FileProviders.IFileInfo.PhysicalPath</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.FileProviders.IFileInfo.PhysicalPath</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.FileProviders.IFileInfo.PhysicalPath</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.FileProviders.IFileInfo.PhysicalPath</InterfaceMember>
         <InterfaceMember>P:Microsoft.Extensions.FileProviders.IFileInfo.PhysicalPath</InterfaceMember>
       </Implements>
       <AssemblyInfo>

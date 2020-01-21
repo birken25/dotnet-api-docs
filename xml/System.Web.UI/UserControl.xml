@@ -810,6 +810,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -847,6 +861,20 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Web.UI.IAttributeAccessor.SetAttribute(System::String ^ name, System::String ^ value) = System::Web::UI::IAttributeAccessor::SetAttribute;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
         <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -888,6 +916,19 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.UI.IUserControlDesignerAccessor.InnerText</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IUserControlDesignerAccessor.InnerText</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IUserControlDesignerAccessor.InnerText</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IUserControlDesignerAccessor.InnerText</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IUserControlDesignerAccessor.InnerText</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IUserControlDesignerAccessor.InnerText</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IUserControlDesignerAccessor.InnerText</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IUserControlDesignerAccessor.InnerText</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IUserControlDesignerAccessor.InnerText</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IUserControlDesignerAccessor.InnerText</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IUserControlDesignerAccessor.InnerText</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IUserControlDesignerAccessor.InnerText</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IUserControlDesignerAccessor.InnerText</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IUserControlDesignerAccessor.InnerText</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -913,6 +954,19 @@
       <MemberSignature Language="F#" Usage="System.Web.UI.IUserControlDesignerAccessor.TagName" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Web.UI.IUserControlDesignerAccessor.TagName</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IUserControlDesignerAccessor.TagName</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IUserControlDesignerAccessor.TagName</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IUserControlDesignerAccessor.TagName</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IUserControlDesignerAccessor.TagName</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IUserControlDesignerAccessor.TagName</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IUserControlDesignerAccessor.TagName</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IUserControlDesignerAccessor.TagName</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IUserControlDesignerAccessor.TagName</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IUserControlDesignerAccessor.TagName</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IUserControlDesignerAccessor.TagName</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IUserControlDesignerAccessor.TagName</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IUserControlDesignerAccessor.TagName</InterfaceMember>
         <InterfaceMember>P:System.Web.UI.IUserControlDesignerAccessor.TagName</InterfaceMember>
       </Implements>
       <AssemblyInfo>

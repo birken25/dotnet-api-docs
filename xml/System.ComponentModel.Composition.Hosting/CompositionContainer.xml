@@ -349,6 +349,23 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ComponentModel.Composition</AssemblyName>
@@ -642,6 +659,23 @@
       <MemberSignature Language="F#" Value="abstract member SatisfyImportsOnce : System.ComponentModel.Composition.Primitives.ComposablePart -&gt; unit&#xA;override this.SatisfyImportsOnce : System.ComponentModel.Composition.Primitives.ComposablePart -&gt; unit" Usage="compositionContainer.SatisfyImportsOnce part" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ComponentModel.Composition.ICompositionService.SatisfyImportsOnce(System.ComponentModel.Composition.Primitives.ComposablePart)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Composition.ICompositionService.SatisfyImportsOnce(System.ComponentModel.Composition.Primitives.ComposablePart)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Composition.ICompositionService.SatisfyImportsOnce(System.ComponentModel.Composition.Primitives.ComposablePart)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Composition.ICompositionService.SatisfyImportsOnce(System.ComponentModel.Composition.Primitives.ComposablePart)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Composition.ICompositionService.SatisfyImportsOnce(System.ComponentModel.Composition.Primitives.ComposablePart)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Composition.ICompositionService.SatisfyImportsOnce(System.ComponentModel.Composition.Primitives.ComposablePart)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Composition.ICompositionService.SatisfyImportsOnce(System.ComponentModel.Composition.Primitives.ComposablePart)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Composition.ICompositionService.SatisfyImportsOnce(System.ComponentModel.Composition.Primitives.ComposablePart)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Composition.ICompositionService.SatisfyImportsOnce(System.ComponentModel.Composition.Primitives.ComposablePart)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Composition.ICompositionService.SatisfyImportsOnce(System.ComponentModel.Composition.Primitives.ComposablePart)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Composition.ICompositionService.SatisfyImportsOnce(System.ComponentModel.Composition.Primitives.ComposablePart)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Composition.ICompositionService.SatisfyImportsOnce(System.ComponentModel.Composition.Primitives.ComposablePart)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Composition.ICompositionService.SatisfyImportsOnce(System.ComponentModel.Composition.Primitives.ComposablePart)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Composition.ICompositionService.SatisfyImportsOnce(System.ComponentModel.Composition.Primitives.ComposablePart)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Composition.ICompositionService.SatisfyImportsOnce(System.ComponentModel.Composition.Primitives.ComposablePart)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Composition.ICompositionService.SatisfyImportsOnce(System.ComponentModel.Composition.Primitives.ComposablePart)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Composition.ICompositionService.SatisfyImportsOnce(System.ComponentModel.Composition.Primitives.ComposablePart)</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.Composition.ICompositionService.SatisfyImportsOnce(System.ComponentModel.Composition.Primitives.ComposablePart)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

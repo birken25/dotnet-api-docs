@@ -79,6 +79,8 @@ For more information about programming with the <xref:Microsoft.Aspnet.Snapin.As
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Aspnet.Snapin.IAspNetManagementUtility.AcquireVersionList(System.String@,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Aspnet.Snapin.IAspNetManagementUtility.AcquireVersionList(System.String@,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Aspnet.Snapin.IAspNetManagementUtility.AcquireVersionList(System.String@,System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>AspNetMMCExt</AssemblyName>
@@ -115,6 +117,8 @@ For more information about programming with the <xref:Microsoft.Aspnet.Snapin.As
       <MemberSignature Language="F#" Value="abstract member ChangeScriptMap : string * string * int -&gt; unit&#xA;override this.ChangeScriptMap : string * string * int -&gt; unit" Usage="aspNetManagementUtility.ChangeScriptMap (keyPath, dllInstall, flags)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Aspnet.Snapin.IAspNetManagementUtility.ChangeScriptMap(System.String,System.String,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Aspnet.Snapin.IAspNetManagementUtility.ChangeScriptMap(System.String,System.String,System.Int32)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Aspnet.Snapin.IAspNetManagementUtility.ChangeScriptMap(System.String,System.String,System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -154,6 +158,8 @@ For more information about programming with the <xref:Microsoft.Aspnet.Snapin.As
       <MemberSignature Language="F#" Value="abstract member DisplayAspNetConfigSettings : string * string * string * string * string * int * string -&gt; unit&#xA;override this.DisplayAspNetConfigSettings : string * string * string * string * string * int * string -&gt; unit" Usage="aspNetManagementUtility.DisplayAspNetConfigSettings (machineName, site, virtualDirectory, siteName, location, processID, exception)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Aspnet.Snapin.IAspNetManagementUtility.DisplayAspNetConfigSettings(System.String,System.String,System.String,System.String,System.String,System.Int32,System.String@)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Aspnet.Snapin.IAspNetManagementUtility.DisplayAspNetConfigSettings(System.String,System.String,System.String,System.String,System.String,System.Int32,System.String@)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Aspnet.Snapin.IAspNetManagementUtility.DisplayAspNetConfigSettings(System.String,System.String,System.String,System.String,System.String,System.Int32,System.String@)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -231,6 +237,8 @@ For more information about programming with the <xref:Microsoft.Aspnet.Snapin.As
       <MemberSignature Language="F#" Value="abstract member IsRemoteConfigured : int -&gt; unit&#xA;override this.IsRemoteConfigured : int -&gt; unit" Usage="aspNetManagementUtility.IsRemoteConfigured isRemoteConfigured" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Aspnet.Snapin.IAspNetManagementUtility.IsRemoteConfigured(System.Int32@)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Aspnet.Snapin.IAspNetManagementUtility.IsRemoteConfigured(System.Int32@)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Aspnet.Snapin.IAspNetManagementUtility.IsRemoteConfigured(System.Int32@)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -322,6 +330,8 @@ For more information about programming with the <xref:Microsoft.Aspnet.Snapin.As
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Aspnet.Snapin.IAspNetManagementUtility.PathIsDirectory(System.String,System.Int32@)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Aspnet.Snapin.IAspNetManagementUtility.PathIsDirectory(System.String,System.Int32@)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Aspnet.Snapin.IAspNetManagementUtility.PathIsDirectory(System.String,System.Int32@)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>AspNetMMCExt</AssemblyName>
@@ -358,6 +368,8 @@ For more information about programming with the <xref:Microsoft.Aspnet.Snapin.As
       <MemberSignature Language="F#" Value="abstract member ReadFileDates : string * string * string * string -&gt; unit&#xA;override this.ReadFileDates : string * string * string * string -&gt; unit" Usage="aspNetManagementUtility.ReadFileDates (filename, creationDate, modifiedDate, lastAccessDate)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Aspnet.Snapin.IAspNetManagementUtility.ReadFileDates(System.String,System.String@,System.String@,System.String@)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Aspnet.Snapin.IAspNetManagementUtility.ReadFileDates(System.String,System.String@,System.String@,System.String@)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Aspnet.Snapin.IAspNetManagementUtility.ReadFileDates(System.String,System.String@,System.String@,System.String@)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -399,6 +411,8 @@ For more information about programming with the <xref:Microsoft.Aspnet.Snapin.As
       <MemberSignature Language="F#" Value="abstract member RegisterAsnetMmcAssembly : int * string * string * nativeint -&gt; unit&#xA;override this.RegisterAsnetMmcAssembly : int * string * string * nativeint -&gt; unit" Usage="aspNetManagementUtility.RegisterAsnetMmcAssembly (doReg, typeName, binaryDirectory, exception)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Aspnet.Snapin.IAspNetManagementUtility.RegisterAsnetMmcAssembly(System.Int32,System.String,System.String,System.IntPtr@)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Aspnet.Snapin.IAspNetManagementUtility.RegisterAsnetMmcAssembly(System.Int32,System.String,System.String,System.IntPtr@)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Aspnet.Snapin.IAspNetManagementUtility.RegisterAsnetMmcAssembly(System.Int32,System.String,System.String,System.IntPtr@)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

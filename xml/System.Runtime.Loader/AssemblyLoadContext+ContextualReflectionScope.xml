@@ -46,6 +46,7 @@ This is an implementation detail of the <xref:System.Runtime.Loader.AssemblyLoad
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Runtime.Loader</AssemblyName>

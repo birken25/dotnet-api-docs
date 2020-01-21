@@ -116,6 +116,33 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -744,6 +771,34 @@ The <xref:System.Globalization.TextInfo.LCID%2A> property always reflects a spec
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Runtime.Serialization.IDeserializationCallback.OnDeserialization(System::Object ^ sender) = System::Runtime::Serialization::IDeserializationCallback::OnDeserialization;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.Serialization.IDeserializationCallback.OnDeserialization(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.IDeserializationCallback.OnDeserialization(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.IDeserializationCallback.OnDeserialization(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.IDeserializationCallback.OnDeserialization(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.IDeserializationCallback.OnDeserialization(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.IDeserializationCallback.OnDeserialization(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.IDeserializationCallback.OnDeserialization(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.IDeserializationCallback.OnDeserialization(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.IDeserializationCallback.OnDeserialization(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.IDeserializationCallback.OnDeserialization(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.IDeserializationCallback.OnDeserialization(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.IDeserializationCallback.OnDeserialization(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.IDeserializationCallback.OnDeserialization(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.IDeserializationCallback.OnDeserialization(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.IDeserializationCallback.OnDeserialization(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.IDeserializationCallback.OnDeserialization(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.IDeserializationCallback.OnDeserialization(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.IDeserializationCallback.OnDeserialization(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.IDeserializationCallback.OnDeserialization(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.IDeserializationCallback.OnDeserialization(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.IDeserializationCallback.OnDeserialization(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.IDeserializationCallback.OnDeserialization(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.IDeserializationCallback.OnDeserialization(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.IDeserializationCallback.OnDeserialization(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.IDeserializationCallback.OnDeserialization(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.IDeserializationCallback.OnDeserialization(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.IDeserializationCallback.OnDeserialization(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.IDeserializationCallback.OnDeserialization(System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.Serialization.IDeserializationCallback.OnDeserialization(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

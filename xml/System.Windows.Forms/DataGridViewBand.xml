@@ -60,6 +60,21 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Forms</AssemblyName>
@@ -288,6 +303,21 @@
       <MemberSignature Language="F#" Value="abstract member Dispose : unit -&gt; unit&#xA;override this.Dispose : unit -&gt; unit" Usage="dataGridViewBand.Dispose " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>

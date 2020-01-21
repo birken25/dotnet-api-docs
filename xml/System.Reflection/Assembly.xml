@@ -163,6 +163,21 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.InteropServices._Assembly.CodeBase</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.CodeBase</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.CodeBase</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.CodeBase</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.CodeBase</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.CodeBase</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.CodeBase</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.CodeBase</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.CodeBase</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.CodeBase</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.CodeBase</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.CodeBase</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.CodeBase</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.CodeBase</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.CodeBase</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.CodeBase</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Reflection</AssemblyName>
@@ -235,6 +250,21 @@
       <MemberSignature Language="F#" Value="abstract member CreateInstance : string -&gt; obj&#xA;override this.CreateInstance : string -&gt; obj" Usage="assembly.CreateInstance typeName" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8;xamarinmac-3.0" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.CreateInstance(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.CreateInstance(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.CreateInstance(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.CreateInstance(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.CreateInstance(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.CreateInstance(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.CreateInstance(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.CreateInstance(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.CreateInstance(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.CreateInstance(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.CreateInstance(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.CreateInstance(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.CreateInstance(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.CreateInstance(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.CreateInstance(System.String)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices._Assembly.CreateInstance(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -330,6 +360,21 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices._Assembly.CreateInstance(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.CreateInstance(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.CreateInstance(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.CreateInstance(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.CreateInstance(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.CreateInstance(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.CreateInstance(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.CreateInstance(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.CreateInstance(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.CreateInstance(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.CreateInstance(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.CreateInstance(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.CreateInstance(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.CreateInstance(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.CreateInstance(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.CreateInstance(System.String,System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Reflection</AssemblyName>
@@ -421,6 +466,21 @@
       <MemberSignature Language="C#" Value="public object CreateInstance (string typeName, bool ignoreCase, System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, object[] args, System.Globalization.CultureInfo culture, object[] activationAttributes);" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.CreateInstance(System.String,System.Boolean,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.CreateInstance(System.String,System.Boolean,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.CreateInstance(System.String,System.Boolean,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.CreateInstance(System.String,System.Boolean,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.CreateInstance(System.String,System.Boolean,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.CreateInstance(System.String,System.Boolean,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.CreateInstance(System.String,System.Boolean,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.CreateInstance(System.String,System.Boolean,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.CreateInstance(System.String,System.Boolean,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.CreateInstance(System.String,System.Boolean,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.CreateInstance(System.String,System.Boolean,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.CreateInstance(System.String,System.Boolean,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.CreateInstance(System.String,System.Boolean,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.CreateInstance(System.String,System.Boolean,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.CreateInstance(System.String,System.Boolean,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo,System.Object[])</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices._Assembly.CreateInstance(System.String,System.Boolean,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo,System.Object[])</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -655,6 +715,21 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.InteropServices._Assembly.EntryPoint</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.EntryPoint</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.EntryPoint</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.EntryPoint</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.EntryPoint</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.EntryPoint</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.EntryPoint</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.EntryPoint</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.EntryPoint</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.EntryPoint</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.EntryPoint</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.EntryPoint</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.EntryPoint</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.EntryPoint</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.EntryPoint</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.EntryPoint</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Reflection</AssemblyName>
@@ -696,6 +771,20 @@
       <MemberSignature Language="F#" Value="override this.Equals : obj -&gt; bool" Usage="assembly.Equals o" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.Equals(System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices._Assembly.Equals(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -752,6 +841,21 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.InteropServices._Assembly.EscapedCodeBase</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.EscapedCodeBase</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.EscapedCodeBase</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.EscapedCodeBase</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.EscapedCodeBase</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.EscapedCodeBase</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.EscapedCodeBase</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.EscapedCodeBase</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.EscapedCodeBase</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.EscapedCodeBase</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.EscapedCodeBase</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.EscapedCodeBase</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.EscapedCodeBase</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.EscapedCodeBase</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.EscapedCodeBase</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.EscapedCodeBase</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -798,6 +902,36 @@
       <MemberSignature Language="F#" Value="member this.Evidence : System.Security.Policy.Evidence" Usage="System.Reflection.Assembly.Evidence" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.Evidence</InterfaceMember>
+        <InterfaceMember>P:System.Security.IEvidenceFactory.Evidence</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.Evidence</InterfaceMember>
+        <InterfaceMember>P:System.Security.IEvidenceFactory.Evidence</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.Evidence</InterfaceMember>
+        <InterfaceMember>P:System.Security.IEvidenceFactory.Evidence</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.Evidence</InterfaceMember>
+        <InterfaceMember>P:System.Security.IEvidenceFactory.Evidence</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.Evidence</InterfaceMember>
+        <InterfaceMember>P:System.Security.IEvidenceFactory.Evidence</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.Evidence</InterfaceMember>
+        <InterfaceMember>P:System.Security.IEvidenceFactory.Evidence</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.Evidence</InterfaceMember>
+        <InterfaceMember>P:System.Security.IEvidenceFactory.Evidence</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.Evidence</InterfaceMember>
+        <InterfaceMember>P:System.Security.IEvidenceFactory.Evidence</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.Evidence</InterfaceMember>
+        <InterfaceMember>P:System.Security.IEvidenceFactory.Evidence</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.Evidence</InterfaceMember>
+        <InterfaceMember>P:System.Security.IEvidenceFactory.Evidence</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.Evidence</InterfaceMember>
+        <InterfaceMember>P:System.Security.IEvidenceFactory.Evidence</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.Evidence</InterfaceMember>
+        <InterfaceMember>P:System.Security.IEvidenceFactory.Evidence</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.Evidence</InterfaceMember>
+        <InterfaceMember>P:System.Security.IEvidenceFactory.Evidence</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.Evidence</InterfaceMember>
+        <InterfaceMember>P:System.Security.IEvidenceFactory.Evidence</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.Evidence</InterfaceMember>
+        <InterfaceMember>P:System.Security.IEvidenceFactory.Evidence</InterfaceMember>
         <InterfaceMember>P:System.Runtime.InteropServices._Assembly.Evidence</InterfaceMember>
         <InterfaceMember>P:System.Security.IEvidenceFactory.Evidence</InterfaceMember>
       </Implements>
@@ -883,6 +1017,21 @@
       <MemberSignature Language="F#" Value="member this.FullName : string" Usage="System.Reflection.Assembly.FullName" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.FullName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.FullName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.FullName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.FullName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.FullName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.FullName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.FullName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.FullName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.FullName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.FullName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.FullName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.FullName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.FullName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.FullName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.FullName</InterfaceMember>
         <InterfaceMember>P:System.Runtime.InteropServices._Assembly.FullName</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1092,6 +1241,49 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetCustomAttributes(System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1165,6 +1357,49 @@
       <MemberSignature Language="F#" Value="abstract member GetCustomAttributes : Type * bool -&gt; obj[]&#xA;override this.GetCustomAttributes : Type * bool -&gt; obj[]" Usage="assembly.GetCustomAttributes (attributeType, inherit)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
         <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
       </Implements>
@@ -1407,6 +1642,21 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetExportedTypes</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetExportedTypes</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetExportedTypes</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetExportedTypes</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetExportedTypes</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetExportedTypes</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetExportedTypes</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetExportedTypes</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetExportedTypes</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetExportedTypes</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetExportedTypes</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetExportedTypes</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetExportedTypes</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetExportedTypes</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetExportedTypes</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetExportedTypes</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Reflection</AssemblyName>
@@ -1467,6 +1717,21 @@
       <MemberSignature Language="F#" Value="abstract member GetFile : string -&gt; System.IO.FileStream&#xA;override this.GetFile : string -&gt; System.IO.FileStream" Usage="assembly.GetFile name" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetFile(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetFile(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetFile(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetFile(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetFile(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetFile(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetFile(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetFile(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetFile(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetFile(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetFile(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetFile(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetFile(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetFile(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetFile(System.String)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetFile(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1540,6 +1805,21 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetFiles</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetFiles</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetFiles</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetFiles</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetFiles</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetFiles</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetFiles</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetFiles</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetFiles</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetFiles</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetFiles</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetFiles</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetFiles</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetFiles</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetFiles</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetFiles</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -1593,6 +1873,21 @@
       <MemberSignature Language="F#" Value="abstract member GetFiles : bool -&gt; System.IO.FileStream[]&#xA;override this.GetFiles : bool -&gt; System.IO.FileStream[]" Usage="assembly.GetFiles getResourceModules" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetFiles(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetFiles(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetFiles(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetFiles(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetFiles(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetFiles(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetFiles(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetFiles(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetFiles(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetFiles(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetFiles(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetFiles(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetFiles(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetFiles(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetFiles(System.Boolean)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetFiles(System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1683,6 +1978,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetHashCode</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Reflection</AssemblyName>
@@ -1740,6 +2049,21 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetLoadedModules</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetLoadedModules</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetLoadedModules</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetLoadedModules</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetLoadedModules</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetLoadedModules</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetLoadedModules</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetLoadedModules</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetLoadedModules</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetLoadedModules</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetLoadedModules</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetLoadedModules</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetLoadedModules</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetLoadedModules</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetLoadedModules</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetLoadedModules</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -1783,6 +2107,21 @@
       <MemberSignature Language="VB.NET" Value="Public Function GetLoadedModules (getResourceModules As Boolean) As Module()" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetLoadedModules(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetLoadedModules(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetLoadedModules(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetLoadedModules(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetLoadedModules(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetLoadedModules(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetLoadedModules(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetLoadedModules(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetLoadedModules(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetLoadedModules(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetLoadedModules(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetLoadedModules(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetLoadedModules(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetLoadedModules(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetLoadedModules(System.Boolean)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetLoadedModules(System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1829,6 +2168,21 @@
       <MemberSignature Language="F#" Value="abstract member GetManifestResourceInfo : string -&gt; System.Reflection.ManifestResourceInfo&#xA;override this.GetManifestResourceInfo : string -&gt; System.Reflection.ManifestResourceInfo" Usage="assembly.GetManifestResourceInfo resourceName" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceInfo(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceInfo(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceInfo(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceInfo(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceInfo(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceInfo(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceInfo(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceInfo(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceInfo(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceInfo(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceInfo(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceInfo(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceInfo(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceInfo(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceInfo(System.String)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceInfo(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1889,6 +2243,21 @@
       <MemberSignature Language="F#" Value="abstract member GetManifestResourceNames : unit -&gt; string[]&#xA;override this.GetManifestResourceNames : unit -&gt; string[]" Usage="assembly.GetManifestResourceNames " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceNames</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceNames</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceNames</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceNames</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceNames</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceNames</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceNames</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceNames</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceNames</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceNames</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceNames</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceNames</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceNames</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceNames</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceNames</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceNames</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1964,6 +2333,21 @@
       <MemberSignature Language="F#" Value="abstract member GetManifestResourceStream : string -&gt; System.IO.Stream&#xA;override this.GetManifestResourceStream : string -&gt; System.IO.Stream" Usage="assembly.GetManifestResourceStream name" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceStream(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceStream(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceStream(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceStream(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceStream(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceStream(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceStream(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceStream(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceStream(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceStream(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceStream(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceStream(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceStream(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceStream(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceStream(System.String)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceStream(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2045,6 +2429,21 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceStream(System.Type,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceStream(System.Type,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceStream(System.Type,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceStream(System.Type,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceStream(System.Type,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceStream(System.Type,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceStream(System.Type,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceStream(System.Type,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceStream(System.Type,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceStream(System.Type,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceStream(System.Type,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceStream(System.Type,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceStream(System.Type,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceStream(System.Type,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceStream(System.Type,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetManifestResourceStream(System.Type,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -2120,6 +2519,21 @@
       <MemberSignature Language="VB.NET" Value="Public Function GetModule (name As String) As Module" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetModule(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetModule(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetModule(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetModule(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetModule(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetModule(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetModule(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetModule(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetModule(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetModule(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetModule(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetModule(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetModule(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetModule(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetModule(System.String)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetModule(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2197,6 +2611,21 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetModules</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetModules</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetModules</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetModules</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetModules</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetModules</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetModules</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetModules</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetModules</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetModules</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetModules</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetModules</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetModules</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetModules</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetModules</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetModules</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -2260,6 +2689,21 @@
       <MemberSignature Language="VB.NET" Value="Public Function GetModules (getResourceModules As Boolean) As Module()" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetModules(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetModules(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetModules(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetModules(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetModules(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetModules(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetModules(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetModules(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetModules(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetModules(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetModules(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetModules(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetModules(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetModules(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetModules(System.Boolean)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetModules(System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2328,6 +2772,21 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetName</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetName</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetName</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetName</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetName</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetName</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetName</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetName</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetName</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetName</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetName</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetName</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetName</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetName</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetName</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetName</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Reflection</AssemblyName>
@@ -2373,6 +2832,21 @@
       <MemberSignature Language="F#" Value="abstract member GetName : bool -&gt; System.Reflection.AssemblyName&#xA;override this.GetName : bool -&gt; System.Reflection.AssemblyName" Usage="assembly.GetName copiedName" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetName(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetName(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetName(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetName(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetName(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetName(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetName(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetName(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetName(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetName(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetName(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetName(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetName(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetName(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetName(System.Boolean)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetName(System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2420,6 +2894,49 @@
       <MemberSignature Language="F#" Value="abstract member GetObjectData : System.Runtime.Serialization.SerializationInfo * System.Runtime.Serialization.StreamingContext -&gt; unit&#xA;override this.GetObjectData : System.Runtime.Serialization.SerializationInfo * System.Runtime.Serialization.StreamingContext -&gt; unit" Usage="assembly.GetObjectData (info, context)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
       </Implements>
@@ -2477,6 +2994,21 @@
       <MemberSignature Language="VB.NET" Value="Public Function GetReferencedAssemblies () As AssemblyName()" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetReferencedAssemblies</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetReferencedAssemblies</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetReferencedAssemblies</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetReferencedAssemblies</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetReferencedAssemblies</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetReferencedAssemblies</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetReferencedAssemblies</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetReferencedAssemblies</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetReferencedAssemblies</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetReferencedAssemblies</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetReferencedAssemblies</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetReferencedAssemblies</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetReferencedAssemblies</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetReferencedAssemblies</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetReferencedAssemblies</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetReferencedAssemblies</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2551,6 +3083,21 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetSatelliteAssembly(System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetSatelliteAssembly(System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetSatelliteAssembly(System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetSatelliteAssembly(System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetSatelliteAssembly(System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetSatelliteAssembly(System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetSatelliteAssembly(System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetSatelliteAssembly(System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetSatelliteAssembly(System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetSatelliteAssembly(System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetSatelliteAssembly(System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetSatelliteAssembly(System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetSatelliteAssembly(System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetSatelliteAssembly(System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetSatelliteAssembly(System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetSatelliteAssembly(System.Globalization.CultureInfo)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -2609,6 +3156,21 @@
       <MemberSignature Language="C#" Value="public System.Reflection.Assembly GetSatelliteAssembly (System.Globalization.CultureInfo culture, Version version);" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetSatelliteAssembly(System.Globalization.CultureInfo,System.Version)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetSatelliteAssembly(System.Globalization.CultureInfo,System.Version)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetSatelliteAssembly(System.Globalization.CultureInfo,System.Version)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetSatelliteAssembly(System.Globalization.CultureInfo,System.Version)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetSatelliteAssembly(System.Globalization.CultureInfo,System.Version)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetSatelliteAssembly(System.Globalization.CultureInfo,System.Version)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetSatelliteAssembly(System.Globalization.CultureInfo,System.Version)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetSatelliteAssembly(System.Globalization.CultureInfo,System.Version)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetSatelliteAssembly(System.Globalization.CultureInfo,System.Version)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetSatelliteAssembly(System.Globalization.CultureInfo,System.Version)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetSatelliteAssembly(System.Globalization.CultureInfo,System.Version)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetSatelliteAssembly(System.Globalization.CultureInfo,System.Version)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetSatelliteAssembly(System.Globalization.CultureInfo,System.Version)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetSatelliteAssembly(System.Globalization.CultureInfo,System.Version)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetSatelliteAssembly(System.Globalization.CultureInfo,System.Version)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetSatelliteAssembly(System.Globalization.CultureInfo,System.Version)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2718,6 +3280,21 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Reflection</AssemblyName>
@@ -2808,6 +3385,21 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType(System.String,System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Reflection</AssemblyName>
@@ -2894,6 +3486,21 @@
       <MemberSignature Language="VB.NET" Value="Public Function GetType (name As String, throwOnError As Boolean, ignoreCase As Boolean) As Type" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType(System.String,System.Boolean,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType(System.String,System.Boolean,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType(System.String,System.Boolean,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType(System.String,System.Boolean,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType(System.String,System.Boolean,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType(System.String,System.Boolean,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType(System.String,System.Boolean,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType(System.String,System.Boolean,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType(System.String,System.Boolean,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType(System.String,System.Boolean,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType(System.String,System.Boolean,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType(System.String,System.Boolean,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType(System.String,System.Boolean,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType(System.String,System.Boolean,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType(System.String,System.Boolean,System.Boolean)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType(System.String,System.Boolean,System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2984,6 +3591,21 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetTypes</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetTypes</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetTypes</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetTypes</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetTypes</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetTypes</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetTypes</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetTypes</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetTypes</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetTypes</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetTypes</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetTypes</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetTypes</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetTypes</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetTypes</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetTypes</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Reflection</AssemblyName>
@@ -3053,6 +3675,21 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; property bool GlobalAssemblyCache { bool get(); };" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.GlobalAssemblyCache</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.GlobalAssemblyCache</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.GlobalAssemblyCache</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.GlobalAssemblyCache</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.GlobalAssemblyCache</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.GlobalAssemblyCache</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.GlobalAssemblyCache</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.GlobalAssemblyCache</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.GlobalAssemblyCache</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.GlobalAssemblyCache</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.GlobalAssemblyCache</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.GlobalAssemblyCache</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.GlobalAssemblyCache</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.GlobalAssemblyCache</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.GlobalAssemblyCache</InterfaceMember>
         <InterfaceMember>P:System.Runtime.InteropServices._Assembly.GlobalAssemblyCache</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -3232,6 +3869,49 @@
       <MemberSignature Language="F#" Value="abstract member IsDefined : Type * bool -&gt; bool&#xA;override this.IsDefined : Type * bool -&gt; bool" Usage="assembly.IsDefined (attributeType, inherit)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
         <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices._Assembly.IsDefined(System.Type,System.Boolean)</InterfaceMember>
       </Implements>
@@ -4768,6 +5448,21 @@ The ability to execute code in remote assemblies is disabled. See <see href="htt
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices._Assembly.LoadModule(System.String,System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.LoadModule(System.String,System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.LoadModule(System.String,System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.LoadModule(System.String,System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.LoadModule(System.String,System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.LoadModule(System.String,System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.LoadModule(System.String,System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.LoadModule(System.String,System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.LoadModule(System.String,System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.LoadModule(System.String,System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.LoadModule(System.String,System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.LoadModule(System.String,System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.LoadModule(System.String,System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.LoadModule(System.String,System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.LoadModule(System.String,System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.LoadModule(System.String,System.Byte[])</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -4824,6 +5519,21 @@ The ability to execute code in remote assemblies is disabled. See <see href="htt
       <MemberSignature Language="VB.NET" Value="Public Function LoadModule (moduleName As String, rawModule As Byte(), rawSymbolStore As Byte()) As Module" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.LoadModule(System.String,System.Byte[],System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.LoadModule(System.String,System.Byte[],System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.LoadModule(System.String,System.Byte[],System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.LoadModule(System.String,System.Byte[],System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.LoadModule(System.String,System.Byte[],System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.LoadModule(System.String,System.Byte[],System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.LoadModule(System.String,System.Byte[],System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.LoadModule(System.String,System.Byte[],System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.LoadModule(System.String,System.Byte[],System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.LoadModule(System.String,System.Byte[],System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.LoadModule(System.String,System.Byte[],System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.LoadModule(System.String,System.Byte[],System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.LoadModule(System.String,System.Byte[],System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.LoadModule(System.String,System.Byte[],System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.LoadModule(System.String,System.Byte[],System.Byte[])</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices._Assembly.LoadModule(System.String,System.Byte[],System.Byte[])</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -5059,6 +5769,21 @@ The ability to execute code in remote assemblies is disabled. See <see href="htt
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.InteropServices._Assembly.Location</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.Location</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.Location</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.Location</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.Location</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.Location</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.Location</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.Location</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.Location</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.Location</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.Location</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.Location</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.Location</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.Location</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.Location</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._Assembly.Location</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Reflection</AssemblyName>
@@ -5169,6 +5894,21 @@ The ability to execute code in remote assemblies is disabled. See <see href="htt
       <MemberSignature Language="VB.NET" Value="Public Custom Event ModuleResolve As ModuleResolveEventHandler " FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5" />
       <MemberType>Event</MemberType>
       <Implements>
+        <InterfaceMember>E:System.Runtime.InteropServices._Assembly.ModuleResolve</InterfaceMember>
+        <InterfaceMember>E:System.Runtime.InteropServices._Assembly.ModuleResolve</InterfaceMember>
+        <InterfaceMember>E:System.Runtime.InteropServices._Assembly.ModuleResolve</InterfaceMember>
+        <InterfaceMember>E:System.Runtime.InteropServices._Assembly.ModuleResolve</InterfaceMember>
+        <InterfaceMember>E:System.Runtime.InteropServices._Assembly.ModuleResolve</InterfaceMember>
+        <InterfaceMember>E:System.Runtime.InteropServices._Assembly.ModuleResolve</InterfaceMember>
+        <InterfaceMember>E:System.Runtime.InteropServices._Assembly.ModuleResolve</InterfaceMember>
+        <InterfaceMember>E:System.Runtime.InteropServices._Assembly.ModuleResolve</InterfaceMember>
+        <InterfaceMember>E:System.Runtime.InteropServices._Assembly.ModuleResolve</InterfaceMember>
+        <InterfaceMember>E:System.Runtime.InteropServices._Assembly.ModuleResolve</InterfaceMember>
+        <InterfaceMember>E:System.Runtime.InteropServices._Assembly.ModuleResolve</InterfaceMember>
+        <InterfaceMember>E:System.Runtime.InteropServices._Assembly.ModuleResolve</InterfaceMember>
+        <InterfaceMember>E:System.Runtime.InteropServices._Assembly.ModuleResolve</InterfaceMember>
+        <InterfaceMember>E:System.Runtime.InteropServices._Assembly.ModuleResolve</InterfaceMember>
+        <InterfaceMember>E:System.Runtime.InteropServices._Assembly.ModuleResolve</InterfaceMember>
         <InterfaceMember>E:System.Runtime.InteropServices._Assembly.ModuleResolve</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -5726,6 +6466,9 @@ The ability to execute code in remote assemblies is disabled. See <see href="htt
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Reflection</AssemblyName>
@@ -5761,6 +6504,9 @@ The ability to execute code in remote assemblies is disabled. See <see href="htt
       <MemberSignature Language="C++ CLI" Value=" virtual cli::array &lt;System::Object ^&gt; ^ System.Reflection.ICustomAttributeProvider.GetCustomAttributes(Type ^ attributeType, bool inherit) = System::Reflection::ICustomAttributeProvider::GetCustomAttributes;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
         <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -5800,6 +6546,9 @@ The ability to execute code in remote assemblies is disabled. See <see href="htt
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Reflection</AssemblyName>
@@ -5838,6 +6587,20 @@ The ability to execute code in remote assemblies is disabled. See <see href="htt
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.GetType</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -5872,6 +6635,21 @@ The ability to execute code in remote assemblies is disabled. See <see href="htt
       <MemberSignature Language="F#" Value="override this.ToString : unit -&gt; string" Usage="assembly.ToString " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.ToString</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.ToString</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.ToString</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.ToString</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.ToString</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.ToString</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.ToString</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.ToString</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.ToString</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.ToString</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.ToString</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.ToString</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.ToString</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.ToString</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._Assembly.ToString</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices._Assembly.ToString</InterfaceMember>
       </Implements>
       <AssemblyInfo>

@@ -72,6 +72,12 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Extensions.Localization.IStringLocalizer.GetAllStrings(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Localization.IStringLocalizer.GetAllStrings(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Localization.IStringLocalizer.GetAllStrings(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Localization.IStringLocalizer.GetAllStrings(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Localization.IStringLocalizer.GetAllStrings(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Localization.IStringLocalizer.GetAllStrings(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Localization.IStringLocalizer.GetAllStrings(System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Localization.Abstractions</AssemblyName>
@@ -107,6 +113,12 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Extensions.Localization.IStringLocalizer.Item(System.String)</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.Localization.IStringLocalizer.Item(System.String)</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.Localization.IStringLocalizer.Item(System.String)</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.Localization.IStringLocalizer.Item(System.String)</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.Localization.IStringLocalizer.Item(System.String)</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.Localization.IStringLocalizer.Item(System.String)</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.Localization.IStringLocalizer.Item(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Localization.Abstractions</AssemblyName>
@@ -141,6 +153,12 @@
       <MemberSignature Language="F#" Value="member this.Item(string * obj[]) : Microsoft.Extensions.Localization.LocalizedString" Usage="Microsoft.Extensions.Localization.StringLocalizer&lt;'ResourceSource&gt;.Item" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:Microsoft.Extensions.Localization.IStringLocalizer.Item(System.String,System.Object[])</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.Localization.IStringLocalizer.Item(System.String,System.Object[])</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.Localization.IStringLocalizer.Item(System.String,System.Object[])</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.Localization.IStringLocalizer.Item(System.String,System.Object[])</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.Localization.IStringLocalizer.Item(System.String,System.Object[])</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.Localization.IStringLocalizer.Item(System.String,System.Object[])</InterfaceMember>
         <InterfaceMember>P:Microsoft.Extensions.Localization.IStringLocalizer.Item(System.String,System.Object[])</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -184,6 +202,12 @@
       <MemberSignature Language="F#" Value="abstract member WithCulture : System.Globalization.CultureInfo -&gt; Microsoft.Extensions.Localization.IStringLocalizer&#xA;override this.WithCulture : System.Globalization.CultureInfo -&gt; Microsoft.Extensions.Localization.IStringLocalizer" Usage="stringLocalizer.WithCulture culture" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Extensions.Localization.IStringLocalizer.WithCulture(System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Localization.IStringLocalizer.WithCulture(System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Localization.IStringLocalizer.WithCulture(System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Localization.IStringLocalizer.WithCulture(System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Localization.IStringLocalizer.WithCulture(System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Localization.IStringLocalizer.WithCulture(System.Globalization.CultureInfo)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Extensions.Localization.IStringLocalizer.WithCulture(System.Globalization.CultureInfo)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

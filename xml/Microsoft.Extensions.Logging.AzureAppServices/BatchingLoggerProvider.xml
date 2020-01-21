@@ -39,6 +39,7 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Extensions.Logging.ILoggerProvider.CreateLogger(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.ILoggerProvider.CreateLogger(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Logging.AzureAppServices</AssemblyName>
@@ -67,6 +68,7 @@
       <MemberSignature Language="F#" Value="abstract member Dispose : unit -&gt; unit&#xA;override this.Dispose : unit -&gt; unit" Usage="batchingLoggerProvider.Dispose " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -141,6 +143,7 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void Microsoft.Extensions.Logging.ISupportExternalScope.SetScopeProvider(Microsoft::Extensions::Logging::IExternalScopeProvider ^ scopeProvider) = Microsoft::Extensions::Logging::ISupportExternalScope::SetScopeProvider;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.ISupportExternalScope.SetScopeProvider(Microsoft.Extensions.Logging.IExternalScopeProvider)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Extensions.Logging.ISupportExternalScope.SetScopeProvider(Microsoft.Extensions.Logging.IExternalScopeProvider)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

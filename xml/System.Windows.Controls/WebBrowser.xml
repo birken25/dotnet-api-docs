@@ -1198,6 +1198,7 @@ private void goNavigateToStringButton_Click(object sender, RoutedEventArgs e)
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.TabInto(System.Windows.Input.TraversalRequest)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.TabInto(System.Windows.Input.TraversalRequest)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -1239,6 +1240,7 @@ This member is an explicit interface member implementation. It can be used only 
       <MemberSignature Language="C++ CLI" Value=" virtual bool System.Windows.Interop.IKeyboardInputSink.TranslateAccelerator(System::Windows::Interop::MSG % msg, System::Windows::Input::ModifierKeys modifiers) = System::Windows::Interop::IKeyboardInputSink::TranslateAccelerator;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.TranslateAccelerator(System.Windows.Interop.MSG@,System.Windows.Input.ModifierKeys)</InterfaceMember>
         <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.TranslateAccelerator(System.Windows.Interop.MSG@,System.Windows.Input.ModifierKeys)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

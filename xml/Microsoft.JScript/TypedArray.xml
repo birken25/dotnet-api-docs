@@ -99,6 +99,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Reflection.IReflect.GetField(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetField(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetField(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetField(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetField(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetField(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetField(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetField(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetField(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetField(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetField(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetField(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetField(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetField(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetField(System.String,System.Reflection.BindingFlags)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.JScript</AssemblyName>
@@ -133,6 +147,20 @@
       <MemberSignature Language="F#" Value="abstract member GetFields : System.Reflection.BindingFlags -&gt; System.Reflection.FieldInfo[]&#xA;override this.GetFields : System.Reflection.BindingFlags -&gt; System.Reflection.FieldInfo[]" Usage="typedArray.GetFields bindingAttr" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Reflection.IReflect.GetFields(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetFields(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetFields(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetFields(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetFields(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetFields(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetFields(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetFields(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetFields(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetFields(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetFields(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetFields(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetFields(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetFields(System.Reflection.BindingFlags)</InterfaceMember>
         <InterfaceMember>M:System.Reflection.IReflect.GetFields(System.Reflection.BindingFlags)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -193,6 +221,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Reflection.IReflect.GetMember(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMember(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMember(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMember(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMember(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMember(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMember(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMember(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMember(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMember(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMember(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMember(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMember(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMember(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMember(System.String,System.Reflection.BindingFlags)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.JScript</AssemblyName>
@@ -227,6 +269,20 @@
       <MemberSignature Language="F#" Value="abstract member GetMembers : System.Reflection.BindingFlags -&gt; System.Reflection.MemberInfo[]&#xA;override this.GetMembers : System.Reflection.BindingFlags -&gt; System.Reflection.MemberInfo[]" Usage="typedArray.GetMembers bindingAttr" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMembers(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMembers(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMembers(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMembers(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMembers(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMembers(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMembers(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMembers(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMembers(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMembers(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMembers(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMembers(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMembers(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMembers(System.Reflection.BindingFlags)</InterfaceMember>
         <InterfaceMember>M:System.Reflection.IReflect.GetMembers(System.Reflection.BindingFlags)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -272,6 +328,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.JScript</AssemblyName>
@@ -305,6 +375,20 @@
       <MemberSignature Language="F#" Value="abstract member GetMethod : string * System.Reflection.BindingFlags * System.Reflection.Binder * Type[] * System.Reflection.ParameterModifier[] -&gt; System.Reflection.MethodInfo&#xA;override this.GetMethod : string * System.Reflection.BindingFlags * System.Reflection.Binder * Type[] * System.Reflection.ParameterModifier[] -&gt; System.Reflection.MethodInfo" Usage="typedArray.GetMethod (name, bindingAttr, binder, types, modifiers)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
         <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -347,6 +431,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Reflection.IReflect.GetMethods(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMethods(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMethods(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMethods(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMethods(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMethods(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMethods(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMethods(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMethods(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMethods(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMethods(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMethods(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMethods(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMethods(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetMethods(System.Reflection.BindingFlags)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.JScript</AssemblyName>
@@ -379,6 +477,20 @@
       <MemberSignature Language="F#" Value="abstract member GetProperties : System.Reflection.BindingFlags -&gt; System.Reflection.PropertyInfo[]&#xA;override this.GetProperties : System.Reflection.BindingFlags -&gt; System.Reflection.PropertyInfo[]" Usage="typedArray.GetProperties bindingAttr" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Reflection.IReflect.GetProperties(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetProperties(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetProperties(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetProperties(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetProperties(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetProperties(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetProperties(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetProperties(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetProperties(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetProperties(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetProperties(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetProperties(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetProperties(System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetProperties(System.Reflection.BindingFlags)</InterfaceMember>
         <InterfaceMember>M:System.Reflection.IReflect.GetProperties(System.Reflection.BindingFlags)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -424,6 +536,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.JScript</AssemblyName>
@@ -457,6 +583,20 @@
       <MemberSignature Language="F#" Value="abstract member GetProperty : string * System.Reflection.BindingFlags * System.Reflection.Binder * Type * Type[] * System.Reflection.ParameterModifier[] -&gt; System.Reflection.PropertyInfo&#xA;override this.GetProperty : string * System.Reflection.BindingFlags * System.Reflection.Binder * Type * Type[] * System.Reflection.ParameterModifier[] -&gt; System.Reflection.PropertyInfo" Usage="typedArray.GetProperty (name, bindingAttr, binder, returnType, types, modifiers)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
         <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -499,6 +639,20 @@
       <MemberSignature Language="F#" Value="abstract member InvokeMember : string * System.Reflection.BindingFlags * System.Reflection.Binder * obj * obj[] * System.Reflection.ParameterModifier[] * System.Globalization.CultureInfo * string[] -&gt; obj&#xA;override this.InvokeMember : string * System.Reflection.BindingFlags * System.Reflection.Binder * obj * obj[] * System.Reflection.ParameterModifier[] * System.Globalization.CultureInfo * string[] -&gt; obj" Usage="typedArray.InvokeMember (name, flags, binder, target, args, modifiers, locale, namedParameters)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Reflection.IReflect.InvokeMember(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object,System.Object[],System.Reflection.ParameterModifier[],System.Globalization.CultureInfo,System.String[])</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.InvokeMember(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object,System.Object[],System.Reflection.ParameterModifier[],System.Globalization.CultureInfo,System.String[])</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.InvokeMember(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object,System.Object[],System.Reflection.ParameterModifier[],System.Globalization.CultureInfo,System.String[])</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.InvokeMember(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object,System.Object[],System.Reflection.ParameterModifier[],System.Globalization.CultureInfo,System.String[])</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.InvokeMember(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object,System.Object[],System.Reflection.ParameterModifier[],System.Globalization.CultureInfo,System.String[])</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.InvokeMember(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object,System.Object[],System.Reflection.ParameterModifier[],System.Globalization.CultureInfo,System.String[])</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.InvokeMember(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object,System.Object[],System.Reflection.ParameterModifier[],System.Globalization.CultureInfo,System.String[])</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.InvokeMember(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object,System.Object[],System.Reflection.ParameterModifier[],System.Globalization.CultureInfo,System.String[])</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.InvokeMember(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object,System.Object[],System.Reflection.ParameterModifier[],System.Globalization.CultureInfo,System.String[])</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.InvokeMember(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object,System.Object[],System.Reflection.ParameterModifier[],System.Globalization.CultureInfo,System.String[])</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.InvokeMember(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object,System.Object[],System.Reflection.ParameterModifier[],System.Globalization.CultureInfo,System.String[])</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.InvokeMember(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object,System.Object[],System.Reflection.ParameterModifier[],System.Globalization.CultureInfo,System.String[])</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.InvokeMember(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object,System.Object[],System.Reflection.ParameterModifier[],System.Globalization.CultureInfo,System.String[])</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.IReflect.InvokeMember(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object,System.Object[],System.Reflection.ParameterModifier[],System.Globalization.CultureInfo,System.String[])</InterfaceMember>
         <InterfaceMember>M:System.Reflection.IReflect.InvokeMember(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object,System.Object[],System.Reflection.ParameterModifier[],System.Globalization.CultureInfo,System.String[])</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -579,6 +733,20 @@
       <MemberSignature Language="F#" Value="member this.UnderlyingSystemType : Type" Usage="Microsoft.JScript.TypedArray.UnderlyingSystemType" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Reflection.IReflect.UnderlyingSystemType</InterfaceMember>
+        <InterfaceMember>P:System.Reflection.IReflect.UnderlyingSystemType</InterfaceMember>
+        <InterfaceMember>P:System.Reflection.IReflect.UnderlyingSystemType</InterfaceMember>
+        <InterfaceMember>P:System.Reflection.IReflect.UnderlyingSystemType</InterfaceMember>
+        <InterfaceMember>P:System.Reflection.IReflect.UnderlyingSystemType</InterfaceMember>
+        <InterfaceMember>P:System.Reflection.IReflect.UnderlyingSystemType</InterfaceMember>
+        <InterfaceMember>P:System.Reflection.IReflect.UnderlyingSystemType</InterfaceMember>
+        <InterfaceMember>P:System.Reflection.IReflect.UnderlyingSystemType</InterfaceMember>
+        <InterfaceMember>P:System.Reflection.IReflect.UnderlyingSystemType</InterfaceMember>
+        <InterfaceMember>P:System.Reflection.IReflect.UnderlyingSystemType</InterfaceMember>
+        <InterfaceMember>P:System.Reflection.IReflect.UnderlyingSystemType</InterfaceMember>
+        <InterfaceMember>P:System.Reflection.IReflect.UnderlyingSystemType</InterfaceMember>
+        <InterfaceMember>P:System.Reflection.IReflect.UnderlyingSystemType</InterfaceMember>
+        <InterfaceMember>P:System.Reflection.IReflect.UnderlyingSystemType</InterfaceMember>
         <InterfaceMember>P:System.Reflection.IReflect.UnderlyingSystemType</InterfaceMember>
       </Implements>
       <AssemblyInfo>

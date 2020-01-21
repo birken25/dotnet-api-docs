@@ -48,6 +48,11 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.Generic.IEnumerator`1.Current</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IEnumerator`1.Current</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IEnumerator`1.Current</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IEnumerator`1.Current</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IEnumerator`1.Current</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IEnumerator`1.Current</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Reflection.Metadata</AssemblyName>
@@ -102,6 +107,11 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.IEnumerator.MoveNext</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerator.MoveNext</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerator.MoveNext</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerator.MoveNext</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerator.MoveNext</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerator.MoveNext</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Reflection.Metadata</AssemblyName>
@@ -131,6 +141,11 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.IEnumerator.Reset</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerator.Reset</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerator.Reset</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerator.Reset</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerator.Reset</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerator.Reset</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Reflection.Metadata</AssemblyName>
@@ -157,6 +172,11 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Collections::Generic::IEnumerator&lt;System::Reflection::Metadata::Blob&gt; ^ System.Collections.Generic.IEnumerable&lt;System.Reflection.Metadata.Blob&gt;.GetEnumerator() = System::Collections::Generic::IEnumerable&lt;System::Reflection::Metadata::Blob&gt;::GetEnumerator;" FrameworkAlternate="netcore-1.1;netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netcore-3.1" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
         <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -185,6 +205,11 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Collections::IEnumerator ^ System.Collections.IEnumerable.GetEnumerator() = System::Collections::IEnumerable::GetEnumerator;" FrameworkAlternate="netcore-1.1;netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netcore-3.1" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
         <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -215,6 +240,11 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.IEnumerator.Current</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IEnumerator.Current</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IEnumerator.Current</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IEnumerator.Current</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IEnumerator.Current</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IEnumerator.Current</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Reflection.Metadata</AssemblyName>
@@ -241,6 +271,11 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.IDisposable.Dispose() = IDisposable::Dispose;" FrameworkAlternate="netcore-1.1;netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netcore-3.1" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>

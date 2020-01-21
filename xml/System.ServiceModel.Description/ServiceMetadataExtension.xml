@@ -112,6 +112,18 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.IExtension`1.Attach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Attach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Attach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Attach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Attach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Attach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Attach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Attach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Attach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Attach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Attach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Attach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Attach(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -138,6 +150,18 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.ServiceModel.IExtension&lt;System.ServiceModel.ServiceHostBase&gt;.Detach(System::ServiceModel::ServiceHostBase ^ owner) = System::ServiceModel::IExtension&lt;System::ServiceModel::ServiceHostBase ^&gt;::Detach;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Detach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Detach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Detach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Detach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Detach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Detach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Detach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Detach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Detach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Detach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Detach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Detach(`0)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.IExtension`1.Detach(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

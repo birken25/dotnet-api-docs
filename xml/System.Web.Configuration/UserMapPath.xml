@@ -59,6 +59,17 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetAppPathForPath(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetAppPathForPath(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetAppPathForPath(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetAppPathForPath(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetAppPathForPath(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetAppPathForPath(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetAppPathForPath(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetAppPathForPath(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetAppPathForPath(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetAppPathForPath(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetAppPathForPath(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetAppPathForPath(System.String,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -89,6 +100,17 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetDefaultSiteNameAndID(System.String@,System.String@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetDefaultSiteNameAndID(System.String@,System.String@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetDefaultSiteNameAndID(System.String@,System.String@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetDefaultSiteNameAndID(System.String@,System.String@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetDefaultSiteNameAndID(System.String@,System.String@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetDefaultSiteNameAndID(System.String@,System.String@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetDefaultSiteNameAndID(System.String@,System.String@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetDefaultSiteNameAndID(System.String@,System.String@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetDefaultSiteNameAndID(System.String@,System.String@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetDefaultSiteNameAndID(System.String@,System.String@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetDefaultSiteNameAndID(System.String@,System.String@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetDefaultSiteNameAndID(System.String@,System.String@)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -118,6 +140,17 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetMachineConfigFilename</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetMachineConfigFilename</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetMachineConfigFilename</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetMachineConfigFilename</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetMachineConfigFilename</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetMachineConfigFilename</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetMachineConfigFilename</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetMachineConfigFilename</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetMachineConfigFilename</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetMachineConfigFilename</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetMachineConfigFilename</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetMachineConfigFilename</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -142,6 +175,17 @@
       <MemberSignature Language="F#" Value="abstract member GetPathConfigFilename : string * string * string * string -&gt; unit&#xA;override this.GetPathConfigFilename : string * string * string * string -&gt; unit" Usage="userMapPath.GetPathConfigFilename (siteID, path, directory, baseName)" FrameworkAlternate="netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetPathConfigFilename(System.String,System.String,System.String@,System.String@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetPathConfigFilename(System.String,System.String,System.String@,System.String@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetPathConfigFilename(System.String,System.String,System.String@,System.String@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetPathConfigFilename(System.String,System.String,System.String@,System.String@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetPathConfigFilename(System.String,System.String,System.String@,System.String@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetPathConfigFilename(System.String,System.String,System.String@,System.String@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetPathConfigFilename(System.String,System.String,System.String@,System.String@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetPathConfigFilename(System.String,System.String,System.String@,System.String@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetPathConfigFilename(System.String,System.String,System.String@,System.String@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetPathConfigFilename(System.String,System.String,System.String@,System.String@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetPathConfigFilename(System.String,System.String,System.String@,System.String@)</InterfaceMember>
         <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetPathConfigFilename(System.String,System.String,System.String@,System.String@)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -176,6 +220,17 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetRootWebConfigFilename</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetRootWebConfigFilename</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetRootWebConfigFilename</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetRootWebConfigFilename</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetRootWebConfigFilename</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetRootWebConfigFilename</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetRootWebConfigFilename</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetRootWebConfigFilename</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetRootWebConfigFilename</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetRootWebConfigFilename</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetRootWebConfigFilename</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.GetRootWebConfigFilename</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -200,6 +255,17 @@
       <MemberSignature Language="F#" Value="abstract member MapPath : string * string -&gt; string&#xA;override this.MapPath : string * string -&gt; string" Usage="userMapPath.MapPath (siteID, path)" FrameworkAlternate="netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.MapPath(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.MapPath(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.MapPath(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.MapPath(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.MapPath(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.MapPath(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.MapPath(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.MapPath(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.MapPath(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.MapPath(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.MapPath(System.String,System.String)</InterfaceMember>
         <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.MapPath(System.String,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -230,6 +296,17 @@
       <MemberSignature Language="F#" Value="abstract member ResolveSiteArgument : string * string * string -&gt; unit&#xA;override this.ResolveSiteArgument : string * string * string -&gt; unit" Usage="userMapPath.ResolveSiteArgument (siteArgument, siteName, siteID)" FrameworkAlternate="netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.ResolveSiteArgument(System.String,System.String@,System.String@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.ResolveSiteArgument(System.String,System.String@,System.String@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.ResolveSiteArgument(System.String,System.String@,System.String@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.ResolveSiteArgument(System.String,System.String@,System.String@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.ResolveSiteArgument(System.String,System.String@,System.String@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.ResolveSiteArgument(System.String,System.String@,System.String@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.ResolveSiteArgument(System.String,System.String@,System.String@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.ResolveSiteArgument(System.String,System.String@,System.String@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.ResolveSiteArgument(System.String,System.String@,System.String@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.ResolveSiteArgument(System.String,System.String@,System.String@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.ResolveSiteArgument(System.String,System.String@,System.String@)</InterfaceMember>
         <InterfaceMember>M:System.Web.Configuration.IConfigMapPath.ResolveSiteArgument(System.String,System.String@,System.String@)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

@@ -182,6 +182,18 @@
       <MemberSignature Language="F#" Value="abstract member Contains : System.Collections.Generic.KeyValuePair&lt;'Key, 'Value&gt; -&gt; bool&#xA;override this.Contains : System.Collections.Generic.KeyValuePair&lt;'Key, 'Value&gt; -&gt; bool" Usage="immutableSortedDictionary.Contains pair" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.Contains(System.Collections.Generic.KeyValuePair{`0,`1})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Contains(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.Contains(System.Collections.Generic.KeyValuePair{`0,`1})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.Contains(System.Collections.Generic.KeyValuePair{`0,`1})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Contains(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.Contains(System.Collections.Generic.KeyValuePair{`0,`1})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Contains(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.Contains(System.Collections.Generic.KeyValuePair{`0,`1})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Contains(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.Contains(System.Collections.Generic.KeyValuePair{`0,`1})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Contains(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.Contains(System.Collections.Generic.KeyValuePair{`0,`1})</InterfaceMember>
         <InterfaceMember>M:System.Collections.Generic.ICollection`1.Contains(`0)</InterfaceMember>
         <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.Contains(System.Collections.Generic.KeyValuePair{`0,`1})</InterfaceMember>
       </Implements>
@@ -218,6 +230,16 @@
       <MemberSignature Language="F#" Value="abstract member ContainsKey : 'Key -&gt; bool&#xA;override this.ContainsKey : 'Key -&gt; bool" Usage="immutableSortedDictionary.ContainsKey key" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.Generic.IReadOnlyDictionary`2.ContainsKey(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IDictionary`2.ContainsKey(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IDictionary`2.ContainsKey(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IReadOnlyDictionary`2.ContainsKey(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IDictionary`2.ContainsKey(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IReadOnlyDictionary`2.ContainsKey(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IDictionary`2.ContainsKey(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IReadOnlyDictionary`2.ContainsKey(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IDictionary`2.ContainsKey(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IReadOnlyDictionary`2.ContainsKey(`0)</InterfaceMember>
         <InterfaceMember>M:System.Collections.Generic.IDictionary`2.ContainsKey(`0)</InterfaceMember>
         <InterfaceMember>M:System.Collections.Generic.IReadOnlyDictionary`2.ContainsKey(`0)</InterfaceMember>
       </Implements>
@@ -286,6 +308,20 @@
       <MemberSignature Language="F#" Value="member this.Count : int" Usage="System.Collections.Immutable.ImmutableSortedDictionary&lt;'Key, 'Value&gt;.Count" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Collections.Generic.IReadOnlyCollection`1.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.ICollection`1.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.ICollection`1.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IReadOnlyCollection`1.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.ICollection`1.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IReadOnlyCollection`1.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.ICollection`1.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IReadOnlyCollection`1.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.ICollection`1.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IReadOnlyCollection`1.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
         <InterfaceMember>P:System.Collections.Generic.ICollection`1.Count</InterfaceMember>
         <InterfaceMember>P:System.Collections.Generic.IReadOnlyCollection`1.Count</InterfaceMember>
         <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
@@ -401,6 +437,11 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.Generic.IReadOnlyDictionary`2.Item(`0)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IReadOnlyDictionary`2.Item(`0)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IReadOnlyDictionary`2.Item(`0)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IReadOnlyDictionary`2.Item(`0)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IReadOnlyDictionary`2.Item(`0)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IReadOnlyDictionary`2.Item(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -433,6 +474,11 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; property System::Collections::Generic::IComparer&lt;TKey&gt; ^ KeyComparer { System::Collections::Generic::IComparer&lt;TKey&gt; ^ get(); };" />
       <MemberSignature Language="F#" Value="member this.KeyComparer : System.Collections.Generic.IComparer&lt;'Key&gt;" Usage="System.Collections.Immutable.ImmutableSortedDictionary&lt;'Key, 'Value&gt;.KeyComparer" />
       <MemberType>Property</MemberType>
+      <Implements>
+        <InterfaceMember>P:System.Collections.Generic.ISortKeyCollection`1.KeyComparer</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.ISortKeyCollection`1.KeyComparer</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.ISortKeyCollection`1.KeyComparer</InterfaceMember>
+      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
         <AssemblyVersion>1.1.37.0</AssemblyVersion>
@@ -461,6 +507,11 @@
       <MemberSignature Language="F#" Value="member this.Keys : seq&lt;'Key&gt;" Usage="System.Collections.Immutable.ImmutableSortedDictionary&lt;'Key, 'Value&gt;.Keys" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Collections.Generic.IReadOnlyDictionary`2.Keys</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IReadOnlyDictionary`2.Keys</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IReadOnlyDictionary`2.Keys</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IReadOnlyDictionary`2.Keys</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IReadOnlyDictionary`2.Keys</InterfaceMember>
         <InterfaceMember>P:System.Collections.Generic.IReadOnlyDictionary`2.Keys</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -624,6 +675,11 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.Generic.ICollection`1.Add(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Add(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Add(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Add(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Add(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Add(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -655,6 +711,11 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Collections.Generic.ICollection&lt;System.Collections.Generic.KeyValuePair&lt;TKey,TValue&gt;&gt;.Clear() = System::Collections::Generic::ICollection&lt;System::Collections::Generic::KeyValuePair&lt;TKey, TValue&gt;&gt;::Clear;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Clear</InterfaceMember>
         <InterfaceMember>M:System.Collections.Generic.ICollection`1.Clear</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -717,6 +778,11 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -745,6 +811,11 @@
       <MemberSignature Language="C++ CLI" Value=" virtual bool System.Collections.Generic.ICollection&lt;System.Collections.Generic.KeyValuePair&lt;TKey,TValue&gt;&gt;.Remove(System::Collections::Generic::KeyValuePair&lt;TKey, TValue&gt; item) = System::Collections::Generic::ICollection&lt;System::Collections::Generic::KeyValuePair&lt;TKey, TValue&gt;&gt;::Remove;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Remove(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Remove(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Remove(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Remove(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Remove(`0)</InterfaceMember>
         <InterfaceMember>M:System.Collections.Generic.ICollection`1.Remove(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -778,6 +849,11 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Collections.Generic.IDictionary&lt;TKey,TValue&gt;.Add(TKey key, TValue value) = System::Collections::Generic::IDictionary&lt;TKey, TValue&gt;::Add;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.Generic.IDictionary`2.Add(`0,`1)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IDictionary`2.Add(`0,`1)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IDictionary`2.Add(`0,`1)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IDictionary`2.Add(`0,`1)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IDictionary`2.Add(`0,`1)</InterfaceMember>
         <InterfaceMember>M:System.Collections.Generic.IDictionary`2.Add(`0,`1)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -814,6 +890,11 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.Generic.IDictionary`2.Item(`0)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IDictionary`2.Item(`0)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IDictionary`2.Item(`0)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IDictionary`2.Item(`0)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IDictionary`2.Item(`0)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IDictionary`2.Item(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -848,6 +929,11 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.Generic.IDictionary`2.Keys</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IDictionary`2.Keys</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IDictionary`2.Keys</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IDictionary`2.Keys</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IDictionary`2.Keys</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IDictionary`2.Keys</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -876,6 +962,11 @@
       <MemberSignature Language="C++ CLI" Value=" virtual bool System.Collections.Generic.IDictionary&lt;TKey,TValue&gt;.Remove(TKey key) = System::Collections::Generic::IDictionary&lt;TKey, TValue&gt;::Remove;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.Generic.IDictionary`2.Remove(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IDictionary`2.Remove(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IDictionary`2.Remove(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IDictionary`2.Remove(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IDictionary`2.Remove(`0)</InterfaceMember>
         <InterfaceMember>M:System.Collections.Generic.IDictionary`2.Remove(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -911,6 +1002,11 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.Generic.IDictionary`2.Values</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IDictionary`2.Values</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IDictionary`2.Values</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IDictionary`2.Values</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IDictionary`2.Values</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IDictionary`2.Values</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -940,6 +1036,11 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -968,6 +1069,11 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Collections.ICollection.CopyTo(Array ^ array, int index) = System::Collections::ICollection::CopyTo;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1011,6 +1117,11 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -1047,6 +1158,11 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -1080,6 +1196,11 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Collections.IDictionary.Add(System::Object ^ key, System::Object ^ value) = System::Collections::IDictionary::Add;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.IDictionary.Add(System.Object,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IDictionary.Add(System.Object,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IDictionary.Add(System.Object,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IDictionary.Add(System.Object,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IDictionary.Add(System.Object,System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Collections.IDictionary.Add(System.Object,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1122,6 +1243,11 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.IDictionary.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IDictionary.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IDictionary.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IDictionary.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IDictionary.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IDictionary.Clear</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -1158,6 +1284,11 @@
       <MemberSignature Language="C++ CLI" Value=" virtual bool System.Collections.IDictionary.Contains(System::Object ^ key) = System::Collections::IDictionary::Contains;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.IDictionary.Contains(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IDictionary.Contains(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IDictionary.Contains(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IDictionary.Contains(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IDictionary.Contains(System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Collections.IDictionary.Contains(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1200,6 +1331,11 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.IDictionary.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IDictionary.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IDictionary.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IDictionary.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IDictionary.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IDictionary.GetEnumerator</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -1238,6 +1374,11 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.IDictionary.IsFixedSize</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IDictionary.IsFixedSize</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IDictionary.IsFixedSize</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IDictionary.IsFixedSize</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IDictionary.IsFixedSize</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IDictionary.IsFixedSize</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -1269,6 +1410,11 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.IDictionary.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IDictionary.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IDictionary.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IDictionary.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IDictionary.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IDictionary.IsReadOnly</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -1299,6 +1445,11 @@
       <MemberSignature Language="F#" Usage="System.Collections.IDictionary.Item" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Collections.IDictionary.Item(System.Object)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IDictionary.Item(System.Object)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IDictionary.Item(System.Object)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IDictionary.Item(System.Object)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IDictionary.Item(System.Object)</InterfaceMember>
         <InterfaceMember>P:System.Collections.IDictionary.Item(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1334,6 +1485,11 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.IDictionary.Keys</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IDictionary.Keys</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IDictionary.Keys</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IDictionary.Keys</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IDictionary.Keys</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IDictionary.Keys</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -1362,6 +1518,11 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Collections.IDictionary.Remove(System::Object ^ key) = System::Collections::IDictionary::Remove;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.IDictionary.Remove(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IDictionary.Remove(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IDictionary.Remove(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IDictionary.Remove(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IDictionary.Remove(System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Collections.IDictionary.Remove(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1403,6 +1564,11 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.IDictionary.Values</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IDictionary.Values</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IDictionary.Values</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IDictionary.Values</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IDictionary.Values</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IDictionary.Values</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -1431,6 +1597,11 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Collections::IEnumerator ^ System.Collections.IEnumerable.GetEnumerator() = System::Collections::IEnumerable::GetEnumerator;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
         <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1469,6 +1640,13 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.Add(`0,`1)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.Add(`0,`1)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.Add(`0,`1)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.Add(`0,`1)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.Add(`0,`1)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.Add(`0,`1)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.Add(`0,`1)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.Add(`0,`1)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -1504,6 +1682,13 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.AddRange(System.Collections.Generic.IEnumerable{System.Collections.Generic.KeyValuePair{`0,`1}})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.AddRange(System.Collections.Generic.IEnumerable{System.Collections.Generic.KeyValuePair{`0,`1}})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.AddRange(System.Collections.Generic.IEnumerable{System.Collections.Generic.KeyValuePair{`0,`1}})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.AddRange(System.Collections.Generic.IEnumerable{System.Collections.Generic.KeyValuePair{`0,`1}})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.AddRange(System.Collections.Generic.IEnumerable{System.Collections.Generic.KeyValuePair{`0,`1}})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.AddRange(System.Collections.Generic.IEnumerable{System.Collections.Generic.KeyValuePair{`0,`1}})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.AddRange(System.Collections.Generic.IEnumerable{System.Collections.Generic.KeyValuePair{`0,`1}})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.AddRange(System.Collections.Generic.IEnumerable{System.Collections.Generic.KeyValuePair{`0,`1}})</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -1537,6 +1722,13 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.Clear</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -1566,6 +1758,13 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Collections::Immutable::IImmutableDictionary&lt;TKey, TValue&gt; ^ System.Collections.Immutable.IImmutableDictionary&lt;TKey,TValue&gt;.Remove(TKey key) = System::Collections::Immutable::IImmutableDictionary&lt;TKey, TValue&gt;::Remove;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.Remove(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.Remove(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.Remove(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.Remove(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.Remove(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.Remove(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.Remove(`0)</InterfaceMember>
         <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.Remove(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1600,6 +1799,13 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.RemoveRange(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.RemoveRange(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.RemoveRange(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.RemoveRange(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.RemoveRange(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.RemoveRange(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.RemoveRange(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.RemoveRange(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -1632,6 +1838,13 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Collections::Immutable::IImmutableDictionary&lt;TKey, TValue&gt; ^ System.Collections.Immutable.IImmutableDictionary&lt;TKey,TValue&gt;.SetItem(TKey key, TValue value) = System::Collections::Immutable::IImmutableDictionary&lt;TKey, TValue&gt;::SetItem;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.SetItem(`0,`1)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.SetItem(`0,`1)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.SetItem(`0,`1)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.SetItem(`0,`1)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.SetItem(`0,`1)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.SetItem(`0,`1)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.SetItem(`0,`1)</InterfaceMember>
         <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.SetItem(`0,`1)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1667,6 +1880,13 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Collections::Immutable::IImmutableDictionary&lt;TKey, TValue&gt; ^ System.Collections.Immutable.IImmutableDictionary&lt;TKey,TValue&gt;.SetItems(System::Collections::Generic::IEnumerable&lt;System::Collections::Generic::KeyValuePair&lt;TKey, TValue&gt;&gt; ^ items) = System::Collections::Immutable::IImmutableDictionary&lt;TKey, TValue&gt;::SetItems;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.SetItems(System.Collections.Generic.IEnumerable{System.Collections.Generic.KeyValuePair{`0,`1}})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.SetItems(System.Collections.Generic.IEnumerable{System.Collections.Generic.KeyValuePair{`0,`1}})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.SetItems(System.Collections.Generic.IEnumerable{System.Collections.Generic.KeyValuePair{`0,`1}})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.SetItems(System.Collections.Generic.IEnumerable{System.Collections.Generic.KeyValuePair{`0,`1}})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.SetItems(System.Collections.Generic.IEnumerable{System.Collections.Generic.KeyValuePair{`0,`1}})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.SetItems(System.Collections.Generic.IEnumerable{System.Collections.Generic.KeyValuePair{`0,`1}})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.SetItems(System.Collections.Generic.IEnumerable{System.Collections.Generic.KeyValuePair{`0,`1}})</InterfaceMember>
         <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.SetItems(System.Collections.Generic.IEnumerable{System.Collections.Generic.KeyValuePair{`0,`1}})</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1737,6 +1957,13 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.TryGetKey(`0,`0@)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.TryGetKey(`0,`0@)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.TryGetKey(`0,`0@)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.TryGetKey(`0,`0@)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.TryGetKey(`0,`0@)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.TryGetKey(`0,`0@)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.TryGetKey(`0,`0@)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableDictionary`2.TryGetKey(`0,`0@)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -1786,6 +2013,16 @@
       <MemberSignature Language="F#" Value="abstract member TryGetValue : 'Key * 'Value -&gt; bool&#xA;override this.TryGetValue : 'Key * 'Value -&gt; bool" Usage="immutableSortedDictionary.TryGetValue (key, value)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.Generic.IReadOnlyDictionary`2.TryGetValue(`0,`1@)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IDictionary`2.TryGetValue(`0,`1@)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IDictionary`2.TryGetValue(`0,`1@)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IReadOnlyDictionary`2.TryGetValue(`0,`1@)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IDictionary`2.TryGetValue(`0,`1@)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IReadOnlyDictionary`2.TryGetValue(`0,`1@)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IDictionary`2.TryGetValue(`0,`1@)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IReadOnlyDictionary`2.TryGetValue(`0,`1@)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IDictionary`2.TryGetValue(`0,`1@)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IReadOnlyDictionary`2.TryGetValue(`0,`1@)</InterfaceMember>
         <InterfaceMember>M:System.Collections.Generic.IDictionary`2.TryGetValue(`0,`1@)</InterfaceMember>
         <InterfaceMember>M:System.Collections.Generic.IReadOnlyDictionary`2.TryGetValue(`0,`1@)</InterfaceMember>
       </Implements>
@@ -1884,6 +2121,11 @@
       <MemberSignature Language="F#" Value="member this.Values : seq&lt;'Value&gt;" Usage="System.Collections.Immutable.ImmutableSortedDictionary&lt;'Key, 'Value&gt;.Values" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Collections.Generic.IReadOnlyDictionary`2.Values</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IReadOnlyDictionary`2.Values</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IReadOnlyDictionary`2.Values</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IReadOnlyDictionary`2.Values</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IReadOnlyDictionary`2.Values</InterfaceMember>
         <InterfaceMember>P:System.Collections.Generic.IReadOnlyDictionary`2.Values</InterfaceMember>
       </Implements>
       <AssemblyInfo>

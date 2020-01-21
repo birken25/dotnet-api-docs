@@ -72,6 +72,12 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Extensions.Logging.ILogger.BeginScope``1(``0)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.ILogger.BeginScope``1(``0)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.ILogger.BeginScope``1(``0)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.ILogger.BeginScope``1(``0)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.ILogger.BeginScope``1(``0)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.ILogger.BeginScope``1(``0)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.ILogger.BeginScope``1(``0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Logging.Abstractions</AssemblyName>
@@ -109,6 +115,12 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Extensions.Logging.ILogger.IsEnabled(Microsoft.Extensions.Logging.LogLevel)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.ILogger.IsEnabled(Microsoft.Extensions.Logging.LogLevel)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.ILogger.IsEnabled(Microsoft.Extensions.Logging.LogLevel)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.ILogger.IsEnabled(Microsoft.Extensions.Logging.LogLevel)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.ILogger.IsEnabled(Microsoft.Extensions.Logging.LogLevel)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.ILogger.IsEnabled(Microsoft.Extensions.Logging.LogLevel)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.ILogger.IsEnabled(Microsoft.Extensions.Logging.LogLevel)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Logging.Abstractions</AssemblyName>
@@ -141,6 +153,12 @@
       <MemberSignature Language="C++ CLI" Value="generic &lt;typename TState&gt;&#xA; virtual void Microsoft.Extensions.Logging.ILogger.Log(Microsoft::Extensions::Logging::LogLevel logLevel, Microsoft::Extensions::Logging::EventId eventId, TState state, Exception ^ exception, Func&lt;TState, Exception ^, System::String ^&gt; ^ formatter) = Microsoft::Extensions::Logging::ILogger::Log;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.ILogger.Log``1(Microsoft.Extensions.Logging.LogLevel,Microsoft.Extensions.Logging.EventId,``0,System.Exception,System.Func{``0,System.Exception,System.String})</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.ILogger.Log``1(Microsoft.Extensions.Logging.LogLevel,Microsoft.Extensions.Logging.EventId,``0,System.Exception,System.Func{``0,System.Exception,System.String})</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.ILogger.Log``1(Microsoft.Extensions.Logging.LogLevel,Microsoft.Extensions.Logging.EventId,``0,System.Exception,System.Func{``0,System.Exception,System.String})</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.ILogger.Log``1(Microsoft.Extensions.Logging.LogLevel,Microsoft.Extensions.Logging.EventId,``0,System.Exception,System.Func{``0,System.Exception,System.String})</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.ILogger.Log``1(Microsoft.Extensions.Logging.LogLevel,Microsoft.Extensions.Logging.EventId,``0,System.Exception,System.Func{``0,System.Exception,System.String})</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.ILogger.Log``1(Microsoft.Extensions.Logging.LogLevel,Microsoft.Extensions.Logging.EventId,``0,System.Exception,System.Func{``0,System.Exception,System.String})</InterfaceMember>
         <InterfaceMember>M:Microsoft.Extensions.Logging.ILogger.Log``1(Microsoft.Extensions.Logging.LogLevel,Microsoft.Extensions.Logging.EventId,``0,System.Exception,System.Func{``0,System.Exception,System.String})</InterfaceMember>
       </Implements>
       <AssemblyInfo>

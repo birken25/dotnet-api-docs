@@ -1348,6 +1348,36 @@ editor.CreateAttribute(navigator.Prefix, "attributeName", LookupNamespace(naviga
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Xml.XPath.IXPathNavigable.CreateNavigator</InterfaceMember>
+        <InterfaceMember>M:System.Xml.XPath.IXPathNavigable.CreateNavigator</InterfaceMember>
+        <InterfaceMember>M:System.Xml.XPath.IXPathNavigable.CreateNavigator</InterfaceMember>
+        <InterfaceMember>M:System.Xml.XPath.IXPathNavigable.CreateNavigator</InterfaceMember>
+        <InterfaceMember>M:System.Xml.XPath.IXPathNavigable.CreateNavigator</InterfaceMember>
+        <InterfaceMember>M:System.Xml.XPath.IXPathNavigable.CreateNavigator</InterfaceMember>
+        <InterfaceMember>M:System.Xml.XPath.IXPathNavigable.CreateNavigator</InterfaceMember>
+        <InterfaceMember>M:System.Xml.XPath.IXPathNavigable.CreateNavigator</InterfaceMember>
+        <InterfaceMember>M:System.Xml.XPath.IXPathNavigable.CreateNavigator</InterfaceMember>
+        <InterfaceMember>M:System.Xml.XPath.IXPathNavigable.CreateNavigator</InterfaceMember>
+        <InterfaceMember>M:System.Xml.XPath.IXPathNavigable.CreateNavigator</InterfaceMember>
+        <InterfaceMember>M:System.Xml.XPath.IXPathNavigable.CreateNavigator</InterfaceMember>
+        <InterfaceMember>M:System.Xml.XPath.IXPathNavigable.CreateNavigator</InterfaceMember>
+        <InterfaceMember>M:System.Xml.XPath.IXPathNavigable.CreateNavigator</InterfaceMember>
+        <InterfaceMember>M:System.Xml.XPath.IXPathNavigable.CreateNavigator</InterfaceMember>
+        <InterfaceMember>M:System.Xml.XPath.IXPathNavigable.CreateNavigator</InterfaceMember>
+        <InterfaceMember>M:System.Xml.XPath.IXPathNavigable.CreateNavigator</InterfaceMember>
+        <InterfaceMember>M:System.Xml.XPath.IXPathNavigable.CreateNavigator</InterfaceMember>
+        <InterfaceMember>M:System.Xml.XPath.IXPathNavigable.CreateNavigator</InterfaceMember>
+        <InterfaceMember>M:System.Xml.XPath.IXPathNavigable.CreateNavigator</InterfaceMember>
+        <InterfaceMember>M:System.Xml.XPath.IXPathNavigable.CreateNavigator</InterfaceMember>
+        <InterfaceMember>M:System.Xml.XPath.IXPathNavigable.CreateNavigator</InterfaceMember>
+        <InterfaceMember>M:System.Xml.XPath.IXPathNavigable.CreateNavigator</InterfaceMember>
+        <InterfaceMember>M:System.Xml.XPath.IXPathNavigable.CreateNavigator</InterfaceMember>
+        <InterfaceMember>M:System.Xml.XPath.IXPathNavigable.CreateNavigator</InterfaceMember>
+        <InterfaceMember>M:System.Xml.XPath.IXPathNavigable.CreateNavigator</InterfaceMember>
+        <InterfaceMember>M:System.Xml.XPath.IXPathNavigable.CreateNavigator</InterfaceMember>
+        <InterfaceMember>M:System.Xml.XPath.IXPathNavigable.CreateNavigator</InterfaceMember>
+        <InterfaceMember>M:System.Xml.XPath.IXPathNavigable.CreateNavigator</InterfaceMember>
+        <InterfaceMember>M:System.Xml.XPath.IXPathNavigable.CreateNavigator</InterfaceMember>
+        <InterfaceMember>M:System.Xml.XPath.IXPathNavigable.CreateNavigator</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Xml.XPath</AssemblyName>
@@ -2153,6 +2183,36 @@ nav.Evaluate(expr);
       <MemberSignature Language="F#" Value="abstract member GetNamespacesInScope : System.Xml.XmlNamespaceScope -&gt; System.Collections.Generic.IDictionary&lt;string, string&gt;&#xA;override this.GetNamespacesInScope : System.Xml.XmlNamespaceScope -&gt; System.Collections.Generic.IDictionary&lt;string, string&gt;" Usage="xPathNavigator.GetNamespacesInScope scope" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
         <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -3754,6 +3814,36 @@ navigator.InsertElementBefore(navigator.Prefix, "pages", LookupNamespaceURI(navi
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Xml.XPath</AssemblyName>
@@ -3813,6 +3903,36 @@ navigator.InsertElementBefore(navigator.Prefix, "pages", LookupNamespaceURI(navi
       <MemberSignature Language="F#" Value="abstract member LookupPrefix : string -&gt; string&#xA;override this.LookupPrefix : string -&gt; string" Usage="xPathNavigator.LookupPrefix namespaceURI" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
         <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -8743,6 +8863,34 @@ XPathNodeIterator ni = nav.Select(expr);
       <MemberSignature Language="C++ CLI" Value=" virtual System::Object ^ System.ICloneable.Clone() = ICloneable::Clone;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
         <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
       </Implements>
       <AssemblyInfo>

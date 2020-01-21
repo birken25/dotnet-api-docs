@@ -64,6 +64,10 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Caching.Redis</AssemblyName>
@@ -91,6 +95,10 @@
       <MemberSignature Language="F#" Value="abstract member Get : string -&gt; byte[]&#xA;override this.Get : string -&gt; byte[]" Usage="redisCache.Get key" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.Get(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.Get(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.Get(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.Get(System.String)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.Get(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -124,6 +132,7 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.GetAsync(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.GetAsync(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Caching.Redis</AssemblyName>
@@ -144,13 +153,15 @@
       </Docs>
     </Member>
     <Member MemberName="GetAsync">
-      <MemberSignature Language="C#" Value="public System.Threading.Tasks.Task&lt;byte[]&gt; GetAsync (string key, System.Threading.CancellationToken token = null);" />
+      <MemberSignature Language="C#" Value="public System.Threading.Tasks.Task&lt;byte[]&gt; GetAsync (string key, System.Threading.CancellationToken token = default);" />
       <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class System.Threading.Tasks.Task`1&lt;unsigned int8[]&gt; GetAsync(string key, valuetype System.Threading.CancellationToken token) cil managed" />
       <MemberSignature Language="DocId" Value="M:Microsoft.Extensions.Caching.Redis.RedisCache.GetAsync(System.String,System.Threading.CancellationToken)" />
       <MemberSignature Language="VB.NET" Value="Public Function GetAsync (key As String, Optional token As CancellationToken = null) As Task(Of Byte())" />
       <MemberSignature Language="F#" Value="abstract member GetAsync : string * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;byte[]&gt;&#xA;override this.GetAsync : string * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;byte[]&gt;" Usage="redisCache.GetAsync (key, token)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.GetAsync(System.String,System.Threading.CancellationToken)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.GetAsync(System.String,System.Threading.CancellationToken)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.GetAsync(System.String,System.Threading.CancellationToken)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -184,6 +195,10 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.Refresh(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.Refresh(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.Refresh(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.Refresh(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.Refresh(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Caching.Redis</AssemblyName>
@@ -215,6 +230,7 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.RefreshAsync(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.RefreshAsync(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Caching.Redis</AssemblyName>
@@ -235,13 +251,15 @@
       </Docs>
     </Member>
     <Member MemberName="RefreshAsync">
-      <MemberSignature Language="C#" Value="public System.Threading.Tasks.Task RefreshAsync (string key, System.Threading.CancellationToken token = null);" />
+      <MemberSignature Language="C#" Value="public System.Threading.Tasks.Task RefreshAsync (string key, System.Threading.CancellationToken token = default);" />
       <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class System.Threading.Tasks.Task RefreshAsync(string key, valuetype System.Threading.CancellationToken token) cil managed" />
       <MemberSignature Language="DocId" Value="M:Microsoft.Extensions.Caching.Redis.RedisCache.RefreshAsync(System.String,System.Threading.CancellationToken)" />
       <MemberSignature Language="VB.NET" Value="Public Function RefreshAsync (key As String, Optional token As CancellationToken = null) As Task" />
       <MemberSignature Language="F#" Value="abstract member RefreshAsync : string * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&#xA;override this.RefreshAsync : string * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task" Usage="redisCache.RefreshAsync (key, token)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.RefreshAsync(System.String,System.Threading.CancellationToken)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.RefreshAsync(System.String,System.Threading.CancellationToken)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.RefreshAsync(System.String,System.Threading.CancellationToken)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -275,6 +293,10 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.Remove(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.Remove(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.Remove(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.Remove(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.Remove(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Caching.Redis</AssemblyName>
@@ -306,6 +328,7 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.RemoveAsync(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.RemoveAsync(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Caching.Redis</AssemblyName>
@@ -326,13 +349,15 @@
       </Docs>
     </Member>
     <Member MemberName="RemoveAsync">
-      <MemberSignature Language="C#" Value="public System.Threading.Tasks.Task RemoveAsync (string key, System.Threading.CancellationToken token = null);" />
+      <MemberSignature Language="C#" Value="public System.Threading.Tasks.Task RemoveAsync (string key, System.Threading.CancellationToken token = default);" />
       <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class System.Threading.Tasks.Task RemoveAsync(string key, valuetype System.Threading.CancellationToken token) cil managed" />
       <MemberSignature Language="DocId" Value="M:Microsoft.Extensions.Caching.Redis.RedisCache.RemoveAsync(System.String,System.Threading.CancellationToken)" />
       <MemberSignature Language="VB.NET" Value="Public Function RemoveAsync (key As String, Optional token As CancellationToken = null) As Task" />
       <MemberSignature Language="F#" Value="abstract member RemoveAsync : string * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&#xA;override this.RemoveAsync : string * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task" Usage="redisCache.RemoveAsync (key, token)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.RemoveAsync(System.String,System.Threading.CancellationToken)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.RemoveAsync(System.String,System.Threading.CancellationToken)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.RemoveAsync(System.String,System.Threading.CancellationToken)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -365,6 +390,10 @@
       <MemberSignature Language="F#" Value="abstract member Set : string * byte[] * Microsoft.Extensions.Caching.Distributed.DistributedCacheEntryOptions -&gt; unit&#xA;override this.Set : string * byte[] * Microsoft.Extensions.Caching.Distributed.DistributedCacheEntryOptions -&gt; unit" Usage="redisCache.Set (key, value, options)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.Set(System.String,System.Byte[],Microsoft.Extensions.Caching.Distributed.DistributedCacheEntryOptions)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.Set(System.String,System.Byte[],Microsoft.Extensions.Caching.Distributed.DistributedCacheEntryOptions)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.Set(System.String,System.Byte[],Microsoft.Extensions.Caching.Distributed.DistributedCacheEntryOptions)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.Set(System.String,System.Byte[],Microsoft.Extensions.Caching.Distributed.DistributedCacheEntryOptions)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.Set(System.String,System.Byte[],Microsoft.Extensions.Caching.Distributed.DistributedCacheEntryOptions)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -401,6 +430,7 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.SetAsync(System.String,System.Byte[],Microsoft.Extensions.Caching.Distributed.DistributedCacheEntryOptions)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.SetAsync(System.String,System.Byte[],Microsoft.Extensions.Caching.Distributed.DistributedCacheEntryOptions)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Caching.Redis</AssemblyName>
@@ -425,13 +455,15 @@
       </Docs>
     </Member>
     <Member MemberName="SetAsync">
-      <MemberSignature Language="C#" Value="public System.Threading.Tasks.Task SetAsync (string key, byte[] value, Microsoft.Extensions.Caching.Distributed.DistributedCacheEntryOptions options, System.Threading.CancellationToken token = null);" />
+      <MemberSignature Language="C#" Value="public System.Threading.Tasks.Task SetAsync (string key, byte[] value, Microsoft.Extensions.Caching.Distributed.DistributedCacheEntryOptions options, System.Threading.CancellationToken token = default);" />
       <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class System.Threading.Tasks.Task SetAsync(string key, unsigned int8[] value, class Microsoft.Extensions.Caching.Distributed.DistributedCacheEntryOptions options, valuetype System.Threading.CancellationToken token) cil managed" />
       <MemberSignature Language="DocId" Value="M:Microsoft.Extensions.Caching.Redis.RedisCache.SetAsync(System.String,System.Byte[],Microsoft.Extensions.Caching.Distributed.DistributedCacheEntryOptions,System.Threading.CancellationToken)" />
       <MemberSignature Language="VB.NET" Value="Public Function SetAsync (key As String, value As Byte(), options As DistributedCacheEntryOptions, Optional token As CancellationToken = null) As Task" />
       <MemberSignature Language="F#" Value="abstract member SetAsync : string * byte[] * Microsoft.Extensions.Caching.Distributed.DistributedCacheEntryOptions * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&#xA;override this.SetAsync : string * byte[] * Microsoft.Extensions.Caching.Distributed.DistributedCacheEntryOptions * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task" Usage="redisCache.SetAsync (key, value, options, token)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.SetAsync(System.String,System.Byte[],Microsoft.Extensions.Caching.Distributed.DistributedCacheEntryOptions,System.Threading.CancellationToken)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.SetAsync(System.String,System.Byte[],Microsoft.Extensions.Caching.Distributed.DistributedCacheEntryOptions,System.Threading.CancellationToken)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.SetAsync(System.String,System.Byte[],Microsoft.Extensions.Caching.Distributed.DistributedCacheEntryOptions,System.Threading.CancellationToken)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

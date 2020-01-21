@@ -118,6 +118,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ComponentModel.IExtenderProvider.CanExtend(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IExtenderProvider.CanExtend(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IExtenderProvider.CanExtend(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IExtenderProvider.CanExtend(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IExtenderProvider.CanExtend(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IExtenderProvider.CanExtend(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IExtenderProvider.CanExtend(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IExtenderProvider.CanExtend(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IExtenderProvider.CanExtend(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IExtenderProvider.CanExtend(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IExtenderProvider.CanExtend(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IExtenderProvider.CanExtend(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IExtenderProvider.CanExtend(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IExtenderProvider.CanExtend(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IExtenderProvider.CanExtend(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -157,6 +171,20 @@
       <MemberSignature Language="F#" Value="abstract member Dispose : unit -&gt; unit&#xA;override this.Dispose : unit -&gt; unit" Usage="localizationExtenderProvider.Dispose " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>

@@ -61,6 +61,18 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Dispatcher.IInteractiveChannelInitializer.BeginDisplayInitializationUI(System.ServiceModel.IClientChannel,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Dispatcher.IInteractiveChannelInitializer.BeginDisplayInitializationUI(System.ServiceModel.IClientChannel,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Dispatcher.IInteractiveChannelInitializer.BeginDisplayInitializationUI(System.ServiceModel.IClientChannel,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Dispatcher.IInteractiveChannelInitializer.BeginDisplayInitializationUI(System.ServiceModel.IClientChannel,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Dispatcher.IInteractiveChannelInitializer.BeginDisplayInitializationUI(System.ServiceModel.IClientChannel,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Dispatcher.IInteractiveChannelInitializer.BeginDisplayInitializationUI(System.ServiceModel.IClientChannel,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Dispatcher.IInteractiveChannelInitializer.BeginDisplayInitializationUI(System.ServiceModel.IClientChannel,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Dispatcher.IInteractiveChannelInitializer.BeginDisplayInitializationUI(System.ServiceModel.IClientChannel,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Dispatcher.IInteractiveChannelInitializer.BeginDisplayInitializationUI(System.ServiceModel.IClientChannel,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Dispatcher.IInteractiveChannelInitializer.BeginDisplayInitializationUI(System.ServiceModel.IClientChannel,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Dispatcher.IInteractiveChannelInitializer.BeginDisplayInitializationUI(System.ServiceModel.IClientChannel,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Dispatcher.IInteractiveChannelInitializer.BeginDisplayInitializationUI(System.ServiceModel.IClientChannel,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Dispatcher.IInteractiveChannelInitializer.BeginDisplayInitializationUI(System.ServiceModel.IClientChannel,System.AsyncCallback,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -120,6 +132,18 @@
       <MemberSignature Language="F#" Value="abstract member EndDisplayInitializationUI : IAsyncResult -&gt; unit&#xA;override this.EndDisplayInitializationUI : IAsyncResult -&gt; unit" Usage="infocardInteractiveChannelInitializer.EndDisplayInitializationUI result" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ServiceModel.Dispatcher.IInteractiveChannelInitializer.EndDisplayInitializationUI(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Dispatcher.IInteractiveChannelInitializer.EndDisplayInitializationUI(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Dispatcher.IInteractiveChannelInitializer.EndDisplayInitializationUI(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Dispatcher.IInteractiveChannelInitializer.EndDisplayInitializationUI(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Dispatcher.IInteractiveChannelInitializer.EndDisplayInitializationUI(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Dispatcher.IInteractiveChannelInitializer.EndDisplayInitializationUI(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Dispatcher.IInteractiveChannelInitializer.EndDisplayInitializationUI(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Dispatcher.IInteractiveChannelInitializer.EndDisplayInitializationUI(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Dispatcher.IInteractiveChannelInitializer.EndDisplayInitializationUI(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Dispatcher.IInteractiveChannelInitializer.EndDisplayInitializationUI(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Dispatcher.IInteractiveChannelInitializer.EndDisplayInitializationUI(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Dispatcher.IInteractiveChannelInitializer.EndDisplayInitializationUI(System.IAsyncResult)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Dispatcher.IInteractiveChannelInitializer.EndDisplayInitializationUI(System.IAsyncResult)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

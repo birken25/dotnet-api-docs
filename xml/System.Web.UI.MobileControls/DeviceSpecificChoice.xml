@@ -99,6 +99,19 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.UI.IParserAccessor.AddParsedSubObject(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IParserAccessor.AddParsedSubObject(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IParserAccessor.AddParsedSubObject(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IParserAccessor.AddParsedSubObject(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IParserAccessor.AddParsedSubObject(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IParserAccessor.AddParsedSubObject(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IParserAccessor.AddParsedSubObject(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IParserAccessor.AddParsedSubObject(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IParserAccessor.AddParsedSubObject(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IParserAccessor.AddParsedSubObject(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IParserAccessor.AddParsedSubObject(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IParserAccessor.AddParsedSubObject(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IParserAccessor.AddParsedSubObject(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IParserAccessor.AddParsedSubObject(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Mobile</AssemblyName>
@@ -263,6 +276,19 @@ public bool myChoiceMethod(System.Web.Mobile.MobileCapabilities
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Mobile</AssemblyName>
@@ -328,6 +354,19 @@ public bool myChoiceMethod(System.Web.Mobile.MobileCapabilities
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Mobile</AssemblyName>
@@ -363,6 +402,20 @@ public bool myChoiceMethod(System.Web.Mobile.MobileCapabilities
       <MemberSignature Language="C++ CLI" Value=" virtual System::String ^ System.Web.UI.IAttributeAccessor.GetAttribute(System::String ^ name) = System::Web::UI::IAttributeAccessor::GetAttribute;" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
         <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -409,6 +462,20 @@ The value of the attribute.
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Mobile</AssemblyName>
@@ -450,6 +517,20 @@ The value of the attribute.
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Web.UI.IParserAccessor.AddParsedSubObject(System::Object ^ obj) = System::Web::UI::IParserAccessor::AddParsedSubObject;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.UI.IParserAccessor.AddParsedSubObject(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IParserAccessor.AddParsedSubObject(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IParserAccessor.AddParsedSubObject(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IParserAccessor.AddParsedSubObject(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IParserAccessor.AddParsedSubObject(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IParserAccessor.AddParsedSubObject(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IParserAccessor.AddParsedSubObject(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IParserAccessor.AddParsedSubObject(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IParserAccessor.AddParsedSubObject(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IParserAccessor.AddParsedSubObject(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IParserAccessor.AddParsedSubObject(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IParserAccessor.AddParsedSubObject(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IParserAccessor.AddParsedSubObject(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IParserAccessor.AddParsedSubObject(System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Web.UI.IParserAccessor.AddParsedSubObject(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

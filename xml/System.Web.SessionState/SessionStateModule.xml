@@ -76,6 +76,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.IHttpModule.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpModule.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpModule.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpModule.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpModule.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpModule.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpModule.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpModule.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpModule.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpModule.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpModule.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpModule.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpModule.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpModule.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpModule.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -184,6 +198,20 @@ public void Session_OnEnd()
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.IHttpModule.Init(System.Web.HttpApplication)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpModule.Init(System.Web.HttpApplication)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpModule.Init(System.Web.HttpApplication)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpModule.Init(System.Web.HttpApplication)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpModule.Init(System.Web.HttpApplication)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpModule.Init(System.Web.HttpApplication)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpModule.Init(System.Web.HttpApplication)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpModule.Init(System.Web.HttpApplication)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpModule.Init(System.Web.HttpApplication)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpModule.Init(System.Web.HttpApplication)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpModule.Init(System.Web.HttpApplication)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpModule.Init(System.Web.HttpApplication)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpModule.Init(System.Web.HttpApplication)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpModule.Init(System.Web.HttpApplication)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpModule.Init(System.Web.HttpApplication)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -229,6 +257,10 @@ public void Session_OnEnd()
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.SessionState.ISessionStateModule.ReleaseSessionState(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionStateModule.ReleaseSessionState(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionStateModule.ReleaseSessionState(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionStateModule.ReleaseSessionState(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionStateModule.ReleaseSessionState(System.Web.HttpContext)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -255,6 +287,10 @@ public void Session_OnEnd()
       <MemberSignature Language="F#" Value="abstract member ReleaseSessionStateAsync : System.Web.HttpContext -&gt; System.Threading.Tasks.Task&#xA;override this.ReleaseSessionStateAsync : System.Web.HttpContext -&gt; System.Threading.Tasks.Task" Usage="sessionStateModule.ReleaseSessionStateAsync context" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.SessionState.ISessionStateModule.ReleaseSessionStateAsync(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionStateModule.ReleaseSessionStateAsync(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionStateModule.ReleaseSessionStateAsync(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionStateModule.ReleaseSessionStateAsync(System.Web.HttpContext)</InterfaceMember>
         <InterfaceMember>M:System.Web.SessionState.ISessionStateModule.ReleaseSessionStateAsync(System.Web.HttpContext)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

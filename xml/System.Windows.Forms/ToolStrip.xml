@@ -1388,6 +1388,21 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Windows.Forms.Layout.IArrangedElement.DisplayRectangle</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.Layout.IArrangedElement.DisplayRectangle</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.Layout.IArrangedElement.DisplayRectangle</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.Layout.IArrangedElement.DisplayRectangle</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.Layout.IArrangedElement.DisplayRectangle</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.Layout.IArrangedElement.DisplayRectangle</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.Layout.IArrangedElement.DisplayRectangle</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.Layout.IArrangedElement.DisplayRectangle</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.Layout.IArrangedElement.DisplayRectangle</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.Layout.IArrangedElement.DisplayRectangle</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.Layout.IArrangedElement.DisplayRectangle</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.Layout.IArrangedElement.DisplayRectangle</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.Layout.IArrangedElement.DisplayRectangle</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.Layout.IArrangedElement.DisplayRectangle</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.Layout.IArrangedElement.DisplayRectangle</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.Layout.IArrangedElement.DisplayRectangle</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Forms</AssemblyName>
@@ -2143,6 +2158,13 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; property bool IsCurrentlyDragging { bool get(); };" />
       <MemberSignature Language="F#" Value="member this.IsCurrentlyDragging : bool" Usage="System.Windows.Forms.ToolStrip.IsCurrentlyDragging" />
       <MemberType>Property</MemberType>
+      <Implements>
+        <InterfaceMember>P:System.Windows.Forms.ISupportToolStripPanel.IsCurrentlyDragging</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.ISupportToolStripPanel.IsCurrentlyDragging</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.ISupportToolStripPanel.IsCurrentlyDragging</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.ISupportToolStripPanel.IsCurrentlyDragging</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.ISupportToolStripPanel.IsCurrentlyDragging</InterfaceMember>
+      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Forms</AssemblyName>
         <AssemblyVersion>2.0.0.0</AssemblyVersion>
@@ -4396,6 +4418,13 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; property bool Stretch { bool get(); void set(bool value); };" />
       <MemberSignature Language="F#" Value="member this.Stretch : bool with get, set" Usage="System.Windows.Forms.ToolStrip.Stretch" />
       <MemberType>Property</MemberType>
+      <Implements>
+        <InterfaceMember>P:System.Windows.Forms.ISupportToolStripPanel.Stretch</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.ISupportToolStripPanel.Stretch</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.ISupportToolStripPanel.Stretch</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.ISupportToolStripPanel.Stretch</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.ISupportToolStripPanel.Stretch</InterfaceMember>
+      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Forms</AssemblyName>
         <AssemblyVersion>2.0.0.0</AssemblyVersion>

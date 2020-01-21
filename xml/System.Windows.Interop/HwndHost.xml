@@ -181,6 +181,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -333,6 +347,20 @@
       <MemberSignature Language="F#" Value="member this.Handle : nativeint" Usage="System.Windows.Interop.HwndHost.Handle" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Windows.Interop.IWin32Window.Handle</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Interop.IWin32Window.Handle</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Interop.IWin32Window.Handle</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Interop.IWin32Window.Handle</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Interop.IWin32Window.Handle</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Interop.IWin32Window.Handle</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Interop.IWin32Window.Handle</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Interop.IWin32Window.Handle</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Interop.IWin32Window.Handle</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Interop.IWin32Window.Handle</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Interop.IWin32Window.Handle</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Interop.IWin32Window.Handle</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Interop.IWin32Window.Handle</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Interop.IWin32Window.Handle</InterfaceMember>
         <InterfaceMember>P:System.Windows.Interop.IWin32Window.Handle</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -741,6 +769,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.HasFocusWithin</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.HasFocusWithin</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.HasFocusWithin</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.HasFocusWithin</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.HasFocusWithin</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.HasFocusWithin</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.HasFocusWithin</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.HasFocusWithin</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.HasFocusWithin</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.HasFocusWithin</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.HasFocusWithin</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.HasFocusWithin</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.HasFocusWithin</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.HasFocusWithin</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.HasFocusWithin</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -783,6 +825,20 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Windows.Interop.IKeyboardInputSink.KeyboardInputSite</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Interop.IKeyboardInputSink.KeyboardInputSite</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Interop.IKeyboardInputSink.KeyboardInputSite</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Interop.IKeyboardInputSink.KeyboardInputSite</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Interop.IKeyboardInputSink.KeyboardInputSite</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Interop.IKeyboardInputSink.KeyboardInputSite</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Interop.IKeyboardInputSink.KeyboardInputSite</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Interop.IKeyboardInputSink.KeyboardInputSite</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Interop.IKeyboardInputSink.KeyboardInputSite</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Interop.IKeyboardInputSink.KeyboardInputSite</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Interop.IKeyboardInputSink.KeyboardInputSite</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Interop.IKeyboardInputSink.KeyboardInputSite</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Interop.IKeyboardInputSink.KeyboardInputSite</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Interop.IKeyboardInputSink.KeyboardInputSite</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Interop.IKeyboardInputSink.KeyboardInputSite</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -821,6 +877,20 @@
       <MemberSignature Language="C++ CLI" Value=" virtual bool System.Windows.Interop.IKeyboardInputSink.OnMnemonic(System::Windows::Interop::MSG % msg, System::Windows::Input::ModifierKeys modifiers) = System::Windows::Interop::IKeyboardInputSink::OnMnemonic;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.OnMnemonic(System.Windows.Interop.MSG@,System.Windows.Input.ModifierKeys)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.OnMnemonic(System.Windows.Interop.MSG@,System.Windows.Input.ModifierKeys)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.OnMnemonic(System.Windows.Interop.MSG@,System.Windows.Input.ModifierKeys)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.OnMnemonic(System.Windows.Interop.MSG@,System.Windows.Input.ModifierKeys)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.OnMnemonic(System.Windows.Interop.MSG@,System.Windows.Input.ModifierKeys)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.OnMnemonic(System.Windows.Interop.MSG@,System.Windows.Input.ModifierKeys)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.OnMnemonic(System.Windows.Interop.MSG@,System.Windows.Input.ModifierKeys)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.OnMnemonic(System.Windows.Interop.MSG@,System.Windows.Input.ModifierKeys)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.OnMnemonic(System.Windows.Interop.MSG@,System.Windows.Input.ModifierKeys)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.OnMnemonic(System.Windows.Interop.MSG@,System.Windows.Input.ModifierKeys)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.OnMnemonic(System.Windows.Interop.MSG@,System.Windows.Input.ModifierKeys)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.OnMnemonic(System.Windows.Interop.MSG@,System.Windows.Input.ModifierKeys)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.OnMnemonic(System.Windows.Interop.MSG@,System.Windows.Input.ModifierKeys)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.OnMnemonic(System.Windows.Interop.MSG@,System.Windows.Input.ModifierKeys)</InterfaceMember>
         <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.OnMnemonic(System.Windows.Interop.MSG@,System.Windows.Input.ModifierKeys)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -868,6 +938,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.RegisterKeyboardInputSink(System.Windows.Interop.IKeyboardInputSink)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.RegisterKeyboardInputSink(System.Windows.Interop.IKeyboardInputSink)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.RegisterKeyboardInputSink(System.Windows.Interop.IKeyboardInputSink)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.RegisterKeyboardInputSink(System.Windows.Interop.IKeyboardInputSink)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.RegisterKeyboardInputSink(System.Windows.Interop.IKeyboardInputSink)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.RegisterKeyboardInputSink(System.Windows.Interop.IKeyboardInputSink)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.RegisterKeyboardInputSink(System.Windows.Interop.IKeyboardInputSink)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.RegisterKeyboardInputSink(System.Windows.Interop.IKeyboardInputSink)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.RegisterKeyboardInputSink(System.Windows.Interop.IKeyboardInputSink)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.RegisterKeyboardInputSink(System.Windows.Interop.IKeyboardInputSink)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.RegisterKeyboardInputSink(System.Windows.Interop.IKeyboardInputSink)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.RegisterKeyboardInputSink(System.Windows.Interop.IKeyboardInputSink)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.RegisterKeyboardInputSink(System.Windows.Interop.IKeyboardInputSink)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.RegisterKeyboardInputSink(System.Windows.Interop.IKeyboardInputSink)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.RegisterKeyboardInputSink(System.Windows.Interop.IKeyboardInputSink)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -912,6 +996,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.TabInto(System.Windows.Input.TraversalRequest)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.TabInto(System.Windows.Input.TraversalRequest)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.TabInto(System.Windows.Input.TraversalRequest)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.TabInto(System.Windows.Input.TraversalRequest)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.TabInto(System.Windows.Input.TraversalRequest)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.TabInto(System.Windows.Input.TraversalRequest)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.TabInto(System.Windows.Input.TraversalRequest)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.TabInto(System.Windows.Input.TraversalRequest)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.TabInto(System.Windows.Input.TraversalRequest)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.TabInto(System.Windows.Input.TraversalRequest)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.TabInto(System.Windows.Input.TraversalRequest)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.TabInto(System.Windows.Input.TraversalRequest)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.TabInto(System.Windows.Input.TraversalRequest)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.TabInto(System.Windows.Input.TraversalRequest)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.TabInto(System.Windows.Input.TraversalRequest)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -953,6 +1051,20 @@
       <MemberSignature Language="C++ CLI" Value=" virtual bool System.Windows.Interop.IKeyboardInputSink.TranslateAccelerator(System::Windows::Interop::MSG % msg, System::Windows::Input::ModifierKeys modifiers) = System::Windows::Interop::IKeyboardInputSink::TranslateAccelerator;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.TranslateAccelerator(System.Windows.Interop.MSG@,System.Windows.Input.ModifierKeys)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.TranslateAccelerator(System.Windows.Interop.MSG@,System.Windows.Input.ModifierKeys)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.TranslateAccelerator(System.Windows.Interop.MSG@,System.Windows.Input.ModifierKeys)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.TranslateAccelerator(System.Windows.Interop.MSG@,System.Windows.Input.ModifierKeys)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.TranslateAccelerator(System.Windows.Interop.MSG@,System.Windows.Input.ModifierKeys)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.TranslateAccelerator(System.Windows.Interop.MSG@,System.Windows.Input.ModifierKeys)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.TranslateAccelerator(System.Windows.Interop.MSG@,System.Windows.Input.ModifierKeys)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.TranslateAccelerator(System.Windows.Interop.MSG@,System.Windows.Input.ModifierKeys)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.TranslateAccelerator(System.Windows.Interop.MSG@,System.Windows.Input.ModifierKeys)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.TranslateAccelerator(System.Windows.Interop.MSG@,System.Windows.Input.ModifierKeys)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.TranslateAccelerator(System.Windows.Interop.MSG@,System.Windows.Input.ModifierKeys)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.TranslateAccelerator(System.Windows.Interop.MSG@,System.Windows.Input.ModifierKeys)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.TranslateAccelerator(System.Windows.Interop.MSG@,System.Windows.Input.ModifierKeys)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.TranslateAccelerator(System.Windows.Interop.MSG@,System.Windows.Input.ModifierKeys)</InterfaceMember>
         <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.TranslateAccelerator(System.Windows.Interop.MSG@,System.Windows.Input.ModifierKeys)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1000,6 +1112,20 @@
       <MemberSignature Language="C++ CLI" Value=" virtual bool System.Windows.Interop.IKeyboardInputSink.TranslateChar(System::Windows::Interop::MSG % msg, System::Windows::Input::ModifierKeys modifiers) = System::Windows::Interop::IKeyboardInputSink::TranslateChar;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.TranslateChar(System.Windows.Interop.MSG@,System.Windows.Input.ModifierKeys)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.TranslateChar(System.Windows.Interop.MSG@,System.Windows.Input.ModifierKeys)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.TranslateChar(System.Windows.Interop.MSG@,System.Windows.Input.ModifierKeys)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.TranslateChar(System.Windows.Interop.MSG@,System.Windows.Input.ModifierKeys)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.TranslateChar(System.Windows.Interop.MSG@,System.Windows.Input.ModifierKeys)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.TranslateChar(System.Windows.Interop.MSG@,System.Windows.Input.ModifierKeys)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.TranslateChar(System.Windows.Interop.MSG@,System.Windows.Input.ModifierKeys)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.TranslateChar(System.Windows.Interop.MSG@,System.Windows.Input.ModifierKeys)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.TranslateChar(System.Windows.Interop.MSG@,System.Windows.Input.ModifierKeys)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.TranslateChar(System.Windows.Interop.MSG@,System.Windows.Input.ModifierKeys)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.TranslateChar(System.Windows.Interop.MSG@,System.Windows.Input.ModifierKeys)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.TranslateChar(System.Windows.Interop.MSG@,System.Windows.Input.ModifierKeys)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.TranslateChar(System.Windows.Interop.MSG@,System.Windows.Input.ModifierKeys)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.TranslateChar(System.Windows.Interop.MSG@,System.Windows.Input.ModifierKeys)</InterfaceMember>
         <InterfaceMember>M:System.Windows.Interop.IKeyboardInputSink.TranslateChar(System.Windows.Interop.MSG@,System.Windows.Input.ModifierKeys)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

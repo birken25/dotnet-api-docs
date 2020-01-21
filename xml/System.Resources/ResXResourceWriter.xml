@@ -431,6 +431,22 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Resources.IResourceWriter.AddResource(System.String,System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.AddResource(System.String,System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.AddResource(System.String,System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.AddResource(System.String,System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.AddResource(System.String,System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.AddResource(System.String,System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.AddResource(System.String,System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.AddResource(System.String,System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.AddResource(System.String,System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.AddResource(System.String,System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.AddResource(System.String,System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.AddResource(System.String,System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.AddResource(System.String,System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.AddResource(System.String,System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.AddResource(System.String,System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.AddResource(System.String,System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.AddResource(System.String,System.Byte[])</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Forms</AssemblyName>
@@ -475,6 +491,22 @@
       <MemberSignature Language="F#" Value="abstract member AddResource : string * obj -&gt; unit&#xA;override this.AddResource : string * obj -&gt; unit" Usage="resXResourceWriter.AddResource (name, value)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Resources.IResourceWriter.AddResource(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.AddResource(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.AddResource(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.AddResource(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.AddResource(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.AddResource(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.AddResource(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.AddResource(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.AddResource(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.AddResource(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.AddResource(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.AddResource(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.AddResource(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.AddResource(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.AddResource(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.AddResource(System.String,System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Resources.IResourceWriter.AddResource(System.String,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -523,6 +555,22 @@
       <MemberSignature Language="F#" Value="abstract member AddResource : string * string -&gt; unit&#xA;override this.AddResource : string * string -&gt; unit" Usage="resXResourceWriter.AddResource (name, value)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Resources.IResourceWriter.AddResource(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.AddResource(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.AddResource(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.AddResource(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.AddResource(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.AddResource(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.AddResource(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.AddResource(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.AddResource(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.AddResource(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.AddResource(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.AddResource(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.AddResource(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.AddResource(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.AddResource(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.AddResource(System.String,System.String)</InterfaceMember>
         <InterfaceMember>M:System.Resources.IResourceWriter.AddResource(System.String,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -651,6 +699,22 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Resources.IResourceWriter.Close</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.Close</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.Close</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.Close</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.Close</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.Close</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.Close</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.Close</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.Close</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.Close</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.Close</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.Close</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.Close</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.Close</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.Close</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.Close</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.Close</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Forms</AssemblyName>
@@ -719,6 +783,22 @@
       <MemberSignature Language="F#" Value="abstract member Dispose : unit -&gt; unit&#xA;override this.Dispose : unit -&gt; unit" Usage="resXResourceWriter.Dispose " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -821,6 +901,22 @@
       <MemberSignature Language="F#" Value="abstract member Generate : unit -&gt; unit&#xA;override this.Generate : unit -&gt; unit" Usage="resXResourceWriter.Generate " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Resources.IResourceWriter.Generate</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.Generate</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.Generate</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.Generate</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.Generate</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.Generate</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.Generate</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.Generate</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.Generate</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.Generate</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.Generate</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.Generate</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.Generate</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.Generate</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.Generate</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceWriter.Generate</InterfaceMember>
         <InterfaceMember>M:System.Resources.IResourceWriter.Generate</InterfaceMember>
       </Implements>
       <AssemblyInfo>

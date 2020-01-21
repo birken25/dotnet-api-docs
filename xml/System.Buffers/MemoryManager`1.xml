@@ -215,6 +215,13 @@ The `MemoryManager<T>` class is used to extend the knowledge of types that <xref
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Buffers.IMemoryOwner`1.Memory</InterfaceMember>
+        <InterfaceMember>P:System.Buffers.IMemoryOwner`1.Memory</InterfaceMember>
+        <InterfaceMember>P:System.Buffers.IMemoryOwner`1.Memory</InterfaceMember>
+        <InterfaceMember>P:System.Buffers.IMemoryOwner`1.Memory</InterfaceMember>
+        <InterfaceMember>P:System.Buffers.IMemoryOwner`1.Memory</InterfaceMember>
+        <InterfaceMember>P:System.Buffers.IMemoryOwner`1.Memory</InterfaceMember>
+        <InterfaceMember>P:System.Buffers.IMemoryOwner`1.Memory</InterfaceMember>
+        <InterfaceMember>P:System.Buffers.IMemoryOwner`1.Memory</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Runtime</AssemblyName>
@@ -245,6 +252,13 @@ The `MemoryManager<T>` class is used to extend the knowledge of types that <xref
       <MemberSignature Language="F#" Value="abstract member Pin : int -&gt; System.Buffers.MemoryHandle" Usage="memoryManager.Pin elementIndex" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Buffers.IPinnable.Pin(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Buffers.IPinnable.Pin(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Buffers.IPinnable.Pin(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Buffers.IPinnable.Pin(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Buffers.IPinnable.Pin(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Buffers.IPinnable.Pin(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Buffers.IPinnable.Pin(System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Buffers.IPinnable.Pin(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -280,6 +294,13 @@ The `MemoryManager<T>` class is used to extend the knowledge of types that <xref
       <MemberSignature Language="C++ CLI" Value=" virtual void System.IDisposable.Dispose() = IDisposable::Dispose;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -346,6 +367,13 @@ The `MemoryManager<T>` class is used to extend the knowledge of types that <xref
       <MemberSignature Language="F#" Value="abstract member Unpin : unit -&gt; unit" Usage="memoryManager.Unpin " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Buffers.IPinnable.Unpin</InterfaceMember>
+        <InterfaceMember>M:System.Buffers.IPinnable.Unpin</InterfaceMember>
+        <InterfaceMember>M:System.Buffers.IPinnable.Unpin</InterfaceMember>
+        <InterfaceMember>M:System.Buffers.IPinnable.Unpin</InterfaceMember>
+        <InterfaceMember>M:System.Buffers.IPinnable.Unpin</InterfaceMember>
+        <InterfaceMember>M:System.Buffers.IPinnable.Unpin</InterfaceMember>
+        <InterfaceMember>M:System.Buffers.IPinnable.Unpin</InterfaceMember>
         <InterfaceMember>M:System.Buffers.IPinnable.Unpin</InterfaceMember>
       </Implements>
       <AssemblyInfo>

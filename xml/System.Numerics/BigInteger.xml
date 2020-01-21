@@ -957,6 +957,32 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Runtime.Numerics</AssemblyName>
@@ -1038,6 +1064,26 @@
       <MemberSignature Language="F#" Value="abstract member CompareTo : obj -&gt; int&#xA;override this.CompareTo : obj -&gt; int" Usage="bigInteger.CompareTo obj" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
         <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1363,6 +1409,32 @@
       <MemberSignature Language="F#" Value="abstract member Equals : System.Numerics.BigInteger -&gt; bool&#xA;override this.Equals : System.Numerics.BigInteger -&gt; bool" Usage="bigInteger.Equals other" FrameworkAlternate="netcore-1.0;netcore-1.1" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
         <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -6701,7 +6773,7 @@ value Mod 2 = 0
       </Docs>
     </Member>
     <Member MemberName="Parse">
-      <MemberSignature Language="C#" Value="public static System.Numerics.BigInteger Parse (ReadOnlySpan&lt;char&gt; value, System.Globalization.NumberStyles style = System.Globalization.NumberStyles.Integer, IFormatProvider provider = null);" />
+      <MemberSignature Language="C#" Value="public static System.Numerics.BigInteger Parse (ReadOnlySpan&lt;char&gt; value, System.Globalization.NumberStyles style = System.Globalization.NumberStyles.Integer, IFormatProvider provider = default);" />
       <MemberSignature Language="ILAsm" Value=".method public static hidebysig valuetype System.Numerics.BigInteger Parse(valuetype System.ReadOnlySpan`1&lt;char&gt; value, valuetype System.Globalization.NumberStyles style, class System.IFormatProvider provider) cil managed" />
       <MemberSignature Language="DocId" Value="M:System.Numerics.BigInteger.Parse(System.ReadOnlySpan{System.Char},System.Globalization.NumberStyles,System.IFormatProvider)" />
       <MemberSignature Language="VB.NET" Value="Public Shared Function Parse (value As ReadOnlySpan(Of Char), Optional style As NumberStyles = System.Globalization.NumberStyles.Integer, Optional provider As IFormatProvider = null) As BigInteger" />
@@ -7203,6 +7275,11 @@ If `provider` is `null`, the <xref:System.Globalization.NumberFormatInfo> object
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Runtime.Numerics</AssemblyName>
@@ -7592,6 +7669,32 @@ The integer value `33022` can be exported in four different arrays:
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
+        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
+        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
+        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
+        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
+        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
+        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
+        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
+        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
+        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
+        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
+        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
+        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
+        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
+        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
+        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
+        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
+        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
+        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
+        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
+        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
+        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
+        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
+        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
+        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
+        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
+        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Runtime.Numerics</AssemblyName>
@@ -7669,7 +7772,7 @@ The integer value `33022` can be exported in four different arrays:
       </Docs>
     </Member>
     <Member MemberName="TryFormat">
-      <MemberSignature Language="C#" Value="public bool TryFormat (Span&lt;char&gt; destination, out int charsWritten, ReadOnlySpan&lt;char&gt; format = null, IFormatProvider provider = null);" />
+      <MemberSignature Language="C#" Value="public bool TryFormat (Span&lt;char&gt; destination, out int charsWritten, ReadOnlySpan&lt;char&gt; format = default, IFormatProvider provider = default);" />
       <MemberSignature Language="ILAsm" Value=".method public hidebysig instance bool TryFormat(valuetype System.Span`1&lt;char&gt; destination, [out] int32&amp; charsWritten, valuetype System.ReadOnlySpan`1&lt;char&gt; format, class System.IFormatProvider provider) cil managed" />
       <MemberSignature Language="DocId" Value="M:System.Numerics.BigInteger.TryFormat(System.Span{System.Char},System.Int32@,System.ReadOnlySpan{System.Char},System.IFormatProvider)" />
       <MemberSignature Language="VB.NET" Value="Public Function TryFormat (destination As Span(Of Char), ByRef charsWritten As Integer, Optional format As ReadOnlySpan(Of Char) = null, Optional provider As IFormatProvider = null) As Boolean" />

@@ -51,6 +51,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel.Routing</AssemblyName>
@@ -72,6 +82,16 @@
       <MemberSignature Language="C++ CLI" Value=" virtual IAsyncResult ^ System.ServiceModel.Routing.IDuplexSessionRouter.BeginProcessMessage(System::ServiceModel::Channels::Message ^ message, AsyncCallback ^ callback, System::Object ^ state) = System::ServiceModel::Routing::IDuplexSessionRouter::BeginProcessMessage;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ServiceModel.Routing.IDuplexSessionRouter.BeginProcessMessage(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.IDuplexSessionRouter.BeginProcessMessage(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.IDuplexSessionRouter.BeginProcessMessage(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.IDuplexSessionRouter.BeginProcessMessage(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.IDuplexSessionRouter.BeginProcessMessage(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.IDuplexSessionRouter.BeginProcessMessage(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.IDuplexSessionRouter.BeginProcessMessage(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.IDuplexSessionRouter.BeginProcessMessage(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.IDuplexSessionRouter.BeginProcessMessage(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.IDuplexSessionRouter.BeginProcessMessage(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Routing.IDuplexSessionRouter.BeginProcessMessage(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -119,6 +139,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Routing.IDuplexSessionRouter.EndProcessMessage(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.IDuplexSessionRouter.EndProcessMessage(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.IDuplexSessionRouter.EndProcessMessage(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.IDuplexSessionRouter.EndProcessMessage(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.IDuplexSessionRouter.EndProcessMessage(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.IDuplexSessionRouter.EndProcessMessage(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.IDuplexSessionRouter.EndProcessMessage(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.IDuplexSessionRouter.EndProcessMessage(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.IDuplexSessionRouter.EndProcessMessage(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.IDuplexSessionRouter.EndProcessMessage(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.IDuplexSessionRouter.EndProcessMessage(System.IAsyncResult)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel.Routing</AssemblyName>
@@ -155,6 +185,16 @@
       <MemberSignature Language="C++ CLI" Value=" virtual IAsyncResult ^ System.ServiceModel.Routing.IRequestReplyRouter.BeginProcessRequest(System::ServiceModel::Channels::Message ^ message, AsyncCallback ^ callback, System::Object ^ state) = System::ServiceModel::Routing::IRequestReplyRouter::BeginProcessRequest;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ServiceModel.Routing.IRequestReplyRouter.BeginProcessRequest(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.IRequestReplyRouter.BeginProcessRequest(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.IRequestReplyRouter.BeginProcessRequest(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.IRequestReplyRouter.BeginProcessRequest(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.IRequestReplyRouter.BeginProcessRequest(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.IRequestReplyRouter.BeginProcessRequest(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.IRequestReplyRouter.BeginProcessRequest(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.IRequestReplyRouter.BeginProcessRequest(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.IRequestReplyRouter.BeginProcessRequest(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.IRequestReplyRouter.BeginProcessRequest(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Routing.IRequestReplyRouter.BeginProcessRequest(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -202,6 +242,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Routing.IRequestReplyRouter.EndProcessRequest(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.IRequestReplyRouter.EndProcessRequest(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.IRequestReplyRouter.EndProcessRequest(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.IRequestReplyRouter.EndProcessRequest(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.IRequestReplyRouter.EndProcessRequest(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.IRequestReplyRouter.EndProcessRequest(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.IRequestReplyRouter.EndProcessRequest(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.IRequestReplyRouter.EndProcessRequest(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.IRequestReplyRouter.EndProcessRequest(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.IRequestReplyRouter.EndProcessRequest(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.IRequestReplyRouter.EndProcessRequest(System.IAsyncResult)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel.Routing</AssemblyName>
@@ -239,6 +289,16 @@
       <MemberSignature Language="C++ CLI" Value=" virtual IAsyncResult ^ System.ServiceModel.Routing.ISimplexDatagramRouter.BeginProcessMessage(System::ServiceModel::Channels::Message ^ message, AsyncCallback ^ callback, System::Object ^ state) = System::ServiceModel::Routing::ISimplexDatagramRouter::BeginProcessMessage;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ServiceModel.Routing.ISimplexDatagramRouter.BeginProcessMessage(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.ISimplexDatagramRouter.BeginProcessMessage(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.ISimplexDatagramRouter.BeginProcessMessage(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.ISimplexDatagramRouter.BeginProcessMessage(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.ISimplexDatagramRouter.BeginProcessMessage(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.ISimplexDatagramRouter.BeginProcessMessage(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.ISimplexDatagramRouter.BeginProcessMessage(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.ISimplexDatagramRouter.BeginProcessMessage(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.ISimplexDatagramRouter.BeginProcessMessage(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.ISimplexDatagramRouter.BeginProcessMessage(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Routing.ISimplexDatagramRouter.BeginProcessMessage(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -286,6 +346,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Routing.ISimplexDatagramRouter.EndProcessMessage(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.ISimplexDatagramRouter.EndProcessMessage(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.ISimplexDatagramRouter.EndProcessMessage(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.ISimplexDatagramRouter.EndProcessMessage(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.ISimplexDatagramRouter.EndProcessMessage(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.ISimplexDatagramRouter.EndProcessMessage(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.ISimplexDatagramRouter.EndProcessMessage(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.ISimplexDatagramRouter.EndProcessMessage(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.ISimplexDatagramRouter.EndProcessMessage(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.ISimplexDatagramRouter.EndProcessMessage(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.ISimplexDatagramRouter.EndProcessMessage(System.IAsyncResult)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel.Routing</AssemblyName>
@@ -322,6 +392,16 @@
       <MemberSignature Language="C++ CLI" Value=" virtual IAsyncResult ^ System.ServiceModel.Routing.ISimplexSessionRouter.BeginProcessMessage(System::ServiceModel::Channels::Message ^ message, AsyncCallback ^ callback, System::Object ^ state) = System::ServiceModel::Routing::ISimplexSessionRouter::BeginProcessMessage;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ServiceModel.Routing.ISimplexSessionRouter.BeginProcessMessage(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.ISimplexSessionRouter.BeginProcessMessage(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.ISimplexSessionRouter.BeginProcessMessage(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.ISimplexSessionRouter.BeginProcessMessage(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.ISimplexSessionRouter.BeginProcessMessage(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.ISimplexSessionRouter.BeginProcessMessage(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.ISimplexSessionRouter.BeginProcessMessage(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.ISimplexSessionRouter.BeginProcessMessage(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.ISimplexSessionRouter.BeginProcessMessage(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.ISimplexSessionRouter.BeginProcessMessage(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Routing.ISimplexSessionRouter.BeginProcessMessage(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -368,6 +448,16 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.ServiceModel.Routing.ISimplexSessionRouter.EndProcessMessage(IAsyncResult ^ result) = System::ServiceModel::Routing::ISimplexSessionRouter::EndProcessMessage;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ServiceModel.Routing.ISimplexSessionRouter.EndProcessMessage(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.ISimplexSessionRouter.EndProcessMessage(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.ISimplexSessionRouter.EndProcessMessage(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.ISimplexSessionRouter.EndProcessMessage(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.ISimplexSessionRouter.EndProcessMessage(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.ISimplexSessionRouter.EndProcessMessage(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.ISimplexSessionRouter.EndProcessMessage(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.ISimplexSessionRouter.EndProcessMessage(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.ISimplexSessionRouter.EndProcessMessage(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Routing.ISimplexSessionRouter.EndProcessMessage(System.IAsyncResult)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Routing.ISimplexSessionRouter.EndProcessMessage(System.IAsyncResult)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

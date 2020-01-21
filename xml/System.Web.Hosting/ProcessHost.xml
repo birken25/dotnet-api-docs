@@ -53,6 +53,19 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.Hosting.IProcessHost.EnumerateAppDomains(System.Web.Hosting.IAppDomainInfoEnum@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHost.EnumerateAppDomains(System.Web.Hosting.IAppDomainInfoEnum@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHost.EnumerateAppDomains(System.Web.Hosting.IAppDomainInfoEnum@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHost.EnumerateAppDomains(System.Web.Hosting.IAppDomainInfoEnum@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHost.EnumerateAppDomains(System.Web.Hosting.IAppDomainInfoEnum@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHost.EnumerateAppDomains(System.Web.Hosting.IAppDomainInfoEnum@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHost.EnumerateAppDomains(System.Web.Hosting.IAppDomainInfoEnum@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHost.EnumerateAppDomains(System.Web.Hosting.IAppDomainInfoEnum@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHost.EnumerateAppDomains(System.Web.Hosting.IAppDomainInfoEnum@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHost.EnumerateAppDomains(System.Web.Hosting.IAppDomainInfoEnum@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHost.EnumerateAppDomains(System.Web.Hosting.IAppDomainInfoEnum@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHost.EnumerateAppDomains(System.Web.Hosting.IAppDomainInfoEnum@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHost.EnumerateAppDomains(System.Web.Hosting.IAppDomainInfoEnum@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHost.EnumerateAppDomains(System.Web.Hosting.IAppDomainInfoEnum@)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -113,6 +126,19 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.Hosting.IProcessHostIdleAndHealthCheck.IsIdle</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHostIdleAndHealthCheck.IsIdle</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHostIdleAndHealthCheck.IsIdle</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHostIdleAndHealthCheck.IsIdle</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHostIdleAndHealthCheck.IsIdle</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHostIdleAndHealthCheck.IsIdle</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHostIdleAndHealthCheck.IsIdle</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHostIdleAndHealthCheck.IsIdle</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHostIdleAndHealthCheck.IsIdle</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHostIdleAndHealthCheck.IsIdle</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHostIdleAndHealthCheck.IsIdle</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHostIdleAndHealthCheck.IsIdle</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHostIdleAndHealthCheck.IsIdle</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHostIdleAndHealthCheck.IsIdle</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -147,6 +173,19 @@
       <MemberSignature Language="F#" Value="abstract member Ping : System.Web.Hosting.IProcessPingCallback -&gt; unit&#xA;override this.Ping : System.Web.Hosting.IProcessPingCallback -&gt; unit" Usage="processHost.Ping callback" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHostIdleAndHealthCheck.Ping(System.Web.Hosting.IProcessPingCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHostIdleAndHealthCheck.Ping(System.Web.Hosting.IProcessPingCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHostIdleAndHealthCheck.Ping(System.Web.Hosting.IProcessPingCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHostIdleAndHealthCheck.Ping(System.Web.Hosting.IProcessPingCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHostIdleAndHealthCheck.Ping(System.Web.Hosting.IProcessPingCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHostIdleAndHealthCheck.Ping(System.Web.Hosting.IProcessPingCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHostIdleAndHealthCheck.Ping(System.Web.Hosting.IProcessPingCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHostIdleAndHealthCheck.Ping(System.Web.Hosting.IProcessPingCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHostIdleAndHealthCheck.Ping(System.Web.Hosting.IProcessPingCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHostIdleAndHealthCheck.Ping(System.Web.Hosting.IProcessPingCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHostIdleAndHealthCheck.Ping(System.Web.Hosting.IProcessPingCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHostIdleAndHealthCheck.Ping(System.Web.Hosting.IProcessPingCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHostIdleAndHealthCheck.Ping(System.Web.Hosting.IProcessPingCallback)</InterfaceMember>
         <InterfaceMember>M:System.Web.Hosting.IProcessHostIdleAndHealthCheck.Ping(System.Web.Hosting.IProcessPingCallback)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -183,6 +222,16 @@
       <MemberSignature Language="F#" Value="abstract member SetApplicationPreloadState : string * string * bool -&gt; unit&#xA;override this.SetApplicationPreloadState : string * string * bool -&gt; unit" Usage="processHost.SetApplicationPreloadState (context, appId, enabled)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.Hosting.IApplicationPreloadManager.SetApplicationPreloadState(System.String,System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IApplicationPreloadManager.SetApplicationPreloadState(System.String,System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IApplicationPreloadManager.SetApplicationPreloadState(System.String,System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IApplicationPreloadManager.SetApplicationPreloadState(System.String,System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IApplicationPreloadManager.SetApplicationPreloadState(System.String,System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IApplicationPreloadManager.SetApplicationPreloadState(System.String,System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IApplicationPreloadManager.SetApplicationPreloadState(System.String,System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IApplicationPreloadManager.SetApplicationPreloadState(System.String,System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IApplicationPreloadManager.SetApplicationPreloadState(System.String,System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IApplicationPreloadManager.SetApplicationPreloadState(System.String,System.String,System.Boolean)</InterfaceMember>
         <InterfaceMember>M:System.Web.Hosting.IApplicationPreloadManager.SetApplicationPreloadState(System.String,System.String,System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -236,6 +285,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.Hosting.IApplicationPreloadManager.SetApplicationPreloadUtil(System.Web.Hosting.IApplicationPreloadUtil)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IApplicationPreloadManager.SetApplicationPreloadUtil(System.Web.Hosting.IApplicationPreloadUtil)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IApplicationPreloadManager.SetApplicationPreloadUtil(System.Web.Hosting.IApplicationPreloadUtil)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IApplicationPreloadManager.SetApplicationPreloadUtil(System.Web.Hosting.IApplicationPreloadUtil)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IApplicationPreloadManager.SetApplicationPreloadUtil(System.Web.Hosting.IApplicationPreloadUtil)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IApplicationPreloadManager.SetApplicationPreloadUtil(System.Web.Hosting.IApplicationPreloadUtil)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IApplicationPreloadManager.SetApplicationPreloadUtil(System.Web.Hosting.IApplicationPreloadUtil)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IApplicationPreloadManager.SetApplicationPreloadUtil(System.Web.Hosting.IApplicationPreloadUtil)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IApplicationPreloadManager.SetApplicationPreloadUtil(System.Web.Hosting.IApplicationPreloadUtil)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IApplicationPreloadManager.SetApplicationPreloadUtil(System.Web.Hosting.IApplicationPreloadUtil)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IApplicationPreloadManager.SetApplicationPreloadUtil(System.Web.Hosting.IApplicationPreloadUtil)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -275,6 +334,19 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.Hosting.IProcessHost.Shutdown</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHost.Shutdown</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHost.Shutdown</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHost.Shutdown</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHost.Shutdown</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHost.Shutdown</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHost.Shutdown</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHost.Shutdown</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHost.Shutdown</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHost.Shutdown</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHost.Shutdown</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHost.Shutdown</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHost.Shutdown</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHost.Shutdown</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -300,6 +372,19 @@
       <MemberSignature Language="F#" Value="abstract member ShutdownApplication : string -&gt; unit&#xA;override this.ShutdownApplication : string -&gt; unit" Usage="processHost.ShutdownApplication appId" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHost.ShutdownApplication(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHost.ShutdownApplication(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHost.ShutdownApplication(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHost.ShutdownApplication(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHost.ShutdownApplication(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHost.ShutdownApplication(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHost.ShutdownApplication(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHost.ShutdownApplication(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHost.ShutdownApplication(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHost.ShutdownApplication(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHost.ShutdownApplication(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHost.ShutdownApplication(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHost.ShutdownApplication(System.String)</InterfaceMember>
         <InterfaceMember>M:System.Web.Hosting.IProcessHost.ShutdownApplication(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -337,6 +422,19 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.Hosting.IAdphManager.StartAppDomainProtocolListenerChannel(System.String,System.String,System.Web.Hosting.IListenerChannelCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAdphManager.StartAppDomainProtocolListenerChannel(System.String,System.String,System.Web.Hosting.IListenerChannelCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAdphManager.StartAppDomainProtocolListenerChannel(System.String,System.String,System.Web.Hosting.IListenerChannelCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAdphManager.StartAppDomainProtocolListenerChannel(System.String,System.String,System.Web.Hosting.IListenerChannelCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAdphManager.StartAppDomainProtocolListenerChannel(System.String,System.String,System.Web.Hosting.IListenerChannelCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAdphManager.StartAppDomainProtocolListenerChannel(System.String,System.String,System.Web.Hosting.IListenerChannelCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAdphManager.StartAppDomainProtocolListenerChannel(System.String,System.String,System.Web.Hosting.IListenerChannelCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAdphManager.StartAppDomainProtocolListenerChannel(System.String,System.String,System.Web.Hosting.IListenerChannelCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAdphManager.StartAppDomainProtocolListenerChannel(System.String,System.String,System.Web.Hosting.IListenerChannelCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAdphManager.StartAppDomainProtocolListenerChannel(System.String,System.String,System.Web.Hosting.IListenerChannelCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAdphManager.StartAppDomainProtocolListenerChannel(System.String,System.String,System.Web.Hosting.IListenerChannelCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAdphManager.StartAppDomainProtocolListenerChannel(System.String,System.String,System.Web.Hosting.IListenerChannelCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAdphManager.StartAppDomainProtocolListenerChannel(System.String,System.String,System.Web.Hosting.IListenerChannelCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAdphManager.StartAppDomainProtocolListenerChannel(System.String,System.String,System.Web.Hosting.IListenerChannelCallback)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -369,6 +467,19 @@
       <MemberSignature Language="F#" Value="abstract member StartApplication : string * string * obj -&gt; unit&#xA;override this.StartApplication : string * string * obj -&gt; unit" Usage="processHost.StartApplication (appId, appPath, runtimeInterface)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHost.StartApplication(System.String,System.String,System.Object@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHost.StartApplication(System.String,System.String,System.Object@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHost.StartApplication(System.String,System.String,System.Object@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHost.StartApplication(System.String,System.String,System.Object@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHost.StartApplication(System.String,System.String,System.Object@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHost.StartApplication(System.String,System.String,System.Object@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHost.StartApplication(System.String,System.String,System.Object@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHost.StartApplication(System.String,System.String,System.Object@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHost.StartApplication(System.String,System.String,System.Object@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHost.StartApplication(System.String,System.String,System.Object@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHost.StartApplication(System.String,System.String,System.Object@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHost.StartApplication(System.String,System.String,System.Object@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IProcessHost.StartApplication(System.String,System.String,System.Object@)</InterfaceMember>
         <InterfaceMember>M:System.Web.Hosting.IProcessHost.StartApplication(System.String,System.String,System.Object@)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -403,6 +514,19 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.Hosting.IPphManager.StartProcessProtocolListenerChannel(System.String,System.Web.Hosting.IListenerChannelCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IPphManager.StartProcessProtocolListenerChannel(System.String,System.Web.Hosting.IListenerChannelCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IPphManager.StartProcessProtocolListenerChannel(System.String,System.Web.Hosting.IListenerChannelCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IPphManager.StartProcessProtocolListenerChannel(System.String,System.Web.Hosting.IListenerChannelCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IPphManager.StartProcessProtocolListenerChannel(System.String,System.Web.Hosting.IListenerChannelCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IPphManager.StartProcessProtocolListenerChannel(System.String,System.Web.Hosting.IListenerChannelCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IPphManager.StartProcessProtocolListenerChannel(System.String,System.Web.Hosting.IListenerChannelCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IPphManager.StartProcessProtocolListenerChannel(System.String,System.Web.Hosting.IListenerChannelCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IPphManager.StartProcessProtocolListenerChannel(System.String,System.Web.Hosting.IListenerChannelCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IPphManager.StartProcessProtocolListenerChannel(System.String,System.Web.Hosting.IListenerChannelCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IPphManager.StartProcessProtocolListenerChannel(System.String,System.Web.Hosting.IListenerChannelCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IPphManager.StartProcessProtocolListenerChannel(System.String,System.Web.Hosting.IListenerChannelCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IPphManager.StartProcessProtocolListenerChannel(System.String,System.Web.Hosting.IListenerChannelCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IPphManager.StartProcessProtocolListenerChannel(System.String,System.Web.Hosting.IListenerChannelCallback)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -433,6 +557,19 @@
       <MemberSignature Language="F#" Value="abstract member StopAppDomainProtocol : string * string * bool -&gt; unit&#xA;override this.StopAppDomainProtocol : string * string * bool -&gt; unit" Usage="processHost.StopAppDomainProtocol (appId, protocolId, immediate)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.Hosting.IAdphManager.StopAppDomainProtocol(System.String,System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAdphManager.StopAppDomainProtocol(System.String,System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAdphManager.StopAppDomainProtocol(System.String,System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAdphManager.StopAppDomainProtocol(System.String,System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAdphManager.StopAppDomainProtocol(System.String,System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAdphManager.StopAppDomainProtocol(System.String,System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAdphManager.StopAppDomainProtocol(System.String,System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAdphManager.StopAppDomainProtocol(System.String,System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAdphManager.StopAppDomainProtocol(System.String,System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAdphManager.StopAppDomainProtocol(System.String,System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAdphManager.StopAppDomainProtocol(System.String,System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAdphManager.StopAppDomainProtocol(System.String,System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAdphManager.StopAppDomainProtocol(System.String,System.String,System.Boolean)</InterfaceMember>
         <InterfaceMember>M:System.Web.Hosting.IAdphManager.StopAppDomainProtocol(System.String,System.String,System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -474,6 +611,19 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.Hosting.IAdphManager.StopAppDomainProtocolListenerChannel(System.String,System.String,System.Int32,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAdphManager.StopAppDomainProtocolListenerChannel(System.String,System.String,System.Int32,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAdphManager.StopAppDomainProtocolListenerChannel(System.String,System.String,System.Int32,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAdphManager.StopAppDomainProtocolListenerChannel(System.String,System.String,System.Int32,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAdphManager.StopAppDomainProtocolListenerChannel(System.String,System.String,System.Int32,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAdphManager.StopAppDomainProtocolListenerChannel(System.String,System.String,System.Int32,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAdphManager.StopAppDomainProtocolListenerChannel(System.String,System.String,System.Int32,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAdphManager.StopAppDomainProtocolListenerChannel(System.String,System.String,System.Int32,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAdphManager.StopAppDomainProtocolListenerChannel(System.String,System.String,System.Int32,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAdphManager.StopAppDomainProtocolListenerChannel(System.String,System.String,System.Int32,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAdphManager.StopAppDomainProtocolListenerChannel(System.String,System.String,System.Int32,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAdphManager.StopAppDomainProtocolListenerChannel(System.String,System.String,System.Int32,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAdphManager.StopAppDomainProtocolListenerChannel(System.String,System.String,System.Int32,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAdphManager.StopAppDomainProtocolListenerChannel(System.String,System.String,System.Int32,System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -508,6 +658,19 @@
       <MemberSignature Language="F#" Value="abstract member StopProcessProtocol : string * bool -&gt; unit&#xA;override this.StopProcessProtocol : string * bool -&gt; unit" Usage="processHost.StopProcessProtocol (protocolId, immediate)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.Hosting.IPphManager.StopProcessProtocol(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IPphManager.StopProcessProtocol(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IPphManager.StopProcessProtocol(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IPphManager.StopProcessProtocol(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IPphManager.StopProcessProtocol(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IPphManager.StopProcessProtocol(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IPphManager.StopProcessProtocol(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IPphManager.StopProcessProtocol(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IPphManager.StopProcessProtocol(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IPphManager.StopProcessProtocol(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IPphManager.StopProcessProtocol(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IPphManager.StopProcessProtocol(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IPphManager.StopProcessProtocol(System.String,System.Boolean)</InterfaceMember>
         <InterfaceMember>M:System.Web.Hosting.IPphManager.StopProcessProtocol(System.String,System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -546,6 +709,19 @@
       <MemberSignature Language="F#" Value="abstract member StopProcessProtocolListenerChannel : string * int * bool -&gt; unit&#xA;override this.StopProcessProtocolListenerChannel : string * int * bool -&gt; unit" Usage="processHost.StopProcessProtocolListenerChannel (protocolId, listenerChannelId, immediate)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.Hosting.IPphManager.StopProcessProtocolListenerChannel(System.String,System.Int32,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IPphManager.StopProcessProtocolListenerChannel(System.String,System.Int32,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IPphManager.StopProcessProtocolListenerChannel(System.String,System.Int32,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IPphManager.StopProcessProtocolListenerChannel(System.String,System.Int32,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IPphManager.StopProcessProtocolListenerChannel(System.String,System.Int32,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IPphManager.StopProcessProtocolListenerChannel(System.String,System.Int32,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IPphManager.StopProcessProtocolListenerChannel(System.String,System.Int32,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IPphManager.StopProcessProtocolListenerChannel(System.String,System.Int32,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IPphManager.StopProcessProtocolListenerChannel(System.String,System.Int32,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IPphManager.StopProcessProtocolListenerChannel(System.String,System.Int32,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IPphManager.StopProcessProtocolListenerChannel(System.String,System.Int32,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IPphManager.StopProcessProtocolListenerChannel(System.String,System.Int32,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IPphManager.StopProcessProtocolListenerChannel(System.String,System.Int32,System.Boolean)</InterfaceMember>
         <InterfaceMember>M:System.Web.Hosting.IPphManager.StopProcessProtocolListenerChannel(System.String,System.Int32,System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

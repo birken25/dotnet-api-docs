@@ -169,6 +169,18 @@ If you need to perform multiple operations on an immutable collection, to increa
       <MemberSignature Language="F#" Value="abstract member Contains : 'T -&gt; bool&#xA;override this.Contains : 'T -&gt; bool" Usage="immutableSortedSet.Contains value" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Contains(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Contains(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Contains(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Contains(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Contains(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Contains(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Contains(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Contains(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Contains(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Contains(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Contains(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Contains(`0)</InterfaceMember>
         <InterfaceMember>M:System.Collections.Generic.ICollection`1.Contains(`0)</InterfaceMember>
         <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Contains(`0)</InterfaceMember>
       </Implements>
@@ -215,6 +227,20 @@ If you need to perform multiple operations on an immutable collection, to increa
       <MemberSignature Language="F#" Value="member this.Count : int" Usage="System.Collections.Immutable.ImmutableSortedSet&lt;'T&gt;.Count" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Collections.Generic.IReadOnlyCollection`1.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.ICollection`1.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.ICollection`1.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IReadOnlyCollection`1.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.ICollection`1.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IReadOnlyCollection`1.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.ICollection`1.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IReadOnlyCollection`1.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.ICollection`1.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IReadOnlyCollection`1.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
         <InterfaceMember>P:System.Collections.Generic.ICollection`1.Count</InterfaceMember>
         <InterfaceMember>P:System.Collections.Generic.IReadOnlyCollection`1.Count</InterfaceMember>
         <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
@@ -369,6 +395,11 @@ If you need to perform multiple operations on an immutable collection, to increa
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.Generic.IList`1.IndexOf(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IList`1.IndexOf(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IList`1.IndexOf(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IList`1.IndexOf(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IList`1.IndexOf(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IList`1.IndexOf(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -491,6 +522,20 @@ If you need to perform multiple operations on an immutable collection, to increa
       <MemberSignature Language="F#" Value="abstract member IsProperSubsetOf : seq&lt;'T&gt; -&gt; bool&#xA;override this.IsProperSubsetOf : seq&lt;'T&gt; -&gt; bool" Usage="immutableSortedSet.IsProperSubsetOf other" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.IsProperSubsetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.IsProperSubsetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.IsProperSubsetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.IsProperSubsetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.IsProperSubsetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.IsProperSubsetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.IsProperSubsetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.IsProperSubsetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.IsProperSubsetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.IsProperSubsetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.IsProperSubsetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.IsProperSubsetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.IsProperSubsetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.IsProperSubsetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
         <InterfaceMember>M:System.Collections.Generic.ISet`1.IsProperSubsetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
         <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.IsProperSubsetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
       </Implements>
@@ -538,6 +583,20 @@ An empty set is a proper subset of any other collection. Therefore, this method 
       <MemberSignature Language="F#" Value="abstract member IsProperSupersetOf : seq&lt;'T&gt; -&gt; bool&#xA;override this.IsProperSupersetOf : seq&lt;'T&gt; -&gt; bool" Usage="immutableSortedSet.IsProperSupersetOf other" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.IsProperSupersetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.IsProperSupersetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.IsProperSupersetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.IsProperSupersetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.IsProperSupersetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.IsProperSupersetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.IsProperSupersetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.IsProperSupersetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.IsProperSupersetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.IsProperSupersetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.IsProperSupersetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.IsProperSupersetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.IsProperSupersetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.IsProperSupersetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
         <InterfaceMember>M:System.Collections.Generic.ISet`1.IsProperSupersetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
         <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.IsProperSupersetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
       </Implements>
@@ -586,6 +645,20 @@ An empty set is a proper superset of any other collection. Therefore, this metho
       <MemberSignature Language="F#" Value="abstract member IsSubsetOf : seq&lt;'T&gt; -&gt; bool&#xA;override this.IsSubsetOf : seq&lt;'T&gt; -&gt; bool" Usage="immutableSortedSet.IsSubsetOf other" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.IsSubsetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.IsSubsetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.IsSubsetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.IsSubsetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.IsSubsetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.IsSubsetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.IsSubsetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.IsSubsetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.IsSubsetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.IsSubsetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.IsSubsetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.IsSubsetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.IsSubsetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.IsSubsetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
         <InterfaceMember>M:System.Collections.Generic.ISet`1.IsSubsetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
         <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.IsSubsetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
       </Implements>
@@ -634,6 +707,20 @@ An empty set is a subset of any other set, including another empty set. Therefor
       <MemberSignature Language="F#" Value="abstract member IsSupersetOf : seq&lt;'T&gt; -&gt; bool&#xA;override this.IsSupersetOf : seq&lt;'T&gt; -&gt; bool" Usage="immutableSortedSet.IsSupersetOf other" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.IsSupersetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.IsSupersetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.IsSupersetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.IsSupersetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.IsSupersetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.IsSupersetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.IsSupersetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.IsSupersetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.IsSupersetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.IsSupersetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.IsSupersetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.IsSupersetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.IsSupersetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.IsSupersetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
         <InterfaceMember>M:System.Collections.Generic.ISet`1.IsSupersetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
         <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.IsSupersetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
       </Implements>
@@ -682,6 +769,11 @@ All collections, including empty sets, are supersets of an empty set. Therefore,
       <MemberSignature Language="F#" Value="member this.Item(int) : 'T" Usage="System.Collections.Immutable.ImmutableSortedSet&lt;'T&gt;.Item" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Collections.Generic.IReadOnlyList`1.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IReadOnlyList`1.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IReadOnlyList`1.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IReadOnlyList`1.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IReadOnlyList`1.Item(System.Int32)</InterfaceMember>
         <InterfaceMember>P:System.Collections.Generic.IReadOnlyList`1.Item(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -757,6 +849,11 @@ All collections, including empty sets, are supersets of an empty set. Therefore,
       <MemberSignature Language="C++ CLI" Value="public:&#xA; property System::Collections::Generic::IComparer&lt;T&gt; ^ KeyComparer { System::Collections::Generic::IComparer&lt;T&gt; ^ get(); };" />
       <MemberSignature Language="F#" Value="member this.KeyComparer : System.Collections.Generic.IComparer&lt;'T&gt;" Usage="System.Collections.Immutable.ImmutableSortedSet&lt;'T&gt;.KeyComparer" />
       <MemberType>Property</MemberType>
+      <Implements>
+        <InterfaceMember>P:System.Collections.Generic.ISortKeyCollection`1.KeyComparer</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.ISortKeyCollection`1.KeyComparer</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.ISortKeyCollection`1.KeyComparer</InterfaceMember>
+      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
         <AssemblyVersion>1.1.37.0</AssemblyVersion>
@@ -869,6 +966,20 @@ All collections, including empty sets, are supersets of an empty set. Therefore,
       <MemberSignature Language="F#" Value="abstract member Overlaps : seq&lt;'T&gt; -&gt; bool&#xA;override this.Overlaps : seq&lt;'T&gt; -&gt; bool" Usage="immutableSortedSet.Overlaps other" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Overlaps(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.Overlaps(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Overlaps(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.Overlaps(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Overlaps(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.Overlaps(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.Overlaps(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Overlaps(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.Overlaps(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Overlaps(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.Overlaps(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Overlaps(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.Overlaps(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Overlaps(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
         <InterfaceMember>M:System.Collections.Generic.ISet`1.Overlaps(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
         <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Overlaps(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
       </Implements>
@@ -994,6 +1105,20 @@ All collections, including empty sets, are supersets of an empty set. Therefore,
       <MemberSignature Language="F#" Value="abstract member SetEquals : seq&lt;'T&gt; -&gt; bool&#xA;override this.SetEquals : seq&lt;'T&gt; -&gt; bool" Usage="immutableSortedSet.SetEquals other" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.SetEquals(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.SetEquals(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.SetEquals(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.SetEquals(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.SetEquals(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.SetEquals(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.SetEquals(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.SetEquals(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.SetEquals(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.SetEquals(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.SetEquals(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.SetEquals(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.SetEquals(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.SetEquals(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
         <InterfaceMember>M:System.Collections.Generic.ISet`1.SetEquals(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
         <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.SetEquals(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
       </Implements>
@@ -1081,6 +1206,11 @@ All collections, including empty sets, are supersets of an empty set. Therefore,
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.Generic.ICollection`1.Add(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Add(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Add(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Add(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Add(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Add(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -1125,6 +1255,11 @@ This member is an explicit interface member implementation. It can be used only 
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.Generic.ICollection`1.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Clear</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -1165,6 +1300,11 @@ This member is an explicit interface member implementation. It can be used only 
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Collections.Generic.ICollection&lt;T&gt;.CopyTo(cli::array &lt;T&gt; ^ array, int arrayIndex) = System::Collections::Generic::ICollection&lt;T&gt;::CopyTo;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.CopyTo(`0[],System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.CopyTo(`0[],System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.CopyTo(`0[],System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.CopyTo(`0[],System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.CopyTo(`0[],System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Collections.Generic.ICollection`1.CopyTo(`0[],System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1213,6 +1353,11 @@ This member is an explicit interface member implementation. It can be used only 
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -1241,6 +1386,11 @@ This member is an explicit interface member implementation. It can be used only 
       <MemberSignature Language="C++ CLI" Value=" virtual bool System.Collections.Generic.ICollection&lt;T&gt;.Remove(T item) = System::Collections::Generic::ICollection&lt;T&gt;::Remove;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Remove(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Remove(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Remove(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Remove(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Remove(`0)</InterfaceMember>
         <InterfaceMember>M:System.Collections.Generic.ICollection`1.Remove(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1288,6 +1438,11 @@ This member is an explicit interface member implementation. It can be used only 
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -1329,6 +1484,11 @@ This member is an explicit interface member implementation. It can be used only 
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Collections.Generic.IList&lt;T&gt;.Insert(int index, T item) = System::Collections::Generic::IList&lt;T&gt;::Insert;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.Generic.IList`1.Insert(System.Int32,`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IList`1.Insert(System.Int32,`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IList`1.Insert(System.Int32,`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IList`1.Insert(System.Int32,`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IList`1.Insert(System.Int32,`0)</InterfaceMember>
         <InterfaceMember>M:System.Collections.Generic.IList`1.Insert(System.Int32,`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1377,6 +1537,11 @@ This member is an explicit interface member implementation. It can be used only 
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.Generic.IList`1.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IList`1.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IList`1.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IList`1.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IList`1.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IList`1.Item(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -1409,6 +1574,11 @@ This member is an explicit interface member implementation. It can be used only 
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Collections.Generic.IList&lt;T&gt;.RemoveAt(int index) = System::Collections::Generic::IList&lt;T&gt;::RemoveAt;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.Generic.IList`1.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IList`1.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IList`1.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IList`1.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IList`1.RemoveAt(System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Collections.Generic.IList`1.RemoveAt(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1453,6 +1623,13 @@ This member is an explicit interface member implementation. It can be used only 
       <MemberSignature Language="C++ CLI" Value=" virtual bool System.Collections.Generic.ISet&lt;T&gt;.Add(T item) = System::Collections::Generic::ISet&lt;T&gt;::Add;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.Add(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.Add(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.Add(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.Add(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.Add(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.Add(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.Add(`0)</InterfaceMember>
         <InterfaceMember>M:System.Collections.Generic.ISet`1.Add(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1500,6 +1677,13 @@ This member is an explicit interface member implementation. It can be used only 
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.Generic.ISet`1.ExceptWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.ExceptWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.ExceptWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.ExceptWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.ExceptWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.ExceptWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.ExceptWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.ExceptWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -1543,6 +1727,13 @@ This member is an explicit interface member implementation. It can be used only 
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Collections.Generic.ISet&lt;T&gt;.IntersectWith(System::Collections::Generic::IEnumerable&lt;T&gt; ^ other) = System::Collections::Generic::ISet&lt;T&gt;::IntersectWith;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.IntersectWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.IntersectWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.IntersectWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.IntersectWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.IntersectWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.IntersectWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.IntersectWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
         <InterfaceMember>M:System.Collections.Generic.ISet`1.IntersectWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1588,6 +1779,13 @@ This member is an explicit interface member implementation. It can be used only 
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.Generic.ISet`1.SymmetricExceptWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.SymmetricExceptWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.SymmetricExceptWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.SymmetricExceptWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.SymmetricExceptWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.SymmetricExceptWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.SymmetricExceptWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.SymmetricExceptWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -1632,6 +1830,13 @@ This member is an explicit interface member implementation. It can be used only 
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.Generic.ISet`1.UnionWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.UnionWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.UnionWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.UnionWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.UnionWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.UnionWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.UnionWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ISet`1.UnionWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -1674,6 +1879,11 @@ This member is an explicit interface member implementation. It can be used only 
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Collections.ICollection.CopyTo(Array ^ array, int index) = System::Collections::ICollection::CopyTo;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1722,6 +1932,11 @@ This member is an explicit interface member implementation. It can be used only 
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -1757,6 +1972,11 @@ This member is an explicit interface member implementation. It can be used only 
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -1790,6 +2010,11 @@ This member is an explicit interface member implementation. It can be used only 
       <MemberSignature Language="C++ CLI" Value=" virtual System::Collections::IEnumerator ^ System.Collections.IEnumerable.GetEnumerator() = System::Collections::IEnumerable::GetEnumerator;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
         <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1832,6 +2057,11 @@ This member is an explicit interface member implementation. It can be used only 
       <MemberSignature Language="C++ CLI" Value=" virtual int System.Collections.IList.Add(System::Object ^ value) = System::Collections::IList::Add;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1879,6 +2109,11 @@ This member is an explicit interface member implementation. It can be used only 
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -1920,6 +2155,11 @@ This member is an explicit interface member implementation. It can be used only 
       <MemberSignature Language="C++ CLI" Value=" virtual bool System.Collections.IList.Contains(System::Object ^ value) = System::Collections::IList::Contains;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1967,6 +2207,11 @@ This member is an explicit interface member implementation. It can be used only 
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -2011,6 +2256,11 @@ This member is an explicit interface member implementation. It can be used only 
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Collections.IList.Insert(int index, System::Object ^ value) = System::Collections::IList::Insert;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2060,6 +2310,11 @@ This member is an explicit interface member implementation. It can be used only 
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -2091,6 +2346,11 @@ This member is an explicit interface member implementation. It can be used only 
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -2121,6 +2381,11 @@ This member is an explicit interface member implementation. It can be used only 
       <MemberSignature Language="F#" Usage="System.Collections.IList.Item" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
         <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2155,6 +2420,11 @@ This member is an explicit interface member implementation. It can be used only 
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Collections.IList.Remove(System::Object ^ value) = System::Collections::IList::Remove;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2201,6 +2471,11 @@ This member is an explicit interface member implementation. It can be used only 
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -2245,6 +2520,13 @@ This member is an explicit interface member implementation. It can be used only 
       <MemberSignature Language="C++ CLI" Value=" virtual System::Collections::Immutable::IImmutableSet&lt;T&gt; ^ System.Collections.Immutable.IImmutableSet&lt;T&gt;.Add(T value) = System::Collections::Immutable::IImmutableSet&lt;T&gt;::Add;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Add(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Add(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Add(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Add(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Add(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Add(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Add(`0)</InterfaceMember>
         <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Add(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2291,6 +2573,13 @@ This member is an explicit interface member implementation. It can be used only 
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Clear</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -2332,6 +2621,13 @@ This member is an explicit interface member implementation. It can be used only 
       <MemberSignature Language="C++ CLI" Value=" virtual System::Collections::Immutable::IImmutableSet&lt;T&gt; ^ System.Collections.Immutable.IImmutableSet&lt;T&gt;.Except(System::Collections::Generic::IEnumerable&lt;T&gt; ^ other) = System::Collections::Immutable::IImmutableSet&lt;T&gt;::Except;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Except(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Except(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Except(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Except(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Except(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Except(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Except(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
         <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Except(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2378,6 +2674,13 @@ This member is an explicit interface member implementation. It can be used only 
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Intersect(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Intersect(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Intersect(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Intersect(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Intersect(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Intersect(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Intersect(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Intersect(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -2422,6 +2725,13 @@ This member is an explicit interface member implementation. It can be used only 
       <MemberSignature Language="C++ CLI" Value=" virtual System::Collections::Immutable::IImmutableSet&lt;T&gt; ^ System.Collections.Immutable.IImmutableSet&lt;T&gt;.Remove(T value) = System::Collections::Immutable::IImmutableSet&lt;T&gt;::Remove;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Remove(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Remove(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Remove(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Remove(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Remove(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Remove(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Remove(`0)</InterfaceMember>
         <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Remove(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2468,6 +2778,13 @@ This member is an explicit interface member implementation. It can be used only 
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.SymmetricExcept(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.SymmetricExcept(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.SymmetricExcept(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.SymmetricExcept(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.SymmetricExcept(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.SymmetricExcept(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.SymmetricExcept(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.SymmetricExcept(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -2512,6 +2829,13 @@ This member is an explicit interface member implementation. It can be used only 
       <MemberSignature Language="C++ CLI" Value=" virtual System::Collections::Immutable::IImmutableSet&lt;T&gt; ^ System.Collections.Immutable.IImmutableSet&lt;T&gt;.Union(System::Collections::Generic::IEnumerable&lt;T&gt; ^ other) = System::Collections::Immutable::IImmutableSet&lt;T&gt;::Union;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Union(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Union(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Union(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Union(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Union(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Union(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Union(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
         <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.Union(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2600,6 +2924,13 @@ If you need to perform multiple operations on an immutable collection, to increa
       <MemberSignature Language="F#" Value="abstract member TryGetValue : 'T * 'T -&gt; bool&#xA;override this.TryGetValue : 'T * 'T -&gt; bool" Usage="immutableSortedSet.TryGetValue (equalValue, actualValue)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.TryGetValue(`0,`0@)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.TryGetValue(`0,`0@)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.TryGetValue(`0,`0@)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.TryGetValue(`0,`0@)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.TryGetValue(`0,`0@)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.TryGetValue(`0,`0@)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.TryGetValue(`0,`0@)</InterfaceMember>
         <InterfaceMember>M:System.Collections.Immutable.IImmutableSet`1.TryGetValue(`0,`0@)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

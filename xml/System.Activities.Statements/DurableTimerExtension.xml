@@ -63,6 +63,16 @@ This TimerExtension has already been attached to a workflow instance.
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Activities</AssemblyName>
@@ -87,6 +97,16 @@ This TimerExtension has already been attached to a workflow instance.
       <MemberSignature Language="VB.NET" Value="Public Iterator Overridable Function GetAdditionalExtensions () As IEnumerable(Of Object)" FrameworkAlternate="netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Activities.Hosting.IWorkflowInstanceExtension.GetAdditionalExtensions</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Hosting.IWorkflowInstanceExtension.GetAdditionalExtensions</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Hosting.IWorkflowInstanceExtension.GetAdditionalExtensions</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Hosting.IWorkflowInstanceExtension.GetAdditionalExtensions</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Hosting.IWorkflowInstanceExtension.GetAdditionalExtensions</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Hosting.IWorkflowInstanceExtension.GetAdditionalExtensions</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Hosting.IWorkflowInstanceExtension.GetAdditionalExtensions</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Hosting.IWorkflowInstanceExtension.GetAdditionalExtensions</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Hosting.IWorkflowInstanceExtension.GetAdditionalExtensions</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Hosting.IWorkflowInstanceExtension.GetAdditionalExtensions</InterfaceMember>
         <InterfaceMember>M:System.Activities.Hosting.IWorkflowInstanceExtension.GetAdditionalExtensions</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -168,6 +188,16 @@ This TimerExtension has already been attached to a workflow instance.
       <MemberSignature Language="F#" Value="abstract member SetInstance : System.Activities.Hosting.WorkflowInstanceProxy -&gt; unit&#xA;override this.SetInstance : System.Activities.Hosting.WorkflowInstanceProxy -&gt; unit" Usage="durableTimerExtension.SetInstance instance" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Activities.Hosting.IWorkflowInstanceExtension.SetInstance(System.Activities.Hosting.WorkflowInstanceProxy)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Hosting.IWorkflowInstanceExtension.SetInstance(System.Activities.Hosting.WorkflowInstanceProxy)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Hosting.IWorkflowInstanceExtension.SetInstance(System.Activities.Hosting.WorkflowInstanceProxy)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Hosting.IWorkflowInstanceExtension.SetInstance(System.Activities.Hosting.WorkflowInstanceProxy)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Hosting.IWorkflowInstanceExtension.SetInstance(System.Activities.Hosting.WorkflowInstanceProxy)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Hosting.IWorkflowInstanceExtension.SetInstance(System.Activities.Hosting.WorkflowInstanceProxy)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Hosting.IWorkflowInstanceExtension.SetInstance(System.Activities.Hosting.WorkflowInstanceProxy)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Hosting.IWorkflowInstanceExtension.SetInstance(System.Activities.Hosting.WorkflowInstanceProxy)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Hosting.IWorkflowInstanceExtension.SetInstance(System.Activities.Hosting.WorkflowInstanceProxy)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Hosting.IWorkflowInstanceExtension.SetInstance(System.Activities.Hosting.WorkflowInstanceProxy)</InterfaceMember>
         <InterfaceMember>M:System.Activities.Hosting.IWorkflowInstanceExtension.SetInstance(System.Activities.Hosting.WorkflowInstanceProxy)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

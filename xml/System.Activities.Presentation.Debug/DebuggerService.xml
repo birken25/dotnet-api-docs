@@ -53,6 +53,16 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Activities.Presentation.Debug.IDesignerDebugView.CurrentContext</InterfaceMember>
+        <InterfaceMember>P:System.Activities.Presentation.Debug.IDesignerDebugView.CurrentContext</InterfaceMember>
+        <InterfaceMember>P:System.Activities.Presentation.Debug.IDesignerDebugView.CurrentContext</InterfaceMember>
+        <InterfaceMember>P:System.Activities.Presentation.Debug.IDesignerDebugView.CurrentContext</InterfaceMember>
+        <InterfaceMember>P:System.Activities.Presentation.Debug.IDesignerDebugView.CurrentContext</InterfaceMember>
+        <InterfaceMember>P:System.Activities.Presentation.Debug.IDesignerDebugView.CurrentContext</InterfaceMember>
+        <InterfaceMember>P:System.Activities.Presentation.Debug.IDesignerDebugView.CurrentContext</InterfaceMember>
+        <InterfaceMember>P:System.Activities.Presentation.Debug.IDesignerDebugView.CurrentContext</InterfaceMember>
+        <InterfaceMember>P:System.Activities.Presentation.Debug.IDesignerDebugView.CurrentContext</InterfaceMember>
+        <InterfaceMember>P:System.Activities.Presentation.Debug.IDesignerDebugView.CurrentContext</InterfaceMember>
+        <InterfaceMember>P:System.Activities.Presentation.Debug.IDesignerDebugView.CurrentContext</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Activities.Presentation</AssemblyName>
@@ -82,6 +92,16 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Activities.Presentation.Debug.IDesignerDebugView.CurrentLocation</InterfaceMember>
+        <InterfaceMember>P:System.Activities.Presentation.Debug.IDesignerDebugView.CurrentLocation</InterfaceMember>
+        <InterfaceMember>P:System.Activities.Presentation.Debug.IDesignerDebugView.CurrentLocation</InterfaceMember>
+        <InterfaceMember>P:System.Activities.Presentation.Debug.IDesignerDebugView.CurrentLocation</InterfaceMember>
+        <InterfaceMember>P:System.Activities.Presentation.Debug.IDesignerDebugView.CurrentLocation</InterfaceMember>
+        <InterfaceMember>P:System.Activities.Presentation.Debug.IDesignerDebugView.CurrentLocation</InterfaceMember>
+        <InterfaceMember>P:System.Activities.Presentation.Debug.IDesignerDebugView.CurrentLocation</InterfaceMember>
+        <InterfaceMember>P:System.Activities.Presentation.Debug.IDesignerDebugView.CurrentLocation</InterfaceMember>
+        <InterfaceMember>P:System.Activities.Presentation.Debug.IDesignerDebugView.CurrentLocation</InterfaceMember>
+        <InterfaceMember>P:System.Activities.Presentation.Debug.IDesignerDebugView.CurrentLocation</InterfaceMember>
+        <InterfaceMember>P:System.Activities.Presentation.Debug.IDesignerDebugView.CurrentLocation</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Activities.Presentation</AssemblyName>
@@ -109,6 +129,16 @@
       <MemberSignature Language="F#" Value="abstract member DeleteBreakpoint : System.Activities.Debugger.SourceLocation -&gt; unit&#xA;override this.DeleteBreakpoint : System.Activities.Debugger.SourceLocation -&gt; unit" Usage="debuggerService.DeleteBreakpoint sourceLocation" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.DeleteBreakpoint(System.Activities.Debugger.SourceLocation)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.DeleteBreakpoint(System.Activities.Debugger.SourceLocation)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.DeleteBreakpoint(System.Activities.Debugger.SourceLocation)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.DeleteBreakpoint(System.Activities.Debugger.SourceLocation)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.DeleteBreakpoint(System.Activities.Debugger.SourceLocation)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.DeleteBreakpoint(System.Activities.Debugger.SourceLocation)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.DeleteBreakpoint(System.Activities.Debugger.SourceLocation)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.DeleteBreakpoint(System.Activities.Debugger.SourceLocation)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.DeleteBreakpoint(System.Activities.Debugger.SourceLocation)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.DeleteBreakpoint(System.Activities.Debugger.SourceLocation)</InterfaceMember>
         <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.DeleteBreakpoint(System.Activities.Debugger.SourceLocation)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -141,6 +171,15 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.EnsureVisible(System.Activities.Debugger.SourceLocation)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.EnsureVisible(System.Activities.Debugger.SourceLocation)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.EnsureVisible(System.Activities.Debugger.SourceLocation)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.EnsureVisible(System.Activities.Debugger.SourceLocation)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.EnsureVisible(System.Activities.Debugger.SourceLocation)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.EnsureVisible(System.Activities.Debugger.SourceLocation)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.EnsureVisible(System.Activities.Debugger.SourceLocation)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.EnsureVisible(System.Activities.Debugger.SourceLocation)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.EnsureVisible(System.Activities.Debugger.SourceLocation)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.EnsureVisible(System.Activities.Debugger.SourceLocation)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Activities.Presentation</AssemblyName>
@@ -168,6 +207,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.GetBreakpointLocations</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.GetBreakpointLocations</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.GetBreakpointLocations</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.GetBreakpointLocations</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.GetBreakpointLocations</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.GetBreakpointLocations</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.GetBreakpointLocations</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.GetBreakpointLocations</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.GetBreakpointLocations</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.GetBreakpointLocations</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.GetBreakpointLocations</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Activities.Presentation</AssemblyName>
@@ -192,6 +241,16 @@
       <MemberSignature Language="F#" Value="abstract member GetExactLocation : System.Activities.Debugger.SourceLocation -&gt; System.Activities.Debugger.SourceLocation&#xA;override this.GetExactLocation : System.Activities.Debugger.SourceLocation -&gt; System.Activities.Debugger.SourceLocation" Usage="debuggerService.GetExactLocation approximateLocation" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.GetExactLocation(System.Activities.Debugger.SourceLocation)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.GetExactLocation(System.Activities.Debugger.SourceLocation)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.GetExactLocation(System.Activities.Debugger.SourceLocation)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.GetExactLocation(System.Activities.Debugger.SourceLocation)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.GetExactLocation(System.Activities.Debugger.SourceLocation)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.GetExactLocation(System.Activities.Debugger.SourceLocation)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.GetExactLocation(System.Activities.Debugger.SourceLocation)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.GetExactLocation(System.Activities.Debugger.SourceLocation)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.GetExactLocation(System.Activities.Debugger.SourceLocation)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.GetExactLocation(System.Activities.Debugger.SourceLocation)</InterfaceMember>
         <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.GetExactLocation(System.Activities.Debugger.SourceLocation)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -220,6 +279,16 @@
       <MemberSignature Language="F#" Value="member this.HideSourceFileName : bool with get, set" Usage="System.Activities.Presentation.Debug.DebuggerService.HideSourceFileName" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Activities.Presentation.Debug.IDesignerDebugView.HideSourceFileName</InterfaceMember>
+        <InterfaceMember>P:System.Activities.Presentation.Debug.IDesignerDebugView.HideSourceFileName</InterfaceMember>
+        <InterfaceMember>P:System.Activities.Presentation.Debug.IDesignerDebugView.HideSourceFileName</InterfaceMember>
+        <InterfaceMember>P:System.Activities.Presentation.Debug.IDesignerDebugView.HideSourceFileName</InterfaceMember>
+        <InterfaceMember>P:System.Activities.Presentation.Debug.IDesignerDebugView.HideSourceFileName</InterfaceMember>
+        <InterfaceMember>P:System.Activities.Presentation.Debug.IDesignerDebugView.HideSourceFileName</InterfaceMember>
+        <InterfaceMember>P:System.Activities.Presentation.Debug.IDesignerDebugView.HideSourceFileName</InterfaceMember>
+        <InterfaceMember>P:System.Activities.Presentation.Debug.IDesignerDebugView.HideSourceFileName</InterfaceMember>
+        <InterfaceMember>P:System.Activities.Presentation.Debug.IDesignerDebugView.HideSourceFileName</InterfaceMember>
+        <InterfaceMember>P:System.Activities.Presentation.Debug.IDesignerDebugView.HideSourceFileName</InterfaceMember>
         <InterfaceMember>P:System.Activities.Presentation.Debug.IDesignerDebugView.HideSourceFileName</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -252,6 +321,16 @@
       <MemberSignature Language="F#" Value="abstract member InsertBreakpoint : System.Activities.Debugger.SourceLocation * System.Activities.Presentation.Debug.BreakpointTypes -&gt; unit&#xA;override this.InsertBreakpoint : System.Activities.Debugger.SourceLocation * System.Activities.Presentation.Debug.BreakpointTypes -&gt; unit" Usage="debuggerService.InsertBreakpoint (sourceLocation, breakpointType)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.InsertBreakpoint(System.Activities.Debugger.SourceLocation,System.Activities.Presentation.Debug.BreakpointTypes)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.InsertBreakpoint(System.Activities.Debugger.SourceLocation,System.Activities.Presentation.Debug.BreakpointTypes)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.InsertBreakpoint(System.Activities.Debugger.SourceLocation,System.Activities.Presentation.Debug.BreakpointTypes)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.InsertBreakpoint(System.Activities.Debugger.SourceLocation,System.Activities.Presentation.Debug.BreakpointTypes)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.InsertBreakpoint(System.Activities.Debugger.SourceLocation,System.Activities.Presentation.Debug.BreakpointTypes)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.InsertBreakpoint(System.Activities.Debugger.SourceLocation,System.Activities.Presentation.Debug.BreakpointTypes)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.InsertBreakpoint(System.Activities.Debugger.SourceLocation,System.Activities.Presentation.Debug.BreakpointTypes)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.InsertBreakpoint(System.Activities.Debugger.SourceLocation,System.Activities.Presentation.Debug.BreakpointTypes)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.InsertBreakpoint(System.Activities.Debugger.SourceLocation,System.Activities.Presentation.Debug.BreakpointTypes)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.InsertBreakpoint(System.Activities.Debugger.SourceLocation,System.Activities.Presentation.Debug.BreakpointTypes)</InterfaceMember>
         <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.InsertBreakpoint(System.Activities.Debugger.SourceLocation,System.Activities.Presentation.Debug.BreakpointTypes)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -287,6 +366,16 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Activities.Presentation.Debug.IDesignerDebugView.IsDebugging</InterfaceMember>
+        <InterfaceMember>P:System.Activities.Presentation.Debug.IDesignerDebugView.IsDebugging</InterfaceMember>
+        <InterfaceMember>P:System.Activities.Presentation.Debug.IDesignerDebugView.IsDebugging</InterfaceMember>
+        <InterfaceMember>P:System.Activities.Presentation.Debug.IDesignerDebugView.IsDebugging</InterfaceMember>
+        <InterfaceMember>P:System.Activities.Presentation.Debug.IDesignerDebugView.IsDebugging</InterfaceMember>
+        <InterfaceMember>P:System.Activities.Presentation.Debug.IDesignerDebugView.IsDebugging</InterfaceMember>
+        <InterfaceMember>P:System.Activities.Presentation.Debug.IDesignerDebugView.IsDebugging</InterfaceMember>
+        <InterfaceMember>P:System.Activities.Presentation.Debug.IDesignerDebugView.IsDebugging</InterfaceMember>
+        <InterfaceMember>P:System.Activities.Presentation.Debug.IDesignerDebugView.IsDebugging</InterfaceMember>
+        <InterfaceMember>P:System.Activities.Presentation.Debug.IDesignerDebugView.IsDebugging</InterfaceMember>
+        <InterfaceMember>P:System.Activities.Presentation.Debug.IDesignerDebugView.IsDebugging</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Activities.Presentation</AssemblyName>
@@ -317,6 +406,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.ResetBreakpoints</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.ResetBreakpoints</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.ResetBreakpoints</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.ResetBreakpoints</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.ResetBreakpoints</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.ResetBreakpoints</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.ResetBreakpoints</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.ResetBreakpoints</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.ResetBreakpoints</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.ResetBreakpoints</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.ResetBreakpoints</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Activities.Presentation</AssemblyName>
@@ -341,6 +440,16 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Activities.Presentation.Debug.IDesignerDebugView.SelectedLocation</InterfaceMember>
+        <InterfaceMember>P:System.Activities.Presentation.Debug.IDesignerDebugView.SelectedLocation</InterfaceMember>
+        <InterfaceMember>P:System.Activities.Presentation.Debug.IDesignerDebugView.SelectedLocation</InterfaceMember>
+        <InterfaceMember>P:System.Activities.Presentation.Debug.IDesignerDebugView.SelectedLocation</InterfaceMember>
+        <InterfaceMember>P:System.Activities.Presentation.Debug.IDesignerDebugView.SelectedLocation</InterfaceMember>
+        <InterfaceMember>P:System.Activities.Presentation.Debug.IDesignerDebugView.SelectedLocation</InterfaceMember>
+        <InterfaceMember>P:System.Activities.Presentation.Debug.IDesignerDebugView.SelectedLocation</InterfaceMember>
+        <InterfaceMember>P:System.Activities.Presentation.Debug.IDesignerDebugView.SelectedLocation</InterfaceMember>
+        <InterfaceMember>P:System.Activities.Presentation.Debug.IDesignerDebugView.SelectedLocation</InterfaceMember>
+        <InterfaceMember>P:System.Activities.Presentation.Debug.IDesignerDebugView.SelectedLocation</InterfaceMember>
+        <InterfaceMember>P:System.Activities.Presentation.Debug.IDesignerDebugView.SelectedLocation</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Activities.Presentation</AssemblyName>
@@ -363,6 +472,16 @@
       <MemberSignature Language="F#" Value="abstract member UpdateBreakpoint : System.Activities.Debugger.SourceLocation * System.Activities.Presentation.Debug.BreakpointTypes -&gt; unit&#xA;override this.UpdateBreakpoint : System.Activities.Debugger.SourceLocation * System.Activities.Presentation.Debug.BreakpointTypes -&gt; unit" Usage="debuggerService.UpdateBreakpoint (sourceLocation, newBreakpointType)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.UpdateBreakpoint(System.Activities.Debugger.SourceLocation,System.Activities.Presentation.Debug.BreakpointTypes)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.UpdateBreakpoint(System.Activities.Debugger.SourceLocation,System.Activities.Presentation.Debug.BreakpointTypes)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.UpdateBreakpoint(System.Activities.Debugger.SourceLocation,System.Activities.Presentation.Debug.BreakpointTypes)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.UpdateBreakpoint(System.Activities.Debugger.SourceLocation,System.Activities.Presentation.Debug.BreakpointTypes)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.UpdateBreakpoint(System.Activities.Debugger.SourceLocation,System.Activities.Presentation.Debug.BreakpointTypes)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.UpdateBreakpoint(System.Activities.Debugger.SourceLocation,System.Activities.Presentation.Debug.BreakpointTypes)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.UpdateBreakpoint(System.Activities.Debugger.SourceLocation,System.Activities.Presentation.Debug.BreakpointTypes)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.UpdateBreakpoint(System.Activities.Debugger.SourceLocation,System.Activities.Presentation.Debug.BreakpointTypes)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.UpdateBreakpoint(System.Activities.Debugger.SourceLocation,System.Activities.Presentation.Debug.BreakpointTypes)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.UpdateBreakpoint(System.Activities.Debugger.SourceLocation,System.Activities.Presentation.Debug.BreakpointTypes)</InterfaceMember>
         <InterfaceMember>M:System.Activities.Presentation.Debug.IDesignerDebugView.UpdateBreakpoint(System.Activities.Debugger.SourceLocation,System.Activities.Presentation.Debug.BreakpointTypes)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

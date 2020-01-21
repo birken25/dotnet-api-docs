@@ -157,6 +157,20 @@ ListBox that contains multiple types of objects
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -184,6 +198,20 @@ ListBox that contains multiple types of objects
       <MemberSignature Language="F#" Value="abstract member AddText : string -&gt; unit&#xA;override this.AddText : string -&gt; unit" Usage="itemsControl.AddText text" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
         <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -936,6 +964,15 @@ ListBox that contains multiple types of objects
       <MemberSignature Language="F#" Value="member this.IsItemItsOwnContainer : obj -&gt; bool" Usage="itemsControl.IsItemItsOwnContainer item" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:MS.Internal.Controls.IGeneratorHost.IsItemItsOwnContainer(System.Object)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.Controls.IGeneratorHost.IsItemItsOwnContainer(System.Object)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.Controls.IGeneratorHost.IsItemItsOwnContainer(System.Object)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.Controls.IGeneratorHost.IsItemItsOwnContainer(System.Object)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.Controls.IGeneratorHost.IsItemItsOwnContainer(System.Object)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.Controls.IGeneratorHost.IsItemItsOwnContainer(System.Object)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.Controls.IGeneratorHost.IsItemItsOwnContainer(System.Object)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.Controls.IGeneratorHost.IsItemItsOwnContainer(System.Object)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.Controls.IGeneratorHost.IsItemItsOwnContainer(System.Object)</InterfaceMember>
         <InterfaceMember>M:MS.Internal.Controls.IGeneratorHost.IsItemItsOwnContainer(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2524,6 +2561,17 @@ ListBox that contains multiple types of objects
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.Clear</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -2546,6 +2594,17 @@ ListBox that contains multiple types of objects
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Windows.Controls.Primitives.IContainItemStorage.ClearItemValue(System::Object ^ item, System::Windows::DependencyProperty ^ dp) = System::Windows::Controls::Primitives::IContainItemStorage::ClearItemValue;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.ClearItemValue(System.Object,System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.ClearItemValue(System.Object,System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.ClearItemValue(System.Object,System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.ClearItemValue(System.Object,System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.ClearItemValue(System.Object,System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.ClearItemValue(System.Object,System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.ClearItemValue(System.Object,System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.ClearItemValue(System.Object,System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.ClearItemValue(System.Object,System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.ClearItemValue(System.Object,System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.ClearItemValue(System.Object,System.Windows.DependencyProperty)</InterfaceMember>
         <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.ClearItemValue(System.Object,System.Windows.DependencyProperty)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2575,6 +2634,17 @@ ListBox that contains multiple types of objects
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.ClearValue(System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.ClearValue(System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.ClearValue(System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.ClearValue(System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.ClearValue(System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.ClearValue(System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.ClearValue(System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.ClearValue(System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.ClearValue(System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.ClearValue(System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.ClearValue(System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.ClearValue(System.Windows.DependencyProperty)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -2600,6 +2670,17 @@ ListBox that contains multiple types of objects
       <MemberSignature Language="C++ CLI" Value=" virtual System::Object ^ System.Windows.Controls.Primitives.IContainItemStorage.ReadItemValue(System::Object ^ item, System::Windows::DependencyProperty ^ dp) = System::Windows::Controls::Primitives::IContainItemStorage::ReadItemValue;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.ReadItemValue(System.Object,System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.ReadItemValue(System.Object,System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.ReadItemValue(System.Object,System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.ReadItemValue(System.Object,System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.ReadItemValue(System.Object,System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.ReadItemValue(System.Object,System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.ReadItemValue(System.Object,System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.ReadItemValue(System.Object,System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.ReadItemValue(System.Object,System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.ReadItemValue(System.Object,System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.ReadItemValue(System.Object,System.Windows.DependencyProperty)</InterfaceMember>
         <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.ReadItemValue(System.Object,System.Windows.DependencyProperty)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2630,6 +2711,17 @@ ListBox that contains multiple types of objects
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.StoreItemValue(System.Object,System.Windows.DependencyProperty,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.StoreItemValue(System.Object,System.Windows.DependencyProperty,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.StoreItemValue(System.Object,System.Windows.DependencyProperty,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.StoreItemValue(System.Object,System.Windows.DependencyProperty,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.StoreItemValue(System.Object,System.Windows.DependencyProperty,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.StoreItemValue(System.Object,System.Windows.DependencyProperty,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.StoreItemValue(System.Object,System.Windows.DependencyProperty,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.StoreItemValue(System.Object,System.Windows.DependencyProperty,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.StoreItemValue(System.Object,System.Windows.DependencyProperty,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.StoreItemValue(System.Object,System.Windows.DependencyProperty,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.StoreItemValue(System.Object,System.Windows.DependencyProperty,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IContainItemStorage.StoreItemValue(System.Object,System.Windows.DependencyProperty,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -2659,6 +2751,20 @@ ListBox that contains multiple types of objects
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Windows.Markup.IAddChild.AddChild(System::Object ^ value) = System::Windows::Markup::IAddChild::AddChild;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2691,6 +2797,20 @@ ListBox that contains multiple types of objects
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Windows.Markup.IAddChild.AddText(System::String ^ text) = System::Windows::Markup::IAddChild::AddText;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
         <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

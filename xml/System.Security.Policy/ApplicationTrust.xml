@@ -328,6 +328,28 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -488,6 +510,28 @@ The <xref:System.Security.ISecurityPolicyEncodable.ToXml%2A> and <xref:System.Se
       <MemberSignature Language="F#" Value="abstract member ToXml : unit -&gt; System.Security.SecurityElement&#xA;override this.ToXml : unit -&gt; System.Security.SecurityElement" Usage="applicationTrust.ToXml " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
         <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
       </Implements>
       <AssemblyInfo>

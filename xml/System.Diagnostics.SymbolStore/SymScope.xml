@@ -159,6 +159,15 @@ Use the <xref:System.Diagnostics.SymbolStore.SymScope.Finalize> method to releas
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>ISymWrapper</AssemblyName>
@@ -222,6 +231,20 @@ Use the <xref:System.Diagnostics.SymbolStore.SymScope.Finalize> method to releas
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.EndOffset</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.EndOffset</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.EndOffset</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.EndOffset</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.EndOffset</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.EndOffset</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.EndOffset</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.EndOffset</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.EndOffset</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.EndOffset</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.EndOffset</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.EndOffset</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.EndOffset</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.EndOffset</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.EndOffset</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>ISymWrapper</AssemblyName>
@@ -283,6 +306,20 @@ Use the <xref:System.Diagnostics.SymbolStore.SymScope.Finalize> method to releas
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolScope.GetChildren</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolScope.GetChildren</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolScope.GetChildren</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolScope.GetChildren</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolScope.GetChildren</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolScope.GetChildren</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolScope.GetChildren</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolScope.GetChildren</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolScope.GetChildren</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolScope.GetChildren</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolScope.GetChildren</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolScope.GetChildren</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolScope.GetChildren</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolScope.GetChildren</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolScope.GetChildren</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>ISymWrapper</AssemblyName>
@@ -314,6 +351,20 @@ Use the <xref:System.Diagnostics.SymbolStore.SymScope.Finalize> method to releas
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual cli::array &lt;System::Diagnostics::SymbolStore::ISymbolVariable ^&gt; ^ GetLocals();" FrameworkAlternate="netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolScope.GetLocals</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolScope.GetLocals</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolScope.GetLocals</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolScope.GetLocals</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolScope.GetLocals</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolScope.GetLocals</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolScope.GetLocals</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolScope.GetLocals</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolScope.GetLocals</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolScope.GetLocals</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolScope.GetLocals</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolScope.GetLocals</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolScope.GetLocals</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolScope.GetLocals</InterfaceMember>
         <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolScope.GetLocals</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -354,6 +405,20 @@ Use the <xref:System.Diagnostics.SymbolStore.SymScope.Finalize> method to releas
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolScope.GetNamespaces</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolScope.GetNamespaces</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolScope.GetNamespaces</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolScope.GetNamespaces</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolScope.GetNamespaces</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolScope.GetNamespaces</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolScope.GetNamespaces</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolScope.GetNamespaces</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolScope.GetNamespaces</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolScope.GetNamespaces</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolScope.GetNamespaces</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolScope.GetNamespaces</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolScope.GetNamespaces</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolScope.GetNamespaces</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolScope.GetNamespaces</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>ISymWrapper</AssemblyName>
@@ -383,6 +448,20 @@ Use the <xref:System.Diagnostics.SymbolStore.SymScope.Finalize> method to releas
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.Method</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.Method</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.Method</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.Method</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.Method</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.Method</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.Method</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.Method</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.Method</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.Method</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.Method</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.Method</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.Method</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.Method</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.Method</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>ISymWrapper</AssemblyName>
@@ -411,6 +490,20 @@ Use the <xref:System.Diagnostics.SymbolStore.SymScope.Finalize> method to releas
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.Parent</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.Parent</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.Parent</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.Parent</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.Parent</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.Parent</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.Parent</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.Parent</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.Parent</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.Parent</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.Parent</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.Parent</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.Parent</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.Parent</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.Parent</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>ISymWrapper</AssemblyName>
@@ -438,6 +531,20 @@ Use the <xref:System.Diagnostics.SymbolStore.SymScope.Finalize> method to releas
       <MemberSignature Language="VB.NET" Value="Public Overridable ReadOnly Property StartOffset As Integer" FrameworkAlternate="netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.StartOffset</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.StartOffset</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.StartOffset</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.StartOffset</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.StartOffset</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.StartOffset</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.StartOffset</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.StartOffset</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.StartOffset</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.StartOffset</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.StartOffset</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.StartOffset</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.StartOffset</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.StartOffset</InterfaceMember>
         <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolScope.StartOffset</InterfaceMember>
       </Implements>
       <AssemblyInfo>

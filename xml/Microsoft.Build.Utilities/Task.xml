@@ -164,6 +164,20 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Build.Framework.ITask.BuildEngine</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Framework.ITask.BuildEngine</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Framework.ITask.BuildEngine</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Framework.ITask.BuildEngine</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Framework.ITask.BuildEngine</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Framework.ITask.BuildEngine</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Framework.ITask.BuildEngine</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Framework.ITask.BuildEngine</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Framework.ITask.BuildEngine</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Framework.ITask.BuildEngine</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Framework.ITask.BuildEngine</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Framework.ITask.BuildEngine</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Framework.ITask.BuildEngine</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Framework.ITask.BuildEngine</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Framework.ITask.BuildEngine</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Build.Utilities.v4.0</AssemblyName>
@@ -278,6 +292,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Build.Framework.ITask.Execute</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITask.Execute</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITask.Execute</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITask.Execute</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITask.Execute</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITask.Execute</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITask.Execute</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITask.Execute</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITask.Execute</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITask.Execute</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITask.Execute</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITask.Execute</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITask.Execute</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITask.Execute</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITask.Execute</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Build.Utilities.v4.0</AssemblyName>
@@ -361,6 +389,20 @@
       <MemberSignature Language="F#" Value="member this.HostObject : Microsoft.Build.Framework.ITaskHost with get, set" Usage="Microsoft.Build.Utilities.Task.HostObject" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:Microsoft.Build.Framework.ITask.HostObject</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Framework.ITask.HostObject</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Framework.ITask.HostObject</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Framework.ITask.HostObject</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Framework.ITask.HostObject</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Framework.ITask.HostObject</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Framework.ITask.HostObject</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Framework.ITask.HostObject</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Framework.ITask.HostObject</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Framework.ITask.HostObject</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Framework.ITask.HostObject</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Framework.ITask.HostObject</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Framework.ITask.HostObject</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Framework.ITask.HostObject</InterfaceMember>
         <InterfaceMember>P:Microsoft.Build.Framework.ITask.HostObject</InterfaceMember>
       </Implements>
       <AssemblyInfo>

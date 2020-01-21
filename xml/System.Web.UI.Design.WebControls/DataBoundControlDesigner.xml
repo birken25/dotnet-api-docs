@@ -437,6 +437,19 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.CanRefreshSchema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.CanRefreshSchema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.CanRefreshSchema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.CanRefreshSchema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.CanRefreshSchema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.CanRefreshSchema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.CanRefreshSchema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.CanRefreshSchema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.CanRefreshSchema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.CanRefreshSchema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.CanRefreshSchema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.CanRefreshSchema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.CanRefreshSchema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.CanRefreshSchema</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -470,6 +483,19 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Web.UI.Design.IDataBindingSchemaProvider.RefreshSchema(bool preferSilent) = System::Web::UI::Design::IDataBindingSchemaProvider::RefreshSchema;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.UI.Design.IDataBindingSchemaProvider.RefreshSchema(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataBindingSchemaProvider.RefreshSchema(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataBindingSchemaProvider.RefreshSchema(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataBindingSchemaProvider.RefreshSchema(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataBindingSchemaProvider.RefreshSchema(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataBindingSchemaProvider.RefreshSchema(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataBindingSchemaProvider.RefreshSchema(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataBindingSchemaProvider.RefreshSchema(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataBindingSchemaProvider.RefreshSchema(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataBindingSchemaProvider.RefreshSchema(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataBindingSchemaProvider.RefreshSchema(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataBindingSchemaProvider.RefreshSchema(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataBindingSchemaProvider.RefreshSchema(System.Boolean)</InterfaceMember>
         <InterfaceMember>M:System.Web.UI.Design.IDataBindingSchemaProvider.RefreshSchema(System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -508,6 +534,19 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.Schema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.Schema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.Schema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.Schema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.Schema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.Schema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.Schema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.Schema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.Schema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.Schema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.Schema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.Schema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.Schema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.Schema</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -540,6 +579,19 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Collections::IEnumerable ^ System.Web.UI.Design.IDataSourceProvider.GetResolvedSelectedDataSource() = System::Web::UI::Design::IDataSourceProvider::GetResolvedSelectedDataSource;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceProvider.GetResolvedSelectedDataSource</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceProvider.GetResolvedSelectedDataSource</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceProvider.GetResolvedSelectedDataSource</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceProvider.GetResolvedSelectedDataSource</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceProvider.GetResolvedSelectedDataSource</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceProvider.GetResolvedSelectedDataSource</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceProvider.GetResolvedSelectedDataSource</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceProvider.GetResolvedSelectedDataSource</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceProvider.GetResolvedSelectedDataSource</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceProvider.GetResolvedSelectedDataSource</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceProvider.GetResolvedSelectedDataSource</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceProvider.GetResolvedSelectedDataSource</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceProvider.GetResolvedSelectedDataSource</InterfaceMember>
         <InterfaceMember>M:System.Web.UI.Design.IDataSourceProvider.GetResolvedSelectedDataSource</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -575,6 +627,19 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Object ^ System.Web.UI.Design.IDataSourceProvider.GetSelectedDataSource() = System::Web::UI::Design::IDataSourceProvider::GetSelectedDataSource;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceProvider.GetSelectedDataSource</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceProvider.GetSelectedDataSource</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceProvider.GetSelectedDataSource</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceProvider.GetSelectedDataSource</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceProvider.GetSelectedDataSource</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceProvider.GetSelectedDataSource</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceProvider.GetSelectedDataSource</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceProvider.GetSelectedDataSource</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceProvider.GetSelectedDataSource</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceProvider.GetSelectedDataSource</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceProvider.GetSelectedDataSource</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceProvider.GetSelectedDataSource</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceProvider.GetSelectedDataSource</InterfaceMember>
         <InterfaceMember>M:System.Web.UI.Design.IDataSourceProvider.GetSelectedDataSource</InterfaceMember>
       </Implements>
       <AssemblyInfo>

@@ -117,6 +117,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.IInputElement.AddHandler(System.Windows.RoutedEvent,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.AddHandler(System.Windows.RoutedEvent,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.AddHandler(System.Windows.RoutedEvent,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.AddHandler(System.Windows.RoutedEvent,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.AddHandler(System.Windows.RoutedEvent,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.AddHandler(System.Windows.RoutedEvent,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.AddHandler(System.Windows.RoutedEvent,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.AddHandler(System.Windows.RoutedEvent,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.AddHandler(System.Windows.RoutedEvent,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.AddHandler(System.Windows.RoutedEvent,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.AddHandler(System.Windows.RoutedEvent,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.AddHandler(System.Windows.RoutedEvent,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.AddHandler(System.Windows.RoutedEvent,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.AddHandler(System.Windows.RoutedEvent,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.AddHandler(System.Windows.RoutedEvent,System.Delegate)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
@@ -334,6 +348,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
@@ -382,6 +410,20 @@
       <MemberSignature Language="F#" Value="abstract member ApplyAnimationClock : System.Windows.DependencyProperty * System.Windows.Media.Animation.AnimationClock * System.Windows.Media.Animation.HandoffBehavior -&gt; unit&#xA;override this.ApplyAnimationClock : System.Windows.DependencyProperty * System.Windows.Media.Animation.AnimationClock * System.Windows.Media.Animation.HandoffBehavior -&gt; unit" Usage="uIElement.ApplyAnimationClock (dp, clock, handoffBehavior)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
         <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -705,6 +747,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
@@ -757,6 +813,20 @@
       <MemberSignature Language="F#" Value="abstract member BeginAnimation : System.Windows.DependencyProperty * System.Windows.Media.Animation.AnimationTimeline * System.Windows.Media.Animation.HandoffBehavior -&gt; unit&#xA;override this.BeginAnimation : System.Windows.DependencyProperty * System.Windows.Media.Animation.AnimationTimeline * System.Windows.Media.Animation.HandoffBehavior -&gt; unit" Usage="uIElement.BeginAnimation (dp, animation, handoffBehavior)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
         <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1000,6 +1070,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.IInputElement.CaptureMouse</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.CaptureMouse</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.CaptureMouse</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.CaptureMouse</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.CaptureMouse</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.CaptureMouse</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.CaptureMouse</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.CaptureMouse</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.CaptureMouse</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.CaptureMouse</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.CaptureMouse</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.CaptureMouse</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.CaptureMouse</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.CaptureMouse</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.CaptureMouse</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
@@ -1048,6 +1132,20 @@
       <MemberSignature Language="F#" Value="abstract member CaptureStylus : unit -&gt; bool&#xA;override this.CaptureStylus : unit -&gt; bool" Usage="uIElement.CaptureStylus " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.IInputElement.CaptureStylus</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.CaptureStylus</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.CaptureStylus</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.CaptureStylus</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.CaptureStylus</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.CaptureStylus</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.CaptureStylus</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.CaptureStylus</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.CaptureStylus</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.CaptureStylus</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.CaptureStylus</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.CaptureStylus</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.CaptureStylus</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.CaptureStylus</InterfaceMember>
         <InterfaceMember>M:System.Windows.IInputElement.CaptureStylus</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1755,6 +1853,20 @@ Image with an Elliptical Clip Region
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.IInputElement.Focus</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.Focus</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.Focus</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.Focus</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.Focus</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.Focus</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.Focus</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.Focus</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.Focus</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.Focus</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.Focus</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.Focus</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.Focus</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.Focus</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.Focus</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
@@ -1807,6 +1919,20 @@ Image with an Elliptical Clip Region
       <MemberSignature Language="F#" Value="member this.Focusable : bool with get, set" Usage="System.Windows.UIElement.Focusable" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Windows.IInputElement.Focusable</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.Focusable</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.Focusable</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.Focusable</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.Focusable</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.Focusable</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.Focusable</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.Focusable</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.Focusable</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.Focusable</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.Focusable</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.Focusable</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.Focusable</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.Focusable</InterfaceMember>
         <InterfaceMember>P:System.Windows.IInputElement.Focusable</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1928,6 +2054,20 @@ Image with an Elliptical Clip Region
       <MemberSignature Language="F#" Value="abstract member GetAnimationBaseValue : System.Windows.DependencyProperty -&gt; obj&#xA;override this.GetAnimationBaseValue : System.Windows.DependencyProperty -&gt; obj" Usage="uIElement.GetAnimationBaseValue dp" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.GetAnimationBaseValue(System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.GetAnimationBaseValue(System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.GetAnimationBaseValue(System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.GetAnimationBaseValue(System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.GetAnimationBaseValue(System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.GetAnimationBaseValue(System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.GetAnimationBaseValue(System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.GetAnimationBaseValue(System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.GetAnimationBaseValue(System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.GetAnimationBaseValue(System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.GetAnimationBaseValue(System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.GetAnimationBaseValue(System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.GetAnimationBaseValue(System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.GetAnimationBaseValue(System.Windows.DependencyProperty)</InterfaceMember>
         <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.GetAnimationBaseValue(System.Windows.DependencyProperty)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2193,6 +2333,20 @@ Image with an Elliptical Clip Region
       <MemberType>Event</MemberType>
       <Implements>
         <InterfaceMember>E:System.Windows.IInputElement.GotKeyboardFocus</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.GotKeyboardFocus</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.GotKeyboardFocus</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.GotKeyboardFocus</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.GotKeyboardFocus</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.GotKeyboardFocus</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.GotKeyboardFocus</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.GotKeyboardFocus</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.GotKeyboardFocus</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.GotKeyboardFocus</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.GotKeyboardFocus</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.GotKeyboardFocus</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.GotKeyboardFocus</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.GotKeyboardFocus</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.GotKeyboardFocus</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
@@ -2272,6 +2426,20 @@ Image with an Elliptical Clip Region
       <MemberType>Event</MemberType>
       <Implements>
         <InterfaceMember>E:System.Windows.IInputElement.GotMouseCapture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.GotMouseCapture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.GotMouseCapture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.GotMouseCapture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.GotMouseCapture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.GotMouseCapture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.GotMouseCapture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.GotMouseCapture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.GotMouseCapture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.GotMouseCapture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.GotMouseCapture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.GotMouseCapture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.GotMouseCapture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.GotMouseCapture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.GotMouseCapture</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
@@ -2350,6 +2518,20 @@ Image with an Elliptical Clip Region
       <MemberSignature Language="F#" Value="member this.GotStylusCapture : System.Windows.Input.StylusEventHandler " Usage="member this.GotStylusCapture : System.Windows.Input.StylusEventHandler " />
       <MemberType>Event</MemberType>
       <Implements>
+        <InterfaceMember>E:System.Windows.IInputElement.GotStylusCapture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.GotStylusCapture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.GotStylusCapture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.GotStylusCapture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.GotStylusCapture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.GotStylusCapture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.GotStylusCapture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.GotStylusCapture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.GotStylusCapture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.GotStylusCapture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.GotStylusCapture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.GotStylusCapture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.GotStylusCapture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.GotStylusCapture</InterfaceMember>
         <InterfaceMember>E:System.Windows.IInputElement.GotStylusCapture</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2485,6 +2667,20 @@ Image with an Elliptical Clip Region
       <MemberSignature Language="F#" Value="member this.HasAnimatedProperties : bool" Usage="System.Windows.UIElement.HasAnimatedProperties" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Windows.Media.Animation.IAnimatable.HasAnimatedProperties</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Media.Animation.IAnimatable.HasAnimatedProperties</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Media.Animation.IAnimatable.HasAnimatedProperties</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Media.Animation.IAnimatable.HasAnimatedProperties</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Media.Animation.IAnimatable.HasAnimatedProperties</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Media.Animation.IAnimatable.HasAnimatedProperties</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Media.Animation.IAnimatable.HasAnimatedProperties</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Media.Animation.IAnimatable.HasAnimatedProperties</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Media.Animation.IAnimatable.HasAnimatedProperties</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Media.Animation.IAnimatable.HasAnimatedProperties</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Media.Animation.IAnimatable.HasAnimatedProperties</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Media.Animation.IAnimatable.HasAnimatedProperties</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Media.Animation.IAnimatable.HasAnimatedProperties</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Media.Animation.IAnimatable.HasAnimatedProperties</InterfaceMember>
         <InterfaceMember>P:System.Windows.Media.Animation.IAnimatable.HasAnimatedProperties</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -3173,6 +3369,20 @@ Image with an Elliptical Clip Region
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Windows.IInputElement.IsKeyboardFocused</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsKeyboardFocused</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsKeyboardFocused</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsKeyboardFocused</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsKeyboardFocused</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsKeyboardFocused</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsKeyboardFocused</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsKeyboardFocused</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsKeyboardFocused</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsKeyboardFocused</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsKeyboardFocused</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsKeyboardFocused</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsKeyboardFocused</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsKeyboardFocused</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsKeyboardFocused</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
@@ -3271,6 +3481,20 @@ Image with an Elliptical Clip Region
       <MemberSignature Language="F#" Value="member this.IsKeyboardFocusWithin : bool" Usage="System.Windows.UIElement.IsKeyboardFocusWithin" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Windows.IInputElement.IsKeyboardFocusWithin</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsKeyboardFocusWithin</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsKeyboardFocusWithin</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsKeyboardFocusWithin</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsKeyboardFocusWithin</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsKeyboardFocusWithin</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsKeyboardFocusWithin</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsKeyboardFocusWithin</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsKeyboardFocusWithin</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsKeyboardFocusWithin</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsKeyboardFocusWithin</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsKeyboardFocusWithin</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsKeyboardFocusWithin</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsKeyboardFocusWithin</InterfaceMember>
         <InterfaceMember>P:System.Windows.IInputElement.IsKeyboardFocusWithin</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -3460,6 +3684,20 @@ Image with an Elliptical Clip Region
       <MemberSignature Language="F#" Value="member this.IsMouseCaptured : bool" Usage="System.Windows.UIElement.IsMouseCaptured" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Windows.IInputElement.IsMouseCaptured</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsMouseCaptured</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsMouseCaptured</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsMouseCaptured</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsMouseCaptured</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsMouseCaptured</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsMouseCaptured</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsMouseCaptured</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsMouseCaptured</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsMouseCaptured</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsMouseCaptured</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsMouseCaptured</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsMouseCaptured</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsMouseCaptured</InterfaceMember>
         <InterfaceMember>P:System.Windows.IInputElement.IsMouseCaptured</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -3658,6 +3896,20 @@ Image with an Elliptical Clip Region
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Windows.IInputElement.IsMouseDirectlyOver</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsMouseDirectlyOver</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsMouseDirectlyOver</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsMouseDirectlyOver</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsMouseDirectlyOver</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsMouseDirectlyOver</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsMouseDirectlyOver</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsMouseDirectlyOver</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsMouseDirectlyOver</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsMouseDirectlyOver</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsMouseDirectlyOver</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsMouseDirectlyOver</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsMouseDirectlyOver</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsMouseDirectlyOver</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsMouseDirectlyOver</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
@@ -3758,6 +4010,20 @@ Image with an Elliptical Clip Region
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Windows.IInputElement.IsMouseOver</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsMouseOver</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsMouseOver</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsMouseOver</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsMouseOver</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsMouseOver</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsMouseOver</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsMouseOver</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsMouseOver</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsMouseOver</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsMouseOver</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsMouseOver</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsMouseOver</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsMouseOver</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsMouseOver</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
@@ -3837,6 +4103,20 @@ Image with an Elliptical Clip Region
       <MemberSignature Language="F#" Value="member this.IsStylusCaptured : bool" Usage="System.Windows.UIElement.IsStylusCaptured" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Windows.IInputElement.IsStylusCaptured</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsStylusCaptured</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsStylusCaptured</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsStylusCaptured</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsStylusCaptured</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsStylusCaptured</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsStylusCaptured</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsStylusCaptured</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsStylusCaptured</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsStylusCaptured</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsStylusCaptured</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsStylusCaptured</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsStylusCaptured</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsStylusCaptured</InterfaceMember>
         <InterfaceMember>P:System.Windows.IInputElement.IsStylusCaptured</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -4026,6 +4306,20 @@ Image with an Elliptical Clip Region
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Windows.IInputElement.IsStylusDirectlyOver</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsStylusDirectlyOver</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsStylusDirectlyOver</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsStylusDirectlyOver</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsStylusDirectlyOver</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsStylusDirectlyOver</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsStylusDirectlyOver</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsStylusDirectlyOver</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsStylusDirectlyOver</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsStylusDirectlyOver</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsStylusDirectlyOver</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsStylusDirectlyOver</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsStylusDirectlyOver</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsStylusDirectlyOver</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsStylusDirectlyOver</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
@@ -4127,6 +4421,20 @@ Image with an Elliptical Clip Region
       <MemberSignature Language="F#" Value="member this.IsStylusOver : bool" Usage="System.Windows.UIElement.IsStylusOver" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Windows.IInputElement.IsStylusOver</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsStylusOver</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsStylusOver</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsStylusOver</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsStylusOver</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsStylusOver</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsStylusOver</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsStylusOver</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsStylusOver</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsStylusOver</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsStylusOver</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsStylusOver</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsStylusOver</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IInputElement.IsStylusOver</InterfaceMember>
         <InterfaceMember>P:System.Windows.IInputElement.IsStylusOver</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -4293,6 +4601,20 @@ Image with an Elliptical Clip Region
       <MemberType>Event</MemberType>
       <Implements>
         <InterfaceMember>E:System.Windows.IInputElement.KeyDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.KeyDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.KeyDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.KeyDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.KeyDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.KeyDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.KeyDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.KeyDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.KeyDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.KeyDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.KeyDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.KeyDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.KeyDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.KeyDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.KeyDown</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
@@ -4369,6 +4691,20 @@ Image with an Elliptical Clip Region
       <MemberSignature Language="F#" Value="member this.KeyUp : System.Windows.Input.KeyEventHandler " Usage="member this.KeyUp : System.Windows.Input.KeyEventHandler " />
       <MemberType>Event</MemberType>
       <Implements>
+        <InterfaceMember>E:System.Windows.IInputElement.KeyUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.KeyUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.KeyUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.KeyUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.KeyUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.KeyUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.KeyUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.KeyUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.KeyUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.KeyUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.KeyUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.KeyUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.KeyUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.KeyUp</InterfaceMember>
         <InterfaceMember>E:System.Windows.IInputElement.KeyUp</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -4552,6 +4888,20 @@ Image with an Elliptical Clip Region
       <MemberType>Event</MemberType>
       <Implements>
         <InterfaceMember>E:System.Windows.IInputElement.LostKeyboardFocus</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.LostKeyboardFocus</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.LostKeyboardFocus</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.LostKeyboardFocus</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.LostKeyboardFocus</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.LostKeyboardFocus</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.LostKeyboardFocus</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.LostKeyboardFocus</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.LostKeyboardFocus</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.LostKeyboardFocus</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.LostKeyboardFocus</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.LostKeyboardFocus</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.LostKeyboardFocus</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.LostKeyboardFocus</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.LostKeyboardFocus</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
@@ -4627,6 +4977,20 @@ Image with an Elliptical Clip Region
       <MemberSignature Language="F#" Value="member this.LostMouseCapture : System.Windows.Input.MouseEventHandler " Usage="member this.LostMouseCapture : System.Windows.Input.MouseEventHandler " />
       <MemberType>Event</MemberType>
       <Implements>
+        <InterfaceMember>E:System.Windows.IInputElement.LostMouseCapture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.LostMouseCapture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.LostMouseCapture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.LostMouseCapture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.LostMouseCapture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.LostMouseCapture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.LostMouseCapture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.LostMouseCapture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.LostMouseCapture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.LostMouseCapture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.LostMouseCapture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.LostMouseCapture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.LostMouseCapture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.LostMouseCapture</InterfaceMember>
         <InterfaceMember>E:System.Windows.IInputElement.LostMouseCapture</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -4705,6 +5069,20 @@ Image with an Elliptical Clip Region
       <MemberSignature Language="F#" Value="member this.LostStylusCapture : System.Windows.Input.StylusEventHandler " Usage="member this.LostStylusCapture : System.Windows.Input.StylusEventHandler " />
       <MemberType>Event</MemberType>
       <Implements>
+        <InterfaceMember>E:System.Windows.IInputElement.LostStylusCapture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.LostStylusCapture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.LostStylusCapture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.LostStylusCapture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.LostStylusCapture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.LostStylusCapture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.LostStylusCapture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.LostStylusCapture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.LostStylusCapture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.LostStylusCapture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.LostStylusCapture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.LostStylusCapture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.LostStylusCapture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.LostStylusCapture</InterfaceMember>
         <InterfaceMember>E:System.Windows.IInputElement.LostStylusCapture</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -5413,6 +5791,20 @@ Image with an Elliptical Clip Region
       <MemberType>Event</MemberType>
       <Implements>
         <InterfaceMember>E:System.Windows.IInputElement.MouseEnter</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseEnter</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseEnter</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseEnter</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseEnter</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseEnter</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseEnter</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseEnter</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseEnter</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseEnter</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseEnter</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseEnter</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseEnter</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseEnter</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseEnter</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
@@ -5491,6 +5883,20 @@ Image with an Elliptical Clip Region
       <MemberType>Event</MemberType>
       <Implements>
         <InterfaceMember>E:System.Windows.IInputElement.MouseLeave</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseLeave</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseLeave</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseLeave</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseLeave</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseLeave</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseLeave</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseLeave</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseLeave</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseLeave</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseLeave</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseLeave</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseLeave</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseLeave</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseLeave</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
@@ -5566,6 +5972,20 @@ Image with an Elliptical Clip Region
       <MemberSignature Language="F#" Value="member this.MouseLeftButtonDown : System.Windows.Input.MouseButtonEventHandler " Usage="member this.MouseLeftButtonDown : System.Windows.Input.MouseButtonEventHandler " />
       <MemberType>Event</MemberType>
       <Implements>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseLeftButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseLeftButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseLeftButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseLeftButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseLeftButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseLeftButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseLeftButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseLeftButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseLeftButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseLeftButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseLeftButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseLeftButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseLeftButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseLeftButtonDown</InterfaceMember>
         <InterfaceMember>E:System.Windows.IInputElement.MouseLeftButtonDown</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -5655,6 +6075,20 @@ Image with an Elliptical Clip Region
       <MemberType>Event</MemberType>
       <Implements>
         <InterfaceMember>E:System.Windows.IInputElement.MouseLeftButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseLeftButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseLeftButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseLeftButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseLeftButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseLeftButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseLeftButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseLeftButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseLeftButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseLeftButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseLeftButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseLeftButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseLeftButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseLeftButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseLeftButtonUp</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
@@ -5734,6 +6168,20 @@ Image with an Elliptical Clip Region
       <MemberType>Event</MemberType>
       <Implements>
         <InterfaceMember>E:System.Windows.IInputElement.MouseMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseMove</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
@@ -5809,6 +6257,20 @@ Image with an Elliptical Clip Region
       <MemberSignature Language="F#" Value="member this.MouseRightButtonDown : System.Windows.Input.MouseButtonEventHandler " Usage="member this.MouseRightButtonDown : System.Windows.Input.MouseButtonEventHandler " />
       <MemberType>Event</MemberType>
       <Implements>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseRightButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseRightButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseRightButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseRightButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseRightButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseRightButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseRightButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseRightButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseRightButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseRightButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseRightButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseRightButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseRightButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseRightButtonDown</InterfaceMember>
         <InterfaceMember>E:System.Windows.IInputElement.MouseRightButtonDown</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -5890,6 +6352,20 @@ Image with an Elliptical Clip Region
       <MemberSignature Language="F#" Value="member this.MouseRightButtonUp : System.Windows.Input.MouseButtonEventHandler " Usage="member this.MouseRightButtonUp : System.Windows.Input.MouseButtonEventHandler " />
       <MemberType>Event</MemberType>
       <Implements>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseRightButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseRightButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseRightButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseRightButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseRightButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseRightButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseRightButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseRightButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseRightButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseRightButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseRightButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseRightButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseRightButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseRightButtonUp</InterfaceMember>
         <InterfaceMember>E:System.Windows.IInputElement.MouseRightButtonUp</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -6042,6 +6518,20 @@ Image with an Elliptical Clip Region
       <MemberSignature Language="F#" Value="member this.MouseWheel : System.Windows.Input.MouseWheelEventHandler " Usage="member this.MouseWheel : System.Windows.Input.MouseWheelEventHandler " />
       <MemberType>Event</MemberType>
       <Implements>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseWheel</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseWheel</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseWheel</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseWheel</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseWheel</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseWheel</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseWheel</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseWheel</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseWheel</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseWheel</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseWheel</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseWheel</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseWheel</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.MouseWheel</InterfaceMember>
         <InterfaceMember>E:System.Windows.IInputElement.MouseWheel</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -10198,6 +10688,20 @@ Image with an Elliptical Clip Region
       <MemberType>Event</MemberType>
       <Implements>
         <InterfaceMember>E:System.Windows.IInputElement.PreviewGotKeyboardFocus</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewGotKeyboardFocus</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewGotKeyboardFocus</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewGotKeyboardFocus</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewGotKeyboardFocus</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewGotKeyboardFocus</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewGotKeyboardFocus</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewGotKeyboardFocus</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewGotKeyboardFocus</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewGotKeyboardFocus</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewGotKeyboardFocus</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewGotKeyboardFocus</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewGotKeyboardFocus</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewGotKeyboardFocus</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewGotKeyboardFocus</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
@@ -10274,6 +10778,20 @@ Image with an Elliptical Clip Region
       <MemberSignature Language="F#" Value="member this.PreviewKeyDown : System.Windows.Input.KeyEventHandler " Usage="member this.PreviewKeyDown : System.Windows.Input.KeyEventHandler " />
       <MemberType>Event</MemberType>
       <Implements>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewKeyDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewKeyDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewKeyDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewKeyDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewKeyDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewKeyDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewKeyDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewKeyDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewKeyDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewKeyDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewKeyDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewKeyDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewKeyDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewKeyDown</InterfaceMember>
         <InterfaceMember>E:System.Windows.IInputElement.PreviewKeyDown</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -10352,6 +10870,20 @@ Image with an Elliptical Clip Region
       <MemberType>Event</MemberType>
       <Implements>
         <InterfaceMember>E:System.Windows.IInputElement.PreviewKeyUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewKeyUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewKeyUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewKeyUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewKeyUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewKeyUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewKeyUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewKeyUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewKeyUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewKeyUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewKeyUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewKeyUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewKeyUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewKeyUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewKeyUp</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
@@ -10427,6 +10959,20 @@ Image with an Elliptical Clip Region
       <MemberSignature Language="F#" Value="member this.PreviewLostKeyboardFocus : System.Windows.Input.KeyboardFocusChangedEventHandler " Usage="member this.PreviewLostKeyboardFocus : System.Windows.Input.KeyboardFocusChangedEventHandler " />
       <MemberType>Event</MemberType>
       <Implements>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewLostKeyboardFocus</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewLostKeyboardFocus</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewLostKeyboardFocus</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewLostKeyboardFocus</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewLostKeyboardFocus</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewLostKeyboardFocus</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewLostKeyboardFocus</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewLostKeyboardFocus</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewLostKeyboardFocus</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewLostKeyboardFocus</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewLostKeyboardFocus</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewLostKeyboardFocus</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewLostKeyboardFocus</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewLostKeyboardFocus</InterfaceMember>
         <InterfaceMember>E:System.Windows.IInputElement.PreviewLostKeyboardFocus</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -10578,6 +11124,20 @@ Image with an Elliptical Clip Region
       <MemberType>Event</MemberType>
       <Implements>
         <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseLeftButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseLeftButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseLeftButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseLeftButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseLeftButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseLeftButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseLeftButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseLeftButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseLeftButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseLeftButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseLeftButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseLeftButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseLeftButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseLeftButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseLeftButtonDown</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
@@ -10657,6 +11217,20 @@ Image with an Elliptical Clip Region
       <MemberType>Event</MemberType>
       <Implements>
         <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseLeftButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseLeftButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseLeftButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseLeftButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseLeftButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseLeftButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseLeftButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseLeftButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseLeftButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseLeftButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseLeftButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseLeftButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseLeftButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseLeftButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseLeftButtonUp</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
@@ -10735,6 +11309,20 @@ Image with an Elliptical Clip Region
       <MemberType>Event</MemberType>
       <Implements>
         <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseMove</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
@@ -10810,6 +11398,20 @@ Image with an Elliptical Clip Region
       <MemberSignature Language="F#" Value="member this.PreviewMouseRightButtonDown : System.Windows.Input.MouseButtonEventHandler " Usage="member this.PreviewMouseRightButtonDown : System.Windows.Input.MouseButtonEventHandler " />
       <MemberType>Event</MemberType>
       <Implements>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseRightButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseRightButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseRightButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseRightButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseRightButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseRightButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseRightButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseRightButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseRightButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseRightButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseRightButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseRightButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseRightButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseRightButtonDown</InterfaceMember>
         <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseRightButtonDown</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -10889,6 +11491,20 @@ Image with an Elliptical Clip Region
       <MemberSignature Language="F#" Value="member this.PreviewMouseRightButtonUp : System.Windows.Input.MouseButtonEventHandler " Usage="member this.PreviewMouseRightButtonUp : System.Windows.Input.MouseButtonEventHandler " />
       <MemberType>Event</MemberType>
       <Implements>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseRightButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseRightButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseRightButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseRightButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseRightButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseRightButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseRightButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseRightButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseRightButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseRightButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseRightButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseRightButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseRightButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseRightButtonUp</InterfaceMember>
         <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseRightButtonUp</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -11042,6 +11658,20 @@ Image with an Elliptical Clip Region
       <MemberType>Event</MemberType>
       <Implements>
         <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseWheel</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseWheel</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseWheel</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseWheel</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseWheel</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseWheel</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseWheel</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseWheel</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseWheel</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseWheel</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseWheel</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseWheel</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseWheel</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseWheel</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewMouseWheel</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
@@ -11191,6 +11821,20 @@ Image with an Elliptical Clip Region
       <MemberType>Event</MemberType>
       <Implements>
         <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusButtonDown</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
@@ -11268,6 +11912,20 @@ Image with an Elliptical Clip Region
       <MemberType>Event</MemberType>
       <Implements>
         <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusButtonUp</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
@@ -11343,6 +12001,20 @@ Image with an Elliptical Clip Region
       <MemberSignature Language="F#" Value="member this.PreviewStylusDown : System.Windows.Input.StylusDownEventHandler " Usage="member this.PreviewStylusDown : System.Windows.Input.StylusDownEventHandler " />
       <MemberType>Event</MemberType>
       <Implements>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusDown</InterfaceMember>
         <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusDown</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -11420,6 +12092,20 @@ Image with an Elliptical Clip Region
       <MemberType>Event</MemberType>
       <Implements>
         <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusInAirMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusInAirMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusInAirMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusInAirMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusInAirMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusInAirMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusInAirMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusInAirMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusInAirMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusInAirMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusInAirMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusInAirMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusInAirMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusInAirMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusInAirMove</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
@@ -11495,6 +12181,20 @@ Image with an Elliptical Clip Region
       <MemberSignature Language="F#" Value="member this.PreviewStylusInRange : System.Windows.Input.StylusEventHandler " Usage="member this.PreviewStylusInRange : System.Windows.Input.StylusEventHandler " />
       <MemberType>Event</MemberType>
       <Implements>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusInRange</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusInRange</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusInRange</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusInRange</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusInRange</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusInRange</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusInRange</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusInRange</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusInRange</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusInRange</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusInRange</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusInRange</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusInRange</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusInRange</InterfaceMember>
         <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusInRange</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -11572,6 +12272,20 @@ Image with an Elliptical Clip Region
       <MemberType>Event</MemberType>
       <Implements>
         <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusMove</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
@@ -11648,6 +12362,20 @@ Image with an Elliptical Clip Region
       <MemberType>Event</MemberType>
       <Implements>
         <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusOutOfRange</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusOutOfRange</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusOutOfRange</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusOutOfRange</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusOutOfRange</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusOutOfRange</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusOutOfRange</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusOutOfRange</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusOutOfRange</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusOutOfRange</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusOutOfRange</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusOutOfRange</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusOutOfRange</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusOutOfRange</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusOutOfRange</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
@@ -11723,6 +12451,20 @@ Image with an Elliptical Clip Region
       <MemberSignature Language="F#" Value="member this.PreviewStylusSystemGesture : System.Windows.Input.StylusSystemGestureEventHandler " Usage="member this.PreviewStylusSystemGesture : System.Windows.Input.StylusSystemGestureEventHandler " />
       <MemberType>Event</MemberType>
       <Implements>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusSystemGesture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusSystemGesture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusSystemGesture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusSystemGesture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusSystemGesture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusSystemGesture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusSystemGesture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusSystemGesture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusSystemGesture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusSystemGesture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusSystemGesture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusSystemGesture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusSystemGesture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusSystemGesture</InterfaceMember>
         <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusSystemGesture</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -11802,6 +12544,20 @@ Image with an Elliptical Clip Region
       <MemberType>Event</MemberType>
       <Implements>
         <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewStylusUp</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
@@ -11877,6 +12633,20 @@ Image with an Elliptical Clip Region
       <MemberSignature Language="F#" Value="member this.PreviewTextInput : System.Windows.Input.TextCompositionEventHandler " Usage="member this.PreviewTextInput : System.Windows.Input.TextCompositionEventHandler " />
       <MemberType>Event</MemberType>
       <Implements>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewTextInput</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewTextInput</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewTextInput</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewTextInput</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewTextInput</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewTextInput</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewTextInput</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewTextInput</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewTextInput</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewTextInput</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewTextInput</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewTextInput</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewTextInput</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.PreviewTextInput</InterfaceMember>
         <InterfaceMember>E:System.Windows.IInputElement.PreviewTextInput</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -12289,6 +13059,20 @@ Image with an Elliptical Clip Region
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.IInputElement.RaiseEvent(System.Windows.RoutedEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.RaiseEvent(System.Windows.RoutedEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.RaiseEvent(System.Windows.RoutedEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.RaiseEvent(System.Windows.RoutedEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.RaiseEvent(System.Windows.RoutedEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.RaiseEvent(System.Windows.RoutedEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.RaiseEvent(System.Windows.RoutedEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.RaiseEvent(System.Windows.RoutedEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.RaiseEvent(System.Windows.RoutedEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.RaiseEvent(System.Windows.RoutedEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.RaiseEvent(System.Windows.RoutedEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.RaiseEvent(System.Windows.RoutedEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.RaiseEvent(System.Windows.RoutedEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.RaiseEvent(System.Windows.RoutedEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.RaiseEvent(System.Windows.RoutedEventArgs)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
@@ -12355,6 +13139,20 @@ Image with an Elliptical Clip Region
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.IInputElement.ReleaseMouseCapture</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.ReleaseMouseCapture</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.ReleaseMouseCapture</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.ReleaseMouseCapture</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.ReleaseMouseCapture</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.ReleaseMouseCapture</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.ReleaseMouseCapture</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.ReleaseMouseCapture</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.ReleaseMouseCapture</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.ReleaseMouseCapture</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.ReleaseMouseCapture</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.ReleaseMouseCapture</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.ReleaseMouseCapture</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.ReleaseMouseCapture</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.ReleaseMouseCapture</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
@@ -12395,6 +13193,20 @@ Image with an Elliptical Clip Region
       <MemberSignature Language="F#" Value="abstract member ReleaseStylusCapture : unit -&gt; unit&#xA;override this.ReleaseStylusCapture : unit -&gt; unit" Usage="uIElement.ReleaseStylusCapture " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.IInputElement.ReleaseStylusCapture</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.ReleaseStylusCapture</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.ReleaseStylusCapture</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.ReleaseStylusCapture</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.ReleaseStylusCapture</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.ReleaseStylusCapture</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.ReleaseStylusCapture</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.ReleaseStylusCapture</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.ReleaseStylusCapture</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.ReleaseStylusCapture</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.ReleaseStylusCapture</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.ReleaseStylusCapture</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.ReleaseStylusCapture</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.ReleaseStylusCapture</InterfaceMember>
         <InterfaceMember>M:System.Windows.IInputElement.ReleaseStylusCapture</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -12453,6 +13265,20 @@ Image with an Elliptical Clip Region
       <MemberSignature Language="F#" Value="abstract member RemoveHandler : System.Windows.RoutedEvent * Delegate -&gt; unit&#xA;override this.RemoveHandler : System.Windows.RoutedEvent * Delegate -&gt; unit" Usage="uIElement.RemoveHandler (routedEvent, handler)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.IInputElement.RemoveHandler(System.Windows.RoutedEvent,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.RemoveHandler(System.Windows.RoutedEvent,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.RemoveHandler(System.Windows.RoutedEvent,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.RemoveHandler(System.Windows.RoutedEvent,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.RemoveHandler(System.Windows.RoutedEvent,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.RemoveHandler(System.Windows.RoutedEvent,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.RemoveHandler(System.Windows.RoutedEvent,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.RemoveHandler(System.Windows.RoutedEvent,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.RemoveHandler(System.Windows.RoutedEvent,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.RemoveHandler(System.Windows.RoutedEvent,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.RemoveHandler(System.Windows.RoutedEvent,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.RemoveHandler(System.Windows.RoutedEvent,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.RemoveHandler(System.Windows.RoutedEvent,System.Delegate)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IInputElement.RemoveHandler(System.Windows.RoutedEvent,System.Delegate)</InterfaceMember>
         <InterfaceMember>M:System.Windows.IInputElement.RemoveHandler(System.Windows.RoutedEvent,System.Delegate)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -12857,6 +13683,20 @@ Image with an Elliptical Clip Region
       <MemberType>Event</MemberType>
       <Implements>
         <InterfaceMember>E:System.Windows.IInputElement.StylusButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusButtonDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusButtonDown</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
@@ -12933,6 +13773,20 @@ Image with an Elliptical Clip Region
       <MemberSignature Language="F#" Value="member this.StylusButtonUp : System.Windows.Input.StylusButtonEventHandler " Usage="member this.StylusButtonUp : System.Windows.Input.StylusButtonEventHandler " />
       <MemberType>Event</MemberType>
       <Implements>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusButtonUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusButtonUp</InterfaceMember>
         <InterfaceMember>E:System.Windows.IInputElement.StylusButtonUp</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -13011,6 +13865,20 @@ Image with an Elliptical Clip Region
       <MemberType>Event</MemberType>
       <Implements>
         <InterfaceMember>E:System.Windows.IInputElement.StylusDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusDown</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusDown</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
@@ -13086,6 +13954,20 @@ Image with an Elliptical Clip Region
       <MemberSignature Language="F#" Value="member this.StylusEnter : System.Windows.Input.StylusEventHandler " Usage="member this.StylusEnter : System.Windows.Input.StylusEventHandler " />
       <MemberType>Event</MemberType>
       <Implements>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusEnter</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusEnter</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusEnter</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusEnter</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusEnter</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusEnter</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusEnter</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusEnter</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusEnter</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusEnter</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusEnter</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusEnter</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusEnter</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusEnter</InterfaceMember>
         <InterfaceMember>E:System.Windows.IInputElement.StylusEnter</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -13165,6 +14047,20 @@ Image with an Elliptical Clip Region
       <MemberType>Event</MemberType>
       <Implements>
         <InterfaceMember>E:System.Windows.IInputElement.StylusInAirMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusInAirMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusInAirMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusInAirMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusInAirMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusInAirMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusInAirMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusInAirMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusInAirMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusInAirMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusInAirMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusInAirMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusInAirMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusInAirMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusInAirMove</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
@@ -13241,6 +14137,20 @@ Image with an Elliptical Clip Region
       <MemberType>Event</MemberType>
       <Implements>
         <InterfaceMember>E:System.Windows.IInputElement.StylusInRange</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusInRange</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusInRange</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusInRange</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusInRange</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusInRange</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusInRange</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusInRange</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusInRange</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusInRange</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusInRange</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusInRange</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusInRange</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusInRange</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusInRange</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
@@ -13316,6 +14226,20 @@ Image with an Elliptical Clip Region
       <MemberSignature Language="F#" Value="member this.StylusLeave : System.Windows.Input.StylusEventHandler " Usage="member this.StylusLeave : System.Windows.Input.StylusEventHandler " />
       <MemberType>Event</MemberType>
       <Implements>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusLeave</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusLeave</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusLeave</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusLeave</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusLeave</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusLeave</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusLeave</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusLeave</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusLeave</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusLeave</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusLeave</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusLeave</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusLeave</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusLeave</InterfaceMember>
         <InterfaceMember>E:System.Windows.IInputElement.StylusLeave</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -13395,6 +14319,20 @@ Image with an Elliptical Clip Region
       <MemberType>Event</MemberType>
       <Implements>
         <InterfaceMember>E:System.Windows.IInputElement.StylusMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusMove</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusMove</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
@@ -13470,6 +14408,20 @@ Image with an Elliptical Clip Region
       <MemberSignature Language="F#" Value="member this.StylusOutOfRange : System.Windows.Input.StylusEventHandler " Usage="member this.StylusOutOfRange : System.Windows.Input.StylusEventHandler " />
       <MemberType>Event</MemberType>
       <Implements>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusOutOfRange</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusOutOfRange</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusOutOfRange</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusOutOfRange</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusOutOfRange</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusOutOfRange</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusOutOfRange</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusOutOfRange</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusOutOfRange</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusOutOfRange</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusOutOfRange</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusOutOfRange</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusOutOfRange</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusOutOfRange</InterfaceMember>
         <InterfaceMember>E:System.Windows.IInputElement.StylusOutOfRange</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -13588,6 +14540,20 @@ Image with an Elliptical Clip Region
       <MemberType>Event</MemberType>
       <Implements>
         <InterfaceMember>E:System.Windows.IInputElement.StylusSystemGesture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusSystemGesture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusSystemGesture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusSystemGesture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusSystemGesture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusSystemGesture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusSystemGesture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusSystemGesture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusSystemGesture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusSystemGesture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusSystemGesture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusSystemGesture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusSystemGesture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusSystemGesture</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusSystemGesture</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
@@ -13666,6 +14632,20 @@ Image with an Elliptical Clip Region
       <MemberType>Event</MemberType>
       <Implements>
         <InterfaceMember>E:System.Windows.IInputElement.StylusUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusUp</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.StylusUp</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
@@ -13741,6 +14721,20 @@ Image with an Elliptical Clip Region
       <MemberSignature Language="F#" Value="member this.TextInput : System.Windows.Input.TextCompositionEventHandler " Usage="member this.TextInput : System.Windows.Input.TextCompositionEventHandler " />
       <MemberType>Event</MemberType>
       <Implements>
+        <InterfaceMember>E:System.Windows.IInputElement.TextInput</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.TextInput</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.TextInput</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.TextInput</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.TextInput</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.TextInput</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.TextInput</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.TextInput</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.TextInput</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.TextInput</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.TextInput</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.TextInput</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.TextInput</InterfaceMember>
+        <InterfaceMember>E:System.Windows.IInputElement.TextInput</InterfaceMember>
         <InterfaceMember>E:System.Windows.IInputElement.TextInput</InterfaceMember>
       </Implements>
       <AssemblyInfo>

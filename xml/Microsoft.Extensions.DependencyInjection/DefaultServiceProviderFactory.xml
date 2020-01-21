@@ -87,6 +87,11 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Extensions.DependencyInjection.IServiceProviderFactory`1.CreateBuilder(Microsoft.Extensions.DependencyInjection.IServiceCollection)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.DependencyInjection.IServiceProviderFactory`1.CreateBuilder(Microsoft.Extensions.DependencyInjection.IServiceCollection)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.DependencyInjection.IServiceProviderFactory`1.CreateBuilder(Microsoft.Extensions.DependencyInjection.IServiceCollection)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.DependencyInjection.IServiceProviderFactory`1.CreateBuilder(Microsoft.Extensions.DependencyInjection.IServiceCollection)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.DependencyInjection.IServiceProviderFactory`1.CreateBuilder(Microsoft.Extensions.DependencyInjection.IServiceCollection)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.DependencyInjection.IServiceProviderFactory`1.CreateBuilder(Microsoft.Extensions.DependencyInjection.IServiceCollection)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection</AssemblyName>
@@ -120,6 +125,11 @@
       <MemberSignature Language="F#" Value="abstract member CreateServiceProvider : Microsoft.Extensions.DependencyInjection.IServiceCollection -&gt; IServiceProvider&#xA;override this.CreateServiceProvider : Microsoft.Extensions.DependencyInjection.IServiceCollection -&gt; IServiceProvider" Usage="defaultServiceProviderFactory.CreateServiceProvider containerBuilder" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Extensions.DependencyInjection.IServiceProviderFactory`1.CreateServiceProvider(`0)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.DependencyInjection.IServiceProviderFactory`1.CreateServiceProvider(`0)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.DependencyInjection.IServiceProviderFactory`1.CreateServiceProvider(`0)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.DependencyInjection.IServiceProviderFactory`1.CreateServiceProvider(`0)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.DependencyInjection.IServiceProviderFactory`1.CreateServiceProvider(`0)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Extensions.DependencyInjection.IServiceProviderFactory`1.CreateServiceProvider(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

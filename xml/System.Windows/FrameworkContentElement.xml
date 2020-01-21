@@ -127,6 +127,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ComponentModel.ISupportInitialize.BeginInit</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.BeginInit</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.BeginInit</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.BeginInit</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.BeginInit</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.BeginInit</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.BeginInit</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.BeginInit</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.BeginInit</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.BeginInit</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.BeginInit</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.BeginInit</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.BeginInit</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.BeginInit</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.BeginInit</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -914,6 +928,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ComponentModel.ISupportInitialize.EndInit</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.EndInit</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.EndInit</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.EndInit</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.EndInit</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.EndInit</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.EndInit</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.EndInit</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.EndInit</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.EndInit</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.EndInit</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.EndInit</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.EndInit</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.EndInit</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.EndInit</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -1607,6 +1635,20 @@
       <MemberSignature Language="F#" Value="member this.Name : string with get, set" Usage="System.Windows.FrameworkContentElement.Name" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Windows.IFrameworkInputElement.Name</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IFrameworkInputElement.Name</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IFrameworkInputElement.Name</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IFrameworkInputElement.Name</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IFrameworkInputElement.Name</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IFrameworkInputElement.Name</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IFrameworkInputElement.Name</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IFrameworkInputElement.Name</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IFrameworkInputElement.Name</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IFrameworkInputElement.Name</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IFrameworkInputElement.Name</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IFrameworkInputElement.Name</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IFrameworkInputElement.Name</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IFrameworkInputElement.Name</InterfaceMember>
         <InterfaceMember>P:System.Windows.IFrameworkInputElement.Name</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2591,6 +2633,18 @@
       <MemberSignature Language="C++ CLI" Value=" virtual bool System.Windows.Markup.IQueryAmbient.IsAmbientPropertyAvailable(System::String ^ propertyName) = System::Windows::Markup::IQueryAmbient::IsAmbientPropertyAvailable;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Markup.IQueryAmbient.IsAmbientPropertyAvailable(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IQueryAmbient.IsAmbientPropertyAvailable(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IQueryAmbient.IsAmbientPropertyAvailable(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IQueryAmbient.IsAmbientPropertyAvailable(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IQueryAmbient.IsAmbientPropertyAvailable(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IQueryAmbient.IsAmbientPropertyAvailable(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IQueryAmbient.IsAmbientPropertyAvailable(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IQueryAmbient.IsAmbientPropertyAvailable(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IQueryAmbient.IsAmbientPropertyAvailable(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IQueryAmbient.IsAmbientPropertyAvailable(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IQueryAmbient.IsAmbientPropertyAvailable(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IQueryAmbient.IsAmbientPropertyAvailable(System.String)</InterfaceMember>
         <InterfaceMember>M:System.Windows.Markup.IQueryAmbient.IsAmbientPropertyAvailable(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

@@ -172,6 +172,9 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.SqlClient</AssemblyName>
@@ -624,6 +627,9 @@ parameters.Add("@pname", Convert.ToInt32(0));
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.SqlClient</AssemblyName>
@@ -732,6 +738,9 @@ parameters.Add("@pname", Convert.ToInt32(0));
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.SqlClient</AssemblyName>
@@ -785,6 +794,9 @@ parameters.Add("@pname", Convert.ToInt32(0));
       <MemberSignature Language="F#" Value="abstract member Contains : string -&gt; bool&#xA;override this.Contains : string -&gt; bool" Usage="sqlParameterCollection.Contains value" FrameworkAlternate="netframework-1.1" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Data.IDataParameterCollection.Contains(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataParameterCollection.Contains(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataParameterCollection.Contains(System.String)</InterfaceMember>
         <InterfaceMember>M:System.Data.IDataParameterCollection.Contains(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -848,6 +860,9 @@ parameters.Add("@pname", Convert.ToInt32(0));
       <MemberSignature Language="F#" Value="abstract member CopyTo : Array * int -&gt; unit&#xA;override this.CopyTo : Array * int -&gt; unit" Usage="sqlParameterCollection.CopyTo (array, index)" FrameworkAlternate="netframework-1.1" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -946,6 +961,9 @@ parameters.Add("@pname", Convert.ToInt32(0));
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.SqlClient</AssemblyName>
@@ -999,6 +1017,9 @@ parameters.Add("@pname", Convert.ToInt32(0));
       <MemberSignature Language="F#" Value="abstract member GetEnumerator : unit -&gt; System.Collections.IEnumerator&#xA;override this.GetEnumerator : unit -&gt; System.Collections.IEnumerator" Usage="sqlParameterCollection.GetEnumerator " FrameworkAlternate="netframework-1.1" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
         <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1185,6 +1206,9 @@ parameters.Add("@pname", Convert.ToInt32(0));
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.SqlClient</AssemblyName>
@@ -1237,6 +1261,9 @@ parameters.Add("@pname", Convert.ToInt32(0));
       <MemberSignature Language="F#" Value="abstract member IndexOf : string -&gt; int&#xA;override this.IndexOf : string -&gt; int" Usage="sqlParameterCollection.IndexOf parameterName" FrameworkAlternate="netframework-1.1" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Data.IDataParameterCollection.IndexOf(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataParameterCollection.IndexOf(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataParameterCollection.IndexOf(System.String)</InterfaceMember>
         <InterfaceMember>M:System.Data.IDataParameterCollection.IndexOf(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1347,6 +1374,9 @@ parameters.Add("@pname", Convert.ToInt32(0));
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.SqlClient</AssemblyName>
@@ -1396,6 +1426,8 @@ parameters.Add("@pname", Convert.ToInt32(0));
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data</AssemblyName>
@@ -1434,6 +1466,8 @@ parameters.Add("@pname", Convert.ToInt32(0));
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data</AssemblyName>
@@ -1471,6 +1505,8 @@ parameters.Add("@pname", Convert.ToInt32(0));
       <MemberSignature Language="F#" Value="member this.IsSynchronized : bool" Usage="System.Data.SqlClient.SqlParameterCollection.IsSynchronized" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
         <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1712,6 +1748,9 @@ parameters.Add("@pname", Convert.ToInt32(0));
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.SqlClient</AssemblyName>
@@ -1775,6 +1814,9 @@ parameters.Add("@pname", Convert.ToInt32(0));
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.SqlClient</AssemblyName>
@@ -1826,6 +1868,9 @@ parameters.Add("@pname", Convert.ToInt32(0));
       <MemberSignature Language="F#" Value="abstract member RemoveAt : string -&gt; unit&#xA;override this.RemoveAt : string -&gt; unit" Usage="sqlParameterCollection.RemoveAt parameterName" FrameworkAlternate="netframework-1.1" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Data.IDataParameterCollection.RemoveAt(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataParameterCollection.RemoveAt(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataParameterCollection.RemoveAt(System.String)</InterfaceMember>
         <InterfaceMember>M:System.Data.IDataParameterCollection.RemoveAt(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1955,6 +2000,8 @@ parameters.Add("@pname", Convert.ToInt32(0));
       <MemberSignature Language="F#" Value="member this.SyncRoot : obj" Usage="System.Data.SqlClient.SqlParameterCollection.SyncRoot" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
         <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
       </Implements>
       <AssemblyInfo>

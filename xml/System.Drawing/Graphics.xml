@@ -857,6 +857,26 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Drawing</AssemblyName>
@@ -12092,6 +12112,25 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Drawing.IDeviceContext.GetHdc</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.IDeviceContext.GetHdc</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.IDeviceContext.GetHdc</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.IDeviceContext.GetHdc</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.IDeviceContext.GetHdc</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.IDeviceContext.GetHdc</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.IDeviceContext.GetHdc</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.IDeviceContext.GetHdc</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.IDeviceContext.GetHdc</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.IDeviceContext.GetHdc</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.IDeviceContext.GetHdc</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.IDeviceContext.GetHdc</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.IDeviceContext.GetHdc</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.IDeviceContext.GetHdc</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.IDeviceContext.GetHdc</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.IDeviceContext.GetHdc</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.IDeviceContext.GetHdc</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.IDeviceContext.GetHdc</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.IDeviceContext.GetHdc</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.IDeviceContext.GetHdc</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Drawing</AssemblyName>
@@ -13876,6 +13915,25 @@
       <MemberSignature Language="F#" Value="abstract member ReleaseHdc : unit -&gt; unit&#xA;override this.ReleaseHdc : unit -&gt; unit" Usage="graphics.ReleaseHdc " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Drawing.IDeviceContext.ReleaseHdc</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.IDeviceContext.ReleaseHdc</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.IDeviceContext.ReleaseHdc</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.IDeviceContext.ReleaseHdc</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.IDeviceContext.ReleaseHdc</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.IDeviceContext.ReleaseHdc</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.IDeviceContext.ReleaseHdc</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.IDeviceContext.ReleaseHdc</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.IDeviceContext.ReleaseHdc</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.IDeviceContext.ReleaseHdc</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.IDeviceContext.ReleaseHdc</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.IDeviceContext.ReleaseHdc</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.IDeviceContext.ReleaseHdc</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.IDeviceContext.ReleaseHdc</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.IDeviceContext.ReleaseHdc</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.IDeviceContext.ReleaseHdc</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.IDeviceContext.ReleaseHdc</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.IDeviceContext.ReleaseHdc</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.IDeviceContext.ReleaseHdc</InterfaceMember>
         <InterfaceMember>M:System.Drawing.IDeviceContext.ReleaseHdc</InterfaceMember>
       </Implements>
       <AssemblyInfo>

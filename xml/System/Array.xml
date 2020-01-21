@@ -1125,6 +1125,30 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Runtime</AssemblyName>
@@ -1895,6 +1919,40 @@
       <MemberSignature Language="C#" Value="public virtual void CopyTo (Array array, int index);" FrameworkAlternate="netframework-1.1" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -3792,6 +3850,40 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Runtime</AssemblyName>
@@ -5337,6 +5429,30 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -5390,6 +5506,30 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual property bool IsReadOnly { bool get(); };" FrameworkAlternate="netframework-1.1" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
         <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -5448,6 +5588,30 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual property bool IsSynchronized { bool get(); };" FrameworkAlternate="netframework-1.1" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
         <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -9175,6 +9339,30 @@ int[,,] TDArray = new int[1,1,1];
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -9238,6 +9426,40 @@ int[,,] TDArray = new int[1,1,1];
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Runtime</AssemblyName>
@@ -9287,6 +9509,15 @@ int[,,] TDArray = new int[1,1,1];
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Runtime</AssemblyName>
@@ -9320,6 +9551,15 @@ int[,,] TDArray = new int[1,1,1];
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Runtime</AssemblyName>
@@ -9351,6 +9591,40 @@ int[,,] TDArray = new int[1,1,1];
       <MemberSignature Language="C++ CLI" Value=" virtual int System.Collections.IList.Add(System::Object ^ value) = System::Collections::IList::Add;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -9407,6 +9681,40 @@ int[,,] TDArray = new int[1,1,1];
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Runtime</AssemblyName>
@@ -9455,6 +9763,40 @@ int[,,] TDArray = new int[1,1,1];
       <MemberSignature Language="C++ CLI" Value=" virtual bool System.Collections.IList.Contains(System::Object ^ value) = System::Collections::IList::Contains;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -9508,6 +9850,40 @@ int[,,] TDArray = new int[1,1,1];
       <MemberSignature Language="C++ CLI" Value=" virtual int System.Collections.IList.IndexOf(System::Object ^ value) = System::Collections::IList::IndexOf;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -9565,6 +9941,40 @@ int[,,] TDArray = new int[1,1,1];
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Collections.IList.Insert(int index, System::Object ^ value) = System::Collections::IList::Insert;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -9629,6 +10039,15 @@ int[,,] TDArray = new int[1,1,1];
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Runtime</AssemblyName>
@@ -9662,6 +10081,15 @@ int[,,] TDArray = new int[1,1,1];
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Runtime</AssemblyName>
@@ -9694,6 +10122,40 @@ int[,,] TDArray = new int[1,1,1];
       <MemberSignature Language="F#" Usage="System.Collections.IList.Item" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
         <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -9754,6 +10216,40 @@ int[,,] TDArray = new int[1,1,1];
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Runtime</AssemblyName>
@@ -9809,6 +10305,40 @@ int[,,] TDArray = new int[1,1,1];
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Collections.IList.RemoveAt(int index) = System::Collections::IList::RemoveAt;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -9866,6 +10396,36 @@ int[,,] TDArray = new int[1,1,1];
       <MemberSignature Language="C++ CLI" Value=" virtual int System.Collections.IStructuralComparable.CompareTo(System::Object ^ other, System::Collections::IComparer ^ comparer) = System::Collections::IStructuralComparable::CompareTo;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.IStructuralComparable.CompareTo(System.Object,System.Collections.IComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralComparable.CompareTo(System.Object,System.Collections.IComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralComparable.CompareTo(System.Object,System.Collections.IComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralComparable.CompareTo(System.Object,System.Collections.IComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralComparable.CompareTo(System.Object,System.Collections.IComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralComparable.CompareTo(System.Object,System.Collections.IComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralComparable.CompareTo(System.Object,System.Collections.IComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralComparable.CompareTo(System.Object,System.Collections.IComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralComparable.CompareTo(System.Object,System.Collections.IComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralComparable.CompareTo(System.Object,System.Collections.IComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralComparable.CompareTo(System.Object,System.Collections.IComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralComparable.CompareTo(System.Object,System.Collections.IComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralComparable.CompareTo(System.Object,System.Collections.IComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralComparable.CompareTo(System.Object,System.Collections.IComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralComparable.CompareTo(System.Object,System.Collections.IComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralComparable.CompareTo(System.Object,System.Collections.IComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralComparable.CompareTo(System.Object,System.Collections.IComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralComparable.CompareTo(System.Object,System.Collections.IComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralComparable.CompareTo(System.Object,System.Collections.IComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralComparable.CompareTo(System.Object,System.Collections.IComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralComparable.CompareTo(System.Object,System.Collections.IComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralComparable.CompareTo(System.Object,System.Collections.IComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralComparable.CompareTo(System.Object,System.Collections.IComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralComparable.CompareTo(System.Object,System.Collections.IComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralComparable.CompareTo(System.Object,System.Collections.IComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralComparable.CompareTo(System.Object,System.Collections.IComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralComparable.CompareTo(System.Object,System.Collections.IComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralComparable.CompareTo(System.Object,System.Collections.IComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralComparable.CompareTo(System.Object,System.Collections.IComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralComparable.CompareTo(System.Object,System.Collections.IComparer)</InterfaceMember>
         <InterfaceMember>M:System.Collections.IStructuralComparable.CompareTo(System.Object,System.Collections.IComparer)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -9937,6 +10497,36 @@ int[,,] TDArray = new int[1,1,1];
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.IStructuralEquatable.Equals(System.Object,System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.Equals(System.Object,System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.Equals(System.Object,System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.Equals(System.Object,System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.Equals(System.Object,System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.Equals(System.Object,System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.Equals(System.Object,System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.Equals(System.Object,System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.Equals(System.Object,System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.Equals(System.Object,System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.Equals(System.Object,System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.Equals(System.Object,System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.Equals(System.Object,System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.Equals(System.Object,System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.Equals(System.Object,System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.Equals(System.Object,System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.Equals(System.Object,System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.Equals(System.Object,System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.Equals(System.Object,System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.Equals(System.Object,System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.Equals(System.Object,System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.Equals(System.Object,System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.Equals(System.Object,System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.Equals(System.Object,System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.Equals(System.Object,System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.Equals(System.Object,System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.Equals(System.Object,System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.Equals(System.Object,System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.Equals(System.Object,System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.Equals(System.Object,System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.Equals(System.Object,System.Collections.IEqualityComparer)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Runtime</AssemblyName>
@@ -9989,6 +10579,36 @@ int[,,] TDArray = new int[1,1,1];
       <MemberSignature Language="C++ CLI" Value=" virtual int System.Collections.IStructuralEquatable.GetHashCode(System::Collections::IEqualityComparer ^ comparer) = System::Collections::IStructuralEquatable::GetHashCode;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.GetHashCode(System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.GetHashCode(System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.GetHashCode(System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.GetHashCode(System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.GetHashCode(System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.GetHashCode(System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.GetHashCode(System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.GetHashCode(System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.GetHashCode(System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.GetHashCode(System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.GetHashCode(System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.GetHashCode(System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.GetHashCode(System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.GetHashCode(System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.GetHashCode(System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.GetHashCode(System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.GetHashCode(System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.GetHashCode(System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.GetHashCode(System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.GetHashCode(System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.GetHashCode(System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.GetHashCode(System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.GetHashCode(System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.GetHashCode(System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.GetHashCode(System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.GetHashCode(System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.GetHashCode(System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.GetHashCode(System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.GetHashCode(System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.GetHashCode(System.Collections.IEqualityComparer)</InterfaceMember>
         <InterfaceMember>M:System.Collections.IStructuralEquatable.GetHashCode(System.Collections.IEqualityComparer)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

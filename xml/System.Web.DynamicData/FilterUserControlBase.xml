@@ -254,6 +254,17 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.DynamicData.IControlParameterTarget.FilteredColumn</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IControlParameterTarget.FilteredColumn</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IControlParameterTarget.FilteredColumn</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IControlParameterTarget.FilteredColumn</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IControlParameterTarget.FilteredColumn</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IControlParameterTarget.FilteredColumn</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IControlParameterTarget.FilteredColumn</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IControlParameterTarget.FilteredColumn</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IControlParameterTarget.FilteredColumn</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IControlParameterTarget.FilteredColumn</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IControlParameterTarget.FilteredColumn</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IControlParameterTarget.FilteredColumn</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.DynamicData</AssemblyName>
@@ -277,6 +288,17 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::String ^ System.Web.DynamicData.IControlParameterTarget.GetPropertyNameExpression(System::String ^ columnName) = System::Web::DynamicData::IControlParameterTarget::GetPropertyNameExpression;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.DynamicData.IControlParameterTarget.GetPropertyNameExpression(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IControlParameterTarget.GetPropertyNameExpression(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IControlParameterTarget.GetPropertyNameExpression(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IControlParameterTarget.GetPropertyNameExpression(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IControlParameterTarget.GetPropertyNameExpression(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IControlParameterTarget.GetPropertyNameExpression(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IControlParameterTarget.GetPropertyNameExpression(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IControlParameterTarget.GetPropertyNameExpression(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IControlParameterTarget.GetPropertyNameExpression(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IControlParameterTarget.GetPropertyNameExpression(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IControlParameterTarget.GetPropertyNameExpression(System.String)</InterfaceMember>
         <InterfaceMember>M:System.Web.DynamicData.IControlParameterTarget.GetPropertyNameExpression(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -306,6 +328,17 @@
       <MemberSignature Language="F#" Usage="System.Web.DynamicData.IControlParameterTarget.Table" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Web.DynamicData.IControlParameterTarget.Table</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IControlParameterTarget.Table</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IControlParameterTarget.Table</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IControlParameterTarget.Table</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IControlParameterTarget.Table</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IControlParameterTarget.Table</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IControlParameterTarget.Table</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IControlParameterTarget.Table</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IControlParameterTarget.Table</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IControlParameterTarget.Table</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IControlParameterTarget.Table</InterfaceMember>
         <InterfaceMember>P:System.Web.DynamicData.IControlParameterTarget.Table</InterfaceMember>
       </Implements>
       <AssemblyInfo>

@@ -60,6 +60,15 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.ModelBinding.IValueProvider.ContainsPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IValueProvider.ContainsPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IValueProvider.ContainsPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IValueProvider.ContainsPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IValueProvider.ContainsPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IValueProvider.ContainsPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IValueProvider.ContainsPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IValueProvider.ContainsPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IValueProvider.ContainsPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IValueProvider.ContainsPrefix(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -88,6 +97,15 @@
       <MemberSignature Language="F#" Value="abstract member GetValue : string -&gt; System.Web.ModelBinding.ValueProviderResult&#xA;override this.GetValue : string -&gt; System.Web.ModelBinding.ValueProviderResult" Usage="dictionaryValueProvider.GetValue key" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.ModelBinding.IValueProvider.GetValue(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IValueProvider.GetValue(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IValueProvider.GetValue(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IValueProvider.GetValue(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IValueProvider.GetValue(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IValueProvider.GetValue(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IValueProvider.GetValue(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IValueProvider.GetValue(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IValueProvider.GetValue(System.String)</InterfaceMember>
         <InterfaceMember>M:System.Web.ModelBinding.IValueProvider.GetValue(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

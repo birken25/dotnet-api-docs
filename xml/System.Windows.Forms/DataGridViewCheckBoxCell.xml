@@ -296,6 +296,21 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingCell.EditingCellFormattedValue</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingCell.EditingCellFormattedValue</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingCell.EditingCellFormattedValue</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingCell.EditingCellFormattedValue</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingCell.EditingCellFormattedValue</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingCell.EditingCellFormattedValue</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingCell.EditingCellFormattedValue</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingCell.EditingCellFormattedValue</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingCell.EditingCellFormattedValue</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingCell.EditingCellFormattedValue</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingCell.EditingCellFormattedValue</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingCell.EditingCellFormattedValue</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingCell.EditingCellFormattedValue</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingCell.EditingCellFormattedValue</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingCell.EditingCellFormattedValue</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingCell.EditingCellFormattedValue</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Forms</AssemblyName>
@@ -338,6 +353,21 @@
       <MemberSignature Language="F#" Value="member this.EditingCellValueChanged : bool with get, set" Usage="System.Windows.Forms.DataGridViewCheckBoxCell.EditingCellValueChanged" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingCell.EditingCellValueChanged</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingCell.EditingCellValueChanged</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingCell.EditingCellValueChanged</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingCell.EditingCellValueChanged</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingCell.EditingCellValueChanged</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingCell.EditingCellValueChanged</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingCell.EditingCellValueChanged</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingCell.EditingCellValueChanged</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingCell.EditingCellValueChanged</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingCell.EditingCellValueChanged</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingCell.EditingCellValueChanged</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingCell.EditingCellValueChanged</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingCell.EditingCellValueChanged</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingCell.EditingCellValueChanged</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingCell.EditingCellValueChanged</InterfaceMember>
         <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingCell.EditingCellValueChanged</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -573,6 +603,21 @@
       <MemberSignature Language="F#" Value="abstract member GetEditingCellFormattedValue : System.Windows.Forms.DataGridViewDataErrorContexts -&gt; obj&#xA;override this.GetEditingCellFormattedValue : System.Windows.Forms.DataGridViewDataErrorContexts -&gt; obj" Usage="dataGridViewCheckBoxCell.GetEditingCellFormattedValue context" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingCell.GetEditingCellFormattedValue(System.Windows.Forms.DataGridViewDataErrorContexts)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingCell.GetEditingCellFormattedValue(System.Windows.Forms.DataGridViewDataErrorContexts)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingCell.GetEditingCellFormattedValue(System.Windows.Forms.DataGridViewDataErrorContexts)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingCell.GetEditingCellFormattedValue(System.Windows.Forms.DataGridViewDataErrorContexts)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingCell.GetEditingCellFormattedValue(System.Windows.Forms.DataGridViewDataErrorContexts)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingCell.GetEditingCellFormattedValue(System.Windows.Forms.DataGridViewDataErrorContexts)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingCell.GetEditingCellFormattedValue(System.Windows.Forms.DataGridViewDataErrorContexts)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingCell.GetEditingCellFormattedValue(System.Windows.Forms.DataGridViewDataErrorContexts)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingCell.GetEditingCellFormattedValue(System.Windows.Forms.DataGridViewDataErrorContexts)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingCell.GetEditingCellFormattedValue(System.Windows.Forms.DataGridViewDataErrorContexts)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingCell.GetEditingCellFormattedValue(System.Windows.Forms.DataGridViewDataErrorContexts)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingCell.GetEditingCellFormattedValue(System.Windows.Forms.DataGridViewDataErrorContexts)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingCell.GetEditingCellFormattedValue(System.Windows.Forms.DataGridViewDataErrorContexts)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingCell.GetEditingCellFormattedValue(System.Windows.Forms.DataGridViewDataErrorContexts)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingCell.GetEditingCellFormattedValue(System.Windows.Forms.DataGridViewDataErrorContexts)</InterfaceMember>
         <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingCell.GetEditingCellFormattedValue(System.Windows.Forms.DataGridViewDataErrorContexts)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1467,6 +1512,21 @@
       <MemberSignature Language="F#" Value="abstract member PrepareEditingCellForEdit : bool -&gt; unit&#xA;override this.PrepareEditingCellForEdit : bool -&gt; unit" Usage="dataGridViewCheckBoxCell.PrepareEditingCellForEdit selectAll" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingCell.PrepareEditingCellForEdit(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingCell.PrepareEditingCellForEdit(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingCell.PrepareEditingCellForEdit(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingCell.PrepareEditingCellForEdit(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingCell.PrepareEditingCellForEdit(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingCell.PrepareEditingCellForEdit(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingCell.PrepareEditingCellForEdit(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingCell.PrepareEditingCellForEdit(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingCell.PrepareEditingCellForEdit(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingCell.PrepareEditingCellForEdit(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingCell.PrepareEditingCellForEdit(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingCell.PrepareEditingCellForEdit(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingCell.PrepareEditingCellForEdit(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingCell.PrepareEditingCellForEdit(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingCell.PrepareEditingCellForEdit(System.Boolean)</InterfaceMember>
         <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingCell.PrepareEditingCellForEdit(System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

@@ -161,6 +161,15 @@ Use the <xref:System.Diagnostics.SymbolStore.SymReader.Finalize> method to relea
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>ISymWrapper</AssemblyName>
@@ -257,6 +266,20 @@ Use the <xref:System.Diagnostics.SymbolStore.SymReader.Finalize> method to relea
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetDocument(System.String,System.Guid,System.Guid,System.Guid)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetDocument(System.String,System.Guid,System.Guid,System.Guid)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetDocument(System.String,System.Guid,System.Guid,System.Guid)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetDocument(System.String,System.Guid,System.Guid,System.Guid)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetDocument(System.String,System.Guid,System.Guid,System.Guid)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetDocument(System.String,System.Guid,System.Guid,System.Guid)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetDocument(System.String,System.Guid,System.Guid,System.Guid)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetDocument(System.String,System.Guid,System.Guid,System.Guid)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetDocument(System.String,System.Guid,System.Guid,System.Guid)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetDocument(System.String,System.Guid,System.Guid,System.Guid)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetDocument(System.String,System.Guid,System.Guid,System.Guid)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetDocument(System.String,System.Guid,System.Guid,System.Guid)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetDocument(System.String,System.Guid,System.Guid,System.Guid)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetDocument(System.String,System.Guid,System.Guid,System.Guid)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetDocument(System.String,System.Guid,System.Guid,System.Guid)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>ISymWrapper</AssemblyName>
@@ -304,6 +327,20 @@ Use the <xref:System.Diagnostics.SymbolStore.SymReader.Finalize> method to relea
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetDocuments</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetDocuments</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetDocuments</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetDocuments</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetDocuments</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetDocuments</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetDocuments</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetDocuments</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetDocuments</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetDocuments</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetDocuments</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetDocuments</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetDocuments</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetDocuments</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetDocuments</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>ISymWrapper</AssemblyName>
@@ -335,6 +372,20 @@ Use the <xref:System.Diagnostics.SymbolStore.SymReader.Finalize> method to relea
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual cli::array &lt;System::Diagnostics::SymbolStore::ISymbolVariable ^&gt; ^ GetGlobalVariables();" FrameworkAlternate="netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetGlobalVariables</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetGlobalVariables</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetGlobalVariables</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetGlobalVariables</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetGlobalVariables</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetGlobalVariables</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetGlobalVariables</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetGlobalVariables</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetGlobalVariables</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetGlobalVariables</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetGlobalVariables</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetGlobalVariables</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetGlobalVariables</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetGlobalVariables</InterfaceMember>
         <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetGlobalVariables</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -377,6 +428,20 @@ Use the <xref:System.Diagnostics.SymbolStore.SymReader.Finalize> method to relea
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetMethod(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetMethod(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetMethod(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetMethod(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetMethod(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetMethod(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetMethod(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetMethod(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetMethod(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetMethod(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetMethod(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetMethod(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetMethod(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetMethod(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetMethod(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>ISymWrapper</AssemblyName>
@@ -410,6 +475,20 @@ Use the <xref:System.Diagnostics.SymbolStore.SymReader.Finalize> method to relea
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual System::Diagnostics::SymbolStore::ISymbolMethod ^ GetMethod(System::Diagnostics::SymbolStore::SymbolToken method, int version);" FrameworkAlternate="netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetMethod(System.Diagnostics.SymbolStore.SymbolToken,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetMethod(System.Diagnostics.SymbolStore.SymbolToken,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetMethod(System.Diagnostics.SymbolStore.SymbolToken,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetMethod(System.Diagnostics.SymbolStore.SymbolToken,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetMethod(System.Diagnostics.SymbolStore.SymbolToken,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetMethod(System.Diagnostics.SymbolStore.SymbolToken,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetMethod(System.Diagnostics.SymbolStore.SymbolToken,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetMethod(System.Diagnostics.SymbolStore.SymbolToken,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetMethod(System.Diagnostics.SymbolStore.SymbolToken,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetMethod(System.Diagnostics.SymbolStore.SymbolToken,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetMethod(System.Diagnostics.SymbolStore.SymbolToken,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetMethod(System.Diagnostics.SymbolStore.SymbolToken,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetMethod(System.Diagnostics.SymbolStore.SymbolToken,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetMethod(System.Diagnostics.SymbolStore.SymbolToken,System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetMethod(System.Diagnostics.SymbolStore.SymbolToken,System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -446,6 +525,20 @@ Use the <xref:System.Diagnostics.SymbolStore.SymReader.Finalize> method to relea
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual System::Diagnostics::SymbolStore::ISymbolMethod ^ GetMethodFromDocumentPosition(System::Diagnostics::SymbolStore::ISymbolDocument ^ document, int line, int column);" FrameworkAlternate="netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetMethodFromDocumentPosition(System.Diagnostics.SymbolStore.ISymbolDocument,System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetMethodFromDocumentPosition(System.Diagnostics.SymbolStore.ISymbolDocument,System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetMethodFromDocumentPosition(System.Diagnostics.SymbolStore.ISymbolDocument,System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetMethodFromDocumentPosition(System.Diagnostics.SymbolStore.ISymbolDocument,System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetMethodFromDocumentPosition(System.Diagnostics.SymbolStore.ISymbolDocument,System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetMethodFromDocumentPosition(System.Diagnostics.SymbolStore.ISymbolDocument,System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetMethodFromDocumentPosition(System.Diagnostics.SymbolStore.ISymbolDocument,System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetMethodFromDocumentPosition(System.Diagnostics.SymbolStore.ISymbolDocument,System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetMethodFromDocumentPosition(System.Diagnostics.SymbolStore.ISymbolDocument,System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetMethodFromDocumentPosition(System.Diagnostics.SymbolStore.ISymbolDocument,System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetMethodFromDocumentPosition(System.Diagnostics.SymbolStore.ISymbolDocument,System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetMethodFromDocumentPosition(System.Diagnostics.SymbolStore.ISymbolDocument,System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetMethodFromDocumentPosition(System.Diagnostics.SymbolStore.ISymbolDocument,System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetMethodFromDocumentPosition(System.Diagnostics.SymbolStore.ISymbolDocument,System.Int32,System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetMethodFromDocumentPosition(System.Diagnostics.SymbolStore.ISymbolDocument,System.Int32,System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -485,6 +578,20 @@ Use the <xref:System.Diagnostics.SymbolStore.SymReader.Finalize> method to relea
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetNamespaces</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetNamespaces</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetNamespaces</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetNamespaces</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetNamespaces</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetNamespaces</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetNamespaces</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetNamespaces</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetNamespaces</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetNamespaces</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetNamespaces</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetNamespaces</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetNamespaces</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetNamespaces</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetNamespaces</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>ISymWrapper</AssemblyName>
@@ -516,6 +623,20 @@ Use the <xref:System.Diagnostics.SymbolStore.SymReader.Finalize> method to relea
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual cli::array &lt;System::Byte&gt; ^ GetSymAttribute(System::Diagnostics::SymbolStore::SymbolToken parent, System::String ^ name);" FrameworkAlternate="netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetSymAttribute(System.Diagnostics.SymbolStore.SymbolToken,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetSymAttribute(System.Diagnostics.SymbolStore.SymbolToken,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetSymAttribute(System.Diagnostics.SymbolStore.SymbolToken,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetSymAttribute(System.Diagnostics.SymbolStore.SymbolToken,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetSymAttribute(System.Diagnostics.SymbolStore.SymbolToken,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetSymAttribute(System.Diagnostics.SymbolStore.SymbolToken,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetSymAttribute(System.Diagnostics.SymbolStore.SymbolToken,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetSymAttribute(System.Diagnostics.SymbolStore.SymbolToken,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetSymAttribute(System.Diagnostics.SymbolStore.SymbolToken,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetSymAttribute(System.Diagnostics.SymbolStore.SymbolToken,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetSymAttribute(System.Diagnostics.SymbolStore.SymbolToken,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetSymAttribute(System.Diagnostics.SymbolStore.SymbolToken,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetSymAttribute(System.Diagnostics.SymbolStore.SymbolToken,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetSymAttribute(System.Diagnostics.SymbolStore.SymbolToken,System.String)</InterfaceMember>
         <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetSymAttribute(System.Diagnostics.SymbolStore.SymbolToken,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -553,6 +674,20 @@ Use the <xref:System.Diagnostics.SymbolStore.SymReader.Finalize> method to relea
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual cli::array &lt;System::Diagnostics::SymbolStore::ISymbolVariable ^&gt; ^ GetVariables(System::Diagnostics::SymbolStore::SymbolToken parent);" FrameworkAlternate="netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetVariables(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetVariables(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetVariables(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetVariables(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetVariables(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetVariables(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetVariables(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetVariables(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetVariables(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetVariables(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetVariables(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetVariables(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetVariables(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetVariables(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
         <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolReader.GetVariables(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -668,6 +803,20 @@ Use the <xref:System.Diagnostics.SymbolStore.SymReader.Finalize> method to relea
       <MemberSignature Language="VB.NET" Value="Public Overridable ReadOnly Property UserEntryPoint As SymbolToken" FrameworkAlternate="netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolReader.UserEntryPoint</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolReader.UserEntryPoint</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolReader.UserEntryPoint</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolReader.UserEntryPoint</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolReader.UserEntryPoint</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolReader.UserEntryPoint</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolReader.UserEntryPoint</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolReader.UserEntryPoint</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolReader.UserEntryPoint</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolReader.UserEntryPoint</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolReader.UserEntryPoint</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolReader.UserEntryPoint</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolReader.UserEntryPoint</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolReader.UserEntryPoint</InterfaceMember>
         <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolReader.UserEntryPoint</InterfaceMember>
       </Implements>
       <AssemblyInfo>

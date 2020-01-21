@@ -80,6 +80,18 @@ Console.WriteLine("The virtualPath of the hosted Service is  {0}", vpe.VirtualPa
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.IExtension`1.Attach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Attach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Attach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Attach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Attach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Attach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Attach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Attach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Attach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Attach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Attach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Attach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Attach(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -114,6 +126,18 @@ Console.WriteLine("The virtualPath of the hosted Service is  {0}", vpe.VirtualPa
       <MemberSignature Language="F#" Value="abstract member Detach : System.ServiceModel.ServiceHostBase -&gt; unit&#xA;override this.Detach : System.ServiceModel.ServiceHostBase -&gt; unit" Usage="virtualPathExtension.Detach owner" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Detach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Detach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Detach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Detach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Detach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Detach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Detach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Detach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Detach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Detach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Detach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Detach(`0)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.IExtension`1.Detach(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

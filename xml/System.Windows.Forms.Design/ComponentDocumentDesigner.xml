@@ -168,6 +168,23 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Drawing.Design.IToolboxUser.GetToolSupported(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.GetToolSupported(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.GetToolSupported(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.GetToolSupported(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.GetToolSupported(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.GetToolSupported(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.GetToolSupported(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.GetToolSupported(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.GetToolSupported(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.GetToolSupported(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.GetToolSupported(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.GetToolSupported(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.GetToolSupported(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.GetToolSupported(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.GetToolSupported(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.GetToolSupported(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.GetToolSupported(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.GetToolSupported(System.Drawing.Design.ToolboxItem)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -215,6 +232,23 @@
       <MemberSignature Language="F#" Value="override this.Initialize : System.ComponentModel.IComponent -&gt; unit" Usage="componentDocumentDesigner.Initialize component" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.Initialize(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.Initialize(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.Initialize(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.Initialize(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.Initialize(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.Initialize(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.Initialize(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.Initialize(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.Initialize(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.Initialize(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.Initialize(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.Initialize(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.Initialize(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.Initialize(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.Initialize(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.Initialize(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.Initialize(System.ComponentModel.IComponent)</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.Design.IDesigner.Initialize(System.ComponentModel.IComponent)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -290,6 +324,23 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ComponentModel.Design.IRootDesigner.GetView(System.ComponentModel.Design.ViewTechnology)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IRootDesigner.GetView(System.ComponentModel.Design.ViewTechnology)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IRootDesigner.GetView(System.ComponentModel.Design.ViewTechnology)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IRootDesigner.GetView(System.ComponentModel.Design.ViewTechnology)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IRootDesigner.GetView(System.ComponentModel.Design.ViewTechnology)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IRootDesigner.GetView(System.ComponentModel.Design.ViewTechnology)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IRootDesigner.GetView(System.ComponentModel.Design.ViewTechnology)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IRootDesigner.GetView(System.ComponentModel.Design.ViewTechnology)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IRootDesigner.GetView(System.ComponentModel.Design.ViewTechnology)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IRootDesigner.GetView(System.ComponentModel.Design.ViewTechnology)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IRootDesigner.GetView(System.ComponentModel.Design.ViewTechnology)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IRootDesigner.GetView(System.ComponentModel.Design.ViewTechnology)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IRootDesigner.GetView(System.ComponentModel.Design.ViewTechnology)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IRootDesigner.GetView(System.ComponentModel.Design.ViewTechnology)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IRootDesigner.GetView(System.ComponentModel.Design.ViewTechnology)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IRootDesigner.GetView(System.ComponentModel.Design.ViewTechnology)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IRootDesigner.GetView(System.ComponentModel.Design.ViewTechnology)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IRootDesigner.GetView(System.ComponentModel.Design.ViewTechnology)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -331,6 +382,22 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.ComponentModel.Design.IRootDesigner.SupportedTechnologies</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.Design.IRootDesigner.SupportedTechnologies</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.Design.IRootDesigner.SupportedTechnologies</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.Design.IRootDesigner.SupportedTechnologies</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.Design.IRootDesigner.SupportedTechnologies</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.Design.IRootDesigner.SupportedTechnologies</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.Design.IRootDesigner.SupportedTechnologies</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.Design.IRootDesigner.SupportedTechnologies</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.Design.IRootDesigner.SupportedTechnologies</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.Design.IRootDesigner.SupportedTechnologies</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.Design.IRootDesigner.SupportedTechnologies</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.Design.IRootDesigner.SupportedTechnologies</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.Design.IRootDesigner.SupportedTechnologies</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.Design.IRootDesigner.SupportedTechnologies</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.Design.IRootDesigner.SupportedTechnologies</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.Design.IRootDesigner.SupportedTechnologies</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.Design.IRootDesigner.SupportedTechnologies</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -365,6 +432,23 @@
       <MemberSignature Language="C++ CLI" Value=" virtual bool System.ComponentModel.Design.ITypeDescriptorFilterService.FilterAttributes(System::ComponentModel::IComponent ^ component, System::Collections::IDictionary ^ attributes) = System::ComponentModel::Design::ITypeDescriptorFilterService::FilterAttributes;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ComponentModel.Design.ITypeDescriptorFilterService.FilterAttributes(System.ComponentModel.IComponent,System.Collections.IDictionary)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.ITypeDescriptorFilterService.FilterAttributes(System.ComponentModel.IComponent,System.Collections.IDictionary)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.ITypeDescriptorFilterService.FilterAttributes(System.ComponentModel.IComponent,System.Collections.IDictionary)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.ITypeDescriptorFilterService.FilterAttributes(System.ComponentModel.IComponent,System.Collections.IDictionary)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.ITypeDescriptorFilterService.FilterAttributes(System.ComponentModel.IComponent,System.Collections.IDictionary)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.ITypeDescriptorFilterService.FilterAttributes(System.ComponentModel.IComponent,System.Collections.IDictionary)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.ITypeDescriptorFilterService.FilterAttributes(System.ComponentModel.IComponent,System.Collections.IDictionary)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.ITypeDescriptorFilterService.FilterAttributes(System.ComponentModel.IComponent,System.Collections.IDictionary)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.ITypeDescriptorFilterService.FilterAttributes(System.ComponentModel.IComponent,System.Collections.IDictionary)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.ITypeDescriptorFilterService.FilterAttributes(System.ComponentModel.IComponent,System.Collections.IDictionary)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.ITypeDescriptorFilterService.FilterAttributes(System.ComponentModel.IComponent,System.Collections.IDictionary)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.ITypeDescriptorFilterService.FilterAttributes(System.ComponentModel.IComponent,System.Collections.IDictionary)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.ITypeDescriptorFilterService.FilterAttributes(System.ComponentModel.IComponent,System.Collections.IDictionary)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.ITypeDescriptorFilterService.FilterAttributes(System.ComponentModel.IComponent,System.Collections.IDictionary)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.ITypeDescriptorFilterService.FilterAttributes(System.ComponentModel.IComponent,System.Collections.IDictionary)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.ITypeDescriptorFilterService.FilterAttributes(System.ComponentModel.IComponent,System.Collections.IDictionary)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.ITypeDescriptorFilterService.FilterAttributes(System.ComponentModel.IComponent,System.Collections.IDictionary)</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.Design.ITypeDescriptorFilterService.FilterAttributes(System.ComponentModel.IComponent,System.Collections.IDictionary)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -409,6 +493,23 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ComponentModel.Design.ITypeDescriptorFilterService.FilterEvents(System.ComponentModel.IComponent,System.Collections.IDictionary)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.ITypeDescriptorFilterService.FilterEvents(System.ComponentModel.IComponent,System.Collections.IDictionary)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.ITypeDescriptorFilterService.FilterEvents(System.ComponentModel.IComponent,System.Collections.IDictionary)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.ITypeDescriptorFilterService.FilterEvents(System.ComponentModel.IComponent,System.Collections.IDictionary)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.ITypeDescriptorFilterService.FilterEvents(System.ComponentModel.IComponent,System.Collections.IDictionary)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.ITypeDescriptorFilterService.FilterEvents(System.ComponentModel.IComponent,System.Collections.IDictionary)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.ITypeDescriptorFilterService.FilterEvents(System.ComponentModel.IComponent,System.Collections.IDictionary)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.ITypeDescriptorFilterService.FilterEvents(System.ComponentModel.IComponent,System.Collections.IDictionary)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.ITypeDescriptorFilterService.FilterEvents(System.ComponentModel.IComponent,System.Collections.IDictionary)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.ITypeDescriptorFilterService.FilterEvents(System.ComponentModel.IComponent,System.Collections.IDictionary)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.ITypeDescriptorFilterService.FilterEvents(System.ComponentModel.IComponent,System.Collections.IDictionary)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.ITypeDescriptorFilterService.FilterEvents(System.ComponentModel.IComponent,System.Collections.IDictionary)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.ITypeDescriptorFilterService.FilterEvents(System.ComponentModel.IComponent,System.Collections.IDictionary)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.ITypeDescriptorFilterService.FilterEvents(System.ComponentModel.IComponent,System.Collections.IDictionary)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.ITypeDescriptorFilterService.FilterEvents(System.ComponentModel.IComponent,System.Collections.IDictionary)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.ITypeDescriptorFilterService.FilterEvents(System.ComponentModel.IComponent,System.Collections.IDictionary)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.ITypeDescriptorFilterService.FilterEvents(System.ComponentModel.IComponent,System.Collections.IDictionary)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.ITypeDescriptorFilterService.FilterEvents(System.ComponentModel.IComponent,System.Collections.IDictionary)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -451,6 +552,23 @@
       <MemberSignature Language="C++ CLI" Value=" virtual bool System.ComponentModel.Design.ITypeDescriptorFilterService.FilterProperties(System::ComponentModel::IComponent ^ component, System::Collections::IDictionary ^ properties) = System::ComponentModel::Design::ITypeDescriptorFilterService::FilterProperties;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ComponentModel.Design.ITypeDescriptorFilterService.FilterProperties(System.ComponentModel.IComponent,System.Collections.IDictionary)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.ITypeDescriptorFilterService.FilterProperties(System.ComponentModel.IComponent,System.Collections.IDictionary)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.ITypeDescriptorFilterService.FilterProperties(System.ComponentModel.IComponent,System.Collections.IDictionary)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.ITypeDescriptorFilterService.FilterProperties(System.ComponentModel.IComponent,System.Collections.IDictionary)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.ITypeDescriptorFilterService.FilterProperties(System.ComponentModel.IComponent,System.Collections.IDictionary)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.ITypeDescriptorFilterService.FilterProperties(System.ComponentModel.IComponent,System.Collections.IDictionary)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.ITypeDescriptorFilterService.FilterProperties(System.ComponentModel.IComponent,System.Collections.IDictionary)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.ITypeDescriptorFilterService.FilterProperties(System.ComponentModel.IComponent,System.Collections.IDictionary)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.ITypeDescriptorFilterService.FilterProperties(System.ComponentModel.IComponent,System.Collections.IDictionary)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.ITypeDescriptorFilterService.FilterProperties(System.ComponentModel.IComponent,System.Collections.IDictionary)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.ITypeDescriptorFilterService.FilterProperties(System.ComponentModel.IComponent,System.Collections.IDictionary)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.ITypeDescriptorFilterService.FilterProperties(System.ComponentModel.IComponent,System.Collections.IDictionary)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.ITypeDescriptorFilterService.FilterProperties(System.ComponentModel.IComponent,System.Collections.IDictionary)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.ITypeDescriptorFilterService.FilterProperties(System.ComponentModel.IComponent,System.Collections.IDictionary)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.ITypeDescriptorFilterService.FilterProperties(System.ComponentModel.IComponent,System.Collections.IDictionary)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.ITypeDescriptorFilterService.FilterProperties(System.ComponentModel.IComponent,System.Collections.IDictionary)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.ITypeDescriptorFilterService.FilterProperties(System.ComponentModel.IComponent,System.Collections.IDictionary)</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.Design.ITypeDescriptorFilterService.FilterProperties(System.ComponentModel.IComponent,System.Collections.IDictionary)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -495,6 +613,23 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Drawing.Design.IToolboxUser.GetToolSupported(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.GetToolSupported(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.GetToolSupported(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.GetToolSupported(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.GetToolSupported(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.GetToolSupported(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.GetToolSupported(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.GetToolSupported(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.GetToolSupported(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.GetToolSupported(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.GetToolSupported(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.GetToolSupported(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.GetToolSupported(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.GetToolSupported(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.GetToolSupported(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.GetToolSupported(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.GetToolSupported(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.GetToolSupported(System.Drawing.Design.ToolboxItem)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -535,6 +670,23 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Drawing.Design.IToolboxUser.ToolPicked(System::Drawing::Design::ToolboxItem ^ tool) = System::Drawing::Design::IToolboxUser::ToolPicked;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.ToolPicked(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.ToolPicked(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.ToolPicked(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.ToolPicked(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.ToolPicked(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.ToolPicked(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.ToolPicked(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.ToolPicked(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.ToolPicked(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.ToolPicked(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.ToolPicked(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.ToolPicked(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.ToolPicked(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.ToolPicked(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.ToolPicked(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.ToolPicked(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.ToolPicked(System.Drawing.Design.ToolboxItem)</InterfaceMember>
         <InterfaceMember>M:System.Drawing.Design.IToolboxUser.ToolPicked(System.Drawing.Design.ToolboxItem)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

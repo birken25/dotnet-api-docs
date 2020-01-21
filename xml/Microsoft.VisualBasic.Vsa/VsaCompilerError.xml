@@ -38,6 +38,9 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Vsa.IVsaError.Description</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaError.Description</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaError.Description</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaError.Description</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic.Vsa</AssemblyName>
@@ -62,6 +65,9 @@
       <MemberSignature Language="F#" Value="member this.EndColumn : int" Usage="Microsoft.VisualBasic.Vsa.VsaCompilerError.EndColumn" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaError.EndColumn</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaError.EndColumn</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaError.EndColumn</InterfaceMember>
         <InterfaceMember>P:Microsoft.Vsa.IVsaError.EndColumn</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -88,6 +94,9 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Vsa.IVsaError.Line</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaError.Line</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaError.Line</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaError.Line</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic.Vsa</AssemblyName>
@@ -112,6 +121,9 @@
       <MemberSignature Language="F#" Value="member this.LineText : string" Usage="Microsoft.VisualBasic.Vsa.VsaCompilerError.LineText" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaError.LineText</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaError.LineText</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaError.LineText</InterfaceMember>
         <InterfaceMember>P:Microsoft.Vsa.IVsaError.LineText</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -138,6 +150,9 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Vsa.IVsaError.Number</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaError.Number</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaError.Number</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaError.Number</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic.Vsa</AssemblyName>
@@ -162,6 +177,9 @@
       <MemberSignature Language="F#" Value="member this.Severity : int" Usage="Microsoft.VisualBasic.Vsa.VsaCompilerError.Severity" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaError.Severity</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaError.Severity</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaError.Severity</InterfaceMember>
         <InterfaceMember>P:Microsoft.Vsa.IVsaError.Severity</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -188,6 +206,9 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Vsa.IVsaError.SourceItem</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaError.SourceItem</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaError.SourceItem</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaError.SourceItem</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic.Vsa</AssemblyName>
@@ -213,6 +234,9 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Vsa.IVsaError.SourceMoniker</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaError.SourceMoniker</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaError.SourceMoniker</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaError.SourceMoniker</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic.Vsa</AssemblyName>
@@ -237,6 +261,9 @@
       <MemberSignature Language="F#" Value="member this.StartColumn : int" Usage="Microsoft.VisualBasic.Vsa.VsaCompilerError.StartColumn" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaError.StartColumn</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaError.StartColumn</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaError.StartColumn</InterfaceMember>
         <InterfaceMember>P:Microsoft.Vsa.IVsaError.StartColumn</InterfaceMember>
       </Implements>
       <AssemblyInfo>

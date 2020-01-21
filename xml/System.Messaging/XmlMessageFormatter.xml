@@ -222,6 +222,21 @@ TargetTypes = new Type[]{typeof(MyClass)}
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Messaging.IMessageFormatter.CanRead(System.Messaging.Message)</InterfaceMember>
+        <InterfaceMember>M:System.Messaging.IMessageFormatter.CanRead(System.Messaging.Message)</InterfaceMember>
+        <InterfaceMember>M:System.Messaging.IMessageFormatter.CanRead(System.Messaging.Message)</InterfaceMember>
+        <InterfaceMember>M:System.Messaging.IMessageFormatter.CanRead(System.Messaging.Message)</InterfaceMember>
+        <InterfaceMember>M:System.Messaging.IMessageFormatter.CanRead(System.Messaging.Message)</InterfaceMember>
+        <InterfaceMember>M:System.Messaging.IMessageFormatter.CanRead(System.Messaging.Message)</InterfaceMember>
+        <InterfaceMember>M:System.Messaging.IMessageFormatter.CanRead(System.Messaging.Message)</InterfaceMember>
+        <InterfaceMember>M:System.Messaging.IMessageFormatter.CanRead(System.Messaging.Message)</InterfaceMember>
+        <InterfaceMember>M:System.Messaging.IMessageFormatter.CanRead(System.Messaging.Message)</InterfaceMember>
+        <InterfaceMember>M:System.Messaging.IMessageFormatter.CanRead(System.Messaging.Message)</InterfaceMember>
+        <InterfaceMember>M:System.Messaging.IMessageFormatter.CanRead(System.Messaging.Message)</InterfaceMember>
+        <InterfaceMember>M:System.Messaging.IMessageFormatter.CanRead(System.Messaging.Message)</InterfaceMember>
+        <InterfaceMember>M:System.Messaging.IMessageFormatter.CanRead(System.Messaging.Message)</InterfaceMember>
+        <InterfaceMember>M:System.Messaging.IMessageFormatter.CanRead(System.Messaging.Message)</InterfaceMember>
+        <InterfaceMember>M:System.Messaging.IMessageFormatter.CanRead(System.Messaging.Message)</InterfaceMember>
+        <InterfaceMember>M:System.Messaging.IMessageFormatter.CanRead(System.Messaging.Message)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Messaging</AssemblyName>
@@ -272,6 +287,21 @@ TargetTypes = new Type[]{typeof(MyClass)}
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Messaging</AssemblyName>
@@ -305,6 +335,21 @@ TargetTypes = new Type[]{typeof(MyClass)}
       <MemberSignature Language="F#" Value="abstract member Read : System.Messaging.Message -&gt; obj&#xA;override this.Read : System.Messaging.Message -&gt; obj" Usage="xmlMessageFormatter.Read message" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Messaging.IMessageFormatter.Read(System.Messaging.Message)</InterfaceMember>
+        <InterfaceMember>M:System.Messaging.IMessageFormatter.Read(System.Messaging.Message)</InterfaceMember>
+        <InterfaceMember>M:System.Messaging.IMessageFormatter.Read(System.Messaging.Message)</InterfaceMember>
+        <InterfaceMember>M:System.Messaging.IMessageFormatter.Read(System.Messaging.Message)</InterfaceMember>
+        <InterfaceMember>M:System.Messaging.IMessageFormatter.Read(System.Messaging.Message)</InterfaceMember>
+        <InterfaceMember>M:System.Messaging.IMessageFormatter.Read(System.Messaging.Message)</InterfaceMember>
+        <InterfaceMember>M:System.Messaging.IMessageFormatter.Read(System.Messaging.Message)</InterfaceMember>
+        <InterfaceMember>M:System.Messaging.IMessageFormatter.Read(System.Messaging.Message)</InterfaceMember>
+        <InterfaceMember>M:System.Messaging.IMessageFormatter.Read(System.Messaging.Message)</InterfaceMember>
+        <InterfaceMember>M:System.Messaging.IMessageFormatter.Read(System.Messaging.Message)</InterfaceMember>
+        <InterfaceMember>M:System.Messaging.IMessageFormatter.Read(System.Messaging.Message)</InterfaceMember>
+        <InterfaceMember>M:System.Messaging.IMessageFormatter.Read(System.Messaging.Message)</InterfaceMember>
+        <InterfaceMember>M:System.Messaging.IMessageFormatter.Read(System.Messaging.Message)</InterfaceMember>
+        <InterfaceMember>M:System.Messaging.IMessageFormatter.Read(System.Messaging.Message)</InterfaceMember>
+        <InterfaceMember>M:System.Messaging.IMessageFormatter.Read(System.Messaging.Message)</InterfaceMember>
         <InterfaceMember>M:System.Messaging.IMessageFormatter.Read(System.Messaging.Message)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -467,6 +512,21 @@ TargetTypes = new Type[]{typeof(MyClass)}
       <MemberSignature Language="F#" Value="abstract member Write : System.Messaging.Message * obj -&gt; unit&#xA;override this.Write : System.Messaging.Message * obj -&gt; unit" Usage="xmlMessageFormatter.Write (message, obj)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Messaging.IMessageFormatter.Write(System.Messaging.Message,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Messaging.IMessageFormatter.Write(System.Messaging.Message,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Messaging.IMessageFormatter.Write(System.Messaging.Message,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Messaging.IMessageFormatter.Write(System.Messaging.Message,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Messaging.IMessageFormatter.Write(System.Messaging.Message,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Messaging.IMessageFormatter.Write(System.Messaging.Message,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Messaging.IMessageFormatter.Write(System.Messaging.Message,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Messaging.IMessageFormatter.Write(System.Messaging.Message,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Messaging.IMessageFormatter.Write(System.Messaging.Message,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Messaging.IMessageFormatter.Write(System.Messaging.Message,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Messaging.IMessageFormatter.Write(System.Messaging.Message,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Messaging.IMessageFormatter.Write(System.Messaging.Message,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Messaging.IMessageFormatter.Write(System.Messaging.Message,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Messaging.IMessageFormatter.Write(System.Messaging.Message,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Messaging.IMessageFormatter.Write(System.Messaging.Message,System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Messaging.IMessageFormatter.Write(System.Messaging.Message,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

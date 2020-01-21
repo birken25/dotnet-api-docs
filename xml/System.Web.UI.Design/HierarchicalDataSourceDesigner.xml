@@ -97,6 +97,19 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.UI.Design.IHierarchicalDataSourceDesigner.CanConfigure</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IHierarchicalDataSourceDesigner.CanConfigure</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IHierarchicalDataSourceDesigner.CanConfigure</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IHierarchicalDataSourceDesigner.CanConfigure</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IHierarchicalDataSourceDesigner.CanConfigure</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IHierarchicalDataSourceDesigner.CanConfigure</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IHierarchicalDataSourceDesigner.CanConfigure</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IHierarchicalDataSourceDesigner.CanConfigure</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IHierarchicalDataSourceDesigner.CanConfigure</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IHierarchicalDataSourceDesigner.CanConfigure</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IHierarchicalDataSourceDesigner.CanConfigure</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IHierarchicalDataSourceDesigner.CanConfigure</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IHierarchicalDataSourceDesigner.CanConfigure</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IHierarchicalDataSourceDesigner.CanConfigure</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -132,6 +145,19 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.UI.Design.IHierarchicalDataSourceDesigner.CanRefreshSchema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IHierarchicalDataSourceDesigner.CanRefreshSchema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IHierarchicalDataSourceDesigner.CanRefreshSchema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IHierarchicalDataSourceDesigner.CanRefreshSchema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IHierarchicalDataSourceDesigner.CanRefreshSchema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IHierarchicalDataSourceDesigner.CanRefreshSchema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IHierarchicalDataSourceDesigner.CanRefreshSchema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IHierarchicalDataSourceDesigner.CanRefreshSchema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IHierarchicalDataSourceDesigner.CanRefreshSchema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IHierarchicalDataSourceDesigner.CanRefreshSchema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IHierarchicalDataSourceDesigner.CanRefreshSchema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IHierarchicalDataSourceDesigner.CanRefreshSchema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IHierarchicalDataSourceDesigner.CanRefreshSchema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IHierarchicalDataSourceDesigner.CanRefreshSchema</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -166,6 +192,19 @@
       <MemberSignature Language="F#" Value="abstract member Configure : unit -&gt; unit&#xA;override this.Configure : unit -&gt; unit" Usage="hierarchicalDataSourceDesigner.Configure " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.Configure</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.Configure</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.Configure</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.Configure</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.Configure</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.Configure</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.Configure</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.Configure</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.Configure</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.Configure</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.Configure</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.Configure</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.Configure</InterfaceMember>
         <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.Configure</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -203,6 +242,19 @@
       <MemberSignature Language="F#" Value="member this.DataSourceChanged : EventHandler " Usage="member this.DataSourceChanged : System.EventHandler " />
       <MemberType>Event</MemberType>
       <Implements>
+        <InterfaceMember>E:System.Web.UI.Design.IHierarchicalDataSourceDesigner.DataSourceChanged</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.Design.IHierarchicalDataSourceDesigner.DataSourceChanged</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.Design.IHierarchicalDataSourceDesigner.DataSourceChanged</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.Design.IHierarchicalDataSourceDesigner.DataSourceChanged</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.Design.IHierarchicalDataSourceDesigner.DataSourceChanged</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.Design.IHierarchicalDataSourceDesigner.DataSourceChanged</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.Design.IHierarchicalDataSourceDesigner.DataSourceChanged</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.Design.IHierarchicalDataSourceDesigner.DataSourceChanged</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.Design.IHierarchicalDataSourceDesigner.DataSourceChanged</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.Design.IHierarchicalDataSourceDesigner.DataSourceChanged</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.Design.IHierarchicalDataSourceDesigner.DataSourceChanged</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.Design.IHierarchicalDataSourceDesigner.DataSourceChanged</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.Design.IHierarchicalDataSourceDesigner.DataSourceChanged</InterfaceMember>
         <InterfaceMember>E:System.Web.UI.Design.IHierarchicalDataSourceDesigner.DataSourceChanged</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -266,6 +318,19 @@
       <MemberSignature Language="F#" Value="abstract member GetView : string -&gt; System.Web.UI.Design.DesignerHierarchicalDataSourceView&#xA;override this.GetView : string -&gt; System.Web.UI.Design.DesignerHierarchicalDataSourceView" Usage="hierarchicalDataSourceDesigner.GetView viewPath" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.GetView(System.String)</InterfaceMember>
         <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.GetView(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -373,6 +438,19 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.RefreshSchema(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.RefreshSchema(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.RefreshSchema(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.RefreshSchema(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.RefreshSchema(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.RefreshSchema(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.RefreshSchema(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.RefreshSchema(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.RefreshSchema(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.RefreshSchema(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.RefreshSchema(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.RefreshSchema(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.RefreshSchema(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.RefreshSchema(System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -413,6 +491,19 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.ResumeDataSourceEvents</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.ResumeDataSourceEvents</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.ResumeDataSourceEvents</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.ResumeDataSourceEvents</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.ResumeDataSourceEvents</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.ResumeDataSourceEvents</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.ResumeDataSourceEvents</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.ResumeDataSourceEvents</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.ResumeDataSourceEvents</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.ResumeDataSourceEvents</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.ResumeDataSourceEvents</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.ResumeDataSourceEvents</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.ResumeDataSourceEvents</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.ResumeDataSourceEvents</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -449,6 +540,19 @@
       <MemberType>Event</MemberType>
       <Implements>
         <InterfaceMember>E:System.Web.UI.Design.IHierarchicalDataSourceDesigner.SchemaRefreshed</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.Design.IHierarchicalDataSourceDesigner.SchemaRefreshed</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.Design.IHierarchicalDataSourceDesigner.SchemaRefreshed</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.Design.IHierarchicalDataSourceDesigner.SchemaRefreshed</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.Design.IHierarchicalDataSourceDesigner.SchemaRefreshed</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.Design.IHierarchicalDataSourceDesigner.SchemaRefreshed</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.Design.IHierarchicalDataSourceDesigner.SchemaRefreshed</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.Design.IHierarchicalDataSourceDesigner.SchemaRefreshed</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.Design.IHierarchicalDataSourceDesigner.SchemaRefreshed</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.Design.IHierarchicalDataSourceDesigner.SchemaRefreshed</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.Design.IHierarchicalDataSourceDesigner.SchemaRefreshed</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.Design.IHierarchicalDataSourceDesigner.SchemaRefreshed</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.Design.IHierarchicalDataSourceDesigner.SchemaRefreshed</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.Design.IHierarchicalDataSourceDesigner.SchemaRefreshed</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -484,6 +588,19 @@
       <MemberSignature Language="F#" Value="abstract member SuppressDataSourceEvents : unit -&gt; unit&#xA;override this.SuppressDataSourceEvents : unit -&gt; unit" Usage="hierarchicalDataSourceDesigner.SuppressDataSourceEvents " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.SuppressDataSourceEvents</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.SuppressDataSourceEvents</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.SuppressDataSourceEvents</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.SuppressDataSourceEvents</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.SuppressDataSourceEvents</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.SuppressDataSourceEvents</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.SuppressDataSourceEvents</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.SuppressDataSourceEvents</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.SuppressDataSourceEvents</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.SuppressDataSourceEvents</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.SuppressDataSourceEvents</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.SuppressDataSourceEvents</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.SuppressDataSourceEvents</InterfaceMember>
         <InterfaceMember>M:System.Web.UI.Design.IHierarchicalDataSourceDesigner.SuppressDataSourceEvents</InterfaceMember>
       </Implements>
       <AssemblyInfo>

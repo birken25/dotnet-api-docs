@@ -438,6 +438,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Activities.IExecutionProperty.CleanupWorkflowThread</InterfaceMember>
+        <InterfaceMember>M:System.Activities.IExecutionProperty.CleanupWorkflowThread</InterfaceMember>
+        <InterfaceMember>M:System.Activities.IExecutionProperty.CleanupWorkflowThread</InterfaceMember>
+        <InterfaceMember>M:System.Activities.IExecutionProperty.CleanupWorkflowThread</InterfaceMember>
+        <InterfaceMember>M:System.Activities.IExecutionProperty.CleanupWorkflowThread</InterfaceMember>
+        <InterfaceMember>M:System.Activities.IExecutionProperty.CleanupWorkflowThread</InterfaceMember>
+        <InterfaceMember>M:System.Activities.IExecutionProperty.CleanupWorkflowThread</InterfaceMember>
+        <InterfaceMember>M:System.Activities.IExecutionProperty.CleanupWorkflowThread</InterfaceMember>
+        <InterfaceMember>M:System.Activities.IExecutionProperty.CleanupWorkflowThread</InterfaceMember>
+        <InterfaceMember>M:System.Activities.IExecutionProperty.CleanupWorkflowThread</InterfaceMember>
+        <InterfaceMember>M:System.Activities.IExecutionProperty.CleanupWorkflowThread</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Activities</AssemblyName>
@@ -461,6 +471,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Activities.IExecutionProperty.SetupWorkflowThread</InterfaceMember>
+        <InterfaceMember>M:System.Activities.IExecutionProperty.SetupWorkflowThread</InterfaceMember>
+        <InterfaceMember>M:System.Activities.IExecutionProperty.SetupWorkflowThread</InterfaceMember>
+        <InterfaceMember>M:System.Activities.IExecutionProperty.SetupWorkflowThread</InterfaceMember>
+        <InterfaceMember>M:System.Activities.IExecutionProperty.SetupWorkflowThread</InterfaceMember>
+        <InterfaceMember>M:System.Activities.IExecutionProperty.SetupWorkflowThread</InterfaceMember>
+        <InterfaceMember>M:System.Activities.IExecutionProperty.SetupWorkflowThread</InterfaceMember>
+        <InterfaceMember>M:System.Activities.IExecutionProperty.SetupWorkflowThread</InterfaceMember>
+        <InterfaceMember>M:System.Activities.IExecutionProperty.SetupWorkflowThread</InterfaceMember>
+        <InterfaceMember>M:System.Activities.IExecutionProperty.SetupWorkflowThread</InterfaceMember>
+        <InterfaceMember>M:System.Activities.IExecutionProperty.SetupWorkflowThread</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Activities</AssemblyName>
@@ -483,6 +503,16 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Activities.IPropertyRegistrationCallback.Register(System::Activities::RegistrationContext ^ context) = System::Activities::IPropertyRegistrationCallback::Register;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Activities.IPropertyRegistrationCallback.Register(System.Activities.RegistrationContext)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.IPropertyRegistrationCallback.Register(System.Activities.RegistrationContext)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.IPropertyRegistrationCallback.Register(System.Activities.RegistrationContext)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.IPropertyRegistrationCallback.Register(System.Activities.RegistrationContext)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.IPropertyRegistrationCallback.Register(System.Activities.RegistrationContext)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.IPropertyRegistrationCallback.Register(System.Activities.RegistrationContext)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.IPropertyRegistrationCallback.Register(System.Activities.RegistrationContext)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.IPropertyRegistrationCallback.Register(System.Activities.RegistrationContext)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.IPropertyRegistrationCallback.Register(System.Activities.RegistrationContext)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.IPropertyRegistrationCallback.Register(System.Activities.RegistrationContext)</InterfaceMember>
         <InterfaceMember>M:System.Activities.IPropertyRegistrationCallback.Register(System.Activities.RegistrationContext)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -509,6 +539,16 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Activities.IPropertyRegistrationCallback.Unregister(System::Activities::RegistrationContext ^ context) = System::Activities::IPropertyRegistrationCallback::Unregister;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Activities.IPropertyRegistrationCallback.Unregister(System.Activities.RegistrationContext)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.IPropertyRegistrationCallback.Unregister(System.Activities.RegistrationContext)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.IPropertyRegistrationCallback.Unregister(System.Activities.RegistrationContext)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.IPropertyRegistrationCallback.Unregister(System.Activities.RegistrationContext)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.IPropertyRegistrationCallback.Unregister(System.Activities.RegistrationContext)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.IPropertyRegistrationCallback.Unregister(System.Activities.RegistrationContext)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.IPropertyRegistrationCallback.Unregister(System.Activities.RegistrationContext)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.IPropertyRegistrationCallback.Unregister(System.Activities.RegistrationContext)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.IPropertyRegistrationCallback.Unregister(System.Activities.RegistrationContext)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.IPropertyRegistrationCallback.Unregister(System.Activities.RegistrationContext)</InterfaceMember>
         <InterfaceMember>M:System.Activities.IPropertyRegistrationCallback.Unregister(System.Activities.RegistrationContext)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

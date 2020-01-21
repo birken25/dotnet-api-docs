@@ -433,6 +433,18 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IO.Log.IRecordSequence.AdvanceBaseSequenceNumber(System.IO.Log.SequenceNumber)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.AdvanceBaseSequenceNumber(System.IO.Log.SequenceNumber)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.AdvanceBaseSequenceNumber(System.IO.Log.SequenceNumber)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.AdvanceBaseSequenceNumber(System.IO.Log.SequenceNumber)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.AdvanceBaseSequenceNumber(System.IO.Log.SequenceNumber)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.AdvanceBaseSequenceNumber(System.IO.Log.SequenceNumber)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.AdvanceBaseSequenceNumber(System.IO.Log.SequenceNumber)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.AdvanceBaseSequenceNumber(System.IO.Log.SequenceNumber)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.AdvanceBaseSequenceNumber(System.IO.Log.SequenceNumber)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.AdvanceBaseSequenceNumber(System.IO.Log.SequenceNumber)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.AdvanceBaseSequenceNumber(System.IO.Log.SequenceNumber)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.AdvanceBaseSequenceNumber(System.IO.Log.SequenceNumber)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.AdvanceBaseSequenceNumber(System.IO.Log.SequenceNumber)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.IO.Log</AssemblyName>
@@ -531,6 +543,18 @@ void HandleTailPinned(object sender, TailPinnedEventArgs tailPinnedEventArgs)
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IO.Log.IRecordSequence.Append(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Append(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Append(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Append(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Append(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Append(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Append(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Append(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Append(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Append(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Append(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Append(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Append(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.IO.Log</AssemblyName>
@@ -605,6 +629,18 @@ void HandleTailPinned(object sender, TailPinnedEventArgs tailPinnedEventArgs)
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IO.Log.IRecordSequence.Append(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Append(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Append(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Append(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Append(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Append(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Append(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Append(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Append(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Append(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Append(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Append(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Append(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.IO.Log</AssemblyName>
@@ -670,6 +706,18 @@ void HandleTailPinned(object sender, TailPinnedEventArgs tailPinnedEventArgs)
       <MemberSignature Language="F#" Value="abstract member Append : ArraySegment&lt;byte&gt; * System.IO.Log.SequenceNumber * System.IO.Log.SequenceNumber * System.IO.Log.RecordAppendOptions * System.IO.Log.ReservationCollection -&gt; System.IO.Log.SequenceNumber&#xA;override this.Append : ArraySegment&lt;byte&gt; * System.IO.Log.SequenceNumber * System.IO.Log.SequenceNumber * System.IO.Log.RecordAppendOptions * System.IO.Log.ReservationCollection -&gt; System.IO.Log.SequenceNumber" Usage="logRecordSequence.Append (data, nextUndoRecord, previousRecord, recordAppendOptions, reservations)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Append(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Append(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Append(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Append(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Append(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Append(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Append(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Append(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Append(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Append(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Append(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Append(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection)</InterfaceMember>
         <InterfaceMember>M:System.IO.Log.IRecordSequence.Append(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -741,6 +789,18 @@ void HandleTailPinned(object sender, TailPinnedEventArgs tailPinnedEventArgs)
       <MemberSignature Language="F#" Value="abstract member Append : System.Collections.Generic.IList&lt;ArraySegment&lt;byte&gt;&gt; * System.IO.Log.SequenceNumber * System.IO.Log.SequenceNumber * System.IO.Log.RecordAppendOptions * System.IO.Log.ReservationCollection -&gt; System.IO.Log.SequenceNumber&#xA;override this.Append : System.Collections.Generic.IList&lt;ArraySegment&lt;byte&gt;&gt; * System.IO.Log.SequenceNumber * System.IO.Log.SequenceNumber * System.IO.Log.RecordAppendOptions * System.IO.Log.ReservationCollection -&gt; System.IO.Log.SequenceNumber" Usage="logRecordSequence.Append (data, userRecord, previousRecord, recordAppendOptions, reservations)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Append(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Append(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Append(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Append(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Append(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Append(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Append(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Append(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Append(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Append(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Append(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Append(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection)</InterfaceMember>
         <InterfaceMember>M:System.IO.Log.IRecordSequence.Append(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -814,6 +874,18 @@ void HandleTailPinned(object sender, TailPinnedEventArgs tailPinnedEventArgs)
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.IO.Log.IRecordSequence.BaseSequenceNumber</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.BaseSequenceNumber</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.BaseSequenceNumber</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.BaseSequenceNumber</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.BaseSequenceNumber</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.BaseSequenceNumber</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.BaseSequenceNumber</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.BaseSequenceNumber</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.BaseSequenceNumber</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.BaseSequenceNumber</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.BaseSequenceNumber</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.BaseSequenceNumber</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.BaseSequenceNumber</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.IO.Log</AssemblyName>
@@ -864,6 +936,18 @@ void HandleTailPinned(object sender, TailPinnedEventArgs tailPinnedEventArgs)
       <MemberSignature Language="F#" Value="abstract member BeginAppend : ArraySegment&lt;byte&gt; * System.IO.Log.SequenceNumber * System.IO.Log.SequenceNumber * System.IO.Log.RecordAppendOptions * AsyncCallback * obj -&gt; IAsyncResult&#xA;override this.BeginAppend : ArraySegment&lt;byte&gt; * System.IO.Log.SequenceNumber * System.IO.Log.SequenceNumber * System.IO.Log.RecordAppendOptions * AsyncCallback * obj -&gt; IAsyncResult" Usage="logRecordSequence.BeginAppend (data, nextUndoRecord, previousRecord, recordAppendOptions, callback, state)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginAppend(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginAppend(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginAppend(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginAppend(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginAppend(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginAppend(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginAppend(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginAppend(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginAppend(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginAppend(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginAppend(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginAppend(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.AsyncCallback,System.Object)</InterfaceMember>
         <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginAppend(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.AsyncCallback,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -937,6 +1021,18 @@ void HandleTailPinned(object sender, TailPinnedEventArgs tailPinnedEventArgs)
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginAppend(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginAppend(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginAppend(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginAppend(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginAppend(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginAppend(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginAppend(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginAppend(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginAppend(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginAppend(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginAppend(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginAppend(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginAppend(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.AsyncCallback,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.IO.Log</AssemblyName>
@@ -1008,6 +1104,18 @@ void HandleTailPinned(object sender, TailPinnedEventArgs tailPinnedEventArgs)
       <MemberSignature Language="F#" Value="abstract member BeginAppend : ArraySegment&lt;byte&gt; * System.IO.Log.SequenceNumber * System.IO.Log.SequenceNumber * System.IO.Log.RecordAppendOptions * System.IO.Log.ReservationCollection * AsyncCallback * obj -&gt; IAsyncResult&#xA;override this.BeginAppend : ArraySegment&lt;byte&gt; * System.IO.Log.SequenceNumber * System.IO.Log.SequenceNumber * System.IO.Log.RecordAppendOptions * System.IO.Log.ReservationCollection * AsyncCallback * obj -&gt; IAsyncResult" Usage="logRecordSequence.BeginAppend (data, nextUndoRecord, previousRecord, recordAppendOptions, reservations, callback, state)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginAppend(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginAppend(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginAppend(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginAppend(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginAppend(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginAppend(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginAppend(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginAppend(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginAppend(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginAppend(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginAppend(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginAppend(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.AsyncCallback,System.Object)</InterfaceMember>
         <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginAppend(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.AsyncCallback,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1086,6 +1194,18 @@ void HandleTailPinned(object sender, TailPinnedEventArgs tailPinnedEventArgs)
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginAppend(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginAppend(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginAppend(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginAppend(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginAppend(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginAppend(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginAppend(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginAppend(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginAppend(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginAppend(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginAppend(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginAppend(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginAppend(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.AsyncCallback,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.IO.Log</AssemblyName>
@@ -1163,6 +1283,18 @@ void HandleTailPinned(object sender, TailPinnedEventArgs tailPinnedEventArgs)
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginFlush(System.IO.Log.SequenceNumber,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginFlush(System.IO.Log.SequenceNumber,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginFlush(System.IO.Log.SequenceNumber,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginFlush(System.IO.Log.SequenceNumber,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginFlush(System.IO.Log.SequenceNumber,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginFlush(System.IO.Log.SequenceNumber,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginFlush(System.IO.Log.SequenceNumber,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginFlush(System.IO.Log.SequenceNumber,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginFlush(System.IO.Log.SequenceNumber,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginFlush(System.IO.Log.SequenceNumber,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginFlush(System.IO.Log.SequenceNumber,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginFlush(System.IO.Log.SequenceNumber,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginFlush(System.IO.Log.SequenceNumber,System.AsyncCallback,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.IO.Log</AssemblyName>
@@ -1225,6 +1357,18 @@ void HandleTailPinned(object sender, TailPinnedEventArgs tailPinnedEventArgs)
       <MemberSignature Language="F#" Value="abstract member BeginReserveAndAppend : ArraySegment&lt;byte&gt; * System.IO.Log.SequenceNumber * System.IO.Log.SequenceNumber * System.IO.Log.RecordAppendOptions * System.IO.Log.ReservationCollection * int64[] * AsyncCallback * obj -&gt; IAsyncResult&#xA;override this.BeginReserveAndAppend : ArraySegment&lt;byte&gt; * System.IO.Log.SequenceNumber * System.IO.Log.SequenceNumber * System.IO.Log.RecordAppendOptions * System.IO.Log.ReservationCollection * int64[] * AsyncCallback * obj -&gt; IAsyncResult" Usage="logRecordSequence.BeginReserveAndAppend (data, nextUndoRecord, previousRecord, recordAppendOptions, reservationCollection, reservations, callback, state)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginReserveAndAppend(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.Int64[],System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginReserveAndAppend(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.Int64[],System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginReserveAndAppend(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.Int64[],System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginReserveAndAppend(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.Int64[],System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginReserveAndAppend(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.Int64[],System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginReserveAndAppend(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.Int64[],System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginReserveAndAppend(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.Int64[],System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginReserveAndAppend(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.Int64[],System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginReserveAndAppend(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.Int64[],System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginReserveAndAppend(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.Int64[],System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginReserveAndAppend(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.Int64[],System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginReserveAndAppend(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.Int64[],System.AsyncCallback,System.Object)</InterfaceMember>
         <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginReserveAndAppend(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.Int64[],System.AsyncCallback,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1307,6 +1451,18 @@ void HandleTailPinned(object sender, TailPinnedEventArgs tailPinnedEventArgs)
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginReserveAndAppend(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.Int64[],System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginReserveAndAppend(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.Int64[],System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginReserveAndAppend(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.Int64[],System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginReserveAndAppend(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.Int64[],System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginReserveAndAppend(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.Int64[],System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginReserveAndAppend(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.Int64[],System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginReserveAndAppend(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.Int64[],System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginReserveAndAppend(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.Int64[],System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginReserveAndAppend(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.Int64[],System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginReserveAndAppend(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.Int64[],System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginReserveAndAppend(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.Int64[],System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginReserveAndAppend(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.Int64[],System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginReserveAndAppend(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.Int64[],System.AsyncCallback,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.IO.Log</AssemblyName>
@@ -1377,6 +1533,18 @@ void HandleTailPinned(object sender, TailPinnedEventArgs tailPinnedEventArgs)
       <MemberSignature Language="F#" Value="abstract member BeginWriteRestartArea : ArraySegment&lt;byte&gt; * System.IO.Log.SequenceNumber * System.IO.Log.ReservationCollection * AsyncCallback * obj -&gt; IAsyncResult&#xA;override this.BeginWriteRestartArea : ArraySegment&lt;byte&gt; * System.IO.Log.SequenceNumber * System.IO.Log.ReservationCollection * AsyncCallback * obj -&gt; IAsyncResult" Usage="logRecordSequence.BeginWriteRestartArea (data, newBaseSeqNum, reservation, callback, state)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginWriteRestartArea(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.ReservationCollection,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginWriteRestartArea(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.ReservationCollection,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginWriteRestartArea(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.ReservationCollection,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginWriteRestartArea(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.ReservationCollection,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginWriteRestartArea(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.ReservationCollection,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginWriteRestartArea(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.ReservationCollection,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginWriteRestartArea(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.ReservationCollection,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginWriteRestartArea(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.ReservationCollection,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginWriteRestartArea(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.ReservationCollection,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginWriteRestartArea(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.ReservationCollection,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginWriteRestartArea(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.ReservationCollection,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginWriteRestartArea(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.ReservationCollection,System.AsyncCallback,System.Object)</InterfaceMember>
         <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginWriteRestartArea(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.ReservationCollection,System.AsyncCallback,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1457,6 +1625,18 @@ void HandleTailPinned(object sender, TailPinnedEventArgs tailPinnedEventArgs)
       <MemberSignature Language="F#" Value="abstract member BeginWriteRestartArea : System.Collections.Generic.IList&lt;ArraySegment&lt;byte&gt;&gt; * System.IO.Log.SequenceNumber * System.IO.Log.ReservationCollection * AsyncCallback * obj -&gt; IAsyncResult&#xA;override this.BeginWriteRestartArea : System.Collections.Generic.IList&lt;ArraySegment&lt;byte&gt;&gt; * System.IO.Log.SequenceNumber * System.IO.Log.ReservationCollection * AsyncCallback * obj -&gt; IAsyncResult" Usage="logRecordSequence.BeginWriteRestartArea (data, newBaseSeqNum, reservationCollection, callback, state)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginWriteRestartArea(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.ReservationCollection,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginWriteRestartArea(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.ReservationCollection,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginWriteRestartArea(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.ReservationCollection,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginWriteRestartArea(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.ReservationCollection,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginWriteRestartArea(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.ReservationCollection,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginWriteRestartArea(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.ReservationCollection,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginWriteRestartArea(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.ReservationCollection,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginWriteRestartArea(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.ReservationCollection,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginWriteRestartArea(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.ReservationCollection,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginWriteRestartArea(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.ReservationCollection,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginWriteRestartArea(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.ReservationCollection,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginWriteRestartArea(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.ReservationCollection,System.AsyncCallback,System.Object)</InterfaceMember>
         <InterfaceMember>M:System.IO.Log.IRecordSequence.BeginWriteRestartArea(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.ReservationCollection,System.AsyncCallback,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1539,6 +1719,18 @@ void HandleTailPinned(object sender, TailPinnedEventArgs tailPinnedEventArgs)
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IO.Log.IRecordSequence.CreateReservationCollection</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.CreateReservationCollection</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.CreateReservationCollection</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.CreateReservationCollection</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.CreateReservationCollection</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.CreateReservationCollection</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.CreateReservationCollection</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.CreateReservationCollection</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.CreateReservationCollection</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.CreateReservationCollection</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.CreateReservationCollection</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.CreateReservationCollection</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.CreateReservationCollection</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.IO.Log</AssemblyName>
@@ -1605,6 +1797,18 @@ recordSequence.Append(undoRecordData, userSqn, previousSqn, RecordAppendOptions.
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.IO.Log</AssemblyName>
@@ -1644,6 +1848,18 @@ recordSequence.Append(undoRecordData, userSqn, previousSqn, RecordAppendOptions.
       <MemberSignature Language="F#" Value="abstract member EndAppend : IAsyncResult -&gt; System.IO.Log.SequenceNumber&#xA;override this.EndAppend : IAsyncResult -&gt; System.IO.Log.SequenceNumber" Usage="logRecordSequence.EndAppend result" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.EndAppend(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.EndAppend(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.EndAppend(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.EndAppend(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.EndAppend(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.EndAppend(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.EndAppend(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.EndAppend(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.EndAppend(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.EndAppend(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.EndAppend(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.EndAppend(System.IAsyncResult)</InterfaceMember>
         <InterfaceMember>M:System.IO.Log.IRecordSequence.EndAppend(System.IAsyncResult)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1697,6 +1913,18 @@ recordSequence.Append(undoRecordData, userSqn, previousSqn, RecordAppendOptions.
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IO.Log.IRecordSequence.EndFlush(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.EndFlush(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.EndFlush(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.EndFlush(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.EndFlush(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.EndFlush(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.EndFlush(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.EndFlush(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.EndFlush(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.EndFlush(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.EndFlush(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.EndFlush(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.EndFlush(System.IAsyncResult)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.IO.Log</AssemblyName>
@@ -1744,6 +1972,18 @@ recordSequence.Append(undoRecordData, userSqn, previousSqn, RecordAppendOptions.
       <MemberSignature Language="F#" Value="abstract member EndReserveAndAppend : IAsyncResult -&gt; System.IO.Log.SequenceNumber&#xA;override this.EndReserveAndAppend : IAsyncResult -&gt; System.IO.Log.SequenceNumber" Usage="logRecordSequence.EndReserveAndAppend result" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.EndReserveAndAppend(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.EndReserveAndAppend(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.EndReserveAndAppend(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.EndReserveAndAppend(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.EndReserveAndAppend(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.EndReserveAndAppend(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.EndReserveAndAppend(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.EndReserveAndAppend(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.EndReserveAndAppend(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.EndReserveAndAppend(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.EndReserveAndAppend(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.EndReserveAndAppend(System.IAsyncResult)</InterfaceMember>
         <InterfaceMember>M:System.IO.Log.IRecordSequence.EndReserveAndAppend(System.IAsyncResult)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1796,6 +2036,18 @@ recordSequence.Append(undoRecordData, userSqn, previousSqn, RecordAppendOptions.
       <MemberSignature Language="F#" Value="abstract member EndWriteRestartArea : IAsyncResult -&gt; System.IO.Log.SequenceNumber&#xA;override this.EndWriteRestartArea : IAsyncResult -&gt; System.IO.Log.SequenceNumber" Usage="logRecordSequence.EndWriteRestartArea result" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.EndWriteRestartArea(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.EndWriteRestartArea(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.EndWriteRestartArea(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.EndWriteRestartArea(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.EndWriteRestartArea(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.EndWriteRestartArea(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.EndWriteRestartArea(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.EndWriteRestartArea(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.EndWriteRestartArea(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.EndWriteRestartArea(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.EndWriteRestartArea(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.EndWriteRestartArea(System.IAsyncResult)</InterfaceMember>
         <InterfaceMember>M:System.IO.Log.IRecordSequence.EndWriteRestartArea(System.IAsyncResult)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1854,6 +2106,18 @@ recordSequence.Append(undoRecordData, userSqn, previousSqn, RecordAppendOptions.
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IO.Log.IRecordSequence.Flush</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Flush</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Flush</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Flush</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Flush</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Flush</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Flush</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Flush</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Flush</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Flush</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Flush</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Flush</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Flush</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.IO.Log</AssemblyName>
@@ -1892,6 +2156,18 @@ recordSequence.Append(undoRecordData, userSqn, previousSqn, RecordAppendOptions.
       <MemberSignature Language="F#" Value="abstract member Flush : System.IO.Log.SequenceNumber -&gt; System.IO.Log.SequenceNumber&#xA;override this.Flush : System.IO.Log.SequenceNumber -&gt; System.IO.Log.SequenceNumber" Usage="logRecordSequence.Flush sequenceNumber" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Flush(System.IO.Log.SequenceNumber)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Flush(System.IO.Log.SequenceNumber)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Flush(System.IO.Log.SequenceNumber)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Flush(System.IO.Log.SequenceNumber)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Flush(System.IO.Log.SequenceNumber)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Flush(System.IO.Log.SequenceNumber)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Flush(System.IO.Log.SequenceNumber)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Flush(System.IO.Log.SequenceNumber)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Flush(System.IO.Log.SequenceNumber)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Flush(System.IO.Log.SequenceNumber)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Flush(System.IO.Log.SequenceNumber)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.Flush(System.IO.Log.SequenceNumber)</InterfaceMember>
         <InterfaceMember>M:System.IO.Log.IRecordSequence.Flush(System.IO.Log.SequenceNumber)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1939,6 +2215,18 @@ recordSequence.Append(undoRecordData, userSqn, previousSqn, RecordAppendOptions.
       <MemberSignature Language="F#" Value="member this.LastSequenceNumber : System.IO.Log.SequenceNumber" Usage="System.IO.Log.LogRecordSequence.LastSequenceNumber" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.LastSequenceNumber</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.LastSequenceNumber</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.LastSequenceNumber</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.LastSequenceNumber</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.LastSequenceNumber</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.LastSequenceNumber</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.LastSequenceNumber</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.LastSequenceNumber</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.LastSequenceNumber</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.LastSequenceNumber</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.LastSequenceNumber</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.LastSequenceNumber</InterfaceMember>
         <InterfaceMember>P:System.IO.Log.IRecordSequence.LastSequenceNumber</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2005,6 +2293,18 @@ recordSequence.Append(undoRecordData, userSqn, previousSqn, RecordAppendOptions.
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.IO.Log.IRecordSequence.MaximumRecordLength</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.MaximumRecordLength</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.MaximumRecordLength</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.MaximumRecordLength</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.MaximumRecordLength</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.MaximumRecordLength</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.MaximumRecordLength</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.MaximumRecordLength</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.MaximumRecordLength</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.MaximumRecordLength</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.MaximumRecordLength</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.MaximumRecordLength</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.MaximumRecordLength</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.IO.Log</AssemblyName>
@@ -2029,6 +2329,18 @@ recordSequence.Append(undoRecordData, userSqn, previousSqn, RecordAppendOptions.
       <MemberSignature Language="F#" Value="abstract member ReadLogRecords : System.IO.Log.SequenceNumber * System.IO.Log.LogRecordEnumeratorType -&gt; seq&lt;System.IO.Log.LogRecord&gt;&#xA;override this.ReadLogRecords : System.IO.Log.SequenceNumber * System.IO.Log.LogRecordEnumeratorType -&gt; seq&lt;System.IO.Log.LogRecord&gt;" Usage="logRecordSequence.ReadLogRecords (start, logRecordEnum)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.ReadLogRecords(System.IO.Log.SequenceNumber,System.IO.Log.LogRecordEnumeratorType)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.ReadLogRecords(System.IO.Log.SequenceNumber,System.IO.Log.LogRecordEnumeratorType)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.ReadLogRecords(System.IO.Log.SequenceNumber,System.IO.Log.LogRecordEnumeratorType)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.ReadLogRecords(System.IO.Log.SequenceNumber,System.IO.Log.LogRecordEnumeratorType)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.ReadLogRecords(System.IO.Log.SequenceNumber,System.IO.Log.LogRecordEnumeratorType)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.ReadLogRecords(System.IO.Log.SequenceNumber,System.IO.Log.LogRecordEnumeratorType)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.ReadLogRecords(System.IO.Log.SequenceNumber,System.IO.Log.LogRecordEnumeratorType)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.ReadLogRecords(System.IO.Log.SequenceNumber,System.IO.Log.LogRecordEnumeratorType)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.ReadLogRecords(System.IO.Log.SequenceNumber,System.IO.Log.LogRecordEnumeratorType)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.ReadLogRecords(System.IO.Log.SequenceNumber,System.IO.Log.LogRecordEnumeratorType)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.ReadLogRecords(System.IO.Log.SequenceNumber,System.IO.Log.LogRecordEnumeratorType)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.ReadLogRecords(System.IO.Log.SequenceNumber,System.IO.Log.LogRecordEnumeratorType)</InterfaceMember>
         <InterfaceMember>M:System.IO.Log.IRecordSequence.ReadLogRecords(System.IO.Log.SequenceNumber,System.IO.Log.LogRecordEnumeratorType)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2113,6 +2425,18 @@ recordSequence.Append(undoRecordData, userSqn, previousSqn, RecordAppendOptions.
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IO.Log.IRecordSequence.ReadRestartAreas</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.ReadRestartAreas</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.ReadRestartAreas</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.ReadRestartAreas</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.ReadRestartAreas</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.ReadRestartAreas</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.ReadRestartAreas</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.ReadRestartAreas</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.ReadRestartAreas</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.ReadRestartAreas</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.ReadRestartAreas</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.ReadRestartAreas</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.ReadRestartAreas</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.IO.Log</AssemblyName>
@@ -2184,6 +2508,18 @@ recordSequence.Append(undoRecordData, userSqn, previousSqn, RecordAppendOptions.
       <MemberSignature Language="F#" Value="abstract member ReserveAndAppend : ArraySegment&lt;byte&gt; * System.IO.Log.SequenceNumber * System.IO.Log.SequenceNumber * System.IO.Log.RecordAppendOptions * System.IO.Log.ReservationCollection * int64[] -&gt; System.IO.Log.SequenceNumber&#xA;override this.ReserveAndAppend : ArraySegment&lt;byte&gt; * System.IO.Log.SequenceNumber * System.IO.Log.SequenceNumber * System.IO.Log.RecordAppendOptions * System.IO.Log.ReservationCollection * int64[] -&gt; System.IO.Log.SequenceNumber" Usage="logRecordSequence.ReserveAndAppend (data, nextUndoRecord, previousRecord, recordAppendOptions, reservationCollection, reservations)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.ReserveAndAppend(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.Int64[])</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.ReserveAndAppend(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.Int64[])</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.ReserveAndAppend(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.Int64[])</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.ReserveAndAppend(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.Int64[])</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.ReserveAndAppend(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.Int64[])</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.ReserveAndAppend(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.Int64[])</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.ReserveAndAppend(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.Int64[])</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.ReserveAndAppend(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.Int64[])</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.ReserveAndAppend(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.Int64[])</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.ReserveAndAppend(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.Int64[])</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.ReserveAndAppend(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.Int64[])</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.ReserveAndAppend(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.Int64[])</InterfaceMember>
         <InterfaceMember>M:System.IO.Log.IRecordSequence.ReserveAndAppend(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.Int64[])</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2285,6 +2621,18 @@ recordSequence.Append(undoRecordData,    // If necessary …
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IO.Log.IRecordSequence.ReserveAndAppend(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.Int64[])</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.ReserveAndAppend(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.Int64[])</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.ReserveAndAppend(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.Int64[])</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.ReserveAndAppend(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.Int64[])</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.ReserveAndAppend(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.Int64[])</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.ReserveAndAppend(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.Int64[])</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.ReserveAndAppend(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.Int64[])</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.ReserveAndAppend(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.Int64[])</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.ReserveAndAppend(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.Int64[])</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.ReserveAndAppend(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.Int64[])</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.ReserveAndAppend(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.Int64[])</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.ReserveAndAppend(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.Int64[])</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.ReserveAndAppend(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.SequenceNumber,System.IO.Log.RecordAppendOptions,System.IO.Log.ReservationCollection,System.Int64[])</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.IO.Log</AssemblyName>
@@ -2352,6 +2700,18 @@ recordSequence.Append(undoRecordData,    // If necessary …
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.IO.Log.IRecordSequence.ReservedBytes</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.ReservedBytes</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.ReservedBytes</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.ReservedBytes</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.ReservedBytes</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.ReservedBytes</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.ReservedBytes</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.ReservedBytes</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.ReservedBytes</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.ReservedBytes</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.ReservedBytes</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.ReservedBytes</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.ReservedBytes</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.IO.Log</AssemblyName>
@@ -2377,6 +2737,18 @@ recordSequence.Append(undoRecordData,    // If necessary …
       <MemberSignature Language="F#" Value="member this.RestartSequenceNumber : System.IO.Log.SequenceNumber" Usage="System.IO.Log.LogRecordSequence.RestartSequenceNumber" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.RestartSequenceNumber</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.RestartSequenceNumber</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.RestartSequenceNumber</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.RestartSequenceNumber</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.RestartSequenceNumber</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.RestartSequenceNumber</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.RestartSequenceNumber</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.RestartSequenceNumber</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.RestartSequenceNumber</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.RestartSequenceNumber</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.RestartSequenceNumber</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.RestartSequenceNumber</InterfaceMember>
         <InterfaceMember>P:System.IO.Log.IRecordSequence.RestartSequenceNumber</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2412,6 +2784,18 @@ recordSequence.Append(undoRecordData,    // If necessary …
       <MemberSignature Language="F#" Value="member this.RetryAppend : bool with get, set" Usage="System.IO.Log.LogRecordSequence.RetryAppend" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.RetryAppend</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.RetryAppend</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.RetryAppend</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.RetryAppend</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.RetryAppend</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.RetryAppend</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.RetryAppend</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.RetryAppend</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.RetryAppend</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.RetryAppend</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.RetryAppend</InterfaceMember>
+        <InterfaceMember>P:System.IO.Log.IRecordSequence.RetryAppend</InterfaceMember>
         <InterfaceMember>P:System.IO.Log.IRecordSequence.RetryAppend</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2509,6 +2893,18 @@ recordSequence.Append(undoRecordData,    // If necessary …
       <MemberType>Event</MemberType>
       <Implements>
         <InterfaceMember>E:System.IO.Log.IRecordSequence.TailPinned</InterfaceMember>
+        <InterfaceMember>E:System.IO.Log.IRecordSequence.TailPinned</InterfaceMember>
+        <InterfaceMember>E:System.IO.Log.IRecordSequence.TailPinned</InterfaceMember>
+        <InterfaceMember>E:System.IO.Log.IRecordSequence.TailPinned</InterfaceMember>
+        <InterfaceMember>E:System.IO.Log.IRecordSequence.TailPinned</InterfaceMember>
+        <InterfaceMember>E:System.IO.Log.IRecordSequence.TailPinned</InterfaceMember>
+        <InterfaceMember>E:System.IO.Log.IRecordSequence.TailPinned</InterfaceMember>
+        <InterfaceMember>E:System.IO.Log.IRecordSequence.TailPinned</InterfaceMember>
+        <InterfaceMember>E:System.IO.Log.IRecordSequence.TailPinned</InterfaceMember>
+        <InterfaceMember>E:System.IO.Log.IRecordSequence.TailPinned</InterfaceMember>
+        <InterfaceMember>E:System.IO.Log.IRecordSequence.TailPinned</InterfaceMember>
+        <InterfaceMember>E:System.IO.Log.IRecordSequence.TailPinned</InterfaceMember>
+        <InterfaceMember>E:System.IO.Log.IRecordSequence.TailPinned</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.IO.Log</AssemblyName>
@@ -2588,6 +2984,18 @@ void HandleTailPinned(object sender, TailPinnedEventArgs tailPinnedEventArgs)
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.ArraySegment{System.Byte})</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.ArraySegment{System.Byte})</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.ArraySegment{System.Byte})</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.ArraySegment{System.Byte})</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.ArraySegment{System.Byte})</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.ArraySegment{System.Byte})</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.ArraySegment{System.Byte})</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.ArraySegment{System.Byte})</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.ArraySegment{System.Byte})</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.ArraySegment{System.Byte})</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.ArraySegment{System.Byte})</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.ArraySegment{System.Byte})</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.ArraySegment{System.Byte})</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.IO.Log</AssemblyName>
@@ -2635,6 +3043,18 @@ void HandleTailPinned(object sender, TailPinnedEventArgs tailPinnedEventArgs)
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.Collections.Generic.IList{System.ArraySegment{System.Byte}})</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.Collections.Generic.IList{System.ArraySegment{System.Byte}})</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.Collections.Generic.IList{System.ArraySegment{System.Byte}})</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.Collections.Generic.IList{System.ArraySegment{System.Byte}})</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.Collections.Generic.IList{System.ArraySegment{System.Byte}})</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.Collections.Generic.IList{System.ArraySegment{System.Byte}})</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.Collections.Generic.IList{System.ArraySegment{System.Byte}})</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.Collections.Generic.IList{System.ArraySegment{System.Byte}})</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.Collections.Generic.IList{System.ArraySegment{System.Byte}})</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.Collections.Generic.IList{System.ArraySegment{System.Byte}})</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.Collections.Generic.IList{System.ArraySegment{System.Byte}})</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.Collections.Generic.IList{System.ArraySegment{System.Byte}})</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.Collections.Generic.IList{System.ArraySegment{System.Byte}})</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.IO.Log</AssemblyName>
@@ -2681,6 +3101,18 @@ void HandleTailPinned(object sender, TailPinnedEventArgs tailPinnedEventArgs)
       <MemberSignature Language="F#" Value="abstract member WriteRestartArea : ArraySegment&lt;byte&gt; * System.IO.Log.SequenceNumber -&gt; System.IO.Log.SequenceNumber&#xA;override this.WriteRestartArea : ArraySegment&lt;byte&gt; * System.IO.Log.SequenceNumber -&gt; System.IO.Log.SequenceNumber" Usage="logRecordSequence.WriteRestartArea (data, newBaseSeqNum)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber)</InterfaceMember>
         <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2732,6 +3164,18 @@ void HandleTailPinned(object sender, TailPinnedEventArgs tailPinnedEventArgs)
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.IO.Log</AssemblyName>
@@ -2781,6 +3225,18 @@ void HandleTailPinned(object sender, TailPinnedEventArgs tailPinnedEventArgs)
       <MemberSignature Language="F#" Value="abstract member WriteRestartArea : ArraySegment&lt;byte&gt; * System.IO.Log.SequenceNumber * System.IO.Log.ReservationCollection -&gt; System.IO.Log.SequenceNumber&#xA;override this.WriteRestartArea : ArraySegment&lt;byte&gt; * System.IO.Log.SequenceNumber * System.IO.Log.ReservationCollection -&gt; System.IO.Log.SequenceNumber" Usage="logRecordSequence.WriteRestartArea (data, newBaseSeqNum, reservations)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.ReservationCollection)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.ReservationCollection)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.ReservationCollection)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.ReservationCollection)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.ReservationCollection)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.ReservationCollection)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.ReservationCollection)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.ReservationCollection)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.ReservationCollection)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.ReservationCollection)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.ReservationCollection)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.ReservationCollection)</InterfaceMember>
         <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.ArraySegment{System.Byte},System.IO.Log.SequenceNumber,System.IO.Log.ReservationCollection)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2834,6 +3290,18 @@ void HandleTailPinned(object sender, TailPinnedEventArgs tailPinnedEventArgs)
       <MemberSignature Language="F#" Value="abstract member WriteRestartArea : System.Collections.Generic.IList&lt;ArraySegment&lt;byte&gt;&gt; * System.IO.Log.SequenceNumber * System.IO.Log.ReservationCollection -&gt; System.IO.Log.SequenceNumber&#xA;override this.WriteRestartArea : System.Collections.Generic.IList&lt;ArraySegment&lt;byte&gt;&gt; * System.IO.Log.SequenceNumber * System.IO.Log.ReservationCollection -&gt; System.IO.Log.SequenceNumber" Usage="logRecordSequence.WriteRestartArea (data, newBaseSeqNum, reservationCollection)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.ReservationCollection)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.ReservationCollection)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.ReservationCollection)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.ReservationCollection)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.ReservationCollection)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.ReservationCollection)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.ReservationCollection)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.ReservationCollection)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.ReservationCollection)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.ReservationCollection)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.ReservationCollection)</InterfaceMember>
+        <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.ReservationCollection)</InterfaceMember>
         <InterfaceMember>M:System.IO.Log.IRecordSequence.WriteRestartArea(System.Collections.Generic.IList{System.ArraySegment{System.Byte}},System.IO.Log.SequenceNumber,System.IO.Log.ReservationCollection)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

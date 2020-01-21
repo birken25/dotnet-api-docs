@@ -67,6 +67,9 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.IE.IHostEx.GetClassFactory(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.IE.IHostEx.GetClassFactory(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.IE.IHostEx.GetClassFactory(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.IE.IHostEx.GetClassFactory(System.String,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>IIEHost</AssemblyName>
@@ -98,6 +101,9 @@
       <MemberSignature Language="F#" Value="abstract member GetSecuredClassFactory : int * int * string * string * string * string * string -&gt; Microsoft.IE.ISecureFactory&#xA;override this.GetSecuredClassFactory : int * int * string * string * string * string * string -&gt; Microsoft.IE.ISecureFactory" Usage="iHostStubClass.GetSecuredClassFactory (dwIdentityFlags, dwZone, lpSite, pbSecurityId, lpHash, className, fileName)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.IE.IHostEx.GetSecuredClassFactory(System.Int32,System.Int32,System.String,System.String,System.String,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.IE.IHostEx.GetSecuredClassFactory(System.Int32,System.Int32,System.String,System.String,System.String,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.IE.IHostEx.GetSecuredClassFactory(System.Int32,System.Int32,System.String,System.String,System.String,System.String,System.String)</InterfaceMember>
         <InterfaceMember>M:Microsoft.IE.IHostEx.GetSecuredClassFactory(System.Int32,System.Int32,System.String,System.String,System.String,System.String,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

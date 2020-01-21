@@ -202,6 +202,18 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Workflow.ComponentModel</AssemblyName>
@@ -308,6 +320,18 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Workflow.ComponentModel</AssemblyName>
@@ -353,6 +377,18 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Workflow.ComponentModel.Compiler.ITypeProvider.GetType(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.Compiler.ITypeProvider.GetType(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.Compiler.ITypeProvider.GetType(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.Compiler.ITypeProvider.GetType(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.Compiler.ITypeProvider.GetType(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.Compiler.ITypeProvider.GetType(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.Compiler.ITypeProvider.GetType(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.Compiler.ITypeProvider.GetType(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.Compiler.ITypeProvider.GetType(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.Compiler.ITypeProvider.GetType(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.Compiler.ITypeProvider.GetType(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.Compiler.ITypeProvider.GetType(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.Compiler.ITypeProvider.GetType(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Workflow.ComponentModel</AssemblyName>
@@ -390,6 +426,18 @@
       <MemberSignature Language="F#" Value="override this.GetType : string * bool -&gt; Type" Usage="typeProvider.GetType (name, throwOnError)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Workflow.ComponentModel.Compiler.ITypeProvider.GetType(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.Compiler.ITypeProvider.GetType(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.Compiler.ITypeProvider.GetType(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.Compiler.ITypeProvider.GetType(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.Compiler.ITypeProvider.GetType(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.Compiler.ITypeProvider.GetType(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.Compiler.ITypeProvider.GetType(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.Compiler.ITypeProvider.GetType(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.Compiler.ITypeProvider.GetType(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.Compiler.ITypeProvider.GetType(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.Compiler.ITypeProvider.GetType(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.Compiler.ITypeProvider.GetType(System.String,System.Boolean)</InterfaceMember>
         <InterfaceMember>M:System.Workflow.ComponentModel.Compiler.ITypeProvider.GetType(System.String,System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -432,6 +480,18 @@
       <MemberSignature Language="F#" Value="abstract member GetTypes : unit -&gt; Type[]&#xA;override this.GetTypes : unit -&gt; Type[]" Usage="typeProvider.GetTypes " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Workflow.ComponentModel.Compiler.ITypeProvider.GetTypes</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.Compiler.ITypeProvider.GetTypes</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.Compiler.ITypeProvider.GetTypes</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.Compiler.ITypeProvider.GetTypes</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.Compiler.ITypeProvider.GetTypes</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.Compiler.ITypeProvider.GetTypes</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.Compiler.ITypeProvider.GetTypes</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.Compiler.ITypeProvider.GetTypes</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.Compiler.ITypeProvider.GetTypes</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.Compiler.ITypeProvider.GetTypes</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.Compiler.ITypeProvider.GetTypes</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.Compiler.ITypeProvider.GetTypes</InterfaceMember>
         <InterfaceMember>M:System.Workflow.ComponentModel.Compiler.ITypeProvider.GetTypes</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -595,6 +655,18 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.ITypeProvider.LocalAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.ITypeProvider.LocalAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.ITypeProvider.LocalAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.ITypeProvider.LocalAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.ITypeProvider.LocalAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.ITypeProvider.LocalAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.ITypeProvider.LocalAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.ITypeProvider.LocalAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.ITypeProvider.LocalAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.ITypeProvider.LocalAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.ITypeProvider.LocalAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.ITypeProvider.LocalAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.ITypeProvider.LocalAssembly</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Workflow.ComponentModel</AssemblyName>
@@ -619,6 +691,18 @@
       <MemberSignature Language="F#" Value="member this.ReferencedAssemblies : System.Collections.Generic.ICollection&lt;System.Reflection.Assembly&gt;" Usage="System.Workflow.ComponentModel.Compiler.TypeProvider.ReferencedAssemblies" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.ITypeProvider.ReferencedAssemblies</InterfaceMember>
+        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.ITypeProvider.ReferencedAssemblies</InterfaceMember>
+        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.ITypeProvider.ReferencedAssemblies</InterfaceMember>
+        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.ITypeProvider.ReferencedAssemblies</InterfaceMember>
+        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.ITypeProvider.ReferencedAssemblies</InterfaceMember>
+        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.ITypeProvider.ReferencedAssemblies</InterfaceMember>
+        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.ITypeProvider.ReferencedAssemblies</InterfaceMember>
+        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.ITypeProvider.ReferencedAssemblies</InterfaceMember>
+        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.ITypeProvider.ReferencedAssemblies</InterfaceMember>
+        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.ITypeProvider.ReferencedAssemblies</InterfaceMember>
+        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.ITypeProvider.ReferencedAssemblies</InterfaceMember>
+        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.ITypeProvider.ReferencedAssemblies</InterfaceMember>
         <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.ITypeProvider.ReferencedAssemblies</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -812,6 +896,18 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.ITypeProvider.TypeLoadErrors</InterfaceMember>
+        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.ITypeProvider.TypeLoadErrors</InterfaceMember>
+        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.ITypeProvider.TypeLoadErrors</InterfaceMember>
+        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.ITypeProvider.TypeLoadErrors</InterfaceMember>
+        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.ITypeProvider.TypeLoadErrors</InterfaceMember>
+        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.ITypeProvider.TypeLoadErrors</InterfaceMember>
+        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.ITypeProvider.TypeLoadErrors</InterfaceMember>
+        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.ITypeProvider.TypeLoadErrors</InterfaceMember>
+        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.ITypeProvider.TypeLoadErrors</InterfaceMember>
+        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.ITypeProvider.TypeLoadErrors</InterfaceMember>
+        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.ITypeProvider.TypeLoadErrors</InterfaceMember>
+        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.ITypeProvider.TypeLoadErrors</InterfaceMember>
+        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.ITypeProvider.TypeLoadErrors</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Workflow.ComponentModel</AssemblyName>
@@ -845,6 +941,18 @@
       <MemberType>Event</MemberType>
       <Implements>
         <InterfaceMember>E:System.Workflow.ComponentModel.Compiler.ITypeProvider.TypeLoadErrorsChanged</InterfaceMember>
+        <InterfaceMember>E:System.Workflow.ComponentModel.Compiler.ITypeProvider.TypeLoadErrorsChanged</InterfaceMember>
+        <InterfaceMember>E:System.Workflow.ComponentModel.Compiler.ITypeProvider.TypeLoadErrorsChanged</InterfaceMember>
+        <InterfaceMember>E:System.Workflow.ComponentModel.Compiler.ITypeProvider.TypeLoadErrorsChanged</InterfaceMember>
+        <InterfaceMember>E:System.Workflow.ComponentModel.Compiler.ITypeProvider.TypeLoadErrorsChanged</InterfaceMember>
+        <InterfaceMember>E:System.Workflow.ComponentModel.Compiler.ITypeProvider.TypeLoadErrorsChanged</InterfaceMember>
+        <InterfaceMember>E:System.Workflow.ComponentModel.Compiler.ITypeProvider.TypeLoadErrorsChanged</InterfaceMember>
+        <InterfaceMember>E:System.Workflow.ComponentModel.Compiler.ITypeProvider.TypeLoadErrorsChanged</InterfaceMember>
+        <InterfaceMember>E:System.Workflow.ComponentModel.Compiler.ITypeProvider.TypeLoadErrorsChanged</InterfaceMember>
+        <InterfaceMember>E:System.Workflow.ComponentModel.Compiler.ITypeProvider.TypeLoadErrorsChanged</InterfaceMember>
+        <InterfaceMember>E:System.Workflow.ComponentModel.Compiler.ITypeProvider.TypeLoadErrorsChanged</InterfaceMember>
+        <InterfaceMember>E:System.Workflow.ComponentModel.Compiler.ITypeProvider.TypeLoadErrorsChanged</InterfaceMember>
+        <InterfaceMember>E:System.Workflow.ComponentModel.Compiler.ITypeProvider.TypeLoadErrorsChanged</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Workflow.ComponentModel</AssemblyName>
@@ -869,6 +977,18 @@
       <MemberSignature Language="VB.NET" Value="Public Event TypesChanged As EventHandler " FrameworkAlternate="netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Event</MemberType>
       <Implements>
+        <InterfaceMember>E:System.Workflow.ComponentModel.Compiler.ITypeProvider.TypesChanged</InterfaceMember>
+        <InterfaceMember>E:System.Workflow.ComponentModel.Compiler.ITypeProvider.TypesChanged</InterfaceMember>
+        <InterfaceMember>E:System.Workflow.ComponentModel.Compiler.ITypeProvider.TypesChanged</InterfaceMember>
+        <InterfaceMember>E:System.Workflow.ComponentModel.Compiler.ITypeProvider.TypesChanged</InterfaceMember>
+        <InterfaceMember>E:System.Workflow.ComponentModel.Compiler.ITypeProvider.TypesChanged</InterfaceMember>
+        <InterfaceMember>E:System.Workflow.ComponentModel.Compiler.ITypeProvider.TypesChanged</InterfaceMember>
+        <InterfaceMember>E:System.Workflow.ComponentModel.Compiler.ITypeProvider.TypesChanged</InterfaceMember>
+        <InterfaceMember>E:System.Workflow.ComponentModel.Compiler.ITypeProvider.TypesChanged</InterfaceMember>
+        <InterfaceMember>E:System.Workflow.ComponentModel.Compiler.ITypeProvider.TypesChanged</InterfaceMember>
+        <InterfaceMember>E:System.Workflow.ComponentModel.Compiler.ITypeProvider.TypesChanged</InterfaceMember>
+        <InterfaceMember>E:System.Workflow.ComponentModel.Compiler.ITypeProvider.TypesChanged</InterfaceMember>
+        <InterfaceMember>E:System.Workflow.ComponentModel.Compiler.ITypeProvider.TypesChanged</InterfaceMember>
         <InterfaceMember>E:System.Workflow.ComponentModel.Compiler.ITypeProvider.TypesChanged</InterfaceMember>
       </Implements>
       <AssemblyInfo>

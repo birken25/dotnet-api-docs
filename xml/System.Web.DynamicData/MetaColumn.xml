@@ -67,6 +67,16 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.AllowInitialValue</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.AllowInitialValue</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.AllowInitialValue</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.AllowInitialValue</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.AllowInitialValue</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.AllowInitialValue</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.AllowInitialValue</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.AllowInitialValue</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.AllowInitialValue</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.AllowInitialValue</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.AllowInitialValue</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.DynamicData</AssemblyName>
@@ -98,6 +108,27 @@
       <MemberSignature Language="F#" Value="member this.ApplyFormatInEditMode : bool" Usage="System.Web.DynamicData.MetaColumn.ApplyFormatInEditMode" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.ApplyFormatInEditMode</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.ApplyFormatInEditMode</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.ApplyFormatInEditMode</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.ApplyFormatInEditMode</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.ApplyFormatInEditMode</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.ApplyFormatInEditMode</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.ApplyFormatInEditMode</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.ApplyFormatInEditMode</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.ApplyFormatInEditMode</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.ApplyFormatInEditMode</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.ApplyFormatInEditMode</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.ApplyFormatInEditMode</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.ApplyFormatInEditMode</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.ApplyFormatInEditMode</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.ApplyFormatInEditMode</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.ApplyFormatInEditMode</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.ApplyFormatInEditMode</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.ApplyFormatInEditMode</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.ApplyFormatInEditMode</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.ApplyFormatInEditMode</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.ApplyFormatInEditMode</InterfaceMember>
         <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.ApplyFormatInEditMode</InterfaceMember>
         <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.ApplyFormatInEditMode</InterfaceMember>
       </Implements>
@@ -136,6 +167,16 @@
       <MemberSignature Language="F#" Value="member this.Attributes : System.ComponentModel.AttributeCollection" Usage="System.Web.DynamicData.MetaColumn.Attributes" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.Attributes</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.Attributes</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.Attributes</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.Attributes</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.Attributes</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.Attributes</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.Attributes</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.Attributes</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.Attributes</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.Attributes</InterfaceMember>
         <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.Attributes</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -191,6 +232,16 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.ColumnType</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.ColumnType</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.ColumnType</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.ColumnType</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.ColumnType</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.ColumnType</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.ColumnType</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.ColumnType</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.ColumnType</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.ColumnType</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.ColumnType</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.DynamicData</AssemblyName>
@@ -222,6 +273,27 @@
       <MemberSignature Language="F#" Value="member this.ConvertEmptyStringToNull : bool" Usage="System.Web.DynamicData.MetaColumn.ConvertEmptyStringToNull" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.ConvertEmptyStringToNull</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.ConvertEmptyStringToNull</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.ConvertEmptyStringToNull</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.ConvertEmptyStringToNull</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.ConvertEmptyStringToNull</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.ConvertEmptyStringToNull</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.ConvertEmptyStringToNull</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.ConvertEmptyStringToNull</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.ConvertEmptyStringToNull</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.ConvertEmptyStringToNull</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.ConvertEmptyStringToNull</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.ConvertEmptyStringToNull</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.ConvertEmptyStringToNull</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.ConvertEmptyStringToNull</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.ConvertEmptyStringToNull</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.ConvertEmptyStringToNull</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.ConvertEmptyStringToNull</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.ConvertEmptyStringToNull</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.ConvertEmptyStringToNull</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.ConvertEmptyStringToNull</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.ConvertEmptyStringToNull</InterfaceMember>
         <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.ConvertEmptyStringToNull</InterfaceMember>
         <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.ConvertEmptyStringToNull</InterfaceMember>
       </Implements>
@@ -260,6 +332,27 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.DataFormatString</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.DataFormatString</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.DataFormatString</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.DataFormatString</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.DataFormatString</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.DataFormatString</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.DataFormatString</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.DataFormatString</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.DataFormatString</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.DataFormatString</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.DataFormatString</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.DataFormatString</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.DataFormatString</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.DataFormatString</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.DataFormatString</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.DataFormatString</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.DataFormatString</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.DataFormatString</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.DataFormatString</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.DataFormatString</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.DataFormatString</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.DataFormatString</InterfaceMember>
         <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.DataFormatString</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -297,6 +390,16 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.DataTypeAttribute</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.DataTypeAttribute</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.DataTypeAttribute</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.DataTypeAttribute</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.DataTypeAttribute</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.DataTypeAttribute</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.DataTypeAttribute</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.DataTypeAttribute</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.DataTypeAttribute</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.DataTypeAttribute</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.DataTypeAttribute</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.DynamicData</AssemblyName>
@@ -322,6 +425,16 @@
       <MemberSignature Language="F#" Value="member this.DefaultValue : obj" Usage="System.Web.DynamicData.MetaColumn.DefaultValue" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.DefaultValue</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.DefaultValue</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.DefaultValue</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.DefaultValue</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.DefaultValue</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.DefaultValue</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.DefaultValue</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.DefaultValue</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.DefaultValue</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.DefaultValue</InterfaceMember>
         <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.DefaultValue</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -360,6 +473,16 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.Description</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.Description</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.Description</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.Description</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.Description</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.Description</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.Description</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.Description</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.Description</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.Description</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.Description</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.DynamicData</AssemblyName>
@@ -397,6 +520,16 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.DisplayName</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.DisplayName</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.DisplayName</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.DisplayName</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.DisplayName</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.DisplayName</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.DisplayName</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.DisplayName</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.DisplayName</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.DisplayName</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.DisplayName</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.DynamicData</AssemblyName>
@@ -430,6 +563,16 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.EntityTypeProperty</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.EntityTypeProperty</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.EntityTypeProperty</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.EntityTypeProperty</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.EntityTypeProperty</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.EntityTypeProperty</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.EntityTypeProperty</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.EntityTypeProperty</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.EntityTypeProperty</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.EntityTypeProperty</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.EntityTypeProperty</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.DynamicData</AssemblyName>
@@ -455,6 +598,16 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.FilterUIHint</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.FilterUIHint</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.FilterUIHint</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.FilterUIHint</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.FilterUIHint</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.FilterUIHint</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.FilterUIHint</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.FilterUIHint</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.FilterUIHint</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.FilterUIHint</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.FilterUIHint</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.DynamicData</AssemblyName>
@@ -478,6 +631,27 @@
       <MemberSignature Language="F#" Value="member this.HtmlEncode : bool" Usage="System.Web.DynamicData.MetaColumn.HtmlEncode" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.HtmlEncode</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.HtmlEncode</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.HtmlEncode</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.HtmlEncode</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.HtmlEncode</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.HtmlEncode</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.HtmlEncode</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.HtmlEncode</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.HtmlEncode</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.HtmlEncode</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.HtmlEncode</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.HtmlEncode</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.HtmlEncode</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.HtmlEncode</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.HtmlEncode</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.HtmlEncode</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.HtmlEncode</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.HtmlEncode</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.HtmlEncode</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.HtmlEncode</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.HtmlEncode</InterfaceMember>
         <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.HtmlEncode</InterfaceMember>
         <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.HtmlEncode</InterfaceMember>
       </Implements>
@@ -534,6 +708,16 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsBinaryData</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsBinaryData</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsBinaryData</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsBinaryData</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsBinaryData</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsBinaryData</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsBinaryData</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsBinaryData</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsBinaryData</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsBinaryData</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsBinaryData</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.DynamicData</AssemblyName>
@@ -562,6 +746,16 @@
       <MemberSignature Language="F#" Value="member this.IsCustomProperty : bool" Usage="System.Web.DynamicData.MetaColumn.IsCustomProperty" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsCustomProperty</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsCustomProperty</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsCustomProperty</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsCustomProperty</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsCustomProperty</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsCustomProperty</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsCustomProperty</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsCustomProperty</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsCustomProperty</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsCustomProperty</InterfaceMember>
         <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsCustomProperty</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -595,6 +789,16 @@
       <MemberSignature Language="F#" Value="member this.IsFloatingPoint : bool" Usage="System.Web.DynamicData.MetaColumn.IsFloatingPoint" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsFloatingPoint</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsFloatingPoint</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsFloatingPoint</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsFloatingPoint</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsFloatingPoint</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsFloatingPoint</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsFloatingPoint</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsFloatingPoint</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsFloatingPoint</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsFloatingPoint</InterfaceMember>
         <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsFloatingPoint</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -632,6 +836,16 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsForeignKeyComponent</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsForeignKeyComponent</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsForeignKeyComponent</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsForeignKeyComponent</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsForeignKeyComponent</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsForeignKeyComponent</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsForeignKeyComponent</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsForeignKeyComponent</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsForeignKeyComponent</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsForeignKeyComponent</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsForeignKeyComponent</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.DynamicData</AssemblyName>
@@ -659,6 +873,16 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsGenerated</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsGenerated</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsGenerated</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsGenerated</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsGenerated</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsGenerated</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsGenerated</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsGenerated</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsGenerated</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsGenerated</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsGenerated</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.DynamicData</AssemblyName>
@@ -684,6 +908,16 @@
       <MemberSignature Language="F#" Value="member this.IsInteger : bool" Usage="System.Web.DynamicData.MetaColumn.IsInteger" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsInteger</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsInteger</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsInteger</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsInteger</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsInteger</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsInteger</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsInteger</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsInteger</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsInteger</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsInteger</InterfaceMember>
         <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsInteger</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -721,6 +955,16 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsLongString</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsLongString</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsLongString</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsLongString</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsLongString</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsLongString</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsLongString</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsLongString</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsLongString</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsLongString</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsLongString</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.DynamicData</AssemblyName>
@@ -756,6 +1000,16 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsPrimaryKey</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsPrimaryKey</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsPrimaryKey</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsPrimaryKey</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsPrimaryKey</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsPrimaryKey</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsPrimaryKey</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsPrimaryKey</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsPrimaryKey</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsPrimaryKey</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsPrimaryKey</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.DynamicData</AssemblyName>
@@ -786,6 +1040,16 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsReadOnly</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.DynamicData</AssemblyName>
@@ -811,6 +1075,16 @@
       <MemberSignature Language="F#" Value="member this.IsRequired : bool" Usage="System.Web.DynamicData.MetaColumn.IsRequired" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsRequired</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsRequired</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsRequired</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsRequired</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsRequired</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsRequired</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsRequired</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsRequired</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsRequired</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsRequired</InterfaceMember>
         <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsRequired</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -848,6 +1122,16 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsString</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsString</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsString</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsString</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsString</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsString</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsString</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsString</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsString</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsString</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.IsString</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.DynamicData</AssemblyName>
@@ -877,6 +1161,16 @@
       <MemberSignature Language="F#" Value="member this.MaxLength : int" Usage="System.Web.DynamicData.MetaColumn.MaxLength" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.MaxLength</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.MaxLength</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.MaxLength</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.MaxLength</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.MaxLength</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.MaxLength</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.MaxLength</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.MaxLength</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.MaxLength</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.MaxLength</InterfaceMember>
         <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.MaxLength</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -936,6 +1230,16 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.Name</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.Name</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.Name</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.Name</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.Name</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.Name</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.Name</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.Name</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.Name</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.Name</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.Name</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.DynamicData</AssemblyName>
@@ -960,6 +1264,27 @@
       <MemberSignature Language="F#" Value="member this.NullDisplayText : string" Usage="System.Web.DynamicData.MetaColumn.NullDisplayText" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.NullDisplayText</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.NullDisplayText</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.NullDisplayText</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.NullDisplayText</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.NullDisplayText</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.NullDisplayText</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.NullDisplayText</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.NullDisplayText</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.NullDisplayText</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.NullDisplayText</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.NullDisplayText</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.NullDisplayText</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.NullDisplayText</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.NullDisplayText</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.NullDisplayText</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.NullDisplayText</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.NullDisplayText</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.NullDisplayText</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.NullDisplayText</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.NullDisplayText</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.NullDisplayText</InterfaceMember>
         <InterfaceMember>P:System.Web.DynamicData.IFieldFormattingOptions.NullDisplayText</InterfaceMember>
         <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.NullDisplayText</InterfaceMember>
       </Implements>
@@ -996,6 +1321,16 @@
       <MemberSignature Language="F#" Value="member this.Prompt : string" Usage="System.Web.DynamicData.MetaColumn.Prompt" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.Prompt</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.Prompt</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.Prompt</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.Prompt</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.Prompt</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.Prompt</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.Prompt</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.Prompt</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.Prompt</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.Prompt</InterfaceMember>
         <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.Prompt</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1061,6 +1396,16 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.RequiredErrorMessage</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.RequiredErrorMessage</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.RequiredErrorMessage</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.RequiredErrorMessage</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.RequiredErrorMessage</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.RequiredErrorMessage</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.RequiredErrorMessage</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.RequiredErrorMessage</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.RequiredErrorMessage</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.RequiredErrorMessage</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.RequiredErrorMessage</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.DynamicData</AssemblyName>
@@ -1087,6 +1432,16 @@
       <MemberSignature Language="F#" Value="abstract member ResetMetadata : unit -&gt; unit&#xA;override this.ResetMetadata : unit -&gt; unit" Usage="metaColumn.ResetMetadata " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaColumn.ResetMetadata</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaColumn.ResetMetadata</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaColumn.ResetMetadata</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaColumn.ResetMetadata</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaColumn.ResetMetadata</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaColumn.ResetMetadata</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaColumn.ResetMetadata</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaColumn.ResetMetadata</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaColumn.ResetMetadata</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaColumn.ResetMetadata</InterfaceMember>
         <InterfaceMember>M:System.Web.DynamicData.IMetaColumn.ResetMetadata</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1121,6 +1476,16 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual property bool Scaffold { bool get(); void set(bool value); };" FrameworkAlternate="netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.Scaffold</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.Scaffold</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.Scaffold</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.Scaffold</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.Scaffold</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.Scaffold</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.Scaffold</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.Scaffold</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.Scaffold</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.Scaffold</InterfaceMember>
         <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.Scaffold</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1169,6 +1534,16 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.ShortDisplayName</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.ShortDisplayName</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.ShortDisplayName</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.ShortDisplayName</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.ShortDisplayName</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.ShortDisplayName</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.ShortDisplayName</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.ShortDisplayName</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.ShortDisplayName</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.ShortDisplayName</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.ShortDisplayName</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.DynamicData</AssemblyName>
@@ -1199,6 +1574,16 @@
       <MemberSignature Language="F#" Value="member this.SortExpression : string" Usage="System.Web.DynamicData.MetaColumn.SortExpression" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.SortExpression</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.SortExpression</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.SortExpression</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.SortExpression</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.SortExpression</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.SortExpression</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.SortExpression</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.SortExpression</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.SortExpression</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.SortExpression</InterfaceMember>
         <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.SortExpression</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1282,6 +1667,16 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.TypeCode</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.TypeCode</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.TypeCode</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.TypeCode</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.TypeCode</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.TypeCode</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.TypeCode</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.TypeCode</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.TypeCode</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.TypeCode</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.TypeCode</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.DynamicData</AssemblyName>
@@ -1317,6 +1712,16 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual property System::String ^ UIHint { System::String ^ get(); };" FrameworkAlternate="netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.UIHint</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.UIHint</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.UIHint</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.UIHint</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.UIHint</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.UIHint</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.UIHint</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.UIHint</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.UIHint</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.UIHint</InterfaceMember>
         <InterfaceMember>P:System.Web.DynamicData.IMetaColumn.UIHint</InterfaceMember>
       </Implements>
       <AssemblyInfo>

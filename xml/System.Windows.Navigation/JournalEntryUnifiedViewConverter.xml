@@ -95,6 +95,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Data.IMultiValueConverter.Convert(System.Object[],System.Type,System.Object,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Data.IMultiValueConverter.Convert(System.Object[],System.Type,System.Object,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Data.IMultiValueConverter.Convert(System.Object[],System.Type,System.Object,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Data.IMultiValueConverter.Convert(System.Object[],System.Type,System.Object,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Data.IMultiValueConverter.Convert(System.Object[],System.Type,System.Object,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Data.IMultiValueConverter.Convert(System.Object[],System.Type,System.Object,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Data.IMultiValueConverter.Convert(System.Object[],System.Type,System.Object,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Data.IMultiValueConverter.Convert(System.Object[],System.Type,System.Object,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Data.IMultiValueConverter.Convert(System.Object[],System.Type,System.Object,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Data.IMultiValueConverter.Convert(System.Object[],System.Type,System.Object,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Data.IMultiValueConverter.Convert(System.Object[],System.Type,System.Object,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Data.IMultiValueConverter.Convert(System.Object[],System.Type,System.Object,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Data.IMultiValueConverter.Convert(System.Object[],System.Type,System.Object,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Data.IMultiValueConverter.Convert(System.Object[],System.Type,System.Object,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Data.IMultiValueConverter.Convert(System.Object[],System.Type,System.Object,System.Globalization.CultureInfo)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -151,6 +165,20 @@
       <MemberSignature Language="F#" Value="abstract member ConvertBack : obj * Type[] * obj * System.Globalization.CultureInfo -&gt; obj[]&#xA;override this.ConvertBack : obj * Type[] * obj * System.Globalization.CultureInfo -&gt; obj[]" Usage="journalEntryUnifiedViewConverter.ConvertBack (value, targetTypes, parameter, culture)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Data.IMultiValueConverter.ConvertBack(System.Object,System.Type[],System.Object,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Data.IMultiValueConverter.ConvertBack(System.Object,System.Type[],System.Object,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Data.IMultiValueConverter.ConvertBack(System.Object,System.Type[],System.Object,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Data.IMultiValueConverter.ConvertBack(System.Object,System.Type[],System.Object,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Data.IMultiValueConverter.ConvertBack(System.Object,System.Type[],System.Object,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Data.IMultiValueConverter.ConvertBack(System.Object,System.Type[],System.Object,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Data.IMultiValueConverter.ConvertBack(System.Object,System.Type[],System.Object,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Data.IMultiValueConverter.ConvertBack(System.Object,System.Type[],System.Object,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Data.IMultiValueConverter.ConvertBack(System.Object,System.Type[],System.Object,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Data.IMultiValueConverter.ConvertBack(System.Object,System.Type[],System.Object,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Data.IMultiValueConverter.ConvertBack(System.Object,System.Type[],System.Object,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Data.IMultiValueConverter.ConvertBack(System.Object,System.Type[],System.Object,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Data.IMultiValueConverter.ConvertBack(System.Object,System.Type[],System.Object,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Data.IMultiValueConverter.ConvertBack(System.Object,System.Type[],System.Object,System.Globalization.CultureInfo)</InterfaceMember>
         <InterfaceMember>M:System.Windows.Data.IMultiValueConverter.ConvertBack(System.Object,System.Type[],System.Object,System.Globalization.CultureInfo)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

@@ -774,6 +774,16 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Build.Evaluation.IEvaluatorData`4.DefaultTargets</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Evaluation.IEvaluatorData`4.DefaultTargets</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Evaluation.IEvaluatorData`4.DefaultTargets</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Evaluation.IEvaluatorData`4.DefaultTargets</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Evaluation.IEvaluatorData`4.DefaultTargets</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Evaluation.IEvaluatorData`4.DefaultTargets</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Evaluation.IEvaluatorData`4.DefaultTargets</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Evaluation.IEvaluatorData`4.DefaultTargets</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Evaluation.IEvaluatorData`4.DefaultTargets</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Evaluation.IEvaluatorData`4.DefaultTargets</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Evaluation.IEvaluatorData`4.DefaultTargets</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Build</AssemblyName>
@@ -810,6 +820,16 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Build.Evaluation.IEvaluatorData`4.Directory</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Evaluation.IEvaluatorData`4.Directory</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Evaluation.IEvaluatorData`4.Directory</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Evaluation.IEvaluatorData`4.Directory</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Evaluation.IEvaluatorData`4.Directory</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Evaluation.IEvaluatorData`4.Directory</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Evaluation.IEvaluatorData`4.Directory</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Evaluation.IEvaluatorData`4.Directory</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Evaluation.IEvaluatorData`4.Directory</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Evaluation.IEvaluatorData`4.Directory</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Evaluation.IEvaluatorData`4.Directory</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Build</AssemblyName>
@@ -841,6 +861,16 @@
       <MemberSignature Language="F#" Value="abstract member EvaluateCondition : string -&gt; bool&#xA;override this.EvaluateCondition : string -&gt; bool" Usage="projectInstance.EvaluateCondition condition" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Build.Evaluation.IEvaluatorData`4.EvaluateCondition(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Evaluation.IEvaluatorData`4.EvaluateCondition(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Evaluation.IEvaluatorData`4.EvaluateCondition(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Evaluation.IEvaluatorData`4.EvaluateCondition(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Evaluation.IEvaluatorData`4.EvaluateCondition(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Evaluation.IEvaluatorData`4.EvaluateCondition(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Evaluation.IEvaluatorData`4.EvaluateCondition(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Evaluation.IEvaluatorData`4.EvaluateCondition(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Evaluation.IEvaluatorData`4.EvaluateCondition(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Evaluation.IEvaluatorData`4.EvaluateCondition(System.String)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Build.Evaluation.IEvaluatorData`4.EvaluateCondition(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -879,6 +909,16 @@
       <MemberSignature Language="F#" Value="abstract member ExpandString : string -&gt; string&#xA;override this.ExpandString : string -&gt; string" Usage="projectInstance.ExpandString unexpandedValue" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Build.Evaluation.IEvaluatorData`4.ExpandString(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Evaluation.IEvaluatorData`4.ExpandString(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Evaluation.IEvaluatorData`4.ExpandString(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Evaluation.IEvaluatorData`4.ExpandString(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Evaluation.IEvaluatorData`4.ExpandString(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Evaluation.IEvaluatorData`4.ExpandString(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Evaluation.IEvaluatorData`4.ExpandString(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Evaluation.IEvaluatorData`4.ExpandString(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Evaluation.IEvaluatorData`4.ExpandString(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Evaluation.IEvaluatorData`4.ExpandString(System.String)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Build.Evaluation.IEvaluatorData`4.ExpandString(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1001,6 +1041,16 @@
       <MemberSignature Language="F#" Value="member this.GetItems : string -&gt; System.Collections.Generic.ICollection&lt;Microsoft.Build.Execution.ProjectItemInstance&gt;" Usage="projectInstance.GetItems itemType" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Build.Evaluation.IItemProvider`1.GetItems(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Evaluation.IItemProvider`1.GetItems(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Evaluation.IItemProvider`1.GetItems(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Evaluation.IItemProvider`1.GetItems(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Evaluation.IItemProvider`1.GetItems(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Evaluation.IItemProvider`1.GetItems(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Evaluation.IItemProvider`1.GetItems(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Evaluation.IItemProvider`1.GetItems(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Evaluation.IItemProvider`1.GetItems(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Evaluation.IItemProvider`1.GetItems(System.String)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Build.Evaluation.IItemProvider`1.GetItems(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1145,6 +1195,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Build.Evaluation.IPropertyProvider`1.GetProperty(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Evaluation.IPropertyProvider`1.GetProperty(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Evaluation.IPropertyProvider`1.GetProperty(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Evaluation.IPropertyProvider`1.GetProperty(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Evaluation.IPropertyProvider`1.GetProperty(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Evaluation.IPropertyProvider`1.GetProperty(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Evaluation.IPropertyProvider`1.GetProperty(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Evaluation.IPropertyProvider`1.GetProperty(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Evaluation.IPropertyProvider`1.GetProperty(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Evaluation.IPropertyProvider`1.GetProperty(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Evaluation.IPropertyProvider`1.GetProperty(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Build</AssemblyName>
@@ -1271,6 +1331,16 @@
       <MemberSignature Language="F#" Value="member this.InitialTargets : System.Collections.Generic.List&lt;string&gt;" Usage="Microsoft.Build.Execution.ProjectInstance.InitialTargets" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:Microsoft.Build.Evaluation.IEvaluatorData`4.InitialTargets</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Evaluation.IEvaluatorData`4.InitialTargets</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Evaluation.IEvaluatorData`4.InitialTargets</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Evaluation.IEvaluatorData`4.InitialTargets</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Evaluation.IEvaluatorData`4.InitialTargets</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Evaluation.IEvaluatorData`4.InitialTargets</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Evaluation.IEvaluatorData`4.InitialTargets</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Evaluation.IEvaluatorData`4.InitialTargets</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Evaluation.IEvaluatorData`4.InitialTargets</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Evaluation.IEvaluatorData`4.InitialTargets</InterfaceMember>
         <InterfaceMember>P:Microsoft.Build.Evaluation.IEvaluatorData`4.InitialTargets</InterfaceMember>
       </Implements>
       <AssemblyInfo>

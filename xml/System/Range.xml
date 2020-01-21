@@ -197,6 +197,8 @@ int[] subArray2 = someArray[1..^0];              // { 2, 3, 4, 5 }
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Runtime</AssemblyName>

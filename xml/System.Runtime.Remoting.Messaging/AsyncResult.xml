@@ -118,6 +118,23 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.AsyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.AsyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.AsyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.AsyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.AsyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.AsyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.AsyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.AsyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.AsyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.AsyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.AsyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.AsyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.AsyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.AsyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.AsyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.AsyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.AsyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.AsyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -162,6 +179,23 @@
       <MemberSignature Language="F#" Value="member this.AsyncState : obj" Usage="System.Runtime.Remoting.Messaging.AsyncResult.AsyncState" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
         <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -212,6 +246,23 @@
       <MemberSignature Language="F#" Value="member this.AsyncWaitHandle : System.Threading.WaitHandle" Usage="System.Runtime.Remoting.Messaging.AsyncResult.AsyncWaitHandle" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
         <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -268,6 +319,23 @@
       <MemberSignature Language="F#" Value="member this.CompletedSynchronously : bool" Usage="System.Runtime.Remoting.Messaging.AsyncResult.CompletedSynchronously" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
         <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -365,6 +433,23 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -415,6 +500,23 @@
       <MemberSignature Language="F#" Value="member this.NextSink : System.Runtime.Remoting.Messaging.IMessageSink" Usage="System.Runtime.Remoting.Messaging.AsyncResult.NextSink" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessageSink.NextSink</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessageSink.NextSink</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessageSink.NextSink</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessageSink.NextSink</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessageSink.NextSink</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessageSink.NextSink</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessageSink.NextSink</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessageSink.NextSink</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessageSink.NextSink</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessageSink.NextSink</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessageSink.NextSink</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessageSink.NextSink</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessageSink.NextSink</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessageSink.NextSink</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessageSink.NextSink</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessageSink.NextSink</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessageSink.NextSink</InterfaceMember>
         <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessageSink.NextSink</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -488,6 +590,23 @@
       <MemberSignature Language="F#" Value="abstract member SyncProcessMessage : System.Runtime.Remoting.Messaging.IMessage -&gt; System.Runtime.Remoting.Messaging.IMessage&#xA;override this.SyncProcessMessage : System.Runtime.Remoting.Messaging.IMessage -&gt; System.Runtime.Remoting.Messaging.IMessage" Usage="asyncResult.SyncProcessMessage msg" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.SyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.SyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.SyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.SyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.SyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.SyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.SyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.SyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.SyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.SyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.SyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.SyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.SyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.SyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.SyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.SyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.SyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMessageSink.SyncProcessMessage(System.Runtime.Remoting.Messaging.IMessage)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

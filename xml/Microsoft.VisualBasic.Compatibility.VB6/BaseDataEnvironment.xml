@@ -80,6 +80,19 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:msdatasrc.DataSource.addDataSourceListener(msdatasrc.DataSourceListener)</InterfaceMember>
+        <InterfaceMember>M:msdatasrc.DataSource.addDataSourceListener(msdatasrc.DataSourceListener)</InterfaceMember>
+        <InterfaceMember>M:msdatasrc.DataSource.addDataSourceListener(msdatasrc.DataSourceListener)</InterfaceMember>
+        <InterfaceMember>M:msdatasrc.DataSource.addDataSourceListener(msdatasrc.DataSourceListener)</InterfaceMember>
+        <InterfaceMember>M:msdatasrc.DataSource.addDataSourceListener(msdatasrc.DataSourceListener)</InterfaceMember>
+        <InterfaceMember>M:msdatasrc.DataSource.addDataSourceListener(msdatasrc.DataSourceListener)</InterfaceMember>
+        <InterfaceMember>M:msdatasrc.DataSource.addDataSourceListener(msdatasrc.DataSourceListener)</InterfaceMember>
+        <InterfaceMember>M:msdatasrc.DataSource.addDataSourceListener(msdatasrc.DataSourceListener)</InterfaceMember>
+        <InterfaceMember>M:msdatasrc.DataSource.addDataSourceListener(msdatasrc.DataSourceListener)</InterfaceMember>
+        <InterfaceMember>M:msdatasrc.DataSource.addDataSourceListener(msdatasrc.DataSourceListener)</InterfaceMember>
+        <InterfaceMember>M:msdatasrc.DataSource.addDataSourceListener(msdatasrc.DataSourceListener)</InterfaceMember>
+        <InterfaceMember>M:msdatasrc.DataSource.addDataSourceListener(msdatasrc.DataSourceListener)</InterfaceMember>
+        <InterfaceMember>M:msdatasrc.DataSource.addDataSourceListener(msdatasrc.DataSourceListener)</InterfaceMember>
+        <InterfaceMember>M:msdatasrc.DataSource.addDataSourceListener(msdatasrc.DataSourceListener)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic.Compatibility.Data</AssemblyName>
@@ -306,6 +319,19 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic.Compatibility.Data</AssemblyName>
@@ -416,6 +442,19 @@
       <MemberSignature Language="F#" Value="abstract member getDataMember : string * Guid -&gt; obj&#xA;override this.getDataMember : string * Guid -&gt; obj" Usage="baseDataEnvironment.getDataMember (strDataMember, Id)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:msdatasrc.DataSource.getDataMember(System.String,System.Guid@)</InterfaceMember>
+        <InterfaceMember>M:msdatasrc.DataSource.getDataMember(System.String,System.Guid@)</InterfaceMember>
+        <InterfaceMember>M:msdatasrc.DataSource.getDataMember(System.String,System.Guid@)</InterfaceMember>
+        <InterfaceMember>M:msdatasrc.DataSource.getDataMember(System.String,System.Guid@)</InterfaceMember>
+        <InterfaceMember>M:msdatasrc.DataSource.getDataMember(System.String,System.Guid@)</InterfaceMember>
+        <InterfaceMember>M:msdatasrc.DataSource.getDataMember(System.String,System.Guid@)</InterfaceMember>
+        <InterfaceMember>M:msdatasrc.DataSource.getDataMember(System.String,System.Guid@)</InterfaceMember>
+        <InterfaceMember>M:msdatasrc.DataSource.getDataMember(System.String,System.Guid@)</InterfaceMember>
+        <InterfaceMember>M:msdatasrc.DataSource.getDataMember(System.String,System.Guid@)</InterfaceMember>
+        <InterfaceMember>M:msdatasrc.DataSource.getDataMember(System.String,System.Guid@)</InterfaceMember>
+        <InterfaceMember>M:msdatasrc.DataSource.getDataMember(System.String,System.Guid@)</InterfaceMember>
+        <InterfaceMember>M:msdatasrc.DataSource.getDataMember(System.String,System.Guid@)</InterfaceMember>
+        <InterfaceMember>M:msdatasrc.DataSource.getDataMember(System.String,System.Guid@)</InterfaceMember>
         <InterfaceMember>M:msdatasrc.DataSource.getDataMember(System.String,System.Guid@)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -766,6 +805,19 @@
       <MemberSignature Language="F#" Value="abstract member removeDataSourceListener : msdatasrc.DataSourceListener -&gt; unit&#xA;override this.removeDataSourceListener : msdatasrc.DataSourceListener -&gt; unit" Usage="baseDataEnvironment.removeDataSourceListener ds" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:msdatasrc.DataSource.removeDataSourceListener(msdatasrc.DataSourceListener)</InterfaceMember>
+        <InterfaceMember>M:msdatasrc.DataSource.removeDataSourceListener(msdatasrc.DataSourceListener)</InterfaceMember>
+        <InterfaceMember>M:msdatasrc.DataSource.removeDataSourceListener(msdatasrc.DataSourceListener)</InterfaceMember>
+        <InterfaceMember>M:msdatasrc.DataSource.removeDataSourceListener(msdatasrc.DataSourceListener)</InterfaceMember>
+        <InterfaceMember>M:msdatasrc.DataSource.removeDataSourceListener(msdatasrc.DataSourceListener)</InterfaceMember>
+        <InterfaceMember>M:msdatasrc.DataSource.removeDataSourceListener(msdatasrc.DataSourceListener)</InterfaceMember>
+        <InterfaceMember>M:msdatasrc.DataSource.removeDataSourceListener(msdatasrc.DataSourceListener)</InterfaceMember>
+        <InterfaceMember>M:msdatasrc.DataSource.removeDataSourceListener(msdatasrc.DataSourceListener)</InterfaceMember>
+        <InterfaceMember>M:msdatasrc.DataSource.removeDataSourceListener(msdatasrc.DataSourceListener)</InterfaceMember>
+        <InterfaceMember>M:msdatasrc.DataSource.removeDataSourceListener(msdatasrc.DataSourceListener)</InterfaceMember>
+        <InterfaceMember>M:msdatasrc.DataSource.removeDataSourceListener(msdatasrc.DataSourceListener)</InterfaceMember>
+        <InterfaceMember>M:msdatasrc.DataSource.removeDataSourceListener(msdatasrc.DataSourceListener)</InterfaceMember>
+        <InterfaceMember>M:msdatasrc.DataSource.removeDataSourceListener(msdatasrc.DataSourceListener)</InterfaceMember>
         <InterfaceMember>M:msdatasrc.DataSource.removeDataSourceListener(msdatasrc.DataSourceListener)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

@@ -83,6 +83,23 @@
       <MemberType>Event</MemberType>
       <Implements>
         <InterfaceMember>E:System.Windows.Forms.Design.IEventHandlerService.EventHandlerChanged</InterfaceMember>
+        <InterfaceMember>E:System.Windows.Forms.Design.IEventHandlerService.EventHandlerChanged</InterfaceMember>
+        <InterfaceMember>E:System.Windows.Forms.Design.IEventHandlerService.EventHandlerChanged</InterfaceMember>
+        <InterfaceMember>E:System.Windows.Forms.Design.IEventHandlerService.EventHandlerChanged</InterfaceMember>
+        <InterfaceMember>E:System.Windows.Forms.Design.IEventHandlerService.EventHandlerChanged</InterfaceMember>
+        <InterfaceMember>E:System.Windows.Forms.Design.IEventHandlerService.EventHandlerChanged</InterfaceMember>
+        <InterfaceMember>E:System.Windows.Forms.Design.IEventHandlerService.EventHandlerChanged</InterfaceMember>
+        <InterfaceMember>E:System.Windows.Forms.Design.IEventHandlerService.EventHandlerChanged</InterfaceMember>
+        <InterfaceMember>E:System.Windows.Forms.Design.IEventHandlerService.EventHandlerChanged</InterfaceMember>
+        <InterfaceMember>E:System.Windows.Forms.Design.IEventHandlerService.EventHandlerChanged</InterfaceMember>
+        <InterfaceMember>E:System.Windows.Forms.Design.IEventHandlerService.EventHandlerChanged</InterfaceMember>
+        <InterfaceMember>E:System.Windows.Forms.Design.IEventHandlerService.EventHandlerChanged</InterfaceMember>
+        <InterfaceMember>E:System.Windows.Forms.Design.IEventHandlerService.EventHandlerChanged</InterfaceMember>
+        <InterfaceMember>E:System.Windows.Forms.Design.IEventHandlerService.EventHandlerChanged</InterfaceMember>
+        <InterfaceMember>E:System.Windows.Forms.Design.IEventHandlerService.EventHandlerChanged</InterfaceMember>
+        <InterfaceMember>E:System.Windows.Forms.Design.IEventHandlerService.EventHandlerChanged</InterfaceMember>
+        <InterfaceMember>E:System.Windows.Forms.Design.IEventHandlerService.EventHandlerChanged</InterfaceMember>
+        <InterfaceMember>E:System.Windows.Forms.Design.IEventHandlerService.EventHandlerChanged</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -111,6 +128,23 @@
       <MemberSignature Language="F#" Value="member this.FocusWindow : System.Windows.Forms.Control" Usage="System.Windows.Forms.Design.EventHandlerService.FocusWindow" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Windows.Forms.Design.IEventHandlerService.FocusWindow</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.Design.IEventHandlerService.FocusWindow</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.Design.IEventHandlerService.FocusWindow</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.Design.IEventHandlerService.FocusWindow</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.Design.IEventHandlerService.FocusWindow</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.Design.IEventHandlerService.FocusWindow</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.Design.IEventHandlerService.FocusWindow</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.Design.IEventHandlerService.FocusWindow</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.Design.IEventHandlerService.FocusWindow</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.Design.IEventHandlerService.FocusWindow</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.Design.IEventHandlerService.FocusWindow</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.Design.IEventHandlerService.FocusWindow</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.Design.IEventHandlerService.FocusWindow</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.Design.IEventHandlerService.FocusWindow</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.Design.IEventHandlerService.FocusWindow</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.Design.IEventHandlerService.FocusWindow</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.Design.IEventHandlerService.FocusWindow</InterfaceMember>
         <InterfaceMember>P:System.Windows.Forms.Design.IEventHandlerService.FocusWindow</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -146,6 +180,23 @@
       <MemberSignature Language="F#" Value="abstract member GetHandler : Type -&gt; obj&#xA;override this.GetHandler : Type -&gt; obj" Usage="eventHandlerService.GetHandler handlerType" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Forms.Design.IEventHandlerService.GetHandler(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Design.IEventHandlerService.GetHandler(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Design.IEventHandlerService.GetHandler(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Design.IEventHandlerService.GetHandler(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Design.IEventHandlerService.GetHandler(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Design.IEventHandlerService.GetHandler(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Design.IEventHandlerService.GetHandler(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Design.IEventHandlerService.GetHandler(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Design.IEventHandlerService.GetHandler(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Design.IEventHandlerService.GetHandler(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Design.IEventHandlerService.GetHandler(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Design.IEventHandlerService.GetHandler(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Design.IEventHandlerService.GetHandler(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Design.IEventHandlerService.GetHandler(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Design.IEventHandlerService.GetHandler(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Design.IEventHandlerService.GetHandler(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Design.IEventHandlerService.GetHandler(System.Type)</InterfaceMember>
         <InterfaceMember>M:System.Windows.Forms.Design.IEventHandlerService.GetHandler(System.Type)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -188,6 +239,23 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Forms.Design.IEventHandlerService.PopHandler(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Design.IEventHandlerService.PopHandler(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Design.IEventHandlerService.PopHandler(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Design.IEventHandlerService.PopHandler(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Design.IEventHandlerService.PopHandler(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Design.IEventHandlerService.PopHandler(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Design.IEventHandlerService.PopHandler(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Design.IEventHandlerService.PopHandler(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Design.IEventHandlerService.PopHandler(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Design.IEventHandlerService.PopHandler(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Design.IEventHandlerService.PopHandler(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Design.IEventHandlerService.PopHandler(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Design.IEventHandlerService.PopHandler(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Design.IEventHandlerService.PopHandler(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Design.IEventHandlerService.PopHandler(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Design.IEventHandlerService.PopHandler(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Design.IEventHandlerService.PopHandler(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Design.IEventHandlerService.PopHandler(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -227,6 +295,23 @@
       <MemberSignature Language="F#" Value="abstract member PushHandler : obj -&gt; unit&#xA;override this.PushHandler : obj -&gt; unit" Usage="eventHandlerService.PushHandler handler" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Forms.Design.IEventHandlerService.PushHandler(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Design.IEventHandlerService.PushHandler(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Design.IEventHandlerService.PushHandler(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Design.IEventHandlerService.PushHandler(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Design.IEventHandlerService.PushHandler(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Design.IEventHandlerService.PushHandler(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Design.IEventHandlerService.PushHandler(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Design.IEventHandlerService.PushHandler(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Design.IEventHandlerService.PushHandler(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Design.IEventHandlerService.PushHandler(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Design.IEventHandlerService.PushHandler(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Design.IEventHandlerService.PushHandler(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Design.IEventHandlerService.PushHandler(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Design.IEventHandlerService.PushHandler(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Design.IEventHandlerService.PushHandler(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Design.IEventHandlerService.PushHandler(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Design.IEventHandlerService.PushHandler(System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Windows.Forms.Design.IEventHandlerService.PushHandler(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

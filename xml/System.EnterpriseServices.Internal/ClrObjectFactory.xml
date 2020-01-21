@@ -65,6 +65,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromAssembly(System.String,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromAssembly(System.String,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromAssembly(System.String,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromAssembly(System.String,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromAssembly(System.String,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromAssembly(System.String,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromAssembly(System.String,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromAssembly(System.String,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromAssembly(System.String,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromAssembly(System.String,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromAssembly(System.String,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromAssembly(System.String,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromAssembly(System.String,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromAssembly(System.String,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromAssembly(System.String,System.String,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.EnterpriseServices</AssemblyName>
@@ -101,6 +115,20 @@
       <MemberSignature Language="F#" Value="abstract member CreateFromMailbox : string * string -&gt; obj&#xA;override this.CreateFromMailbox : string * string -&gt; obj" Usage="clrObjectFactory.CreateFromMailbox (Mailbox, Mode)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromMailbox(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromMailbox(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromMailbox(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromMailbox(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromMailbox(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromMailbox(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromMailbox(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromMailbox(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromMailbox(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromMailbox(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromMailbox(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromMailbox(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromMailbox(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromMailbox(System.String,System.String)</InterfaceMember>
         <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromMailbox(System.String,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -141,6 +169,20 @@
       <MemberSignature Language="F#" Value="abstract member CreateFromVroot : string * string -&gt; obj&#xA;override this.CreateFromVroot : string * string -&gt; obj" Usage="clrObjectFactory.CreateFromVroot (VrootUrl, Mode)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromVroot(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromVroot(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromVroot(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromVroot(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromVroot(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromVroot(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromVroot(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromVroot(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromVroot(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromVroot(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromVroot(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromVroot(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromVroot(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromVroot(System.String,System.String)</InterfaceMember>
         <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromVroot(System.String,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -187,6 +229,20 @@
       <MemberSignature Language="F#" Value="abstract member CreateFromWsdl : string * string -&gt; obj&#xA;override this.CreateFromWsdl : string * string -&gt; obj" Usage="clrObjectFactory.CreateFromWsdl (WsdlUrl, Mode)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromWsdl(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromWsdl(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromWsdl(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromWsdl(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromWsdl(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromWsdl(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromWsdl(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromWsdl(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromWsdl(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromWsdl(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromWsdl(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromWsdl(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromWsdl(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromWsdl(System.String,System.String)</InterfaceMember>
         <InterfaceMember>M:System.EnterpriseServices.Internal.IClrObjectFactory.CreateFromWsdl(System.String,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

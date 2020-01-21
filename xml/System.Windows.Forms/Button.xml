@@ -176,6 +176,22 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Windows.Forms.IButtonControl.DialogResult</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IButtonControl.DialogResult</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IButtonControl.DialogResult</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IButtonControl.DialogResult</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IButtonControl.DialogResult</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IButtonControl.DialogResult</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IButtonControl.DialogResult</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IButtonControl.DialogResult</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IButtonControl.DialogResult</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IButtonControl.DialogResult</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IButtonControl.DialogResult</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IButtonControl.DialogResult</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IButtonControl.DialogResult</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IButtonControl.DialogResult</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IButtonControl.DialogResult</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IButtonControl.DialogResult</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IButtonControl.DialogResult</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Forms</AssemblyName>
@@ -325,6 +341,22 @@
       <MemberSignature Language="F#" Value="abstract member NotifyDefault : bool -&gt; unit&#xA;override this.NotifyDefault : bool -&gt; unit" Usage="button.NotifyDefault value" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.NotifyDefault(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.NotifyDefault(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.NotifyDefault(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.NotifyDefault(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.NotifyDefault(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.NotifyDefault(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.NotifyDefault(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.NotifyDefault(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.NotifyDefault(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.NotifyDefault(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.NotifyDefault(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.NotifyDefault(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.NotifyDefault(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.NotifyDefault(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.NotifyDefault(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.NotifyDefault(System.Boolean)</InterfaceMember>
         <InterfaceMember>M:System.Windows.Forms.IButtonControl.NotifyDefault(System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -560,6 +592,22 @@
       <MemberSignature Language="F#" Value="abstract member PerformClick : unit -&gt; unit&#xA;override this.PerformClick : unit -&gt; unit" Usage="button.PerformClick " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.PerformClick</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.PerformClick</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.PerformClick</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.PerformClick</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.PerformClick</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.PerformClick</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.PerformClick</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.PerformClick</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.PerformClick</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.PerformClick</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.PerformClick</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.PerformClick</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.PerformClick</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.PerformClick</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.PerformClick</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.PerformClick</InterfaceMember>
         <InterfaceMember>M:System.Windows.Forms.IButtonControl.PerformClick</InterfaceMember>
       </Implements>
       <AssemblyInfo>

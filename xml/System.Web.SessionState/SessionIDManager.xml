@@ -84,6 +84,19 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.CreateSessionID(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.CreateSessionID(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.CreateSessionID(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.CreateSessionID(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.CreateSessionID(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.CreateSessionID(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.CreateSessionID(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.CreateSessionID(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.CreateSessionID(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.CreateSessionID(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.CreateSessionID(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.CreateSessionID(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.CreateSessionID(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.CreateSessionID(System.Web.HttpContext)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -229,6 +242,19 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.GetSessionID(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.GetSessionID(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.GetSessionID(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.GetSessionID(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.GetSessionID(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.GetSessionID(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.GetSessionID(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.GetSessionID(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.GetSessionID(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.GetSessionID(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.GetSessionID(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.GetSessionID(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.GetSessionID(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.GetSessionID(System.Web.HttpContext)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -269,6 +295,19 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.Initialize</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.Initialize</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.Initialize</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.Initialize</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.Initialize</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.Initialize</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.Initialize</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.Initialize</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.Initialize</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.Initialize</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.Initialize</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.Initialize</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.Initialize</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.Initialize</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -301,6 +340,19 @@
       <MemberSignature Language="F#" Value="abstract member InitializeRequest : System.Web.HttpContext * bool * bool -&gt; bool&#xA;override this.InitializeRequest : System.Web.HttpContext * bool * bool -&gt; bool" Usage="sessionIDManager.InitializeRequest (context, suppressAutoDetectRedirect, supportSessionIDReissue)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.InitializeRequest(System.Web.HttpContext,System.Boolean,System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.InitializeRequest(System.Web.HttpContext,System.Boolean,System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.InitializeRequest(System.Web.HttpContext,System.Boolean,System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.InitializeRequest(System.Web.HttpContext,System.Boolean,System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.InitializeRequest(System.Web.HttpContext,System.Boolean,System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.InitializeRequest(System.Web.HttpContext,System.Boolean,System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.InitializeRequest(System.Web.HttpContext,System.Boolean,System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.InitializeRequest(System.Web.HttpContext,System.Boolean,System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.InitializeRequest(System.Web.HttpContext,System.Boolean,System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.InitializeRequest(System.Web.HttpContext,System.Boolean,System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.InitializeRequest(System.Web.HttpContext,System.Boolean,System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.InitializeRequest(System.Web.HttpContext,System.Boolean,System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.InitializeRequest(System.Web.HttpContext,System.Boolean,System.Boolean@)</InterfaceMember>
         <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.InitializeRequest(System.Web.HttpContext,System.Boolean,System.Boolean@)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -346,6 +398,19 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.RemoveSessionID(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.RemoveSessionID(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.RemoveSessionID(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.RemoveSessionID(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.RemoveSessionID(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.RemoveSessionID(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.RemoveSessionID(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.RemoveSessionID(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.RemoveSessionID(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.RemoveSessionID(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.RemoveSessionID(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.RemoveSessionID(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.RemoveSessionID(System.Web.HttpContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.RemoveSessionID(System.Web.HttpContext)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -383,6 +448,19 @@
       <MemberSignature Language="F#" Value="abstract member SaveSessionID : System.Web.HttpContext * string * bool * bool -&gt; unit&#xA;override this.SaveSessionID : System.Web.HttpContext * string * bool * bool -&gt; unit" Usage="sessionIDManager.SaveSessionID (context, id, redirected, cookieAdded)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.SaveSessionID(System.Web.HttpContext,System.String,System.Boolean@,System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.SaveSessionID(System.Web.HttpContext,System.String,System.Boolean@,System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.SaveSessionID(System.Web.HttpContext,System.String,System.Boolean@,System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.SaveSessionID(System.Web.HttpContext,System.String,System.Boolean@,System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.SaveSessionID(System.Web.HttpContext,System.String,System.Boolean@,System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.SaveSessionID(System.Web.HttpContext,System.String,System.Boolean@,System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.SaveSessionID(System.Web.HttpContext,System.String,System.Boolean@,System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.SaveSessionID(System.Web.HttpContext,System.String,System.Boolean@,System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.SaveSessionID(System.Web.HttpContext,System.String,System.Boolean@,System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.SaveSessionID(System.Web.HttpContext,System.String,System.Boolean@,System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.SaveSessionID(System.Web.HttpContext,System.String,System.Boolean@,System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.SaveSessionID(System.Web.HttpContext,System.String,System.Boolean@,System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.SaveSessionID(System.Web.HttpContext,System.String,System.Boolean@,System.Boolean@)</InterfaceMember>
         <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.SaveSessionID(System.Web.HttpContext,System.String,System.Boolean@,System.Boolean@)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -468,6 +546,19 @@
       <MemberSignature Language="F#" Value="abstract member Validate : string -&gt; bool&#xA;override this.Validate : string -&gt; bool" Usage="sessionIDManager.Validate id" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.Validate(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.Validate(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.Validate(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.Validate(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.Validate(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.Validate(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.Validate(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.Validate(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.Validate(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.Validate(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.Validate(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.Validate(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.Validate(System.String)</InterfaceMember>
         <InterfaceMember>M:System.Web.SessionState.ISessionIDManager.Validate(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

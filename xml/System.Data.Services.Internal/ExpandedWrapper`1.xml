@@ -133,6 +133,17 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.Services.IExpandedResult.GetExpandedPropertyValue(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Services.IExpandedResult.GetExpandedPropertyValue(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Services.IExpandedResult.GetExpandedPropertyValue(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Services.IExpandedResult.GetExpandedPropertyValue(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Services.IExpandedResult.GetExpandedPropertyValue(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Services.IExpandedResult.GetExpandedPropertyValue(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Services.IExpandedResult.GetExpandedPropertyValue(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Services.IExpandedResult.GetExpandedPropertyValue(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Services.IExpandedResult.GetExpandedPropertyValue(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Services.IExpandedResult.GetExpandedPropertyValue(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Services.IExpandedResult.GetExpandedPropertyValue(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Services.IExpandedResult.GetExpandedPropertyValue(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Services</AssemblyName>
@@ -189,6 +200,17 @@
       <MemberSignature Language="F#" Usage="System.Data.Services.IExpandedResult.ExpandedElement" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Data.Services.IExpandedResult.ExpandedElement</InterfaceMember>
+        <InterfaceMember>P:System.Data.Services.IExpandedResult.ExpandedElement</InterfaceMember>
+        <InterfaceMember>P:System.Data.Services.IExpandedResult.ExpandedElement</InterfaceMember>
+        <InterfaceMember>P:System.Data.Services.IExpandedResult.ExpandedElement</InterfaceMember>
+        <InterfaceMember>P:System.Data.Services.IExpandedResult.ExpandedElement</InterfaceMember>
+        <InterfaceMember>P:System.Data.Services.IExpandedResult.ExpandedElement</InterfaceMember>
+        <InterfaceMember>P:System.Data.Services.IExpandedResult.ExpandedElement</InterfaceMember>
+        <InterfaceMember>P:System.Data.Services.IExpandedResult.ExpandedElement</InterfaceMember>
+        <InterfaceMember>P:System.Data.Services.IExpandedResult.ExpandedElement</InterfaceMember>
+        <InterfaceMember>P:System.Data.Services.IExpandedResult.ExpandedElement</InterfaceMember>
+        <InterfaceMember>P:System.Data.Services.IExpandedResult.ExpandedElement</InterfaceMember>
         <InterfaceMember>P:System.Data.Services.IExpandedResult.ExpandedElement</InterfaceMember>
       </Implements>
       <AssemblyInfo>

@@ -155,6 +155,23 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.ArgCount</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.ArgCount</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.ArgCount</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.ArgCount</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.ArgCount</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.ArgCount</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.ArgCount</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.ArgCount</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.ArgCount</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.ArgCount</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.ArgCount</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.ArgCount</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.ArgCount</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.ArgCount</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.ArgCount</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.ArgCount</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.ArgCount</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.ArgCount</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -194,6 +211,23 @@
       <MemberSignature Language="F#" Value="member this.Args : obj[]" Usage="System.Runtime.Remoting.Messaging.MethodCall.Args" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.Args</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.Args</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.Args</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.Args</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.Args</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.Args</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.Args</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.Args</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.Args</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.Args</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.Args</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.Args</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.Args</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.Args</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.Args</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.Args</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.Args</InterfaceMember>
         <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.Args</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -266,6 +300,23 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodMessage.GetArg(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodMessage.GetArg(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodMessage.GetArg(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodMessage.GetArg(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodMessage.GetArg(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodMessage.GetArg(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodMessage.GetArg(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodMessage.GetArg(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodMessage.GetArg(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodMessage.GetArg(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodMessage.GetArg(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodMessage.GetArg(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodMessage.GetArg(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodMessage.GetArg(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodMessage.GetArg(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodMessage.GetArg(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodMessage.GetArg(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodMessage.GetArg(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -309,6 +360,23 @@
       <MemberSignature Language="F#" Value="abstract member GetArgName : int -&gt; string&#xA;override this.GetArgName : int -&gt; string" Usage="methodCall.GetArgName index" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodMessage.GetArgName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodMessage.GetArgName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodMessage.GetArgName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodMessage.GetArgName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodMessage.GetArgName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodMessage.GetArgName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodMessage.GetArgName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodMessage.GetArgName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodMessage.GetArgName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodMessage.GetArgName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodMessage.GetArgName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodMessage.GetArgName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodMessage.GetArgName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodMessage.GetArgName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodMessage.GetArgName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodMessage.GetArgName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodMessage.GetArgName(System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodMessage.GetArgName(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -354,6 +422,23 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodCallMessage.GetInArg(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodCallMessage.GetInArg(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodCallMessage.GetInArg(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodCallMessage.GetInArg(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodCallMessage.GetInArg(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodCallMessage.GetInArg(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodCallMessage.GetInArg(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodCallMessage.GetInArg(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodCallMessage.GetInArg(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodCallMessage.GetInArg(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodCallMessage.GetInArg(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodCallMessage.GetInArg(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodCallMessage.GetInArg(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodCallMessage.GetInArg(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodCallMessage.GetInArg(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodCallMessage.GetInArg(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodCallMessage.GetInArg(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodCallMessage.GetInArg(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -397,6 +482,23 @@
       <MemberSignature Language="F#" Value="abstract member GetInArgName : int -&gt; string&#xA;override this.GetInArgName : int -&gt; string" Usage="methodCall.GetInArgName index" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodCallMessage.GetInArgName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodCallMessage.GetInArgName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodCallMessage.GetInArgName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodCallMessage.GetInArgName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodCallMessage.GetInArgName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodCallMessage.GetInArgName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodCallMessage.GetInArgName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodCallMessage.GetInArgName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodCallMessage.GetInArgName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodCallMessage.GetInArgName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodCallMessage.GetInArgName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodCallMessage.GetInArgName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodCallMessage.GetInArgName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodCallMessage.GetInArgName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodCallMessage.GetInArgName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodCallMessage.GetInArgName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodCallMessage.GetInArgName(System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.Remoting.Messaging.IMethodCallMessage.GetInArgName(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -444,6 +546,23 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -488,6 +607,23 @@
       <MemberSignature Language="F#" Value="member this.HasVarArgs : bool" Usage="System.Runtime.Remoting.Messaging.MethodCall.HasVarArgs" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.HasVarArgs</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.HasVarArgs</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.HasVarArgs</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.HasVarArgs</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.HasVarArgs</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.HasVarArgs</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.HasVarArgs</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.HasVarArgs</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.HasVarArgs</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.HasVarArgs</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.HasVarArgs</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.HasVarArgs</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.HasVarArgs</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.HasVarArgs</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.HasVarArgs</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.HasVarArgs</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.HasVarArgs</InterfaceMember>
         <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.HasVarArgs</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -571,6 +707,23 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodCallMessage.InArgCount</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodCallMessage.InArgCount</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodCallMessage.InArgCount</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodCallMessage.InArgCount</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodCallMessage.InArgCount</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodCallMessage.InArgCount</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodCallMessage.InArgCount</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodCallMessage.InArgCount</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodCallMessage.InArgCount</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodCallMessage.InArgCount</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodCallMessage.InArgCount</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodCallMessage.InArgCount</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodCallMessage.InArgCount</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodCallMessage.InArgCount</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodCallMessage.InArgCount</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodCallMessage.InArgCount</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodCallMessage.InArgCount</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodCallMessage.InArgCount</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -610,6 +763,23 @@
       <MemberSignature Language="F#" Value="member this.InArgs : obj[]" Usage="System.Runtime.Remoting.Messaging.MethodCall.InArgs" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodCallMessage.InArgs</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodCallMessage.InArgs</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodCallMessage.InArgs</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodCallMessage.InArgs</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodCallMessage.InArgs</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodCallMessage.InArgs</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodCallMessage.InArgs</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodCallMessage.InArgs</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodCallMessage.InArgs</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodCallMessage.InArgs</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodCallMessage.InArgs</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodCallMessage.InArgs</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodCallMessage.InArgs</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodCallMessage.InArgs</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodCallMessage.InArgs</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodCallMessage.InArgs</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodCallMessage.InArgs</InterfaceMember>
         <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodCallMessage.InArgs</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -700,6 +870,23 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.LogicalCallContext</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.LogicalCallContext</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.LogicalCallContext</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.LogicalCallContext</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.LogicalCallContext</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.LogicalCallContext</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.LogicalCallContext</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.LogicalCallContext</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.LogicalCallContext</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.LogicalCallContext</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.LogicalCallContext</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.LogicalCallContext</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.LogicalCallContext</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.LogicalCallContext</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.LogicalCallContext</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.LogicalCallContext</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.LogicalCallContext</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.LogicalCallContext</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -739,6 +926,23 @@
       <MemberSignature Language="F#" Value="member this.MethodBase : System.Reflection.MethodBase" Usage="System.Runtime.Remoting.Messaging.MethodCall.MethodBase" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.MethodBase</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.MethodBase</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.MethodBase</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.MethodBase</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.MethodBase</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.MethodBase</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.MethodBase</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.MethodBase</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.MethodBase</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.MethodBase</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.MethodBase</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.MethodBase</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.MethodBase</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.MethodBase</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.MethodBase</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.MethodBase</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.MethodBase</InterfaceMember>
         <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.MethodBase</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -780,6 +984,23 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.MethodName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.MethodName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.MethodName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.MethodName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.MethodName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.MethodName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.MethodName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.MethodName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.MethodName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.MethodName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.MethodName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.MethodName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.MethodName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.MethodName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.MethodName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.MethodName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.MethodName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.MethodName</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -820,6 +1041,23 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.MethodSignature</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.MethodSignature</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.MethodSignature</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.MethodSignature</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.MethodSignature</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.MethodSignature</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.MethodSignature</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.MethodSignature</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.MethodSignature</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.MethodSignature</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.MethodSignature</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.MethodSignature</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.MethodSignature</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.MethodSignature</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.MethodSignature</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.MethodSignature</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.MethodSignature</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.MethodSignature</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -859,6 +1097,23 @@
       <MemberSignature Language="F#" Value="member this.Properties : System.Collections.IDictionary" Usage="System.Runtime.Remoting.Messaging.MethodCall.Properties" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessage.Properties</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessage.Properties</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessage.Properties</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessage.Properties</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessage.Properties</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessage.Properties</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessage.Properties</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessage.Properties</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessage.Properties</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessage.Properties</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessage.Properties</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessage.Properties</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessage.Properties</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessage.Properties</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessage.Properties</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessage.Properties</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessage.Properties</InterfaceMember>
         <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessage.Properties</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -937,6 +1192,23 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.Remoting.Messaging.ISerializationRootObject.RootSetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.ISerializationRootObject.RootSetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.ISerializationRootObject.RootSetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.ISerializationRootObject.RootSetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.ISerializationRootObject.RootSetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.ISerializationRootObject.RootSetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.ISerializationRootObject.RootSetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.ISerializationRootObject.RootSetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.ISerializationRootObject.RootSetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.ISerializationRootObject.RootSetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.ISerializationRootObject.RootSetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.ISerializationRootObject.RootSetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.ISerializationRootObject.RootSetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.ISerializationRootObject.RootSetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.ISerializationRootObject.RootSetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.ISerializationRootObject.RootSetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.ISerializationRootObject.RootSetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.ISerializationRootObject.RootSetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -982,6 +1254,23 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.TypeName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.TypeName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.TypeName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.TypeName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.TypeName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.TypeName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.TypeName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.TypeName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.TypeName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.TypeName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.TypeName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.TypeName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.TypeName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.TypeName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.TypeName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.TypeName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.TypeName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMethodMessage.TypeName</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -1014,6 +1303,8 @@
       <MemberSignature Language="F#" Value="member this.Uri : string with get, set" Usage="System.Runtime.Remoting.Messaging.MethodCall.Uri" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IInternalMessage.Uri</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IInternalMessage.Uri</InterfaceMember>
         <InterfaceMember>P:System.Runtime.Remoting.Messaging.IInternalMessage.Uri</InterfaceMember>
       </Implements>
       <AssemblyInfo>

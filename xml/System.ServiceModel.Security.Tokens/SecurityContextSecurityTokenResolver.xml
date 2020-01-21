@@ -100,6 +100,18 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.AddContext(System.ServiceModel.Security.Tokens.SecurityContextSecurityToken)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.AddContext(System.ServiceModel.Security.Tokens.SecurityContextSecurityToken)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.AddContext(System.ServiceModel.Security.Tokens.SecurityContextSecurityToken)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.AddContext(System.ServiceModel.Security.Tokens.SecurityContextSecurityToken)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.AddContext(System.ServiceModel.Security.Tokens.SecurityContextSecurityToken)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.AddContext(System.ServiceModel.Security.Tokens.SecurityContextSecurityToken)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.AddContext(System.ServiceModel.Security.Tokens.SecurityContextSecurityToken)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.AddContext(System.ServiceModel.Security.Tokens.SecurityContextSecurityToken)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.AddContext(System.ServiceModel.Security.Tokens.SecurityContextSecurityToken)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.AddContext(System.ServiceModel.Security.Tokens.SecurityContextSecurityToken)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.AddContext(System.ServiceModel.Security.Tokens.SecurityContextSecurityToken)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.AddContext(System.ServiceModel.Security.Tokens.SecurityContextSecurityToken)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.AddContext(System.ServiceModel.Security.Tokens.SecurityContextSecurityToken)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -128,6 +140,18 @@
       <MemberSignature Language="F#" Value="abstract member ClearContexts : unit -&gt; unit&#xA;override this.ClearContexts : unit -&gt; unit" Usage="securityContextSecurityTokenResolver.ClearContexts " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.ClearContexts</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.ClearContexts</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.ClearContexts</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.ClearContexts</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.ClearContexts</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.ClearContexts</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.ClearContexts</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.ClearContexts</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.ClearContexts</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.ClearContexts</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.ClearContexts</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.ClearContexts</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.ClearContexts</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -180,6 +204,18 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.GetAllContexts(System.Xml.UniqueId)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.GetAllContexts(System.Xml.UniqueId)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.GetAllContexts(System.Xml.UniqueId)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.GetAllContexts(System.Xml.UniqueId)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.GetAllContexts(System.Xml.UniqueId)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.GetAllContexts(System.Xml.UniqueId)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.GetAllContexts(System.Xml.UniqueId)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.GetAllContexts(System.Xml.UniqueId)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.GetAllContexts(System.Xml.UniqueId)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.GetAllContexts(System.Xml.UniqueId)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.GetAllContexts(System.Xml.UniqueId)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.GetAllContexts(System.Xml.UniqueId)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.GetAllContexts(System.Xml.UniqueId)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -208,6 +244,18 @@
       <MemberSignature Language="F#" Value="abstract member GetContext : System.Xml.UniqueId * System.Xml.UniqueId -&gt; System.ServiceModel.Security.Tokens.SecurityContextSecurityToken&#xA;override this.GetContext : System.Xml.UniqueId * System.Xml.UniqueId -&gt; System.ServiceModel.Security.Tokens.SecurityContextSecurityToken" Usage="securityContextSecurityTokenResolver.GetContext (contextId, generation)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.GetContext(System.Xml.UniqueId,System.Xml.UniqueId)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.GetContext(System.Xml.UniqueId,System.Xml.UniqueId)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.GetContext(System.Xml.UniqueId,System.Xml.UniqueId)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.GetContext(System.Xml.UniqueId,System.Xml.UniqueId)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.GetContext(System.Xml.UniqueId,System.Xml.UniqueId)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.GetContext(System.Xml.UniqueId,System.Xml.UniqueId)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.GetContext(System.Xml.UniqueId,System.Xml.UniqueId)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.GetContext(System.Xml.UniqueId,System.Xml.UniqueId)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.GetContext(System.Xml.UniqueId,System.Xml.UniqueId)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.GetContext(System.Xml.UniqueId,System.Xml.UniqueId)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.GetContext(System.Xml.UniqueId,System.Xml.UniqueId)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.GetContext(System.Xml.UniqueId,System.Xml.UniqueId)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.GetContext(System.Xml.UniqueId,System.Xml.UniqueId)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -240,6 +288,18 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.RemoveAllContexts(System.Xml.UniqueId)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.RemoveAllContexts(System.Xml.UniqueId)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.RemoveAllContexts(System.Xml.UniqueId)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.RemoveAllContexts(System.Xml.UniqueId)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.RemoveAllContexts(System.Xml.UniqueId)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.RemoveAllContexts(System.Xml.UniqueId)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.RemoveAllContexts(System.Xml.UniqueId)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.RemoveAllContexts(System.Xml.UniqueId)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.RemoveAllContexts(System.Xml.UniqueId)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.RemoveAllContexts(System.Xml.UniqueId)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.RemoveAllContexts(System.Xml.UniqueId)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.RemoveAllContexts(System.Xml.UniqueId)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.RemoveAllContexts(System.Xml.UniqueId)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -267,6 +327,18 @@
       <MemberSignature Language="F#" Value="abstract member RemoveContext : System.Xml.UniqueId * System.Xml.UniqueId -&gt; unit&#xA;override this.RemoveContext : System.Xml.UniqueId * System.Xml.UniqueId -&gt; unit" Usage="securityContextSecurityTokenResolver.RemoveContext (contextId, generation)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.RemoveContext(System.Xml.UniqueId,System.Xml.UniqueId)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.RemoveContext(System.Xml.UniqueId,System.Xml.UniqueId)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.RemoveContext(System.Xml.UniqueId,System.Xml.UniqueId)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.RemoveContext(System.Xml.UniqueId,System.Xml.UniqueId)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.RemoveContext(System.Xml.UniqueId,System.Xml.UniqueId)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.RemoveContext(System.Xml.UniqueId,System.Xml.UniqueId)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.RemoveContext(System.Xml.UniqueId,System.Xml.UniqueId)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.RemoveContext(System.Xml.UniqueId,System.Xml.UniqueId)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.RemoveContext(System.Xml.UniqueId,System.Xml.UniqueId)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.RemoveContext(System.Xml.UniqueId,System.Xml.UniqueId)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.RemoveContext(System.Xml.UniqueId,System.Xml.UniqueId)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.RemoveContext(System.Xml.UniqueId,System.Xml.UniqueId)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.RemoveContext(System.Xml.UniqueId,System.Xml.UniqueId)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -352,6 +424,18 @@
       <MemberSignature Language="F#" Value="abstract member TryAddContext : System.ServiceModel.Security.Tokens.SecurityContextSecurityToken -&gt; bool&#xA;override this.TryAddContext : System.ServiceModel.Security.Tokens.SecurityContextSecurityToken -&gt; bool" Usage="securityContextSecurityTokenResolver.TryAddContext token" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.TryAddContext(System.ServiceModel.Security.Tokens.SecurityContextSecurityToken)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.TryAddContext(System.ServiceModel.Security.Tokens.SecurityContextSecurityToken)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.TryAddContext(System.ServiceModel.Security.Tokens.SecurityContextSecurityToken)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.TryAddContext(System.ServiceModel.Security.Tokens.SecurityContextSecurityToken)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.TryAddContext(System.ServiceModel.Security.Tokens.SecurityContextSecurityToken)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.TryAddContext(System.ServiceModel.Security.Tokens.SecurityContextSecurityToken)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.TryAddContext(System.ServiceModel.Security.Tokens.SecurityContextSecurityToken)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.TryAddContext(System.ServiceModel.Security.Tokens.SecurityContextSecurityToken)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.TryAddContext(System.ServiceModel.Security.Tokens.SecurityContextSecurityToken)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.TryAddContext(System.ServiceModel.Security.Tokens.SecurityContextSecurityToken)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.TryAddContext(System.ServiceModel.Security.Tokens.SecurityContextSecurityToken)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.TryAddContext(System.ServiceModel.Security.Tokens.SecurityContextSecurityToken)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.TryAddContext(System.ServiceModel.Security.Tokens.SecurityContextSecurityToken)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -480,6 +564,18 @@
       <MemberSignature Language="F#" Value="abstract member UpdateContextCachingTime : System.ServiceModel.Security.Tokens.SecurityContextSecurityToken * DateTime -&gt; unit&#xA;override this.UpdateContextCachingTime : System.ServiceModel.Security.Tokens.SecurityContextSecurityToken * DateTime -&gt; unit" Usage="securityContextSecurityTokenResolver.UpdateContextCachingTime (context, expirationTime)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.UpdateContextCachingTime(System.ServiceModel.Security.Tokens.SecurityContextSecurityToken,System.DateTime)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.UpdateContextCachingTime(System.ServiceModel.Security.Tokens.SecurityContextSecurityToken,System.DateTime)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.UpdateContextCachingTime(System.ServiceModel.Security.Tokens.SecurityContextSecurityToken,System.DateTime)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.UpdateContextCachingTime(System.ServiceModel.Security.Tokens.SecurityContextSecurityToken,System.DateTime)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.UpdateContextCachingTime(System.ServiceModel.Security.Tokens.SecurityContextSecurityToken,System.DateTime)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.UpdateContextCachingTime(System.ServiceModel.Security.Tokens.SecurityContextSecurityToken,System.DateTime)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.UpdateContextCachingTime(System.ServiceModel.Security.Tokens.SecurityContextSecurityToken,System.DateTime)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.UpdateContextCachingTime(System.ServiceModel.Security.Tokens.SecurityContextSecurityToken,System.DateTime)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.UpdateContextCachingTime(System.ServiceModel.Security.Tokens.SecurityContextSecurityToken,System.DateTime)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.UpdateContextCachingTime(System.ServiceModel.Security.Tokens.SecurityContextSecurityToken,System.DateTime)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.UpdateContextCachingTime(System.ServiceModel.Security.Tokens.SecurityContextSecurityToken,System.DateTime)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.UpdateContextCachingTime(System.ServiceModel.Security.Tokens.SecurityContextSecurityToken,System.DateTime)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Security.Tokens.ISecurityContextSecurityTokenCache.UpdateContextCachingTime(System.ServiceModel.Security.Tokens.SecurityContextSecurityToken,System.DateTime)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

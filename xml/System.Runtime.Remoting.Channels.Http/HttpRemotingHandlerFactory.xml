@@ -60,6 +60,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.IHttpHandlerFactory.GetHandler(System.Web.HttpContext,System.String,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandlerFactory.GetHandler(System.Web.HttpContext,System.String,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandlerFactory.GetHandler(System.Web.HttpContext,System.String,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandlerFactory.GetHandler(System.Web.HttpContext,System.String,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandlerFactory.GetHandler(System.Web.HttpContext,System.String,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandlerFactory.GetHandler(System.Web.HttpContext,System.String,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandlerFactory.GetHandler(System.Web.HttpContext,System.String,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandlerFactory.GetHandler(System.Web.HttpContext,System.String,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandlerFactory.GetHandler(System.Web.HttpContext,System.String,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandlerFactory.GetHandler(System.Web.HttpContext,System.String,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandlerFactory.GetHandler(System.Web.HttpContext,System.String,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandlerFactory.GetHandler(System.Web.HttpContext,System.String,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandlerFactory.GetHandler(System.Web.HttpContext,System.String,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandlerFactory.GetHandler(System.Web.HttpContext,System.String,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandlerFactory.GetHandler(System.Web.HttpContext,System.String,System.String,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Runtime.Remoting</AssemblyName>
@@ -102,6 +116,20 @@
       <MemberSignature Language="F#" Value="abstract member ReleaseHandler : System.Web.IHttpHandler -&gt; unit&#xA;override this.ReleaseHandler : System.Web.IHttpHandler -&gt; unit" Usage="httpRemotingHandlerFactory.ReleaseHandler handler" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.IHttpHandlerFactory.ReleaseHandler(System.Web.IHttpHandler)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandlerFactory.ReleaseHandler(System.Web.IHttpHandler)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandlerFactory.ReleaseHandler(System.Web.IHttpHandler)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandlerFactory.ReleaseHandler(System.Web.IHttpHandler)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandlerFactory.ReleaseHandler(System.Web.IHttpHandler)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandlerFactory.ReleaseHandler(System.Web.IHttpHandler)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandlerFactory.ReleaseHandler(System.Web.IHttpHandler)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandlerFactory.ReleaseHandler(System.Web.IHttpHandler)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandlerFactory.ReleaseHandler(System.Web.IHttpHandler)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandlerFactory.ReleaseHandler(System.Web.IHttpHandler)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandlerFactory.ReleaseHandler(System.Web.IHttpHandler)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandlerFactory.ReleaseHandler(System.Web.IHttpHandler)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandlerFactory.ReleaseHandler(System.Web.IHttpHandler)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpHandlerFactory.ReleaseHandler(System.Web.IHttpHandler)</InterfaceMember>
         <InterfaceMember>M:System.Web.IHttpHandlerFactory.ReleaseHandler(System.Web.IHttpHandler)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

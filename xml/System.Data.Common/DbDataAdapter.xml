@@ -609,6 +609,29 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.IDataAdapter.Fill(System.Data.DataSet)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.Fill(System.Data.DataSet)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.Fill(System.Data.DataSet)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.Fill(System.Data.DataSet)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.Fill(System.Data.DataSet)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.Fill(System.Data.DataSet)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.Fill(System.Data.DataSet)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.Fill(System.Data.DataSet)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.Fill(System.Data.DataSet)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.Fill(System.Data.DataSet)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.Fill(System.Data.DataSet)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.Fill(System.Data.DataSet)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.Fill(System.Data.DataSet)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.Fill(System.Data.DataSet)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.Fill(System.Data.DataSet)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.Fill(System.Data.DataSet)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.Fill(System.Data.DataSet)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.Fill(System.Data.DataSet)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.Fill(System.Data.DataSet)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.Fill(System.Data.DataSet)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.Fill(System.Data.DataSet)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.Fill(System.Data.DataSet)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.Fill(System.Data.DataSet)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.Fill(System.Data.DataSet)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data</AssemblyName>
@@ -1481,6 +1504,29 @@ adapter.Fill(dataset, "AAA"); // Fills table "aaa" because only one similarly na
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.IDataAdapter.FillSchema(System.Data.DataSet,System.Data.SchemaType)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.FillSchema(System.Data.DataSet,System.Data.SchemaType)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.FillSchema(System.Data.DataSet,System.Data.SchemaType)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.FillSchema(System.Data.DataSet,System.Data.SchemaType)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.FillSchema(System.Data.DataSet,System.Data.SchemaType)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.FillSchema(System.Data.DataSet,System.Data.SchemaType)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.FillSchema(System.Data.DataSet,System.Data.SchemaType)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.FillSchema(System.Data.DataSet,System.Data.SchemaType)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.FillSchema(System.Data.DataSet,System.Data.SchemaType)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.FillSchema(System.Data.DataSet,System.Data.SchemaType)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.FillSchema(System.Data.DataSet,System.Data.SchemaType)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.FillSchema(System.Data.DataSet,System.Data.SchemaType)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.FillSchema(System.Data.DataSet,System.Data.SchemaType)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.FillSchema(System.Data.DataSet,System.Data.SchemaType)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.FillSchema(System.Data.DataSet,System.Data.SchemaType)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.FillSchema(System.Data.DataSet,System.Data.SchemaType)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.FillSchema(System.Data.DataSet,System.Data.SchemaType)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.FillSchema(System.Data.DataSet,System.Data.SchemaType)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.FillSchema(System.Data.DataSet,System.Data.SchemaType)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.FillSchema(System.Data.DataSet,System.Data.SchemaType)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.FillSchema(System.Data.DataSet,System.Data.SchemaType)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.FillSchema(System.Data.DataSet,System.Data.SchemaType)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.FillSchema(System.Data.DataSet,System.Data.SchemaType)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.FillSchema(System.Data.DataSet,System.Data.SchemaType)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data</AssemblyName>
@@ -2085,6 +2131,29 @@ adapter.FillSchema(dataset, "AAA"); // Fills the schema of table "aaa" because o
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.IDataAdapter.GetFillParameters</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.GetFillParameters</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.GetFillParameters</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.GetFillParameters</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.GetFillParameters</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.GetFillParameters</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.GetFillParameters</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.GetFillParameters</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.GetFillParameters</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.GetFillParameters</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.GetFillParameters</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.GetFillParameters</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.GetFillParameters</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.GetFillParameters</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.GetFillParameters</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.GetFillParameters</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.GetFillParameters</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.GetFillParameters</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.GetFillParameters</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.GetFillParameters</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.GetFillParameters</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.GetFillParameters</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.GetFillParameters</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.GetFillParameters</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data</AssemblyName>
@@ -2432,6 +2501,29 @@ adapter.FillSchema(dataset, "AAA"); // Fills the schema of table "aaa" because o
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Data.IDbDataAdapter.DeleteCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.DeleteCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.DeleteCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.DeleteCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.DeleteCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.DeleteCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.DeleteCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.DeleteCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.DeleteCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.DeleteCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.DeleteCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.DeleteCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.DeleteCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.DeleteCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.DeleteCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.DeleteCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.DeleteCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.DeleteCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.DeleteCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.DeleteCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.DeleteCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.DeleteCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.DeleteCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.DeleteCommand</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data</AssemblyName>
@@ -2478,6 +2570,29 @@ adapter.FillSchema(dataset, "AAA"); // Fills the schema of table "aaa" because o
       <MemberSignature Language="F#" Usage="System.Data.IDbDataAdapter.InsertCommand" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.InsertCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.InsertCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.InsertCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.InsertCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.InsertCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.InsertCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.InsertCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.InsertCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.InsertCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.InsertCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.InsertCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.InsertCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.InsertCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.InsertCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.InsertCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.InsertCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.InsertCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.InsertCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.InsertCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.InsertCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.InsertCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.InsertCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.InsertCommand</InterfaceMember>
         <InterfaceMember>P:System.Data.IDbDataAdapter.InsertCommand</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2526,6 +2641,29 @@ adapter.FillSchema(dataset, "AAA"); // Fills the schema of table "aaa" because o
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Data.IDbDataAdapter.SelectCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.SelectCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.SelectCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.SelectCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.SelectCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.SelectCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.SelectCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.SelectCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.SelectCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.SelectCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.SelectCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.SelectCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.SelectCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.SelectCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.SelectCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.SelectCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.SelectCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.SelectCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.SelectCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.SelectCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.SelectCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.SelectCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.SelectCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.SelectCommand</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data</AssemblyName>
@@ -2573,6 +2711,29 @@ adapter.FillSchema(dataset, "AAA"); // Fills the schema of table "aaa" because o
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Data.IDbDataAdapter.UpdateCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.UpdateCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.UpdateCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.UpdateCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.UpdateCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.UpdateCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.UpdateCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.UpdateCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.UpdateCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.UpdateCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.UpdateCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.UpdateCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.UpdateCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.UpdateCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.UpdateCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.UpdateCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.UpdateCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.UpdateCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.UpdateCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.UpdateCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.UpdateCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.UpdateCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.UpdateCommand</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataAdapter.UpdateCommand</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data</AssemblyName>
@@ -2618,6 +2779,30 @@ adapter.FillSchema(dataset, "AAA"); // Fills the schema of table "aaa" because o
       <MemberSignature Language="C++ CLI" Value=" virtual System::Object ^ System.ICloneable.Clone() = ICloneable::Clone;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
         <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2841,6 +3026,29 @@ adapter.FillSchema(dataset, "AAA"); // Fills the schema of table "aaa" because o
       <MemberSignature Language="F#" Value="override this.Update : System.Data.DataSet -&gt; int" Usage="dbDataAdapter.Update dataSet" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Data.IDataAdapter.Update(System.Data.DataSet)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.Update(System.Data.DataSet)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.Update(System.Data.DataSet)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.Update(System.Data.DataSet)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.Update(System.Data.DataSet)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.Update(System.Data.DataSet)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.Update(System.Data.DataSet)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.Update(System.Data.DataSet)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.Update(System.Data.DataSet)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.Update(System.Data.DataSet)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.Update(System.Data.DataSet)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.Update(System.Data.DataSet)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.Update(System.Data.DataSet)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.Update(System.Data.DataSet)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.Update(System.Data.DataSet)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.Update(System.Data.DataSet)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.Update(System.Data.DataSet)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.Update(System.Data.DataSet)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.Update(System.Data.DataSet)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.Update(System.Data.DataSet)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.Update(System.Data.DataSet)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.Update(System.Data.DataSet)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDataAdapter.Update(System.Data.DataSet)</InterfaceMember>
         <InterfaceMember>M:System.Data.IDataAdapter.Update(System.Data.DataSet)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

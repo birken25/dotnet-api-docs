@@ -61,6 +61,12 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Extensions.FileSystemGlobbing.Internal.IPathSegment.CanProduceStem</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.FileSystemGlobbing.Internal.IPathSegment.CanProduceStem</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.FileSystemGlobbing.Internal.IPathSegment.CanProduceStem</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.FileSystemGlobbing.Internal.IPathSegment.CanProduceStem</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.FileSystemGlobbing.Internal.IPathSegment.CanProduceStem</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.FileSystemGlobbing.Internal.IPathSegment.CanProduceStem</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.FileSystemGlobbing.Internal.IPathSegment.CanProduceStem</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.FileSystemGlobbing</AssemblyName>
@@ -90,6 +96,12 @@
       <MemberSignature Language="F#" Value="abstract member Match : string -&gt; bool&#xA;override this.Match : string -&gt; bool" Usage="parentPathSegment.Match value" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Extensions.FileSystemGlobbing.Internal.IPathSegment.Match(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.FileSystemGlobbing.Internal.IPathSegment.Match(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.FileSystemGlobbing.Internal.IPathSegment.Match(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.FileSystemGlobbing.Internal.IPathSegment.Match(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.FileSystemGlobbing.Internal.IPathSegment.Match(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.FileSystemGlobbing.Internal.IPathSegment.Match(System.String)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Extensions.FileSystemGlobbing.Internal.IPathSegment.Match(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

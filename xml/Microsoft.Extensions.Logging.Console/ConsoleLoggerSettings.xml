@@ -134,6 +134,10 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Extensions.Logging.Console.IConsoleLoggerSettings.Reload</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.Console.IConsoleLoggerSettings.Reload</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.Console.IConsoleLoggerSettings.Reload</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.Console.IConsoleLoggerSettings.Reload</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.Console.IConsoleLoggerSettings.Reload</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Logging.Console</AssemblyName>
@@ -187,6 +191,10 @@
       <MemberSignature Language="F#" Value="abstract member TryGetSwitch : string * LogLevel -&gt; bool&#xA;override this.TryGetSwitch : string * LogLevel -&gt; bool" Usage="consoleLoggerSettings.TryGetSwitch (name, level)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.Console.IConsoleLoggerSettings.TryGetSwitch(System.String,Microsoft.Extensions.Logging.LogLevel@)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.Console.IConsoleLoggerSettings.TryGetSwitch(System.String,Microsoft.Extensions.Logging.LogLevel@)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.Console.IConsoleLoggerSettings.TryGetSwitch(System.String,Microsoft.Extensions.Logging.LogLevel@)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.Console.IConsoleLoggerSettings.TryGetSwitch(System.String,Microsoft.Extensions.Logging.LogLevel@)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Extensions.Logging.Console.IConsoleLoggerSettings.TryGetSwitch(System.String,Microsoft.Extensions.Logging.LogLevel@)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

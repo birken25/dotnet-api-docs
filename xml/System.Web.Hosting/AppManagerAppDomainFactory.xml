@@ -53,6 +53,19 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.Hosting.IAppManagerAppDomainFactory.Create(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAppManagerAppDomainFactory.Create(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAppManagerAppDomainFactory.Create(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAppManagerAppDomainFactory.Create(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAppManagerAppDomainFactory.Create(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAppManagerAppDomainFactory.Create(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAppManagerAppDomainFactory.Create(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAppManagerAppDomainFactory.Create(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAppManagerAppDomainFactory.Create(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAppManagerAppDomainFactory.Create(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAppManagerAppDomainFactory.Create(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAppManagerAppDomainFactory.Create(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAppManagerAppDomainFactory.Create(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAppManagerAppDomainFactory.Create(System.String,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -84,6 +97,19 @@
       <MemberSignature Language="F#" Value="abstract member Stop : unit -&gt; unit&#xA;override this.Stop : unit -&gt; unit" Usage="appManagerAppDomainFactory.Stop " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.Hosting.IAppManagerAppDomainFactory.Stop</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAppManagerAppDomainFactory.Stop</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAppManagerAppDomainFactory.Stop</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAppManagerAppDomainFactory.Stop</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAppManagerAppDomainFactory.Stop</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAppManagerAppDomainFactory.Stop</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAppManagerAppDomainFactory.Stop</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAppManagerAppDomainFactory.Stop</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAppManagerAppDomainFactory.Stop</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAppManagerAppDomainFactory.Stop</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAppManagerAppDomainFactory.Stop</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAppManagerAppDomainFactory.Stop</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IAppManagerAppDomainFactory.Stop</InterfaceMember>
         <InterfaceMember>M:System.Web.Hosting.IAppManagerAppDomainFactory.Stop</InterfaceMember>
       </Implements>
       <AssemblyInfo>

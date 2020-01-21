@@ -548,6 +548,17 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.FillInstance(System.ServiceModel.Administration.IWmiInstance)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.FillInstance(System.ServiceModel.Administration.IWmiInstance)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.FillInstance(System.ServiceModel.Administration.IWmiInstance)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.FillInstance(System.ServiceModel.Administration.IWmiInstance)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.FillInstance(System.ServiceModel.Administration.IWmiInstance)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.FillInstance(System.ServiceModel.Administration.IWmiInstance)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.FillInstance(System.ServiceModel.Administration.IWmiInstance)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.FillInstance(System.ServiceModel.Administration.IWmiInstance)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.FillInstance(System.ServiceModel.Administration.IWmiInstance)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.FillInstance(System.ServiceModel.Administration.IWmiInstance)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.FillInstance(System.ServiceModel.Administration.IWmiInstance)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.FillInstance(System.ServiceModel.Administration.IWmiInstance)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel.Web</AssemblyName>
@@ -575,6 +586,17 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.GetInstanceType</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.GetInstanceType</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.GetInstanceType</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.GetInstanceType</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.GetInstanceType</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.GetInstanceType</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.GetInstanceType</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.GetInstanceType</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.GetInstanceType</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.GetInstanceType</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.GetInstanceType</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.GetInstanceType</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel.Web</AssemblyName>
@@ -599,6 +621,17 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.ServiceModel.Description.IWsdlExportExtension.ExportContract(System::ServiceModel::Description::WsdlExporter ^ exporter, System::ServiceModel::Description::WsdlContractConversionContext ^ context) = System::ServiceModel::Description::IWsdlExportExtension::ExportContract;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ServiceModel.Description.IWsdlExportExtension.ExportContract(System.ServiceModel.Description.WsdlExporter,System.ServiceModel.Description.WsdlContractConversionContext)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Description.IWsdlExportExtension.ExportContract(System.ServiceModel.Description.WsdlExporter,System.ServiceModel.Description.WsdlContractConversionContext)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Description.IWsdlExportExtension.ExportContract(System.ServiceModel.Description.WsdlExporter,System.ServiceModel.Description.WsdlContractConversionContext)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Description.IWsdlExportExtension.ExportContract(System.ServiceModel.Description.WsdlExporter,System.ServiceModel.Description.WsdlContractConversionContext)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Description.IWsdlExportExtension.ExportContract(System.ServiceModel.Description.WsdlExporter,System.ServiceModel.Description.WsdlContractConversionContext)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Description.IWsdlExportExtension.ExportContract(System.ServiceModel.Description.WsdlExporter,System.ServiceModel.Description.WsdlContractConversionContext)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Description.IWsdlExportExtension.ExportContract(System.ServiceModel.Description.WsdlExporter,System.ServiceModel.Description.WsdlContractConversionContext)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Description.IWsdlExportExtension.ExportContract(System.ServiceModel.Description.WsdlExporter,System.ServiceModel.Description.WsdlContractConversionContext)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Description.IWsdlExportExtension.ExportContract(System.ServiceModel.Description.WsdlExporter,System.ServiceModel.Description.WsdlContractConversionContext)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Description.IWsdlExportExtension.ExportContract(System.ServiceModel.Description.WsdlExporter,System.ServiceModel.Description.WsdlContractConversionContext)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Description.IWsdlExportExtension.ExportContract(System.ServiceModel.Description.WsdlExporter,System.ServiceModel.Description.WsdlContractConversionContext)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Description.IWsdlExportExtension.ExportContract(System.ServiceModel.Description.WsdlExporter,System.ServiceModel.Description.WsdlContractConversionContext)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -635,6 +668,17 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.ServiceModel.Description.IWsdlExportExtension.ExportEndpoint(System::ServiceModel::Description::WsdlExporter ^ exporter, System::ServiceModel::Description::WsdlEndpointConversionContext ^ context) = System::ServiceModel::Description::IWsdlExportExtension::ExportEndpoint;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ServiceModel.Description.IWsdlExportExtension.ExportEndpoint(System.ServiceModel.Description.WsdlExporter,System.ServiceModel.Description.WsdlEndpointConversionContext)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Description.IWsdlExportExtension.ExportEndpoint(System.ServiceModel.Description.WsdlExporter,System.ServiceModel.Description.WsdlEndpointConversionContext)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Description.IWsdlExportExtension.ExportEndpoint(System.ServiceModel.Description.WsdlExporter,System.ServiceModel.Description.WsdlEndpointConversionContext)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Description.IWsdlExportExtension.ExportEndpoint(System.ServiceModel.Description.WsdlExporter,System.ServiceModel.Description.WsdlEndpointConversionContext)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Description.IWsdlExportExtension.ExportEndpoint(System.ServiceModel.Description.WsdlExporter,System.ServiceModel.Description.WsdlEndpointConversionContext)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Description.IWsdlExportExtension.ExportEndpoint(System.ServiceModel.Description.WsdlExporter,System.ServiceModel.Description.WsdlEndpointConversionContext)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Description.IWsdlExportExtension.ExportEndpoint(System.ServiceModel.Description.WsdlExporter,System.ServiceModel.Description.WsdlEndpointConversionContext)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Description.IWsdlExportExtension.ExportEndpoint(System.ServiceModel.Description.WsdlExporter,System.ServiceModel.Description.WsdlEndpointConversionContext)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Description.IWsdlExportExtension.ExportEndpoint(System.ServiceModel.Description.WsdlExporter,System.ServiceModel.Description.WsdlEndpointConversionContext)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Description.IWsdlExportExtension.ExportEndpoint(System.ServiceModel.Description.WsdlExporter,System.ServiceModel.Description.WsdlEndpointConversionContext)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Description.IWsdlExportExtension.ExportEndpoint(System.ServiceModel.Description.WsdlExporter,System.ServiceModel.Description.WsdlEndpointConversionContext)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Description.IWsdlExportExtension.ExportEndpoint(System.ServiceModel.Description.WsdlExporter,System.ServiceModel.Description.WsdlEndpointConversionContext)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

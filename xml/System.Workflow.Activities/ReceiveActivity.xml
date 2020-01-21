@@ -979,6 +979,17 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Workflow.Activities.IEventActivity.QueueName</InterfaceMember>
+        <InterfaceMember>P:System.Workflow.Activities.IEventActivity.QueueName</InterfaceMember>
+        <InterfaceMember>P:System.Workflow.Activities.IEventActivity.QueueName</InterfaceMember>
+        <InterfaceMember>P:System.Workflow.Activities.IEventActivity.QueueName</InterfaceMember>
+        <InterfaceMember>P:System.Workflow.Activities.IEventActivity.QueueName</InterfaceMember>
+        <InterfaceMember>P:System.Workflow.Activities.IEventActivity.QueueName</InterfaceMember>
+        <InterfaceMember>P:System.Workflow.Activities.IEventActivity.QueueName</InterfaceMember>
+        <InterfaceMember>P:System.Workflow.Activities.IEventActivity.QueueName</InterfaceMember>
+        <InterfaceMember>P:System.Workflow.Activities.IEventActivity.QueueName</InterfaceMember>
+        <InterfaceMember>P:System.Workflow.Activities.IEventActivity.QueueName</InterfaceMember>
+        <InterfaceMember>P:System.Workflow.Activities.IEventActivity.QueueName</InterfaceMember>
+        <InterfaceMember>P:System.Workflow.Activities.IEventActivity.QueueName</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.WorkflowServices</AssemblyName>
@@ -1002,6 +1013,17 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Workflow.Activities.IEventActivity.Subscribe(System::Workflow::ComponentModel::ActivityExecutionContext ^ parentContext, System::Workflow::ComponentModel::IActivityEventListener&lt;System::Workflow::ComponentModel::QueueEventArgs ^&gt; ^ parentEventHandler) = System::Workflow::Activities::IEventActivity::Subscribe;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Workflow.Activities.IEventActivity.Subscribe(System.Workflow.ComponentModel.ActivityExecutionContext,System.Workflow.ComponentModel.IActivityEventListener{System.Workflow.ComponentModel.QueueEventArgs})</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.Activities.IEventActivity.Subscribe(System.Workflow.ComponentModel.ActivityExecutionContext,System.Workflow.ComponentModel.IActivityEventListener{System.Workflow.ComponentModel.QueueEventArgs})</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.Activities.IEventActivity.Subscribe(System.Workflow.ComponentModel.ActivityExecutionContext,System.Workflow.ComponentModel.IActivityEventListener{System.Workflow.ComponentModel.QueueEventArgs})</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.Activities.IEventActivity.Subscribe(System.Workflow.ComponentModel.ActivityExecutionContext,System.Workflow.ComponentModel.IActivityEventListener{System.Workflow.ComponentModel.QueueEventArgs})</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.Activities.IEventActivity.Subscribe(System.Workflow.ComponentModel.ActivityExecutionContext,System.Workflow.ComponentModel.IActivityEventListener{System.Workflow.ComponentModel.QueueEventArgs})</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.Activities.IEventActivity.Subscribe(System.Workflow.ComponentModel.ActivityExecutionContext,System.Workflow.ComponentModel.IActivityEventListener{System.Workflow.ComponentModel.QueueEventArgs})</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.Activities.IEventActivity.Subscribe(System.Workflow.ComponentModel.ActivityExecutionContext,System.Workflow.ComponentModel.IActivityEventListener{System.Workflow.ComponentModel.QueueEventArgs})</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.Activities.IEventActivity.Subscribe(System.Workflow.ComponentModel.ActivityExecutionContext,System.Workflow.ComponentModel.IActivityEventListener{System.Workflow.ComponentModel.QueueEventArgs})</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.Activities.IEventActivity.Subscribe(System.Workflow.ComponentModel.ActivityExecutionContext,System.Workflow.ComponentModel.IActivityEventListener{System.Workflow.ComponentModel.QueueEventArgs})</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.Activities.IEventActivity.Subscribe(System.Workflow.ComponentModel.ActivityExecutionContext,System.Workflow.ComponentModel.IActivityEventListener{System.Workflow.ComponentModel.QueueEventArgs})</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.Activities.IEventActivity.Subscribe(System.Workflow.ComponentModel.ActivityExecutionContext,System.Workflow.ComponentModel.IActivityEventListener{System.Workflow.ComponentModel.QueueEventArgs})</InterfaceMember>
         <InterfaceMember>M:System.Workflow.Activities.IEventActivity.Subscribe(System.Workflow.ComponentModel.ActivityExecutionContext,System.Workflow.ComponentModel.IActivityEventListener{System.Workflow.ComponentModel.QueueEventArgs})</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1032,6 +1054,17 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Workflow.Activities.IEventActivity.Unsubscribe(System.Workflow.ComponentModel.ActivityExecutionContext,System.Workflow.ComponentModel.IActivityEventListener{System.Workflow.ComponentModel.QueueEventArgs})</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.Activities.IEventActivity.Unsubscribe(System.Workflow.ComponentModel.ActivityExecutionContext,System.Workflow.ComponentModel.IActivityEventListener{System.Workflow.ComponentModel.QueueEventArgs})</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.Activities.IEventActivity.Unsubscribe(System.Workflow.ComponentModel.ActivityExecutionContext,System.Workflow.ComponentModel.IActivityEventListener{System.Workflow.ComponentModel.QueueEventArgs})</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.Activities.IEventActivity.Unsubscribe(System.Workflow.ComponentModel.ActivityExecutionContext,System.Workflow.ComponentModel.IActivityEventListener{System.Workflow.ComponentModel.QueueEventArgs})</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.Activities.IEventActivity.Unsubscribe(System.Workflow.ComponentModel.ActivityExecutionContext,System.Workflow.ComponentModel.IActivityEventListener{System.Workflow.ComponentModel.QueueEventArgs})</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.Activities.IEventActivity.Unsubscribe(System.Workflow.ComponentModel.ActivityExecutionContext,System.Workflow.ComponentModel.IActivityEventListener{System.Workflow.ComponentModel.QueueEventArgs})</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.Activities.IEventActivity.Unsubscribe(System.Workflow.ComponentModel.ActivityExecutionContext,System.Workflow.ComponentModel.IActivityEventListener{System.Workflow.ComponentModel.QueueEventArgs})</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.Activities.IEventActivity.Unsubscribe(System.Workflow.ComponentModel.ActivityExecutionContext,System.Workflow.ComponentModel.IActivityEventListener{System.Workflow.ComponentModel.QueueEventArgs})</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.Activities.IEventActivity.Unsubscribe(System.Workflow.ComponentModel.ActivityExecutionContext,System.Workflow.ComponentModel.IActivityEventListener{System.Workflow.ComponentModel.QueueEventArgs})</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.Activities.IEventActivity.Unsubscribe(System.Workflow.ComponentModel.ActivityExecutionContext,System.Workflow.ComponentModel.IActivityEventListener{System.Workflow.ComponentModel.QueueEventArgs})</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.Activities.IEventActivity.Unsubscribe(System.Workflow.ComponentModel.ActivityExecutionContext,System.Workflow.ComponentModel.IActivityEventListener{System.Workflow.ComponentModel.QueueEventArgs})</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.Activities.IEventActivity.Unsubscribe(System.Workflow.ComponentModel.ActivityExecutionContext,System.Workflow.ComponentModel.IActivityEventListener{System.Workflow.ComponentModel.QueueEventArgs})</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.WorkflowServices</AssemblyName>
@@ -1060,6 +1093,17 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Workflow.ComponentModel.IActivityEventListener&lt;System.Workflow.ComponentModel.QueueEventArgs&gt;.OnEvent(System::Object ^ sender, System::Workflow::ComponentModel::QueueEventArgs ^ e) = System::Workflow::ComponentModel::IActivityEventListener&lt;System::Workflow::ComponentModel::QueueEventArgs ^&gt;::OnEvent;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Workflow.ComponentModel.IActivityEventListener`1.OnEvent(System.Object,`0)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.IActivityEventListener`1.OnEvent(System.Object,`0)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.IActivityEventListener`1.OnEvent(System.Object,`0)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.IActivityEventListener`1.OnEvent(System.Object,`0)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.IActivityEventListener`1.OnEvent(System.Object,`0)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.IActivityEventListener`1.OnEvent(System.Object,`0)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.IActivityEventListener`1.OnEvent(System.Object,`0)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.IActivityEventListener`1.OnEvent(System.Object,`0)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.IActivityEventListener`1.OnEvent(System.Object,`0)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.IActivityEventListener`1.OnEvent(System.Object,`0)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.IActivityEventListener`1.OnEvent(System.Object,`0)</InterfaceMember>
         <InterfaceMember>M:System.Workflow.ComponentModel.IActivityEventListener`1.OnEvent(System.Object,`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

@@ -172,6 +172,15 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.ModelBinding.IValueProviderSource.GetValueProvider(System.Web.ModelBinding.ModelBindingExecutionContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IValueProviderSource.GetValueProvider(System.Web.ModelBinding.ModelBindingExecutionContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IValueProviderSource.GetValueProvider(System.Web.ModelBinding.ModelBindingExecutionContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IValueProviderSource.GetValueProvider(System.Web.ModelBinding.ModelBindingExecutionContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IValueProviderSource.GetValueProvider(System.Web.ModelBinding.ModelBindingExecutionContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IValueProviderSource.GetValueProvider(System.Web.ModelBinding.ModelBindingExecutionContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IValueProviderSource.GetValueProvider(System.Web.ModelBinding.ModelBindingExecutionContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IValueProviderSource.GetValueProvider(System.Web.ModelBinding.ModelBindingExecutionContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IValueProviderSource.GetValueProvider(System.Web.ModelBinding.ModelBindingExecutionContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IValueProviderSource.GetValueProvider(System.Web.ModelBinding.ModelBindingExecutionContext)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -206,6 +215,15 @@
       <MemberSignature Language="F#" Value="member this.ValidateInput : bool with get, set" Usage="System.Web.ModelBinding.FormAttribute.ValidateInput" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Web.ModelBinding.IUnvalidatedValueProviderSource.ValidateInput</InterfaceMember>
+        <InterfaceMember>P:System.Web.ModelBinding.IUnvalidatedValueProviderSource.ValidateInput</InterfaceMember>
+        <InterfaceMember>P:System.Web.ModelBinding.IUnvalidatedValueProviderSource.ValidateInput</InterfaceMember>
+        <InterfaceMember>P:System.Web.ModelBinding.IUnvalidatedValueProviderSource.ValidateInput</InterfaceMember>
+        <InterfaceMember>P:System.Web.ModelBinding.IUnvalidatedValueProviderSource.ValidateInput</InterfaceMember>
+        <InterfaceMember>P:System.Web.ModelBinding.IUnvalidatedValueProviderSource.ValidateInput</InterfaceMember>
+        <InterfaceMember>P:System.Web.ModelBinding.IUnvalidatedValueProviderSource.ValidateInput</InterfaceMember>
+        <InterfaceMember>P:System.Web.ModelBinding.IUnvalidatedValueProviderSource.ValidateInput</InterfaceMember>
+        <InterfaceMember>P:System.Web.ModelBinding.IUnvalidatedValueProviderSource.ValidateInput</InterfaceMember>
         <InterfaceMember>P:System.Web.ModelBinding.IUnvalidatedValueProviderSource.ValidateInput</InterfaceMember>
       </Implements>
       <AssemblyInfo>

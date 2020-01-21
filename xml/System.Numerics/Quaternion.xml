@@ -89,8 +89,8 @@ w = cos(theta/2)
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
-        <Parameter Name="vectorPart" Type="System.Numerics.Vector3" Index="0" FrameworkAlternate="xamarinmac-3.0" />
-        <Parameter Name="scalarPart" Type="System.Single" Index="1" FrameworkAlternate="xamarinmac-3.0" />
+        <Parameter Name="vectorPart" Type="System.Numerics.Vector3" />
+        <Parameter Name="scalarPart" Type="System.Single" />
       </Parameters>
       <Docs>
         <param name="vectorPart">The vector part of the quaternion.</param>
@@ -128,10 +128,10 @@ w = cos(theta/2)
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
-        <Parameter Name="x" Type="System.Single" Index="0" FrameworkAlternate="xamarinmac-3.0" />
-        <Parameter Name="y" Type="System.Single" Index="1" FrameworkAlternate="xamarinmac-3.0" />
-        <Parameter Name="z" Type="System.Single" Index="2" FrameworkAlternate="xamarinmac-3.0" />
-        <Parameter Name="w" Type="System.Single" Index="3" FrameworkAlternate="xamarinmac-3.0" />
+        <Parameter Name="x" Type="System.Single" />
+        <Parameter Name="y" Type="System.Single" />
+        <Parameter Name="z" Type="System.Single" />
+        <Parameter Name="w" Type="System.Single" />
       </Parameters>
       <Docs>
         <param name="x">The value to assign to the X component of the quaternion.</param>
@@ -174,8 +174,8 @@ w = cos(theta/2)
         <ReturnType>System.Numerics.Quaternion</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="value1" Type="System.Numerics.Quaternion" Index="0" FrameworkAlternate="xamarinmac-3.0" />
-        <Parameter Name="value2" Type="System.Numerics.Quaternion" Index="1" FrameworkAlternate="xamarinmac-3.0" />
+        <Parameter Name="value1" Type="System.Numerics.Quaternion" />
+        <Parameter Name="value2" Type="System.Numerics.Quaternion" />
       </Parameters>
       <Docs>
         <param name="value1">The first quaternion.</param>
@@ -217,8 +217,8 @@ w = cos(theta/2)
         <ReturnType>System.Numerics.Quaternion</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="value1" Type="System.Numerics.Quaternion" Index="0" FrameworkAlternate="xamarinmac-3.0" />
-        <Parameter Name="value2" Type="System.Numerics.Quaternion" Index="1" FrameworkAlternate="xamarinmac-3.0" />
+        <Parameter Name="value1" Type="System.Numerics.Quaternion" />
+        <Parameter Name="value2" Type="System.Numerics.Quaternion" />
       </Parameters>
       <Docs>
         <param name="value1">The first quaternion rotation in the series.</param>
@@ -260,7 +260,7 @@ w = cos(theta/2)
         <ReturnType>System.Numerics.Quaternion</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="value" Type="System.Numerics.Quaternion" Index="0" FrameworkAlternate="xamarinmac-3.0" />
+        <Parameter Name="value" Type="System.Numerics.Quaternion" />
       </Parameters>
       <Docs>
         <param name="value">The quaternion.</param>
@@ -301,8 +301,8 @@ w = cos(theta/2)
         <ReturnType>System.Numerics.Quaternion</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="axis" Type="System.Numerics.Vector3" Index="0" FrameworkAlternate="xamarinmac-3.0" />
-        <Parameter Name="angle" Type="System.Single" Index="1" FrameworkAlternate="xamarinmac-3.0" />
+        <Parameter Name="axis" Type="System.Numerics.Vector3" />
+        <Parameter Name="angle" Type="System.Single" />
       </Parameters>
       <Docs>
         <param name="axis">The unit vector to rotate around.</param>
@@ -351,7 +351,7 @@ w = cos(theta/2)
         <ReturnType>System.Numerics.Quaternion</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="matrix" Type="System.Numerics.Matrix4x4" Index="0" FrameworkAlternate="xamarinmac-3.0" />
+        <Parameter Name="matrix" Type="System.Numerics.Matrix4x4" />
       </Parameters>
       <Docs>
         <param name="matrix">The rotation matrix.</param>
@@ -392,9 +392,9 @@ w = cos(theta/2)
         <ReturnType>System.Numerics.Quaternion</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="yaw" Type="System.Single" Index="0" FrameworkAlternate="xamarinmac-3.0" />
-        <Parameter Name="pitch" Type="System.Single" Index="1" FrameworkAlternate="xamarinmac-3.0" />
-        <Parameter Name="roll" Type="System.Single" Index="2" FrameworkAlternate="xamarinmac-3.0" />
+        <Parameter Name="yaw" Type="System.Single" />
+        <Parameter Name="pitch" Type="System.Single" />
+        <Parameter Name="roll" Type="System.Single" />
       </Parameters>
       <Docs>
         <param name="yaw">The yaw angle, in radians, around the Y axis.</param>
@@ -437,8 +437,8 @@ w = cos(theta/2)
         <ReturnType>System.Numerics.Quaternion</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="value1" Type="System.Numerics.Quaternion" Index="0" FrameworkAlternate="xamarinmac-3.0" />
-        <Parameter Name="value2" Type="System.Numerics.Quaternion" Index="1" FrameworkAlternate="xamarinmac-3.0" />
+        <Parameter Name="value1" Type="System.Numerics.Quaternion" />
+        <Parameter Name="value2" Type="System.Numerics.Quaternion" />
       </Parameters>
       <Docs>
         <param name="value1">The dividend.</param>
@@ -480,8 +480,8 @@ w = cos(theta/2)
         <ReturnType>System.Single</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="quaternion1" Type="System.Numerics.Quaternion" Index="0" FrameworkAlternate="xamarinmac-3.0" />
-        <Parameter Name="quaternion2" Type="System.Numerics.Quaternion" Index="1" FrameworkAlternate="xamarinmac-3.0" />
+        <Parameter Name="quaternion1" Type="System.Numerics.Quaternion" />
+        <Parameter Name="quaternion2" Type="System.Numerics.Quaternion" />
       </Parameters>
       <Docs>
         <param name="quaternion1">The first quaternion.</param>
@@ -513,6 +513,27 @@ w = cos(theta/2)
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Numerics.Vectors</AssemblyName>
@@ -543,7 +564,7 @@ w = cos(theta/2)
         <ReturnType>System.Boolean</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="other" Type="System.Numerics.Quaternion" Index="0" FrameworkAlternate="xamarinmac-3.0" />
+        <Parameter Name="other" Type="System.Numerics.Quaternion" />
       </Parameters>
       <Docs>
         <param name="other">The other quaternion.</param>
@@ -598,7 +619,7 @@ w = cos(theta/2)
         <ReturnType>System.Boolean</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="obj" Type="System.Object" Index="0" FrameworkAlternate="xamarinmac-3.0" />
+        <Parameter Name="obj" Type="System.Object" />
       </Parameters>
       <Docs>
         <param name="obj">The object to compare with the current instance.</param>
@@ -728,7 +749,7 @@ w = cos(theta/2)
         <ReturnType>System.Numerics.Quaternion</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="value" Type="System.Numerics.Quaternion" Index="0" FrameworkAlternate="xamarinmac-3.0" />
+        <Parameter Name="value" Type="System.Numerics.Quaternion" />
       </Parameters>
       <Docs>
         <param name="value">The quaternion.</param>
@@ -899,9 +920,9 @@ w = cos(theta/2)
         <ReturnType>System.Numerics.Quaternion</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="quaternion1" Type="System.Numerics.Quaternion" Index="0" FrameworkAlternate="xamarinmac-3.0" />
-        <Parameter Name="quaternion2" Type="System.Numerics.Quaternion" Index="1" FrameworkAlternate="xamarinmac-3.0" />
-        <Parameter Name="amount" Type="System.Single" Index="2" FrameworkAlternate="xamarinmac-3.0" />
+        <Parameter Name="quaternion1" Type="System.Numerics.Quaternion" />
+        <Parameter Name="quaternion2" Type="System.Numerics.Quaternion" />
+        <Parameter Name="amount" Type="System.Single" />
       </Parameters>
       <Docs>
         <param name="quaternion1">The first quaternion.</param>
@@ -955,8 +976,8 @@ w = cos(theta/2)
         <ReturnType>System.Numerics.Quaternion</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="value1" Type="System.Numerics.Quaternion" Index="0" FrameworkAlternate="xamarinmac-3.0" />
-        <Parameter Name="value2" Type="System.Numerics.Quaternion" Index="1" FrameworkAlternate="xamarinmac-3.0" />
+        <Parameter Name="value1" Type="System.Numerics.Quaternion" />
+        <Parameter Name="value2" Type="System.Numerics.Quaternion" />
       </Parameters>
       <Docs>
         <param name="value1">The first quaternion.</param>
@@ -998,8 +1019,8 @@ w = cos(theta/2)
         <ReturnType>System.Numerics.Quaternion</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="value1" Type="System.Numerics.Quaternion" Index="0" FrameworkAlternate="xamarinmac-3.0" />
-        <Parameter Name="value2" Type="System.Single" Index="1" FrameworkAlternate="xamarinmac-3.0" />
+        <Parameter Name="value1" Type="System.Numerics.Quaternion" />
+        <Parameter Name="value2" Type="System.Single" />
       </Parameters>
       <Docs>
         <param name="value1">The source quaternion.</param>
@@ -1041,7 +1062,7 @@ w = cos(theta/2)
         <ReturnType>System.Numerics.Quaternion</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="value" Type="System.Numerics.Quaternion" Index="0" FrameworkAlternate="xamarinmac-3.0" />
+        <Parameter Name="value" Type="System.Numerics.Quaternion" />
       </Parameters>
       <Docs>
         <param name="value">The quaternion to negate.</param>
@@ -1082,7 +1103,7 @@ w = cos(theta/2)
         <ReturnType>System.Numerics.Quaternion</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="value" Type="System.Numerics.Quaternion" Index="0" FrameworkAlternate="xamarinmac-3.0" />
+        <Parameter Name="value" Type="System.Numerics.Quaternion" />
       </Parameters>
       <Docs>
         <param name="value">The quaternion to normalize.</param>
@@ -1123,8 +1144,8 @@ w = cos(theta/2)
         <ReturnType>System.Numerics.Quaternion</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="value1" Type="System.Numerics.Quaternion" Index="0" FrameworkAlternate="xamarinmac-3.0" />
-        <Parameter Name="value2" Type="System.Numerics.Quaternion" Index="1" FrameworkAlternate="xamarinmac-3.0" />
+        <Parameter Name="value1" Type="System.Numerics.Quaternion" />
+        <Parameter Name="value2" Type="System.Numerics.Quaternion" />
       </Parameters>
       <Docs>
         <param name="value1">The first quaternion.</param>
@@ -1173,8 +1194,8 @@ w = cos(theta/2)
         <ReturnType>System.Numerics.Quaternion</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="value1" Type="System.Numerics.Quaternion" Index="0" FrameworkAlternate="xamarinmac-3.0" />
-        <Parameter Name="value2" Type="System.Numerics.Quaternion" Index="1" FrameworkAlternate="xamarinmac-3.0" />
+        <Parameter Name="value1" Type="System.Numerics.Quaternion" />
+        <Parameter Name="value2" Type="System.Numerics.Quaternion" />
       </Parameters>
       <Docs>
         <param name="value1">The dividend.</param>
@@ -1223,8 +1244,8 @@ w = cos(theta/2)
         <ReturnType>System.Boolean</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="value1" Type="System.Numerics.Quaternion" Index="0" FrameworkAlternate="xamarinmac-3.0" />
-        <Parameter Name="value2" Type="System.Numerics.Quaternion" Index="1" FrameworkAlternate="xamarinmac-3.0" />
+        <Parameter Name="value1" Type="System.Numerics.Quaternion" />
+        <Parameter Name="value2" Type="System.Numerics.Quaternion" />
       </Parameters>
       <Docs>
         <param name="value1">The first quaternion to compare.</param>
@@ -1276,8 +1297,8 @@ w = cos(theta/2)
         <ReturnType>System.Boolean</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="value1" Type="System.Numerics.Quaternion" Index="0" FrameworkAlternate="xamarinmac-3.0" />
-        <Parameter Name="value2" Type="System.Numerics.Quaternion" Index="1" FrameworkAlternate="xamarinmac-3.0" />
+        <Parameter Name="value1" Type="System.Numerics.Quaternion" />
+        <Parameter Name="value2" Type="System.Numerics.Quaternion" />
       </Parameters>
       <Docs>
         <param name="value1">The first quaternion to compare.</param>
@@ -1331,8 +1352,8 @@ w = cos(theta/2)
         <ReturnType>System.Numerics.Quaternion</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="value1" Type="System.Numerics.Quaternion" Index="0" FrameworkAlternate="xamarinmac-3.0" />
-        <Parameter Name="value2" Type="System.Numerics.Quaternion" Index="1" FrameworkAlternate="xamarinmac-3.0" />
+        <Parameter Name="value1" Type="System.Numerics.Quaternion" />
+        <Parameter Name="value2" Type="System.Numerics.Quaternion" />
       </Parameters>
       <Docs>
         <param name="value1">The first quaternion.</param>
@@ -1381,8 +1402,8 @@ w = cos(theta/2)
         <ReturnType>System.Numerics.Quaternion</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="value1" Type="System.Numerics.Quaternion" Index="0" FrameworkAlternate="xamarinmac-3.0" />
-        <Parameter Name="value2" Type="System.Single" Index="1" FrameworkAlternate="xamarinmac-3.0" />
+        <Parameter Name="value1" Type="System.Numerics.Quaternion" />
+        <Parameter Name="value2" Type="System.Single" />
       </Parameters>
       <Docs>
         <param name="value1">The source quaternion.</param>
@@ -1431,8 +1452,8 @@ w = cos(theta/2)
         <ReturnType>System.Numerics.Quaternion</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="value1" Type="System.Numerics.Quaternion" Index="0" FrameworkAlternate="xamarinmac-3.0" />
-        <Parameter Name="value2" Type="System.Numerics.Quaternion" Index="1" FrameworkAlternate="xamarinmac-3.0" />
+        <Parameter Name="value1" Type="System.Numerics.Quaternion" />
+        <Parameter Name="value2" Type="System.Numerics.Quaternion" />
       </Parameters>
       <Docs>
         <param name="value1">The first quaternion.</param>
@@ -1481,7 +1502,7 @@ w = cos(theta/2)
         <ReturnType>System.Numerics.Quaternion</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="value" Type="System.Numerics.Quaternion" Index="0" FrameworkAlternate="xamarinmac-3.0" />
+        <Parameter Name="value" Type="System.Numerics.Quaternion" />
       </Parameters>
       <Docs>
         <param name="value">The quaternion to negate.</param>
@@ -1529,9 +1550,9 @@ w = cos(theta/2)
         <ReturnType>System.Numerics.Quaternion</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="quaternion1" Type="System.Numerics.Quaternion" Index="0" FrameworkAlternate="xamarinmac-3.0" />
-        <Parameter Name="quaternion2" Type="System.Numerics.Quaternion" Index="1" FrameworkAlternate="xamarinmac-3.0" />
-        <Parameter Name="amount" Type="System.Single" Index="2" FrameworkAlternate="xamarinmac-3.0" />
+        <Parameter Name="quaternion1" Type="System.Numerics.Quaternion" />
+        <Parameter Name="quaternion2" Type="System.Numerics.Quaternion" />
+        <Parameter Name="amount" Type="System.Single" />
       </Parameters>
       <Docs>
         <param name="quaternion1">The first quaternion.</param>
@@ -1574,8 +1595,8 @@ w = cos(theta/2)
         <ReturnType>System.Numerics.Quaternion</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="value1" Type="System.Numerics.Quaternion" Index="0" FrameworkAlternate="xamarinmac-3.0" />
-        <Parameter Name="value2" Type="System.Numerics.Quaternion" Index="1" FrameworkAlternate="xamarinmac-3.0" />
+        <Parameter Name="value1" Type="System.Numerics.Quaternion" />
+        <Parameter Name="value2" Type="System.Numerics.Quaternion" />
       </Parameters>
       <Docs>
         <param name="value1">The first quaternion.</param>

@@ -82,6 +82,8 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Extensions.Logging.AzureAppServices.Internal.ICloudAppendBlob.AppendAsync(System.ArraySegment{System.Byte},System.Threading.CancellationToken)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.AzureAppServices.Internal.ICloudAppendBlob.AppendAsync(System.ArraySegment{System.Byte},System.Threading.CancellationToken)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.AzureAppServices.Internal.ICloudAppendBlob.AppendAsync(System.ArraySegment{System.Byte},System.Threading.CancellationToken)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Logging.AzureAppServices</AssemblyName>

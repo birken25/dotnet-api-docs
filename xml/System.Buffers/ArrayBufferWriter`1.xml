@@ -92,6 +92,8 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Buffers.IBufferWriter`1.Advance(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Buffers.IBufferWriter`1.Advance(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Buffers.IBufferWriter`1.Advance(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Memory</AssemblyName>
@@ -213,6 +215,8 @@ You must clear the <xref:System.Buffers.ArrayBufferWriter`1> before trying to re
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Buffers.IBufferWriter`1.GetMemory(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Buffers.IBufferWriter`1.GetMemory(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Buffers.IBufferWriter`1.GetMemory(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Memory</AssemblyName>
@@ -251,6 +255,8 @@ This method never returns <xref:System.Memory%601.Empty?displayProperty=nameWith
       <MemberSignature Language="F#" Value="abstract member GetSpan : int -&gt; Span&lt;'T&gt;&#xA;override this.GetSpan : int -&gt; Span&lt;'T&gt;" Usage="arrayBufferWriter.GetSpan sizeHint" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Buffers.IBufferWriter`1.GetSpan(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Buffers.IBufferWriter`1.GetSpan(System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Buffers.IBufferWriter`1.GetSpan(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

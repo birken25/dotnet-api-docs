@@ -85,6 +85,31 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.IDbCommand.Cancel</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Cancel</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Cancel</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Cancel</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Cancel</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Cancel</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Cancel</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Cancel</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Cancel</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Cancel</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Cancel</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Cancel</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Cancel</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Cancel</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Cancel</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Cancel</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Cancel</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Cancel</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Cancel</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Cancel</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Cancel</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Cancel</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Cancel</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Cancel</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Cancel</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Cancel</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Common</AssemblyName>
@@ -131,6 +156,31 @@
       <MemberSignature Language="F#" Value="member this.CommandText : string with get, set" Usage="System.Data.Common.DbCommand.CommandText" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandText</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandText</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandText</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandText</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandText</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandText</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandText</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandText</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandText</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandText</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandText</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandText</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandText</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandText</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandText</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandText</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandText</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandText</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandText</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandText</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandText</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandText</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandText</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandText</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandText</InterfaceMember>
         <InterfaceMember>P:System.Data.IDbCommand.CommandText</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -187,6 +237,31 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Data.IDbCommand.CommandTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandTimeout</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Common</AssemblyName>
@@ -235,6 +310,31 @@
       <MemberSignature Language="F#" Value="member this.CommandType : System.Data.CommandType with get, set" Usage="System.Data.Common.DbCommand.CommandType" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandType</InterfaceMember>
         <InterfaceMember>P:System.Data.IDbCommand.CommandType</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -576,6 +676,9 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual void Dispose();" />
       <MemberSignature Language="F#" Value="abstract member Dispose : unit -&gt; unit&#xA;override this.Dispose : unit -&gt; unit" Usage="dbCommand.Dispose " />
       <MemberType>Method</MemberType>
+      <Implements>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Common</AssemblyName>
         <AssemblyVersion>4.0.0.0</AssemblyVersion>
@@ -636,6 +739,8 @@
       <MemberSignature Language="F#" Value="abstract member DisposeAsync : unit -&gt; System.Threading.Tasks.ValueTask&#xA;override this.DisposeAsync : unit -&gt; System.Threading.Tasks.ValueTask" Usage="dbCommand.DisposeAsync " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.IAsyncDisposable.DisposeAsync</InterfaceMember>
+        <InterfaceMember>M:System.IAsyncDisposable.DisposeAsync</InterfaceMember>
         <InterfaceMember>M:System.IAsyncDisposable.DisposeAsync</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -774,6 +879,31 @@
       <MemberSignature Language="F#" Value="abstract member ExecuteNonQuery : unit -&gt; int" Usage="dbCommand.ExecuteNonQuery " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteNonQuery</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteNonQuery</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteNonQuery</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteNonQuery</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteNonQuery</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteNonQuery</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteNonQuery</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteNonQuery</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteNonQuery</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteNonQuery</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteNonQuery</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteNonQuery</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteNonQuery</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteNonQuery</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteNonQuery</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteNonQuery</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteNonQuery</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteNonQuery</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteNonQuery</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteNonQuery</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteNonQuery</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteNonQuery</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteNonQuery</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteNonQuery</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteNonQuery</InterfaceMember>
         <InterfaceMember>M:System.Data.IDbCommand.ExecuteNonQuery</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1250,6 +1380,31 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.IDbCommand.ExecuteScalar</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteScalar</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteScalar</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteScalar</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteScalar</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteScalar</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteScalar</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteScalar</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteScalar</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteScalar</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteScalar</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteScalar</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteScalar</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteScalar</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteScalar</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteScalar</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteScalar</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteScalar</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteScalar</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteScalar</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteScalar</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteScalar</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteScalar</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteScalar</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteScalar</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteScalar</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Common</AssemblyName>
@@ -1461,6 +1616,31 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.IDbCommand.Prepare</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Prepare</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Prepare</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Prepare</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Prepare</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Prepare</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Prepare</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Prepare</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Prepare</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Prepare</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Prepare</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Prepare</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Prepare</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Prepare</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Prepare</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Prepare</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Prepare</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Prepare</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Prepare</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Prepare</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Prepare</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Prepare</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Prepare</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Prepare</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Prepare</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Prepare</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Common</AssemblyName>
@@ -1499,7 +1679,7 @@
       </Docs>
     </Member>
     <Member MemberName="PrepareAsync">
-      <MemberSignature Language="C#" Value="public virtual System.Threading.Tasks.Task PrepareAsync (System.Threading.CancellationToken cancellationToken = null);" />
+      <MemberSignature Language="C#" Value="public virtual System.Threading.Tasks.Task PrepareAsync (System.Threading.CancellationToken cancellationToken = default);" />
       <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class System.Threading.Tasks.Task PrepareAsync(valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
       <MemberSignature Language="DocId" Value="M:System.Data.Common.DbCommand.PrepareAsync(System.Threading.CancellationToken)" />
       <MemberSignature Language="F#" Value="abstract member PrepareAsync : System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&#xA;override this.PrepareAsync : System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task" Usage="dbCommand.PrepareAsync cancellationToken" />
@@ -1550,6 +1730,31 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Data.IDbCommand.Connection</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Connection</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Connection</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Connection</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Connection</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Connection</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Connection</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Connection</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Connection</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Connection</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Connection</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Connection</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Connection</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Connection</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Connection</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Connection</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Connection</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Connection</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Connection</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Connection</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Connection</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Connection</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Connection</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Connection</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Connection</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Connection</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Common</AssemblyName>
@@ -1594,6 +1799,31 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Data::IDbDataParameter ^ System.Data.IDbCommand.CreateParameter() = System::Data::IDbCommand::CreateParameter;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Data.IDbCommand.CreateParameter</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.CreateParameter</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.CreateParameter</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.CreateParameter</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.CreateParameter</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.CreateParameter</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.CreateParameter</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.CreateParameter</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.CreateParameter</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.CreateParameter</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.CreateParameter</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.CreateParameter</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.CreateParameter</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.CreateParameter</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.CreateParameter</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.CreateParameter</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.CreateParameter</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.CreateParameter</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.CreateParameter</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.CreateParameter</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.CreateParameter</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.CreateParameter</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.CreateParameter</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.CreateParameter</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.CreateParameter</InterfaceMember>
         <InterfaceMember>M:System.Data.IDbCommand.CreateParameter</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1654,6 +1884,31 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Common</AssemblyName>
@@ -1701,6 +1956,31 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Data::IDataReader ^ System.Data.IDbCommand.ExecuteReader(System::Data::CommandBehavior behavior) = System::Data::IDbCommand::ExecuteReader;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader(System.Data.CommandBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader(System.Data.CommandBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader(System.Data.CommandBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader(System.Data.CommandBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader(System.Data.CommandBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader(System.Data.CommandBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader(System.Data.CommandBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader(System.Data.CommandBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader(System.Data.CommandBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader(System.Data.CommandBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader(System.Data.CommandBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader(System.Data.CommandBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader(System.Data.CommandBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader(System.Data.CommandBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader(System.Data.CommandBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader(System.Data.CommandBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader(System.Data.CommandBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader(System.Data.CommandBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader(System.Data.CommandBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader(System.Data.CommandBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader(System.Data.CommandBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader(System.Data.CommandBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader(System.Data.CommandBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader(System.Data.CommandBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader(System.Data.CommandBehavior)</InterfaceMember>
         <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader(System.Data.CommandBehavior)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1754,6 +2034,31 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Data.IDbCommand.Parameters</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Parameters</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Parameters</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Parameters</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Parameters</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Parameters</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Parameters</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Parameters</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Parameters</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Parameters</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Parameters</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Parameters</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Parameters</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Parameters</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Parameters</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Parameters</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Parameters</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Parameters</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Parameters</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Parameters</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Parameters</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Parameters</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Parameters</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Parameters</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Parameters</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Parameters</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Common</AssemblyName>
@@ -1801,6 +2106,31 @@
       <MemberSignature Language="F#" Usage="System.Data.IDbCommand.Transaction" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Data.IDbCommand.Transaction</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Transaction</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Transaction</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Transaction</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Transaction</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Transaction</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Transaction</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Transaction</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Transaction</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Transaction</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Transaction</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Transaction</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Transaction</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Transaction</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Transaction</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Transaction</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Transaction</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Transaction</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Transaction</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Transaction</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Transaction</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Transaction</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Transaction</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Transaction</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.Transaction</InterfaceMember>
         <InterfaceMember>P:System.Data.IDbCommand.Transaction</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1895,6 +2225,31 @@
       <MemberSignature Language="F#" Value="member this.UpdatedRowSource : System.Data.UpdateRowSource with get, set" Usage="System.Data.Common.DbCommand.UpdatedRowSource" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Data.IDbCommand.UpdatedRowSource</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.UpdatedRowSource</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.UpdatedRowSource</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.UpdatedRowSource</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.UpdatedRowSource</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.UpdatedRowSource</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.UpdatedRowSource</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.UpdatedRowSource</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.UpdatedRowSource</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.UpdatedRowSource</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.UpdatedRowSource</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.UpdatedRowSource</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.UpdatedRowSource</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.UpdatedRowSource</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.UpdatedRowSource</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.UpdatedRowSource</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.UpdatedRowSource</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.UpdatedRowSource</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.UpdatedRowSource</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.UpdatedRowSource</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.UpdatedRowSource</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.UpdatedRowSource</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.UpdatedRowSource</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.UpdatedRowSource</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.UpdatedRowSource</InterfaceMember>
         <InterfaceMember>P:System.Data.IDbCommand.UpdatedRowSource</InterfaceMember>
       </Implements>
       <AssemblyInfo>

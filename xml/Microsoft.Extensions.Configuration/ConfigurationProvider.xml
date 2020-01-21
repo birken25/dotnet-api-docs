@@ -88,6 +88,12 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationProvider.GetChildKeys(System.Collections.Generic.IEnumerable{System.String},System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationProvider.GetChildKeys(System.Collections.Generic.IEnumerable{System.String},System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationProvider.GetChildKeys(System.Collections.Generic.IEnumerable{System.String},System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationProvider.GetChildKeys(System.Collections.Generic.IEnumerable{System.String},System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationProvider.GetChildKeys(System.Collections.Generic.IEnumerable{System.String},System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationProvider.GetChildKeys(System.Collections.Generic.IEnumerable{System.String},System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationProvider.GetChildKeys(System.Collections.Generic.IEnumerable{System.String},System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Configuration</AssemblyName>
@@ -124,6 +130,12 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationProvider.GetReloadToken</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationProvider.GetReloadToken</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationProvider.GetReloadToken</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationProvider.GetReloadToken</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationProvider.GetReloadToken</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationProvider.GetReloadToken</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationProvider.GetReloadToken</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Configuration</AssemblyName>
@@ -154,6 +166,12 @@
       <MemberSignature Language="F#" Value="abstract member Load : unit -&gt; unit&#xA;override this.Load : unit -&gt; unit" Usage="configurationProvider.Load " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationProvider.Load</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationProvider.Load</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationProvider.Load</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationProvider.Load</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationProvider.Load</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationProvider.Load</InterfaceMember>
         <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationProvider.Load</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -212,6 +230,12 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationProvider.Set(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationProvider.Set(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationProvider.Set(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationProvider.Set(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationProvider.Set(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationProvider.Set(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationProvider.Set(System.String,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Configuration</AssemblyName>
@@ -269,6 +293,12 @@
       <MemberSignature Language="F#" Value="abstract member TryGet : string * string -&gt; bool&#xA;override this.TryGet : string * string -&gt; bool" Usage="configurationProvider.TryGet (key, value)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationProvider.TryGet(System.String,System.String@)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationProvider.TryGet(System.String,System.String@)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationProvider.TryGet(System.String,System.String@)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationProvider.TryGet(System.String,System.String@)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationProvider.TryGet(System.String,System.String@)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationProvider.TryGet(System.String,System.String@)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationProvider.TryGet(System.String,System.String@)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

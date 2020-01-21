@@ -203,7 +203,7 @@
       </Docs>
     </Member>
     <Member MemberName="IsEnabled">
-      <MemberSignature Language="C#" Value="public bool IsEnabled (string diagnosticName, object arg1, object arg2 = null);" />
+      <MemberSignature Language="C#" Value="public bool IsEnabled (string diagnosticName, object arg1, object arg2 = default);" />
       <MemberSignature Language="ILAsm" Value=".method public hidebysig instance bool IsEnabled(string diagnosticName, object arg1, object arg2) cil managed" />
       <MemberSignature Language="DocId" Value="M:Microsoft.Extensions.DiagnosticAdapter.DiagnosticSourceAdapter.IsEnabled(System.String,System.Object,System.Object)" />
       <MemberSignature Language="VB.NET" Value="Public Function IsEnabled (diagnosticName As String, arg1 As Object, Optional arg2 As Object = null) As Boolean" />
@@ -243,6 +243,12 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IObserver`1.OnCompleted</InterfaceMember>
+        <InterfaceMember>M:System.IObserver`1.OnCompleted</InterfaceMember>
+        <InterfaceMember>M:System.IObserver`1.OnCompleted</InterfaceMember>
+        <InterfaceMember>M:System.IObserver`1.OnCompleted</InterfaceMember>
+        <InterfaceMember>M:System.IObserver`1.OnCompleted</InterfaceMember>
+        <InterfaceMember>M:System.IObserver`1.OnCompleted</InterfaceMember>
+        <InterfaceMember>M:System.IObserver`1.OnCompleted</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DiagnosticAdapter</AssemblyName>
@@ -271,6 +277,12 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.IObserver&lt;System.Collections.Generic.KeyValuePair&lt;System.String,System.Object&gt;&gt;.OnError(Exception ^ error) = IObserver&lt;System::Collections::Generic::KeyValuePair&lt;System::String ^, System::Object ^&gt;&gt;::OnError;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.IObserver`1.OnError(System.Exception)</InterfaceMember>
+        <InterfaceMember>M:System.IObserver`1.OnError(System.Exception)</InterfaceMember>
+        <InterfaceMember>M:System.IObserver`1.OnError(System.Exception)</InterfaceMember>
+        <InterfaceMember>M:System.IObserver`1.OnError(System.Exception)</InterfaceMember>
+        <InterfaceMember>M:System.IObserver`1.OnError(System.Exception)</InterfaceMember>
+        <InterfaceMember>M:System.IObserver`1.OnError(System.Exception)</InterfaceMember>
         <InterfaceMember>M:System.IObserver`1.OnError(System.Exception)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -303,6 +315,12 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.IObserver&lt;System.Collections.Generic.KeyValuePair&lt;System.String,System.Object&gt;&gt;.OnNext(System::Collections::Generic::KeyValuePair&lt;System::String ^, System::Object ^&gt; value) = IObserver&lt;System::Collections::Generic::KeyValuePair&lt;System::String ^, System::Object ^&gt;&gt;::OnNext;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.IObserver`1.OnNext(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IObserver`1.OnNext(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IObserver`1.OnNext(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IObserver`1.OnNext(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IObserver`1.OnNext(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IObserver`1.OnNext(`0)</InterfaceMember>
         <InterfaceMember>M:System.IObserver`1.OnNext(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

@@ -238,6 +238,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.JScript.MemberInfoInitializer.GetCOMMemberInfo</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.MemberInfoInitializer.GetCOMMemberInfo</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.MemberInfoInitializer.GetCOMMemberInfo</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.MemberInfoInitializer.GetCOMMemberInfo</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.MemberInfoInitializer.GetCOMMemberInfo</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.MemberInfoInitializer.GetCOMMemberInfo</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.MemberInfoInitializer.GetCOMMemberInfo</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.MemberInfoInitializer.GetCOMMemberInfo</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.MemberInfoInitializer.GetCOMMemberInfo</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.MemberInfoInitializer.GetCOMMemberInfo</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.MemberInfoInitializer.GetCOMMemberInfo</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.MemberInfoInitializer.GetCOMMemberInfo</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.MemberInfoInitializer.GetCOMMemberInfo</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.MemberInfoInitializer.GetCOMMemberInfo</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.MemberInfoInitializer.GetCOMMemberInfo</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.JScript</AssemblyName>
@@ -327,6 +341,20 @@
       <MemberSignature Language="F#" Value="abstract member Initialize : string * Microsoft.JScript.COMMemberInfo -&gt; unit&#xA;override this.Initialize : string * Microsoft.JScript.COMMemberInfo -&gt; unit" Usage="cOMMethodInfo.Initialize (name, dispatch)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.JScript.MemberInfoInitializer.Initialize(System.String,Microsoft.JScript.COMMemberInfo)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.MemberInfoInitializer.Initialize(System.String,Microsoft.JScript.COMMemberInfo)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.MemberInfoInitializer.Initialize(System.String,Microsoft.JScript.COMMemberInfo)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.MemberInfoInitializer.Initialize(System.String,Microsoft.JScript.COMMemberInfo)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.MemberInfoInitializer.Initialize(System.String,Microsoft.JScript.COMMemberInfo)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.MemberInfoInitializer.Initialize(System.String,Microsoft.JScript.COMMemberInfo)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.MemberInfoInitializer.Initialize(System.String,Microsoft.JScript.COMMemberInfo)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.MemberInfoInitializer.Initialize(System.String,Microsoft.JScript.COMMemberInfo)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.MemberInfoInitializer.Initialize(System.String,Microsoft.JScript.COMMemberInfo)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.MemberInfoInitializer.Initialize(System.String,Microsoft.JScript.COMMemberInfo)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.MemberInfoInitializer.Initialize(System.String,Microsoft.JScript.COMMemberInfo)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.MemberInfoInitializer.Initialize(System.String,Microsoft.JScript.COMMemberInfo)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.MemberInfoInitializer.Initialize(System.String,Microsoft.JScript.COMMemberInfo)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.MemberInfoInitializer.Initialize(System.String,Microsoft.JScript.COMMemberInfo)</InterfaceMember>
         <InterfaceMember>M:Microsoft.JScript.MemberInfoInitializer.Initialize(System.String,Microsoft.JScript.COMMemberInfo)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

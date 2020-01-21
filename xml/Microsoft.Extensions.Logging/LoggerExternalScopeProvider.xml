@@ -55,6 +55,9 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Extensions.Logging.IExternalScopeProvider.ForEachScope``1(System.Action{System.Object,``0},``0)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.IExternalScopeProvider.ForEachScope``1(System.Action{System.Object,``0},``0)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.IExternalScopeProvider.ForEachScope``1(System.Action{System.Object,``0},``0)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.IExternalScopeProvider.ForEachScope``1(System.Action{System.Object,``0},``0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Logging.Abstractions</AssemblyName>
@@ -91,6 +94,9 @@
       <MemberSignature Language="F#" Value="abstract member Push : obj -&gt; IDisposable&#xA;override this.Push : obj -&gt; IDisposable" Usage="loggerExternalScopeProvider.Push state" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.IExternalScopeProvider.Push(System.Object)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.IExternalScopeProvider.Push(System.Object)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.IExternalScopeProvider.Push(System.Object)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Extensions.Logging.IExternalScopeProvider.Push(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

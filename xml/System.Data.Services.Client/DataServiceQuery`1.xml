@@ -137,6 +137,20 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Services.Client</AssemblyName>
@@ -257,6 +271,20 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Services.Client</AssemblyName>
@@ -287,6 +315,20 @@
       <MemberSignature Language="F#" Value="abstract member GetEnumerator : unit -&gt; System.Collections.Generic.IEnumerator&lt;'Element&gt;&#xA;override this.GetEnumerator : unit -&gt; System.Collections.Generic.IEnumerator&lt;'Element&gt;" Usage="dataServiceQuery.GetEnumerator " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
         <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -361,6 +403,20 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Services.Client</AssemblyName>
@@ -413,6 +469,20 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Collections::IEnumerator ^ System.Collections.IEnumerable.GetEnumerator() = System::Collections::IEnumerable::GetEnumerator;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
         <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
       </Implements>
       <AssemblyInfo>

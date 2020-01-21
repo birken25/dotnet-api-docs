@@ -234,6 +234,16 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.DynamicData.IMetaModel.DynamicDataFolderVirtualPath</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaModel.DynamicDataFolderVirtualPath</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaModel.DynamicDataFolderVirtualPath</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaModel.DynamicDataFolderVirtualPath</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaModel.DynamicDataFolderVirtualPath</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaModel.DynamicDataFolderVirtualPath</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaModel.DynamicDataFolderVirtualPath</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaModel.DynamicDataFolderVirtualPath</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaModel.DynamicDataFolderVirtualPath</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaModel.DynamicDataFolderVirtualPath</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaModel.DynamicDataFolderVirtualPath</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.DynamicData</AssemblyName>
@@ -286,6 +296,16 @@
       <MemberSignature Language="F#" Value="member this.FieldTemplateFactory : System.Web.DynamicData.IFieldTemplateFactory with get, set" Usage="System.Web.DynamicData.MetaModel.FieldTemplateFactory" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaModel.FieldTemplateFactory</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaModel.FieldTemplateFactory</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaModel.FieldTemplateFactory</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaModel.FieldTemplateFactory</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaModel.FieldTemplateFactory</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaModel.FieldTemplateFactory</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaModel.FieldTemplateFactory</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaModel.FieldTemplateFactory</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaModel.FieldTemplateFactory</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaModel.FieldTemplateFactory</InterfaceMember>
         <InterfaceMember>P:System.Web.DynamicData.IMetaModel.FieldTemplateFactory</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -342,6 +362,16 @@
       <MemberSignature Language="F#" Value="abstract member GetActionPath : string * string * obj -&gt; string&#xA;override this.GetActionPath : string * string * obj -&gt; string" Usage="metaModel.GetActionPath (tableName, action, row)" FrameworkAlternate="netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.GetActionPath(System.String,System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.GetActionPath(System.String,System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.GetActionPath(System.String,System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.GetActionPath(System.String,System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.GetActionPath(System.String,System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.GetActionPath(System.String,System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.GetActionPath(System.String,System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.GetActionPath(System.String,System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.GetActionPath(System.String,System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.GetActionPath(System.String,System.String,System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Web.DynamicData.IMetaModel.GetActionPath(System.String,System.String,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -616,6 +646,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Func{System.Object})</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Func{System.Object})</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Func{System.Object})</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Func{System.Object})</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Func{System.Object})</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Func{System.Object})</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Func{System.Object})</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Func{System.Object})</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Func{System.Object})</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Func{System.Object})</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Func{System.Object})</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.DynamicData</AssemblyName>
@@ -654,6 +694,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Type)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.DynamicData</AssemblyName>
@@ -691,6 +741,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Web.DynamicData.ModelProviders.DataModelProvider)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Web.DynamicData.ModelProviders.DataModelProvider)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Web.DynamicData.ModelProviders.DataModelProvider)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Web.DynamicData.ModelProviders.DataModelProvider)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Web.DynamicData.ModelProviders.DataModelProvider)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Web.DynamicData.ModelProviders.DataModelProvider)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Web.DynamicData.ModelProviders.DataModelProvider)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Web.DynamicData.ModelProviders.DataModelProvider)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Web.DynamicData.ModelProviders.DataModelProvider)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Web.DynamicData.ModelProviders.DataModelProvider)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Web.DynamicData.ModelProviders.DataModelProvider)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.DynamicData</AssemblyName>
@@ -721,6 +781,16 @@
       <MemberSignature Language="F#" Value="abstract member RegisterContext : Func&lt;obj&gt; * System.Web.DynamicData.ContextConfiguration -&gt; unit&#xA;override this.RegisterContext : Func&lt;obj&gt; * System.Web.DynamicData.ContextConfiguration -&gt; unit" Usage="metaModel.RegisterContext (contextFactory, configuration)" FrameworkAlternate="netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Func{System.Object},System.Web.DynamicData.ContextConfiguration)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Func{System.Object},System.Web.DynamicData.ContextConfiguration)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Func{System.Object},System.Web.DynamicData.ContextConfiguration)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Func{System.Object},System.Web.DynamicData.ContextConfiguration)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Func{System.Object},System.Web.DynamicData.ContextConfiguration)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Func{System.Object},System.Web.DynamicData.ContextConfiguration)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Func{System.Object},System.Web.DynamicData.ContextConfiguration)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Func{System.Object},System.Web.DynamicData.ContextConfiguration)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Func{System.Object},System.Web.DynamicData.ContextConfiguration)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Func{System.Object},System.Web.DynamicData.ContextConfiguration)</InterfaceMember>
         <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Func{System.Object},System.Web.DynamicData.ContextConfiguration)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -764,6 +834,16 @@
       <MemberSignature Language="F#" Value="abstract member RegisterContext : Type * System.Web.DynamicData.ContextConfiguration -&gt; unit&#xA;override this.RegisterContext : Type * System.Web.DynamicData.ContextConfiguration -&gt; unit" Usage="metaModel.RegisterContext (contextType, configuration)" FrameworkAlternate="netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Type,System.Web.DynamicData.ContextConfiguration)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Type,System.Web.DynamicData.ContextConfiguration)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Type,System.Web.DynamicData.ContextConfiguration)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Type,System.Web.DynamicData.ContextConfiguration)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Type,System.Web.DynamicData.ContextConfiguration)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Type,System.Web.DynamicData.ContextConfiguration)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Type,System.Web.DynamicData.ContextConfiguration)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Type,System.Web.DynamicData.ContextConfiguration)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Type,System.Web.DynamicData.ContextConfiguration)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Type,System.Web.DynamicData.ContextConfiguration)</InterfaceMember>
         <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Type,System.Web.DynamicData.ContextConfiguration)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -809,6 +889,16 @@
       <MemberSignature Language="C#" Value="public virtual void RegisterContext (System.Web.DynamicData.ModelProviders.DataModelProvider dataModelProvider, System.Web.DynamicData.ContextConfiguration configuration);" FrameworkAlternate="netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Web.DynamicData.ModelProviders.DataModelProvider,System.Web.DynamicData.ContextConfiguration)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Web.DynamicData.ModelProviders.DataModelProvider,System.Web.DynamicData.ContextConfiguration)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Web.DynamicData.ModelProviders.DataModelProvider,System.Web.DynamicData.ContextConfiguration)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Web.DynamicData.ModelProviders.DataModelProvider,System.Web.DynamicData.ContextConfiguration)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Web.DynamicData.ModelProviders.DataModelProvider,System.Web.DynamicData.ContextConfiguration)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Web.DynamicData.ModelProviders.DataModelProvider,System.Web.DynamicData.ContextConfiguration)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Web.DynamicData.ModelProviders.DataModelProvider,System.Web.DynamicData.ContextConfiguration)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Web.DynamicData.ModelProviders.DataModelProvider,System.Web.DynamicData.ContextConfiguration)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Web.DynamicData.ModelProviders.DataModelProvider,System.Web.DynamicData.ContextConfiguration)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Web.DynamicData.ModelProviders.DataModelProvider,System.Web.DynamicData.ContextConfiguration)</InterfaceMember>
         <InterfaceMember>M:System.Web.DynamicData.IMetaModel.RegisterContext(System.Web.DynamicData.ModelProviders.DataModelProvider,System.Web.DynamicData.ContextConfiguration)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

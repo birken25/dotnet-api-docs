@@ -64,6 +64,7 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Hosting.Systemd</AssemblyName>
@@ -87,6 +88,7 @@
       <MemberSignature Language="F#" Value="abstract member StopAsync : System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&#xA;override this.StopAsync : System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task" Usage="systemdLifetime.StopAsync cancellationToken" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Extensions.Hosting.IHostLifetime.StopAsync(System.Threading.CancellationToken)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Extensions.Hosting.IHostLifetime.StopAsync(System.Threading.CancellationToken)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -115,6 +117,7 @@
       <MemberSignature Language="F#" Value="abstract member WaitForStartAsync : System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&#xA;override this.WaitForStartAsync : System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task" Usage="systemdLifetime.WaitForStartAsync cancellationToken" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Extensions.Hosting.IHostLifetime.WaitForStartAsync(System.Threading.CancellationToken)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Extensions.Hosting.IHostLifetime.WaitForStartAsync(System.Threading.CancellationToken)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

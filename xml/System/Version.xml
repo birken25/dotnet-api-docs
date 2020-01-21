@@ -506,6 +506,30 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -561,6 +585,30 @@
       <MemberSignature Language="F#" Value="abstract member CompareTo : obj -&gt; int&#xA;override this.CompareTo : obj -&gt; int" Usage="version.CompareTo version" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
         <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -648,6 +696,39 @@
       <MemberSignature Language="F#" Value="abstract member CompareTo : Version -&gt; int&#xA;override this.CompareTo : Version -&gt; int" Usage="version.CompareTo value" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
         <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -801,6 +882,39 @@
       <MemberSignature Language="F#" Value="override this.Equals : Version -&gt; bool" Usage="version.Equals obj" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
         <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1602,6 +1716,15 @@ where `major`, `minor`, `build`, and `revision` are the string representations o
       <MemberSignature Language="C++ CLI" Value=" virtual int System.IComparable.CompareTo(System::Object ^ version) = IComparable::CompareTo;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
         <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

@@ -237,6 +237,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices.ITypeLibExporterNotifySink.ReportEvent(System.Runtime.InteropServices.ExporterEventKind,System.Int32,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ITypeLibExporterNotifySink.ReportEvent(System.Runtime.InteropServices.ExporterEventKind,System.Int32,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ITypeLibExporterNotifySink.ReportEvent(System.Runtime.InteropServices.ExporterEventKind,System.Int32,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ITypeLibExporterNotifySink.ReportEvent(System.Runtime.InteropServices.ExporterEventKind,System.Int32,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ITypeLibExporterNotifySink.ReportEvent(System.Runtime.InteropServices.ExporterEventKind,System.Int32,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ITypeLibExporterNotifySink.ReportEvent(System.Runtime.InteropServices.ExporterEventKind,System.Int32,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ITypeLibExporterNotifySink.ReportEvent(System.Runtime.InteropServices.ExporterEventKind,System.Int32,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ITypeLibExporterNotifySink.ReportEvent(System.Runtime.InteropServices.ExporterEventKind,System.Int32,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ITypeLibExporterNotifySink.ReportEvent(System.Runtime.InteropServices.ExporterEventKind,System.Int32,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ITypeLibExporterNotifySink.ReportEvent(System.Runtime.InteropServices.ExporterEventKind,System.Int32,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ITypeLibExporterNotifySink.ReportEvent(System.Runtime.InteropServices.ExporterEventKind,System.Int32,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ITypeLibExporterNotifySink.ReportEvent(System.Runtime.InteropServices.ExporterEventKind,System.Int32,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ITypeLibExporterNotifySink.ReportEvent(System.Runtime.InteropServices.ExporterEventKind,System.Int32,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ITypeLibExporterNotifySink.ReportEvent(System.Runtime.InteropServices.ExporterEventKind,System.Int32,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ITypeLibExporterNotifySink.ReportEvent(System.Runtime.InteropServices.ExporterEventKind,System.Int32,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Build.Tasks.v4.0</AssemblyName>
@@ -276,6 +290,20 @@
       <MemberSignature Language="F#" Value="abstract member ResolveRef : System.Reflection.Assembly -&gt; obj&#xA;override this.ResolveRef : System.Reflection.Assembly -&gt; obj" Usage="registerAssembly.ResolveRef assemblyToResolve" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.InteropServices.ITypeLibExporterNotifySink.ResolveRef(System.Reflection.Assembly)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ITypeLibExporterNotifySink.ResolveRef(System.Reflection.Assembly)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ITypeLibExporterNotifySink.ResolveRef(System.Reflection.Assembly)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ITypeLibExporterNotifySink.ResolveRef(System.Reflection.Assembly)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ITypeLibExporterNotifySink.ResolveRef(System.Reflection.Assembly)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ITypeLibExporterNotifySink.ResolveRef(System.Reflection.Assembly)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ITypeLibExporterNotifySink.ResolveRef(System.Reflection.Assembly)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ITypeLibExporterNotifySink.ResolveRef(System.Reflection.Assembly)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ITypeLibExporterNotifySink.ResolveRef(System.Reflection.Assembly)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ITypeLibExporterNotifySink.ResolveRef(System.Reflection.Assembly)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ITypeLibExporterNotifySink.ResolveRef(System.Reflection.Assembly)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ITypeLibExporterNotifySink.ResolveRef(System.Reflection.Assembly)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ITypeLibExporterNotifySink.ResolveRef(System.Reflection.Assembly)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ITypeLibExporterNotifySink.ResolveRef(System.Reflection.Assembly)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices.ITypeLibExporterNotifySink.ResolveRef(System.Reflection.Assembly)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

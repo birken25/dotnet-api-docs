@@ -55,6 +55,20 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IProductCollection.Count</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IProductCollection.Count</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IProductCollection.Count</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IProductCollection.Count</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IProductCollection.Count</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IProductCollection.Count</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IProductCollection.Count</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IProductCollection.Count</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IProductCollection.Count</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IProductCollection.Count</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IProductCollection.Count</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IProductCollection.Count</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IProductCollection.Count</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IProductCollection.Count</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IProductCollection.Count</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Build.Tasks.v4.0</AssemblyName>
@@ -87,6 +101,20 @@
       <MemberSignature Language="F#" Value="abstract member GetEnumerator : unit -&gt; System.Collections.IEnumerator&#xA;override this.GetEnumerator : unit -&gt; System.Collections.IEnumerator" Usage="productCollection.GetEnumerator " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
         <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -121,6 +149,20 @@
       <MemberSignature Language="F#" Value="abstract member Item : int -&gt; Microsoft.Build.Tasks.Deployment.Bootstrapper.Product&#xA;override this.Item : int -&gt; Microsoft.Build.Tasks.Deployment.Bootstrapper.Product" Usage="productCollection.Item index" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Build.Tasks.Deployment.Bootstrapper.IProductCollection.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Tasks.Deployment.Bootstrapper.IProductCollection.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Tasks.Deployment.Bootstrapper.IProductCollection.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Tasks.Deployment.Bootstrapper.IProductCollection.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Tasks.Deployment.Bootstrapper.IProductCollection.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Tasks.Deployment.Bootstrapper.IProductCollection.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Tasks.Deployment.Bootstrapper.IProductCollection.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Tasks.Deployment.Bootstrapper.IProductCollection.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Tasks.Deployment.Bootstrapper.IProductCollection.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Tasks.Deployment.Bootstrapper.IProductCollection.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Tasks.Deployment.Bootstrapper.IProductCollection.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Tasks.Deployment.Bootstrapper.IProductCollection.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Tasks.Deployment.Bootstrapper.IProductCollection.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Tasks.Deployment.Bootstrapper.IProductCollection.Item(System.Int32)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Build.Tasks.Deployment.Bootstrapper.IProductCollection.Item(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -158,6 +200,20 @@
       <MemberSignature Language="F#" Value="abstract member Product : string -&gt; Microsoft.Build.Tasks.Deployment.Bootstrapper.Product&#xA;override this.Product : string -&gt; Microsoft.Build.Tasks.Deployment.Bootstrapper.Product" Usage="productCollection.Product productCode" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Build.Tasks.Deployment.Bootstrapper.IProductCollection.Product(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Tasks.Deployment.Bootstrapper.IProductCollection.Product(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Tasks.Deployment.Bootstrapper.IProductCollection.Product(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Tasks.Deployment.Bootstrapper.IProductCollection.Product(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Tasks.Deployment.Bootstrapper.IProductCollection.Product(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Tasks.Deployment.Bootstrapper.IProductCollection.Product(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Tasks.Deployment.Bootstrapper.IProductCollection.Product(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Tasks.Deployment.Bootstrapper.IProductCollection.Product(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Tasks.Deployment.Bootstrapper.IProductCollection.Product(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Tasks.Deployment.Bootstrapper.IProductCollection.Product(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Tasks.Deployment.Bootstrapper.IProductCollection.Product(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Tasks.Deployment.Bootstrapper.IProductCollection.Product(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Tasks.Deployment.Bootstrapper.IProductCollection.Product(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Tasks.Deployment.Bootstrapper.IProductCollection.Product(System.String)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Build.Tasks.Deployment.Bootstrapper.IProductCollection.Product(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

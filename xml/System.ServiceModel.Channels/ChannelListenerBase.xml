@@ -114,6 +114,18 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener.BeginWaitForChannel(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener.BeginWaitForChannel(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener.BeginWaitForChannel(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener.BeginWaitForChannel(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener.BeginWaitForChannel(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener.BeginWaitForChannel(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener.BeginWaitForChannel(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener.BeginWaitForChannel(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener.BeginWaitForChannel(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener.BeginWaitForChannel(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener.BeginWaitForChannel(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener.BeginWaitForChannel(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener.BeginWaitForChannel(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -284,6 +296,18 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener.EndWaitForChannel(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener.EndWaitForChannel(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener.EndWaitForChannel(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener.EndWaitForChannel(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener.EndWaitForChannel(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener.EndWaitForChannel(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener.EndWaitForChannel(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener.EndWaitForChannel(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener.EndWaitForChannel(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener.EndWaitForChannel(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener.EndWaitForChannel(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener.EndWaitForChannel(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener.EndWaitForChannel(System.IAsyncResult)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -318,6 +342,18 @@
       <MemberSignature Language="F#" Value="abstract member GetProperty : unit -&gt; 'T (requires 'T : null)&#xA;override this.GetProperty : unit -&gt; 'T (requires 'T : null)" Usage="channelListenerBase.GetProperty " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener.GetProperty``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener.GetProperty``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener.GetProperty``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener.GetProperty``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener.GetProperty``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener.GetProperty``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener.GetProperty``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener.GetProperty``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener.GetProperty``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener.GetProperty``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener.GetProperty``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener.GetProperty``1</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener.GetProperty``1</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -444,6 +480,18 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.ServiceModel.Channels.IChannelListener.Uri</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IChannelListener.Uri</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IChannelListener.Uri</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IChannelListener.Uri</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IChannelListener.Uri</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IChannelListener.Uri</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IChannelListener.Uri</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IChannelListener.Uri</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IChannelListener.Uri</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IChannelListener.Uri</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IChannelListener.Uri</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IChannelListener.Uri</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IChannelListener.Uri</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -468,6 +516,18 @@
       <MemberSignature Language="F#" Value="abstract member WaitForChannel : TimeSpan -&gt; bool&#xA;override this.WaitForChannel : TimeSpan -&gt; bool" Usage="channelListenerBase.WaitForChannel timeout" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener.WaitForChannel(System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener.WaitForChannel(System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener.WaitForChannel(System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener.WaitForChannel(System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener.WaitForChannel(System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener.WaitForChannel(System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener.WaitForChannel(System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener.WaitForChannel(System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener.WaitForChannel(System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener.WaitForChannel(System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener.WaitForChannel(System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener.WaitForChannel(System.TimeSpan)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener.WaitForChannel(System.TimeSpan)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

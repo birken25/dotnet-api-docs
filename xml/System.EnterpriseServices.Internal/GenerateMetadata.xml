@@ -69,6 +69,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.EnterpriseServices.Internal.IComSoapMetadata.Generate(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IComSoapMetadata.Generate(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IComSoapMetadata.Generate(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IComSoapMetadata.Generate(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IComSoapMetadata.Generate(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IComSoapMetadata.Generate(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IComSoapMetadata.Generate(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IComSoapMetadata.Generate(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IComSoapMetadata.Generate(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IComSoapMetadata.Generate(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IComSoapMetadata.Generate(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IComSoapMetadata.Generate(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IComSoapMetadata.Generate(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IComSoapMetadata.Generate(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IComSoapMetadata.Generate(System.String,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.EnterpriseServices</AssemblyName>
@@ -155,6 +169,20 @@
       <MemberSignature Language="F#" Value="abstract member GenerateSigned : string * string * bool * string -&gt; string&#xA;override this.GenerateSigned : string * string * bool * string -&gt; string" Usage="generateMetadata.GenerateSigned (strSrcTypeLib, outPath, InstallGac, Error)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IComSoapMetadata.GenerateSigned(System.String,System.String,System.Boolean,System.String@)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IComSoapMetadata.GenerateSigned(System.String,System.String,System.Boolean,System.String@)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IComSoapMetadata.GenerateSigned(System.String,System.String,System.Boolean,System.String@)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IComSoapMetadata.GenerateSigned(System.String,System.String,System.Boolean,System.String@)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IComSoapMetadata.GenerateSigned(System.String,System.String,System.Boolean,System.String@)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IComSoapMetadata.GenerateSigned(System.String,System.String,System.Boolean,System.String@)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IComSoapMetadata.GenerateSigned(System.String,System.String,System.Boolean,System.String@)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IComSoapMetadata.GenerateSigned(System.String,System.String,System.Boolean,System.String@)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IComSoapMetadata.GenerateSigned(System.String,System.String,System.Boolean,System.String@)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IComSoapMetadata.GenerateSigned(System.String,System.String,System.Boolean,System.String@)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IComSoapMetadata.GenerateSigned(System.String,System.String,System.Boolean,System.String@)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IComSoapMetadata.GenerateSigned(System.String,System.String,System.Boolean,System.String@)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IComSoapMetadata.GenerateSigned(System.String,System.String,System.Boolean,System.String@)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.Internal.IComSoapMetadata.GenerateSigned(System.String,System.String,System.Boolean,System.String@)</InterfaceMember>
         <InterfaceMember>M:System.EnterpriseServices.Internal.IComSoapMetadata.GenerateSigned(System.String,System.String,System.Boolean,System.String@)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

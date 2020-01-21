@@ -1192,6 +1192,19 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.UI.IDataItemContainer.DataItem</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IDataItemContainer.DataItem</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IDataItemContainer.DataItem</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IDataItemContainer.DataItem</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IDataItemContainer.DataItem</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IDataItemContainer.DataItem</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IDataItemContainer.DataItem</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IDataItemContainer.DataItem</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IDataItemContainer.DataItem</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IDataItemContainer.DataItem</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IDataItemContainer.DataItem</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IDataItemContainer.DataItem</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IDataItemContainer.DataItem</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IDataItemContainer.DataItem</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -1290,6 +1303,19 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.UI.IDataItemContainer.DataItemIndex</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IDataItemContainer.DataItemIndex</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IDataItemContainer.DataItemIndex</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IDataItemContainer.DataItemIndex</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IDataItemContainer.DataItemIndex</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IDataItemContainer.DataItemIndex</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IDataItemContainer.DataItemIndex</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IDataItemContainer.DataItemIndex</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IDataItemContainer.DataItemIndex</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IDataItemContainer.DataItemIndex</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IDataItemContainer.DataItemIndex</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IDataItemContainer.DataItemIndex</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IDataItemContainer.DataItemIndex</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IDataItemContainer.DataItemIndex</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -1335,6 +1361,16 @@
       <MemberSignature Language="F#" Value="member this.DataKey : System.Web.UI.WebControls.DataKey" Usage="System.Web.UI.WebControls.FormView.DataKey" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundItemControl.DataKey</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundItemControl.DataKey</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundItemControl.DataKey</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundItemControl.DataKey</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundItemControl.DataKey</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundItemControl.DataKey</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundItemControl.DataKey</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundItemControl.DataKey</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundItemControl.DataKey</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundItemControl.DataKey</InterfaceMember>
         <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundItemControl.DataKey</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1389,6 +1425,16 @@
       <MemberSignature Language="F#" Value="member this.DataKeyNames : string[] with get, set" Usage="System.Web.UI.WebControls.FormView.DataKeyNames" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataKeyNames</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataKeyNames</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataKeyNames</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataKeyNames</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataKeyNames</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataKeyNames</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataKeyNames</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataKeyNames</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataKeyNames</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataKeyNames</InterfaceMember>
         <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataKeyNames</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -4783,6 +4829,19 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -4856,6 +4915,16 @@
       <MemberSignature Language="F#" Value="member this.RenderOuterTable : bool with get, set" Usage="System.Web.UI.WebControls.FormView.RenderOuterTable" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Web.UI.IRenderOuterTableControl.RenderOuterTable</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IRenderOuterTableControl.RenderOuterTable</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IRenderOuterTableControl.RenderOuterTable</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IRenderOuterTableControl.RenderOuterTable</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IRenderOuterTableControl.RenderOuterTable</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IRenderOuterTableControl.RenderOuterTable</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IRenderOuterTableControl.RenderOuterTable</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IRenderOuterTableControl.RenderOuterTable</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IRenderOuterTableControl.RenderOuterTable</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IRenderOuterTableControl.RenderOuterTable</InterfaceMember>
         <InterfaceMember>P:System.Web.UI.IRenderOuterTableControl.RenderOuterTable</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -5159,6 +5228,19 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.UI.IDataItemContainer.DataItemIndex</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IDataItemContainer.DataItemIndex</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IDataItemContainer.DataItemIndex</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IDataItemContainer.DataItemIndex</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IDataItemContainer.DataItemIndex</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IDataItemContainer.DataItemIndex</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IDataItemContainer.DataItemIndex</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IDataItemContainer.DataItemIndex</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IDataItemContainer.DataItemIndex</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IDataItemContainer.DataItemIndex</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IDataItemContainer.DataItemIndex</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IDataItemContainer.DataItemIndex</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IDataItemContainer.DataItemIndex</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IDataItemContainer.DataItemIndex</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -5198,6 +5280,19 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.UI.IDataItemContainer.DisplayIndex</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IDataItemContainer.DisplayIndex</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IDataItemContainer.DisplayIndex</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IDataItemContainer.DisplayIndex</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IDataItemContainer.DisplayIndex</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IDataItemContainer.DisplayIndex</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IDataItemContainer.DisplayIndex</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IDataItemContainer.DisplayIndex</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IDataItemContainer.DisplayIndex</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IDataItemContainer.DisplayIndex</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IDataItemContainer.DisplayIndex</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IDataItemContainer.DisplayIndex</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IDataItemContainer.DisplayIndex</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IDataItemContainer.DisplayIndex</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -5230,6 +5325,19 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System::String ^ eventArgument) = System::Web::UI::IPostBackEventHandler::RaisePostBackEvent;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
         <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -5271,6 +5379,16 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataKeyNames</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataKeyNames</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataKeyNames</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataKeyNames</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataKeyNames</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataKeyNames</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataKeyNames</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataKeyNames</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataKeyNames</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataKeyNames</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataKeyNames</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -5310,6 +5428,16 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataMember</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataMember</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataMember</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataMember</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataMember</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataMember</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataMember</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataMember</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataMember</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataMember</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataMember</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -5340,6 +5468,16 @@
       <MemberSignature Language="F#" Usage="System.Web.UI.WebControls.IDataBoundControl.DataSource" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataSource</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataSource</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataSource</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataSource</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataSource</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataSource</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataSource</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataSource</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataSource</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataSource</InterfaceMember>
         <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataSource</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -5372,6 +5510,16 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataSourceID</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataSourceID</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataSourceID</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataSourceID</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataSourceID</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataSourceID</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataSourceID</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataSourceID</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataSourceID</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataSourceID</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataSourceID</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -5403,6 +5551,16 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataSourceObject</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataSourceObject</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataSourceObject</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataSourceObject</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataSourceObject</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataSourceObject</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataSourceObject</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataSourceObject</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataSourceObject</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataSourceObject</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundControl.DataSourceObject</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -5433,6 +5591,16 @@
       <MemberSignature Language="F#" Usage="System.Web.UI.WebControls.IDataBoundItemControl.DataKey" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundItemControl.DataKey</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundItemControl.DataKey</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundItemControl.DataKey</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundItemControl.DataKey</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundItemControl.DataKey</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundItemControl.DataKey</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundItemControl.DataKey</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundItemControl.DataKey</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundItemControl.DataKey</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundItemControl.DataKey</InterfaceMember>
         <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundItemControl.DataKey</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -5470,6 +5638,16 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundItemControl.Mode</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundItemControl.Mode</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundItemControl.Mode</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundItemControl.Mode</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundItemControl.Mode</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundItemControl.Mode</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundItemControl.Mode</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundItemControl.Mode</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundItemControl.Mode</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundItemControl.Mode</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.WebControls.IDataBoundItemControl.Mode</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -5499,6 +5677,19 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Web::UI::PostBackOptions ^ System.Web.UI.WebControls.IPostBackContainer.GetPostBackOptions(System::Web::UI::WebControls::IButtonControl ^ buttonControl) = System::Web::UI::WebControls::IPostBackContainer::GetPostBackOptions;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.UI.WebControls.IPostBackContainer.GetPostBackOptions(System.Web.UI.WebControls.IButtonControl)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.WebControls.IPostBackContainer.GetPostBackOptions(System.Web.UI.WebControls.IButtonControl)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.WebControls.IPostBackContainer.GetPostBackOptions(System.Web.UI.WebControls.IButtonControl)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.WebControls.IPostBackContainer.GetPostBackOptions(System.Web.UI.WebControls.IButtonControl)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.WebControls.IPostBackContainer.GetPostBackOptions(System.Web.UI.WebControls.IButtonControl)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.WebControls.IPostBackContainer.GetPostBackOptions(System.Web.UI.WebControls.IButtonControl)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.WebControls.IPostBackContainer.GetPostBackOptions(System.Web.UI.WebControls.IButtonControl)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.WebControls.IPostBackContainer.GetPostBackOptions(System.Web.UI.WebControls.IButtonControl)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.WebControls.IPostBackContainer.GetPostBackOptions(System.Web.UI.WebControls.IButtonControl)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.WebControls.IPostBackContainer.GetPostBackOptions(System.Web.UI.WebControls.IButtonControl)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.WebControls.IPostBackContainer.GetPostBackOptions(System.Web.UI.WebControls.IButtonControl)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.WebControls.IPostBackContainer.GetPostBackOptions(System.Web.UI.WebControls.IButtonControl)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.WebControls.IPostBackContainer.GetPostBackOptions(System.Web.UI.WebControls.IButtonControl)</InterfaceMember>
         <InterfaceMember>M:System.Web.UI.WebControls.IPostBackContainer.GetPostBackOptions(System.Web.UI.WebControls.IButtonControl)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

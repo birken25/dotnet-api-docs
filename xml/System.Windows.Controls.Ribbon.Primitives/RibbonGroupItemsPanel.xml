@@ -102,6 +102,17 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfoBase.OnInitializeLayout</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfoBase.OnInitializeLayout</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfoBase.OnInitializeLayout</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfoBase.OnInitializeLayout</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfoBase.OnInitializeLayout</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfoBase.OnInitializeLayout</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfoBase.OnInitializeLayout</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfoBase.OnInitializeLayout</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfoBase.OnInitializeLayout</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfoBase.OnInitializeLayout</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfoBase.OnInitializeLayout</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfoBase.OnInitializeLayout</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Controls.Ribbon</AssemblyName>
@@ -125,6 +136,17 @@
       <MemberSignature Language="F#" Value="abstract member OnStarSizeAllocationCompleted : unit -&gt; unit&#xA;override this.OnStarSizeAllocationCompleted : unit -&gt; unit" Usage="ribbonGroupItemsPanel.OnStarSizeAllocationCompleted " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfo.OnStarSizeAllocationCompleted</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfo.OnStarSizeAllocationCompleted</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfo.OnStarSizeAllocationCompleted</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfo.OnStarSizeAllocationCompleted</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfo.OnStarSizeAllocationCompleted</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfo.OnStarSizeAllocationCompleted</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfo.OnStarSizeAllocationCompleted</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfo.OnStarSizeAllocationCompleted</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfo.OnStarSizeAllocationCompleted</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfo.OnStarSizeAllocationCompleted</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfo.OnStarSizeAllocationCompleted</InterfaceMember>
         <InterfaceMember>M:System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfo.OnStarSizeAllocationCompleted</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -150,6 +172,17 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfo.StarLayoutCombinations</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfo.StarLayoutCombinations</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfo.StarLayoutCombinations</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfo.StarLayoutCombinations</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfo.StarLayoutCombinations</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfo.StarLayoutCombinations</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfo.StarLayoutCombinations</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfo.StarLayoutCombinations</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfo.StarLayoutCombinations</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfo.StarLayoutCombinations</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfo.StarLayoutCombinations</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfo.StarLayoutCombinations</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Controls.Ribbon</AssemblyName>
@@ -173,6 +206,17 @@
       <MemberSignature Language="F#" Value="member this.TargetElement : System.Windows.UIElement" Usage="System.Windows.Controls.Ribbon.Primitives.RibbonGroupItemsPanel.TargetElement" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfoBase.TargetElement</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfoBase.TargetElement</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfoBase.TargetElement</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfoBase.TargetElement</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfoBase.TargetElement</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfoBase.TargetElement</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfoBase.TargetElement</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfoBase.TargetElement</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfoBase.TargetElement</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfoBase.TargetElement</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfoBase.TargetElement</InterfaceMember>
         <InterfaceMember>P:System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfoBase.TargetElement</InterfaceMember>
       </Implements>
       <AssemblyInfo>

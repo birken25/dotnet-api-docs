@@ -172,6 +172,23 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.DeclaringType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.DeclaringType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.DeclaringType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.DeclaringType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.DeclaringType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.DeclaringType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.DeclaringType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.DeclaringType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.DeclaringType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.DeclaringType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.DeclaringType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.DeclaringType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.DeclaringType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.DeclaringType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.DeclaringType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.DeclaringType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.DeclaringType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.DeclaringType</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Reflection</AssemblyName>
@@ -240,6 +257,19 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.Equals(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Reflection</AssemblyName>
@@ -296,6 +326,51 @@
       <MemberSignature Language="F#" Value="abstract member GetCustomAttributes : bool -&gt; obj[]" Usage="memberInfo.GetCustomAttributes inherit" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetCustomAttributes(System.Boolean)</InterfaceMember>
         <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetCustomAttributes(System.Boolean)</InterfaceMember>
       </Implements>
@@ -366,6 +441,51 @@
       <MemberSignature Language="F#" Value="abstract member GetCustomAttributes : Type * bool -&gt; obj[]" Usage="memberInfo.GetCustomAttributes (attributeType, inherit)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
         <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
       </Implements>
@@ -482,6 +602,19 @@
       <MemberSignature Language="F#" Value="override this.GetHashCode : unit -&gt; int" Usage="memberInfo.GetHashCode " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetHashCode</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetHashCode</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -635,6 +768,51 @@ For more information, see [How to use and debug assembly unloadability in .NET C
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.IsDefined(System.Type,System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -703,6 +881,23 @@ For more information, see [How to use and debug assembly unloadability in .NET C
       <MemberSignature Language="F#" Value="member this.MemberType : System.Reflection.MemberTypes" Usage="System.Reflection.MemberInfo.MemberType" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.MemberType</InterfaceMember>
         <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.MemberType</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -872,6 +1067,23 @@ For more information, see [How to use and debug assembly unloadability in .NET C
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.Name</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.Name</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.Name</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.Name</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.Name</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.Name</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.Name</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.Name</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.Name</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.Name</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.Name</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.Name</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.Name</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.Name</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.Name</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.Name</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.Name</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.Name</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Reflection</AssemblyName>
@@ -1025,6 +1237,23 @@ For more information, see [How to use and debug assembly unloadability in .NET C
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.ReflectedType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.ReflectedType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.ReflectedType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.ReflectedType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.ReflectedType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.ReflectedType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.ReflectedType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.ReflectedType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.ReflectedType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.ReflectedType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.ReflectedType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.ReflectedType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.ReflectedType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.ReflectedType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.ReflectedType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.ReflectedType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.ReflectedType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MemberInfo.ReflectedType</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -1083,6 +1312,9 @@ For more information, see [How to use and debug assembly unloadability in .NET C
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Reflection</AssemblyName>
@@ -1118,6 +1350,9 @@ For more information, see [How to use and debug assembly unloadability in .NET C
       <MemberSignature Language="C++ CLI" Value=" virtual cli::array &lt;System::Object ^&gt; ^ System.Reflection.ICustomAttributeProvider.GetCustomAttributes(Type ^ attributeType, bool inherit) = System::Reflection::ICustomAttributeProvider::GetCustomAttributes;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
         <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.GetCustomAttributes(System.Type,System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1157,6 +1392,9 @@ For more information, see [How to use and debug assembly unloadability in .NET C
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Reflection.ICustomAttributeProvider.IsDefined(System.Type,System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Reflection</AssemblyName>
@@ -1194,6 +1432,23 @@ For more information, see [How to use and debug assembly unloadability in .NET C
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Runtime.InteropServices._MemberInfo.GetIDsOfNames(Guid % riid, IntPtr rgszNames, System::UInt32 cNames, System::UInt32 lcid, IntPtr rgDispId) = System::Runtime::InteropServices::_MemberInfo::GetIDsOfNames;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1249,6 +1504,22 @@ For more information, see [How to use and debug assembly unloadability in .NET C
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetType</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -1283,6 +1554,23 @@ For more information, see [How to use and debug assembly unloadability in .NET C
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Runtime.InteropServices._MemberInfo.GetTypeInfo(System::UInt32 iTInfo, System::UInt32 lcid, IntPtr ppTInfo) = System::Runtime::InteropServices::_MemberInfo::GetTypeInfo;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1334,6 +1622,23 @@ For more information, see [How to use and debug assembly unloadability in .NET C
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -1379,6 +1684,23 @@ For more information, see [How to use and debug assembly unloadability in .NET C
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Runtime.InteropServices._MemberInfo.Invoke(System::UInt32 dispIdMember, Guid % riid, System::UInt32 lcid, short wFlags, IntPtr pDispParams, IntPtr pVarResult, IntPtr pExcepInfo, IntPtr puArgErr) = System::Runtime::InteropServices::_MemberInfo::Invoke;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices._MemberInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

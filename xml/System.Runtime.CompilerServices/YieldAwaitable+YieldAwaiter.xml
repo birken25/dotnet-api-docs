@@ -154,6 +154,39 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.CompilerServices.INotifyCompletion.OnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.INotifyCompletion.OnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.INotifyCompletion.OnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.INotifyCompletion.OnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.INotifyCompletion.OnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.INotifyCompletion.OnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.INotifyCompletion.OnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.INotifyCompletion.OnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.INotifyCompletion.OnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.INotifyCompletion.OnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.INotifyCompletion.OnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.INotifyCompletion.OnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.INotifyCompletion.OnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.INotifyCompletion.OnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.INotifyCompletion.OnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.INotifyCompletion.OnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.INotifyCompletion.OnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.INotifyCompletion.OnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.INotifyCompletion.OnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.INotifyCompletion.OnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.INotifyCompletion.OnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.INotifyCompletion.OnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.INotifyCompletion.OnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.INotifyCompletion.OnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.INotifyCompletion.OnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.INotifyCompletion.OnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.INotifyCompletion.OnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.INotifyCompletion.OnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.INotifyCompletion.OnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.INotifyCompletion.OnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.INotifyCompletion.OnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.INotifyCompletion.OnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.INotifyCompletion.OnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.INotifyCompletion.OnCompleted(System.Action)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Threading.Tasks</AssemblyName>
@@ -211,6 +244,39 @@
       <MemberSignature Language="F#" Value="abstract member UnsafeOnCompleted : Action -&gt; unit&#xA;override this.UnsafeOnCompleted : Action -&gt; unit" Usage="yieldAwaiter.UnsafeOnCompleted continuation" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.CompilerServices.ICriticalNotifyCompletion.UnsafeOnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.ICriticalNotifyCompletion.UnsafeOnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.ICriticalNotifyCompletion.UnsafeOnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.ICriticalNotifyCompletion.UnsafeOnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.ICriticalNotifyCompletion.UnsafeOnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.ICriticalNotifyCompletion.UnsafeOnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.ICriticalNotifyCompletion.UnsafeOnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.ICriticalNotifyCompletion.UnsafeOnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.ICriticalNotifyCompletion.UnsafeOnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.ICriticalNotifyCompletion.UnsafeOnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.ICriticalNotifyCompletion.UnsafeOnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.ICriticalNotifyCompletion.UnsafeOnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.ICriticalNotifyCompletion.UnsafeOnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.ICriticalNotifyCompletion.UnsafeOnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.ICriticalNotifyCompletion.UnsafeOnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.ICriticalNotifyCompletion.UnsafeOnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.ICriticalNotifyCompletion.UnsafeOnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.ICriticalNotifyCompletion.UnsafeOnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.ICriticalNotifyCompletion.UnsafeOnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.ICriticalNotifyCompletion.UnsafeOnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.ICriticalNotifyCompletion.UnsafeOnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.ICriticalNotifyCompletion.UnsafeOnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.ICriticalNotifyCompletion.UnsafeOnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.ICriticalNotifyCompletion.UnsafeOnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.ICriticalNotifyCompletion.UnsafeOnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.ICriticalNotifyCompletion.UnsafeOnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.ICriticalNotifyCompletion.UnsafeOnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.ICriticalNotifyCompletion.UnsafeOnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.ICriticalNotifyCompletion.UnsafeOnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.ICriticalNotifyCompletion.UnsafeOnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.ICriticalNotifyCompletion.UnsafeOnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.ICriticalNotifyCompletion.UnsafeOnCompleted(System.Action)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.CompilerServices.ICriticalNotifyCompletion.UnsafeOnCompleted(System.Action)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.CompilerServices.ICriticalNotifyCompletion.UnsafeOnCompleted(System.Action)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

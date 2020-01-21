@@ -518,6 +518,18 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Workflow.Runtime.IPendingWork.Commit(System.Transactions.Transaction,System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.Runtime.IPendingWork.Commit(System.Transactions.Transaction,System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.Runtime.IPendingWork.Commit(System.Transactions.Transaction,System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.Runtime.IPendingWork.Commit(System.Transactions.Transaction,System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.Runtime.IPendingWork.Commit(System.Transactions.Transaction,System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.Runtime.IPendingWork.Commit(System.Transactions.Transaction,System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.Runtime.IPendingWork.Commit(System.Transactions.Transaction,System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.Runtime.IPendingWork.Commit(System.Transactions.Transaction,System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.Runtime.IPendingWork.Commit(System.Transactions.Transaction,System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.Runtime.IPendingWork.Commit(System.Transactions.Transaction,System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.Runtime.IPendingWork.Commit(System.Transactions.Transaction,System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.Runtime.IPendingWork.Commit(System.Transactions.Transaction,System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.Runtime.IPendingWork.Commit(System.Transactions.Transaction,System.Collections.ICollection)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Workflow.Runtime</AssemblyName>
@@ -554,6 +566,18 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Workflow.Runtime.IPendingWork.Complete(bool succeeded, System::Collections::ICollection ^ items) = System::Workflow::Runtime::IPendingWork::Complete;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Workflow.Runtime.IPendingWork.Complete(System.Boolean,System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.Runtime.IPendingWork.Complete(System.Boolean,System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.Runtime.IPendingWork.Complete(System.Boolean,System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.Runtime.IPendingWork.Complete(System.Boolean,System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.Runtime.IPendingWork.Complete(System.Boolean,System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.Runtime.IPendingWork.Complete(System.Boolean,System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.Runtime.IPendingWork.Complete(System.Boolean,System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.Runtime.IPendingWork.Complete(System.Boolean,System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.Runtime.IPendingWork.Complete(System.Boolean,System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.Runtime.IPendingWork.Complete(System.Boolean,System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.Runtime.IPendingWork.Complete(System.Boolean,System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.Runtime.IPendingWork.Complete(System.Boolean,System.Collections.ICollection)</InterfaceMember>
         <InterfaceMember>M:System.Workflow.Runtime.IPendingWork.Complete(System.Boolean,System.Collections.ICollection)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -592,6 +616,18 @@
       <MemberSignature Language="C++ CLI" Value=" virtual bool System.Workflow.Runtime.IPendingWork.MustCommit(System::Collections::ICollection ^ items) = System::Workflow::Runtime::IPendingWork::MustCommit;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Workflow.Runtime.IPendingWork.MustCommit(System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.Runtime.IPendingWork.MustCommit(System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.Runtime.IPendingWork.MustCommit(System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.Runtime.IPendingWork.MustCommit(System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.Runtime.IPendingWork.MustCommit(System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.Runtime.IPendingWork.MustCommit(System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.Runtime.IPendingWork.MustCommit(System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.Runtime.IPendingWork.MustCommit(System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.Runtime.IPendingWork.MustCommit(System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.Runtime.IPendingWork.MustCommit(System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.Runtime.IPendingWork.MustCommit(System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.Runtime.IPendingWork.MustCommit(System.Collections.ICollection)</InterfaceMember>
         <InterfaceMember>M:System.Workflow.Runtime.IPendingWork.MustCommit(System.Collections.ICollection)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

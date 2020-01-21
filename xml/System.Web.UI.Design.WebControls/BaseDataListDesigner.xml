@@ -511,6 +511,20 @@ The `DesignTimeHtmlRequiresLoadComplete` property returns `true` if the <xref:Sy
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.UI.Design.IDataSourceProvider.GetResolvedSelectedDataSource</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceProvider.GetResolvedSelectedDataSource</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceProvider.GetResolvedSelectedDataSource</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceProvider.GetResolvedSelectedDataSource</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceProvider.GetResolvedSelectedDataSource</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceProvider.GetResolvedSelectedDataSource</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceProvider.GetResolvedSelectedDataSource</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceProvider.GetResolvedSelectedDataSource</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceProvider.GetResolvedSelectedDataSource</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceProvider.GetResolvedSelectedDataSource</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceProvider.GetResolvedSelectedDataSource</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceProvider.GetResolvedSelectedDataSource</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceProvider.GetResolvedSelectedDataSource</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceProvider.GetResolvedSelectedDataSource</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceProvider.GetResolvedSelectedDataSource</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -551,6 +565,20 @@ The `DesignTimeHtmlRequiresLoadComplete` property returns `true` if the <xref:Sy
       <MemberSignature Language="F#" Value="abstract member GetSelectedDataSource : unit -&gt; obj&#xA;override this.GetSelectedDataSource : unit -&gt; obj" Usage="baseDataListDesigner.GetSelectedDataSource " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceProvider.GetSelectedDataSource</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceProvider.GetSelectedDataSource</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceProvider.GetSelectedDataSource</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceProvider.GetSelectedDataSource</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceProvider.GetSelectedDataSource</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceProvider.GetSelectedDataSource</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceProvider.GetSelectedDataSource</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceProvider.GetSelectedDataSource</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceProvider.GetSelectedDataSource</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceProvider.GetSelectedDataSource</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceProvider.GetSelectedDataSource</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceProvider.GetSelectedDataSource</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceProvider.GetSelectedDataSource</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceProvider.GetSelectedDataSource</InterfaceMember>
         <InterfaceMember>M:System.Web.UI.Design.IDataSourceProvider.GetSelectedDataSource</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1066,6 +1094,19 @@ The `DesignTimeHtmlRequiresLoadComplete` property returns `true` if the <xref:Sy
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.CanRefreshSchema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.CanRefreshSchema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.CanRefreshSchema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.CanRefreshSchema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.CanRefreshSchema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.CanRefreshSchema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.CanRefreshSchema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.CanRefreshSchema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.CanRefreshSchema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.CanRefreshSchema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.CanRefreshSchema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.CanRefreshSchema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.CanRefreshSchema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.CanRefreshSchema</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -1100,6 +1141,19 @@ The `DesignTimeHtmlRequiresLoadComplete` property returns `true` if the <xref:Sy
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Web.UI.Design.IDataBindingSchemaProvider.RefreshSchema(bool preferSilent) = System::Web::UI::Design::IDataBindingSchemaProvider::RefreshSchema;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.UI.Design.IDataBindingSchemaProvider.RefreshSchema(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataBindingSchemaProvider.RefreshSchema(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataBindingSchemaProvider.RefreshSchema(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataBindingSchemaProvider.RefreshSchema(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataBindingSchemaProvider.RefreshSchema(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataBindingSchemaProvider.RefreshSchema(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataBindingSchemaProvider.RefreshSchema(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataBindingSchemaProvider.RefreshSchema(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataBindingSchemaProvider.RefreshSchema(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataBindingSchemaProvider.RefreshSchema(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataBindingSchemaProvider.RefreshSchema(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataBindingSchemaProvider.RefreshSchema(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataBindingSchemaProvider.RefreshSchema(System.Boolean)</InterfaceMember>
         <InterfaceMember>M:System.Web.UI.Design.IDataBindingSchemaProvider.RefreshSchema(System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1139,6 +1193,19 @@ The `DesignTimeHtmlRequiresLoadComplete` property returns `true` if the <xref:Sy
       <MemberSignature Language="F#" Usage="System.Web.UI.Design.IDataBindingSchemaProvider.Schema" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.Schema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.Schema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.Schema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.Schema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.Schema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.Schema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.Schema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.Schema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.Schema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.Schema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.Schema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.Schema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.Schema</InterfaceMember>
         <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.Schema</InterfaceMember>
       </Implements>
       <AssemblyInfo>

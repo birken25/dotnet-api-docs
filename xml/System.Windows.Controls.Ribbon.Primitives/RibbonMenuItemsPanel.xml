@@ -74,6 +74,17 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Windows.Controls.Ribbon.Primitives.ISupportStarLayout.IsStarLayoutPass</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Ribbon.Primitives.ISupportStarLayout.IsStarLayoutPass</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Ribbon.Primitives.ISupportStarLayout.IsStarLayoutPass</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Ribbon.Primitives.ISupportStarLayout.IsStarLayoutPass</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Ribbon.Primitives.ISupportStarLayout.IsStarLayoutPass</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Ribbon.Primitives.ISupportStarLayout.IsStarLayoutPass</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Ribbon.Primitives.ISupportStarLayout.IsStarLayoutPass</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Ribbon.Primitives.ISupportStarLayout.IsStarLayoutPass</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Ribbon.Primitives.ISupportStarLayout.IsStarLayoutPass</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Ribbon.Primitives.ISupportStarLayout.IsStarLayoutPass</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Ribbon.Primitives.ISupportStarLayout.IsStarLayoutPass</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Ribbon.Primitives.ISupportStarLayout.IsStarLayoutPass</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Controls.Ribbon</AssemblyName>
@@ -150,6 +161,17 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Controls.Ribbon.Primitives.ISupportStarLayout.RegisterStarLayoutProvider(System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfoBase)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Ribbon.Primitives.ISupportStarLayout.RegisterStarLayoutProvider(System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfoBase)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Ribbon.Primitives.ISupportStarLayout.RegisterStarLayoutProvider(System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfoBase)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Ribbon.Primitives.ISupportStarLayout.RegisterStarLayoutProvider(System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfoBase)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Ribbon.Primitives.ISupportStarLayout.RegisterStarLayoutProvider(System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfoBase)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Ribbon.Primitives.ISupportStarLayout.RegisterStarLayoutProvider(System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfoBase)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Ribbon.Primitives.ISupportStarLayout.RegisterStarLayoutProvider(System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfoBase)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Ribbon.Primitives.ISupportStarLayout.RegisterStarLayoutProvider(System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfoBase)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Ribbon.Primitives.ISupportStarLayout.RegisterStarLayoutProvider(System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfoBase)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Ribbon.Primitives.ISupportStarLayout.RegisterStarLayoutProvider(System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfoBase)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Ribbon.Primitives.ISupportStarLayout.RegisterStarLayoutProvider(System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfoBase)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Ribbon.Primitives.ISupportStarLayout.RegisterStarLayoutProvider(System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfoBase)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Controls.Ribbon</AssemblyName>
@@ -176,6 +198,17 @@
       <MemberSignature Language="F#" Value="abstract member UnregisterStarLayoutProvider : System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfoBase -&gt; unit&#xA;override this.UnregisterStarLayoutProvider : System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfoBase -&gt; unit" Usage="ribbonMenuItemsPanel.UnregisterStarLayoutProvider starLayoutInfoProvider" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Controls.Ribbon.Primitives.ISupportStarLayout.UnregisterStarLayoutProvider(System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfoBase)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Ribbon.Primitives.ISupportStarLayout.UnregisterStarLayoutProvider(System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfoBase)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Ribbon.Primitives.ISupportStarLayout.UnregisterStarLayoutProvider(System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfoBase)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Ribbon.Primitives.ISupportStarLayout.UnregisterStarLayoutProvider(System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfoBase)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Ribbon.Primitives.ISupportStarLayout.UnregisterStarLayoutProvider(System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfoBase)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Ribbon.Primitives.ISupportStarLayout.UnregisterStarLayoutProvider(System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfoBase)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Ribbon.Primitives.ISupportStarLayout.UnregisterStarLayoutProvider(System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfoBase)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Ribbon.Primitives.ISupportStarLayout.UnregisterStarLayoutProvider(System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfoBase)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Ribbon.Primitives.ISupportStarLayout.UnregisterStarLayoutProvider(System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfoBase)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Ribbon.Primitives.ISupportStarLayout.UnregisterStarLayoutProvider(System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfoBase)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Ribbon.Primitives.ISupportStarLayout.UnregisterStarLayoutProvider(System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfoBase)</InterfaceMember>
         <InterfaceMember>M:System.Windows.Controls.Ribbon.Primitives.ISupportStarLayout.UnregisterStarLayoutProvider(System.Windows.Controls.Ribbon.Primitives.IProvideStarLayoutInfoBase)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

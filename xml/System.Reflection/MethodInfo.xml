@@ -278,6 +278,17 @@ For a list of the invariant conditions for other terms used in generic reflectio
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.Equals(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Reflection</AssemblyName>
@@ -324,6 +335,21 @@ For a list of the invariant conditions for other terms used in generic reflectio
       <MemberSignature Language="F#" Value="abstract member GetBaseDefinition : unit -&gt; System.Reflection.MethodInfo" Usage="methodInfo.GetBaseDefinition " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetBaseDefinition</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetBaseDefinition</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetBaseDefinition</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetBaseDefinition</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetBaseDefinition</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetBaseDefinition</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetBaseDefinition</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetBaseDefinition</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetBaseDefinition</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetBaseDefinition</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetBaseDefinition</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetBaseDefinition</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetBaseDefinition</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetBaseDefinition</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetBaseDefinition</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetBaseDefinition</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -592,6 +618,17 @@ public:
       <MemberSignature Language="F#" Value="override this.GetHashCode : unit -&gt; int" Usage="methodInfo.GetHashCode " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetHashCode</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetHashCode</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1021,6 +1058,21 @@ public:
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.InteropServices._MethodInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodInfo.MemberType</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Reflection</AssemblyName>
@@ -1225,6 +1277,21 @@ public:
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.InteropServices._MethodInfo.ReturnType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodInfo.ReturnType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodInfo.ReturnType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodInfo.ReturnType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodInfo.ReturnType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodInfo.ReturnType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodInfo.ReturnType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodInfo.ReturnType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodInfo.ReturnType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodInfo.ReturnType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodInfo.ReturnType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodInfo.ReturnType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodInfo.ReturnType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodInfo.ReturnType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodInfo.ReturnType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodInfo.ReturnType</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Reflection</AssemblyName>
@@ -1285,6 +1352,21 @@ public:
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.InteropServices._MethodInfo.ReturnTypeCustomAttributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodInfo.ReturnTypeCustomAttributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodInfo.ReturnTypeCustomAttributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodInfo.ReturnTypeCustomAttributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodInfo.ReturnTypeCustomAttributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodInfo.ReturnTypeCustomAttributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodInfo.ReturnTypeCustomAttributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodInfo.ReturnTypeCustomAttributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodInfo.ReturnTypeCustomAttributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodInfo.ReturnTypeCustomAttributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodInfo.ReturnTypeCustomAttributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodInfo.ReturnTypeCustomAttributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodInfo.ReturnTypeCustomAttributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodInfo.ReturnTypeCustomAttributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodInfo.ReturnTypeCustomAttributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodInfo.ReturnTypeCustomAttributes</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Reflection</AssemblyName>
@@ -1325,6 +1407,21 @@ public:
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Runtime.InteropServices._MethodInfo.GetIDsOfNames(Guid % riid, IntPtr rgszNames, System::UInt32 cNames, System::UInt32 lcid, IntPtr rgDispId) = System::Runtime::InteropServices::_MethodInfo::GetIDsOfNames;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1379,6 +1476,20 @@ public:
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetType</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -1412,6 +1523,21 @@ public:
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Runtime.InteropServices._MethodInfo.GetTypeInfo(System::UInt32 iTInfo, System::UInt32 lcid, IntPtr ppTInfo) = System::Runtime::InteropServices::_MethodInfo::GetTypeInfo;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1462,6 +1588,21 @@ public:
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -1506,6 +1647,21 @@ public:
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Runtime.InteropServices._MethodInfo.Invoke(System::UInt32 dispIdMember, Guid % riid, System::UInt32 lcid, short wFlags, IntPtr pDispParams, IntPtr pVarResult, IntPtr pExcepInfo, IntPtr puArgErr) = System::Runtime::InteropServices::_MethodInfo::Invoke;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices._MethodInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

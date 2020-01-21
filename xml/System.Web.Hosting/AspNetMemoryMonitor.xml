@@ -83,6 +83,9 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -107,6 +110,9 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.Hosting.IApplicationMonitor.Start</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IApplicationMonitor.Start</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IApplicationMonitor.Start</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IApplicationMonitor.Start</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -130,6 +136,9 @@
       <MemberSignature Language="F#" Value="abstract member Stop : unit -&gt; unit&#xA;override this.Stop : unit -&gt; unit" Usage="aspNetMemoryMonitor.Stop " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.Hosting.IApplicationMonitor.Stop</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IApplicationMonitor.Stop</InterfaceMember>
+        <InterfaceMember>M:System.Web.Hosting.IApplicationMonitor.Stop</InterfaceMember>
         <InterfaceMember>M:System.Web.Hosting.IApplicationMonitor.Stop</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -164,6 +173,9 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IObservable`1.Subscribe(System.IObserver{`0})</InterfaceMember>
+        <InterfaceMember>M:System.IObservable`1.Subscribe(System.IObserver{`0})</InterfaceMember>
+        <InterfaceMember>M:System.IObservable`1.Subscribe(System.IObserver{`0})</InterfaceMember>
+        <InterfaceMember>M:System.IObservable`1.Subscribe(System.IObserver{`0})</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -191,6 +203,9 @@
       <MemberSignature Language="F#" Value="abstract member Subscribe : IObserver&lt;System.Web.Hosting.RecycleLimitInfo&gt; -&gt; IDisposable&#xA;override this.Subscribe : IObserver&lt;System.Web.Hosting.RecycleLimitInfo&gt; -&gt; IDisposable" Usage="aspNetMemoryMonitor.Subscribe observer" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.IObservable`1.Subscribe(System.IObserver{`0})</InterfaceMember>
+        <InterfaceMember>M:System.IObservable`1.Subscribe(System.IObserver{`0})</InterfaceMember>
+        <InterfaceMember>M:System.IObservable`1.Subscribe(System.IObserver{`0})</InterfaceMember>
         <InterfaceMember>M:System.IObservable`1.Subscribe(System.IObserver{`0})</InterfaceMember>
       </Implements>
       <AssemblyInfo>

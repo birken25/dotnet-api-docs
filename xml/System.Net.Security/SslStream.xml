@@ -513,6 +513,8 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.AuthenticateAsClient(System.String)</InterfaceMember>
+        <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.AuthenticateAsClient(System.String)</InterfaceMember>
+        <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.AuthenticateAsClient(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System</AssemblyName>
@@ -629,6 +631,8 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.AuthenticateAsClient(System.String,System.Security.Cryptography.X509Certificates.X509CertificateCollection,System.Security.Authentication.SslProtocols,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.AuthenticateAsClient(System.String,System.Security.Cryptography.X509Certificates.X509CertificateCollection,System.Security.Authentication.SslProtocols,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.AuthenticateAsClient(System.String,System.Security.Cryptography.X509Certificates.X509CertificateCollection,System.Security.Authentication.SslProtocols,System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System</AssemblyName>
@@ -699,6 +703,8 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.AuthenticateAsClientAsync(System.String)</InterfaceMember>
+        <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.AuthenticateAsClientAsync(System.String)</InterfaceMember>
+        <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.AuthenticateAsClientAsync(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Net.Security</AssemblyName>
@@ -760,7 +766,7 @@
       <MemberSignature Language="DocId" Value="M:System.Net.Security.SslStream.AuthenticateAsClientAsync(System.Net.Security.SslClientAuthenticationOptions,System.Threading.CancellationToken)" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; System::Threading::Tasks::Task ^ AuthenticateAsClientAsync(System::Net::Security::SslClientAuthenticationOptions ^ sslClientAuthenticationOptions, System::Threading::CancellationToken cancellationToken);" FrameworkAlternate="netcore-2.1;netcore-2.2;netstandard-2.1" />
       <MemberSignature Language="F#" Value="member this.AuthenticateAsClientAsync : System.Net.Security.SslClientAuthenticationOptions * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task" Usage="sslStream.AuthenticateAsClientAsync (sslClientAuthenticationOptions, cancellationToken)" />
-      <MemberSignature Language="C#" Value="public System.Threading.Tasks.Task AuthenticateAsClientAsync (System.Net.Security.SslClientAuthenticationOptions sslClientAuthenticationOptions, System.Threading.CancellationToken cancellationToken = null);" FrameworkAlternate="netcore-3.0;netcore-3.1" />
+      <MemberSignature Language="C#" Value="public System.Threading.Tasks.Task AuthenticateAsClientAsync (System.Net.Security.SslClientAuthenticationOptions sslClientAuthenticationOptions, System.Threading.CancellationToken cancellationToken = default);" FrameworkAlternate="netcore-3.0;netcore-3.1" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Net.Security</AssemblyName>
@@ -852,6 +858,8 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.AuthenticateAsClientAsync(System.String,System.Security.Cryptography.X509Certificates.X509CertificateCollection,System.Security.Authentication.SslProtocols,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.AuthenticateAsClientAsync(System.String,System.Security.Cryptography.X509Certificates.X509CertificateCollection,System.Security.Authentication.SslProtocols,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.AuthenticateAsClientAsync(System.String,System.Security.Cryptography.X509Certificates.X509CertificateCollection,System.Security.Authentication.SslProtocols,System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Net.Security</AssemblyName>
@@ -922,6 +930,8 @@
       <MemberSignature Language="F#" Value="abstract member AuthenticateAsServer : System.Security.Cryptography.X509Certificates.X509Certificate -&gt; unit&#xA;override this.AuthenticateAsServer : System.Security.Cryptography.X509Certificates.X509Certificate -&gt; unit" Usage="sslStream.AuthenticateAsServer serverCertificate" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.AuthenticateAsServer(System.Security.Cryptography.X509Certificates.X509Certificate)</InterfaceMember>
+        <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.AuthenticateAsServer(System.Security.Cryptography.X509Certificates.X509Certificate)</InterfaceMember>
         <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.AuthenticateAsServer(System.Security.Cryptography.X509Certificates.X509Certificate)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1056,6 +1066,8 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.AuthenticateAsServer(System.Security.Cryptography.X509Certificates.X509Certificate,System.Boolean,System.Security.Authentication.SslProtocols,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.AuthenticateAsServer(System.Security.Cryptography.X509Certificates.X509Certificate,System.Boolean,System.Security.Authentication.SslProtocols,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.AuthenticateAsServer(System.Security.Cryptography.X509Certificates.X509Certificate,System.Boolean,System.Security.Authentication.SslProtocols,System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System</AssemblyName>
@@ -1139,6 +1151,8 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.AuthenticateAsServerAsync(System.Security.Cryptography.X509Certificates.X509Certificate)</InterfaceMember>
+        <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.AuthenticateAsServerAsync(System.Security.Cryptography.X509Certificates.X509Certificate)</InterfaceMember>
+        <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.AuthenticateAsServerAsync(System.Security.Cryptography.X509Certificates.X509Certificate)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Net.Security</AssemblyName>
@@ -1201,7 +1215,7 @@
       <MemberSignature Language="DocId" Value="M:System.Net.Security.SslStream.AuthenticateAsServerAsync(System.Net.Security.SslServerAuthenticationOptions,System.Threading.CancellationToken)" />
       <MemberSignature Language="C++ CLI" Value="public:&#xA; System::Threading::Tasks::Task ^ AuthenticateAsServerAsync(System::Net::Security::SslServerAuthenticationOptions ^ sslServerAuthenticationOptions, System::Threading::CancellationToken cancellationToken);" FrameworkAlternate="netcore-2.1;netcore-2.2;netstandard-2.1" />
       <MemberSignature Language="F#" Value="member this.AuthenticateAsServerAsync : System.Net.Security.SslServerAuthenticationOptions * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task" Usage="sslStream.AuthenticateAsServerAsync (sslServerAuthenticationOptions, cancellationToken)" />
-      <MemberSignature Language="C#" Value="public System.Threading.Tasks.Task AuthenticateAsServerAsync (System.Net.Security.SslServerAuthenticationOptions sslServerAuthenticationOptions, System.Threading.CancellationToken cancellationToken = null);" FrameworkAlternate="netcore-3.0;netcore-3.1" />
+      <MemberSignature Language="C#" Value="public System.Threading.Tasks.Task AuthenticateAsServerAsync (System.Net.Security.SslServerAuthenticationOptions sslServerAuthenticationOptions, System.Threading.CancellationToken cancellationToken = default);" FrameworkAlternate="netcore-3.0;netcore-3.1" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Net.Security</AssemblyName>
@@ -1288,6 +1302,8 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.AuthenticateAsServerAsync(System.Security.Cryptography.X509Certificates.X509Certificate,System.Boolean,System.Security.Authentication.SslProtocols,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.AuthenticateAsServerAsync(System.Security.Cryptography.X509Certificates.X509Certificate,System.Boolean,System.Security.Authentication.SslProtocols,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.AuthenticateAsServerAsync(System.Security.Cryptography.X509Certificates.X509Certificate,System.Boolean,System.Security.Authentication.SslProtocols,System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Net.Security</AssemblyName>
@@ -1360,6 +1376,8 @@
       <MemberSignature Language="F#" Value="abstract member BeginAuthenticateAsClient : string * AsyncCallback * obj -&gt; IAsyncResult&#xA;override this.BeginAuthenticateAsClient : string * AsyncCallback * obj -&gt; IAsyncResult" Usage="sslStream.BeginAuthenticateAsClient (targetHost, asyncCallback, asyncState)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.BeginAuthenticateAsClient(System.String,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.BeginAuthenticateAsClient(System.String,System.AsyncCallback,System.Object)</InterfaceMember>
         <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.BeginAuthenticateAsClient(System.String,System.AsyncCallback,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1510,6 +1528,8 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.BeginAuthenticateAsClient(System.String,System.Security.Cryptography.X509Certificates.X509CertificateCollection,System.Security.Authentication.SslProtocols,System.Boolean,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.BeginAuthenticateAsClient(System.String,System.Security.Cryptography.X509Certificates.X509CertificateCollection,System.Security.Authentication.SslProtocols,System.Boolean,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.BeginAuthenticateAsClient(System.String,System.Security.Cryptography.X509Certificates.X509CertificateCollection,System.Security.Authentication.SslProtocols,System.Boolean,System.AsyncCallback,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System</AssemblyName>
@@ -1612,6 +1632,8 @@
       <MemberSignature Language="F#" Value="abstract member BeginAuthenticateAsServer : System.Security.Cryptography.X509Certificates.X509Certificate * AsyncCallback * obj -&gt; IAsyncResult&#xA;override this.BeginAuthenticateAsServer : System.Security.Cryptography.X509Certificates.X509Certificate * AsyncCallback * obj -&gt; IAsyncResult" Usage="sslStream.BeginAuthenticateAsServer (serverCertificate, asyncCallback, asyncState)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.BeginAuthenticateAsServer(System.Security.Cryptography.X509Certificates.X509Certificate,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.BeginAuthenticateAsServer(System.Security.Cryptography.X509Certificates.X509Certificate,System.AsyncCallback,System.Object)</InterfaceMember>
         <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.BeginAuthenticateAsServer(System.Security.Cryptography.X509Certificates.X509Certificate,System.AsyncCallback,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1762,6 +1784,8 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.BeginAuthenticateAsServer(System.Security.Cryptography.X509Certificates.X509Certificate,System.Boolean,System.Security.Authentication.SslProtocols,System.Boolean,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.BeginAuthenticateAsServer(System.Security.Cryptography.X509Certificates.X509Certificate,System.Boolean,System.Security.Authentication.SslProtocols,System.Boolean,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.BeginAuthenticateAsServer(System.Security.Cryptography.X509Certificates.X509Certificate,System.Boolean,System.Security.Authentication.SslProtocols,System.Boolean,System.AsyncCallback,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System</AssemblyName>
@@ -1842,6 +1866,8 @@
       <MemberSignature Language="F#" Value="override this.BeginRead : byte[] * int * int * AsyncCallback * obj -&gt; IAsyncResult" Usage="sslStream.BeginRead (buffer, offset, count, asyncCallback, asyncState)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.BeginRead(System.Byte[],System.Int32,System.Int32,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.BeginRead(System.Byte[],System.Int32,System.Int32,System.AsyncCallback,System.Object)</InterfaceMember>
         <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.BeginRead(System.Byte[],System.Int32,System.Int32,System.AsyncCallback,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1946,6 +1972,8 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.BeginWrite(System.Byte[],System.Int32,System.Int32,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.BeginWrite(System.Byte[],System.Int32,System.Int32,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.BeginWrite(System.Byte[],System.Int32,System.Int32,System.AsyncCallback,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System</AssemblyName>
@@ -2020,6 +2048,8 @@
       <MemberSignature Language="F#" Value="member this.CanRead : bool" Usage="System.Net.Security.SslStream.CanRead" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.CanRead</InterfaceMember>
+        <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.CanRead</InterfaceMember>
         <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.CanRead</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2124,6 +2154,8 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.CanTimeout</InterfaceMember>
+        <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.CanTimeout</InterfaceMember>
+        <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.CanTimeout</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Net.Security</AssemblyName>
@@ -2180,6 +2212,8 @@
       <MemberSignature Language="F#" Value="member this.CanWrite : bool" Usage="System.Net.Security.SslStream.CanWrite" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.CanWrite</InterfaceMember>
+        <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.CanWrite</InterfaceMember>
         <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.CanWrite</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2238,6 +2272,8 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.CheckCertRevocationStatus</InterfaceMember>
+        <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.CheckCertRevocationStatus</InterfaceMember>
+        <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.CheckCertRevocationStatus</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Net.Security</AssemblyName>
@@ -2292,6 +2328,8 @@
       <MemberSignature Language="F#" Value="member this.CipherAlgorithm : System.Security.Authentication.CipherAlgorithmType" Usage="System.Net.Security.SslStream.CipherAlgorithm" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.CipherAlgorithm</InterfaceMember>
+        <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.CipherAlgorithm</InterfaceMember>
         <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.CipherAlgorithm</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2349,6 +2387,8 @@
       <MemberSignature Language="F#" Value="member this.CipherStrength : int" Usage="System.Net.Security.SslStream.CipherStrength" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.CipherStrength</InterfaceMember>
+        <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.CipherStrength</InterfaceMember>
         <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.CipherStrength</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2516,6 +2556,8 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.EndAuthenticateAsClient(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.EndAuthenticateAsClient(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.EndAuthenticateAsClient(System.IAsyncResult)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System</AssemblyName>
@@ -2573,6 +2615,8 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.EndAuthenticateAsServer(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.EndAuthenticateAsServer(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.EndAuthenticateAsServer(System.IAsyncResult)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System</AssemblyName>
@@ -2629,6 +2673,8 @@
       <MemberSignature Language="F#" Value="override this.EndRead : IAsyncResult -&gt; int" Usage="sslStream.EndRead asyncResult" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.EndRead(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.EndRead(System.IAsyncResult)</InterfaceMember>
         <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.EndRead(System.IAsyncResult)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2701,6 +2747,8 @@ Authentication has not occurred.</exception>
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.EndWrite(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.EndWrite(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.EndWrite(System.IAsyncResult)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System</AssemblyName>
@@ -2769,6 +2817,8 @@ Authentication has not occurred.</exception>
       <MemberSignature Language="F#" Value="override this.Flush : unit -&gt; unit" Usage="sslStream.Flush " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.Flush</InterfaceMember>
+        <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.Flush</InterfaceMember>
         <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.Flush</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2857,6 +2907,8 @@ Authentication has not occurred.</exception>
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.HashAlgorithm</InterfaceMember>
+        <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.HashAlgorithm</InterfaceMember>
+        <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.HashAlgorithm</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Net.Security</AssemblyName>
@@ -2912,6 +2964,8 @@ Authentication has not occurred.</exception>
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.HashStrength</InterfaceMember>
+        <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.HashStrength</InterfaceMember>
+        <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.HashStrength</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Net.Security</AssemblyName>
@@ -2965,6 +3019,8 @@ Authentication has not occurred.</exception>
       <MemberSignature Language="F#" Value="member this.IsAuthenticated : bool" Usage="System.Net.Security.SslStream.IsAuthenticated" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.IsAuthenticated</InterfaceMember>
+        <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.IsAuthenticated</InterfaceMember>
         <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.IsAuthenticated</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -3021,6 +3077,8 @@ Authentication has not occurred.</exception>
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.IsEncrypted</InterfaceMember>
+        <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.IsEncrypted</InterfaceMember>
+        <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.IsEncrypted</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Net.Security</AssemblyName>
@@ -3075,6 +3133,8 @@ Authentication has not occurred.</exception>
       <MemberSignature Language="F#" Value="member this.IsMutuallyAuthenticated : bool" Usage="System.Net.Security.SslStream.IsMutuallyAuthenticated" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.IsMutuallyAuthenticated</InterfaceMember>
+        <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.IsMutuallyAuthenticated</InterfaceMember>
         <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.IsMutuallyAuthenticated</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -3133,6 +3193,8 @@ Authentication has not occurred.</exception>
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.IsServer</InterfaceMember>
+        <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.IsServer</InterfaceMember>
+        <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.IsServer</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Net.Security</AssemblyName>
@@ -3190,6 +3252,8 @@ Authentication has not occurred.</exception>
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.IsSigned</InterfaceMember>
+        <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.IsSigned</InterfaceMember>
+        <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.IsSigned</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Net.Security</AssemblyName>
@@ -3244,6 +3308,8 @@ Authentication has not occurred.</exception>
       <MemberSignature Language="F#" Value="member this.KeyExchangeAlgorithm : System.Security.Authentication.ExchangeAlgorithmType" Usage="System.Net.Security.SslStream.KeyExchangeAlgorithm" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.KeyExchangeAlgorithm</InterfaceMember>
+        <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.KeyExchangeAlgorithm</InterfaceMember>
         <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.KeyExchangeAlgorithm</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -3300,6 +3366,8 @@ Authentication has not occurred.</exception>
       <MemberSignature Language="F#" Value="member this.KeyExchangeStrength : int" Usage="System.Net.Security.SslStream.KeyExchangeStrength" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.KeyExchangeStrength</InterfaceMember>
+        <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.KeyExchangeStrength</InterfaceMember>
         <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.KeyExchangeStrength</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -3365,6 +3433,8 @@ Authentication has not occurred.</exception>
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.Length</InterfaceMember>
+        <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.Length</InterfaceMember>
+        <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.Length</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Net.Security</AssemblyName>
@@ -3410,6 +3480,8 @@ Authentication has not occurred.</exception>
       <MemberSignature Language="F#" Value="member this.LocalCertificate : System.Security.Cryptography.X509Certificates.X509Certificate" Usage="System.Net.Security.SslStream.LocalCertificate" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.LocalCertificate</InterfaceMember>
+        <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.LocalCertificate</InterfaceMember>
         <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.LocalCertificate</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -3579,6 +3651,8 @@ This property gets the cipher suite that is going to be used in the communicatio
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.Read(System.Byte[],System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.Read(System.Byte[],System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.Read(System.Byte[],System.Int32,System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Net.Security</AssemblyName>
@@ -3652,7 +3726,7 @@ This property gets the cipher suite that is going to be used in the communicatio
       </Docs>
     </Member>
     <Member MemberName="ReadAsync">
-      <MemberSignature Language="C#" Value="public override System.Threading.Tasks.ValueTask&lt;int&gt; ReadAsync (Memory&lt;byte&gt; buffer, System.Threading.CancellationToken cancellationToken = null);" />
+      <MemberSignature Language="C#" Value="public override System.Threading.Tasks.ValueTask&lt;int&gt; ReadAsync (Memory&lt;byte&gt; buffer, System.Threading.CancellationToken cancellationToken = default);" />
       <MemberSignature Language="ILAsm" Value=".method public hidebysig virtual instance valuetype System.Threading.Tasks.ValueTask`1&lt;int32&gt; ReadAsync(valuetype System.Memory`1&lt;unsigned int8&gt; buffer, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
       <MemberSignature Language="DocId" Value="M:System.Net.Security.SslStream.ReadAsync(System.Memory{System.Byte},System.Threading.CancellationToken)" />
       <MemberSignature Language="F#" Value="override this.ReadAsync : Memory&lt;byte&gt; * System.Threading.CancellationToken -&gt; System.Threading.Tasks.ValueTask&lt;int&gt;" Usage="sslStream.ReadAsync (buffer, cancellationToken)" />
@@ -3817,6 +3891,8 @@ This property gets the cipher suite that is going to be used in the communicatio
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.ReadTimeout</InterfaceMember>
+        <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.ReadTimeout</InterfaceMember>
+        <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.ReadTimeout</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Net.Security</AssemblyName>
@@ -3872,6 +3948,8 @@ This property gets the cipher suite that is going to be used in the communicatio
       <MemberSignature Language="F#" Value="member this.RemoteCertificate : System.Security.Cryptography.X509Certificates.X509Certificate" Usage="System.Net.Security.SslStream.RemoteCertificate" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.RemoteCertificate</InterfaceMember>
+        <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.RemoteCertificate</InterfaceMember>
         <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.RemoteCertificate</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -3972,6 +4050,8 @@ This property gets the cipher suite that is going to be used in the communicatio
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.SetLength(System.Int64)</InterfaceMember>
+        <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.SetLength(System.Int64)</InterfaceMember>
+        <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.SetLength(System.Int64)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Net.Security</AssemblyName>
@@ -4052,6 +4132,8 @@ This property gets the cipher suite that is going to be used in the communicatio
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.SslProtocol</InterfaceMember>
+        <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.SslProtocol</InterfaceMember>
+        <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.SslProtocol</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Net.Security</AssemblyName>
@@ -4106,6 +4188,8 @@ This property gets the cipher suite that is going to be used in the communicatio
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.TransportContext</InterfaceMember>
+        <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.TransportContext</InterfaceMember>
+        <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.TransportContext</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Net.Security</AssemblyName>
@@ -4157,6 +4241,8 @@ This property gets the cipher suite that is going to be used in the communicatio
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual void Write(cli::array &lt;System::Byte&gt; ^ buffer);" FrameworkAlternate="xamarinandroid-7.1;xamarinios-10.8;xamarinmac-3.0" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.Write(System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.Write(System.Byte[])</InterfaceMember>
         <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.Write(System.Byte[])</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -4225,6 +4311,8 @@ This property gets the cipher suite that is going to be used in the communicatio
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.Write(System.Byte[],System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.Write(System.Byte[],System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:Mono.Net.Security.IMonoSslStream.Write(System.Byte[],System.Int32,System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Net.Security</AssemblyName>
@@ -4288,7 +4376,7 @@ This property gets the cipher suite that is going to be used in the communicatio
       </Docs>
     </Member>
     <Member MemberName="WriteAsync">
-      <MemberSignature Language="C#" Value="public override System.Threading.Tasks.ValueTask WriteAsync (ReadOnlyMemory&lt;byte&gt; buffer, System.Threading.CancellationToken cancellationToken = null);" />
+      <MemberSignature Language="C#" Value="public override System.Threading.Tasks.ValueTask WriteAsync (ReadOnlyMemory&lt;byte&gt; buffer, System.Threading.CancellationToken cancellationToken = default);" />
       <MemberSignature Language="ILAsm" Value=".method public hidebysig virtual instance valuetype System.Threading.Tasks.ValueTask WriteAsync(valuetype System.ReadOnlyMemory`1&lt;unsigned int8&gt; buffer, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
       <MemberSignature Language="DocId" Value="M:System.Net.Security.SslStream.WriteAsync(System.ReadOnlyMemory{System.Byte},System.Threading.CancellationToken)" />
       <MemberSignature Language="F#" Value="override this.WriteAsync : ReadOnlyMemory&lt;byte&gt; * System.Threading.CancellationToken -&gt; System.Threading.Tasks.ValueTask" Usage="sslStream.WriteAsync (buffer, cancellationToken)" />
@@ -4405,6 +4493,8 @@ The <xref:System.Net.Security.SslStream> class does not support multiple simulta
       <MemberSignature Language="F#" Value="member this.WriteTimeout : int with get, set" Usage="System.Net.Security.SslStream.WriteTimeout" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.WriteTimeout</InterfaceMember>
+        <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.WriteTimeout</InterfaceMember>
         <InterfaceMember>P:Mono.Net.Security.IMonoSslStream.WriteTimeout</InterfaceMember>
       </Implements>
       <AssemblyInfo>

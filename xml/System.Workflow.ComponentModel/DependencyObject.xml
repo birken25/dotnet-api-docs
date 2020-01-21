@@ -163,6 +163,18 @@ The <paramref name="dependencyEvent" /> represents a non-event <see cref="T:Syst
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Workflow.ComponentModel</AssemblyName>
@@ -313,6 +325,18 @@ The <paramref name="dependencyEvent" /> represents a non-event <see cref="T:Syst
       <MemberSignature Language="F#" Value="member this.GetInvocationList : System.Workflow.ComponentModel.DependencyProperty -&gt; 'T[]" Usage="dependencyObject.GetInvocationList dependencyEvent" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Workflow.ComponentModel.IDependencyObjectAccessor.GetInvocationList``1(System.Workflow.ComponentModel.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.IDependencyObjectAccessor.GetInvocationList``1(System.Workflow.ComponentModel.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.IDependencyObjectAccessor.GetInvocationList``1(System.Workflow.ComponentModel.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.IDependencyObjectAccessor.GetInvocationList``1(System.Workflow.ComponentModel.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.IDependencyObjectAccessor.GetInvocationList``1(System.Workflow.ComponentModel.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.IDependencyObjectAccessor.GetInvocationList``1(System.Workflow.ComponentModel.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.IDependencyObjectAccessor.GetInvocationList``1(System.Workflow.ComponentModel.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.IDependencyObjectAccessor.GetInvocationList``1(System.Workflow.ComponentModel.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.IDependencyObjectAccessor.GetInvocationList``1(System.Workflow.ComponentModel.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.IDependencyObjectAccessor.GetInvocationList``1(System.Workflow.ComponentModel.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.IDependencyObjectAccessor.GetInvocationList``1(System.Workflow.ComponentModel.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.IDependencyObjectAccessor.GetInvocationList``1(System.Workflow.ComponentModel.DependencyProperty)</InterfaceMember>
         <InterfaceMember>M:System.Workflow.ComponentModel.IDependencyObjectAccessor.GetInvocationList``1(System.Workflow.ComponentModel.DependencyProperty)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -820,6 +844,18 @@ The <paramref name="dependencyEvent" /> is not an event.</exception>
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.ComponentModel.IComponent.Site</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IComponent.Site</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IComponent.Site</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IComponent.Site</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IComponent.Site</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IComponent.Site</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IComponent.Site</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IComponent.Site</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IComponent.Site</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IComponent.Site</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IComponent.Site</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IComponent.Site</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IComponent.Site</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Workflow.ComponentModel</AssemblyName>
@@ -853,6 +889,17 @@ The <paramref name="dependencyEvent" /> is not an event.</exception>
       <MemberSignature Language="VB.NET" Value="Custom Event Disposed As EventHandler Implements System.ComponentModel.IComponent" />
       <MemberType>Event</MemberType>
       <Implements>
+        <InterfaceMember>E:System.ComponentModel.IComponent.Disposed</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IComponent.Disposed</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IComponent.Disposed</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IComponent.Disposed</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IComponent.Disposed</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IComponent.Disposed</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IComponent.Disposed</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IComponent.Disposed</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IComponent.Disposed</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IComponent.Disposed</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IComponent.Disposed</InterfaceMember>
         <InterfaceMember>E:System.ComponentModel.IComponent.Disposed</InterfaceMember>
       </Implements>
       <AssemblyInfo>

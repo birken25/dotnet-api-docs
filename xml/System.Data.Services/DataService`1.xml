@@ -226,6 +226,9 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; property System::Data::Services::DataServiceProcessingPipeline ^ ProcessingPipeline { System::Data::Services::DataServiceProcessingPipeline ^ get(); };" />
       <MemberSignature Language="F#" Value="member this.ProcessingPipeline : System.Data.Services.DataServiceProcessingPipeline" Usage="System.Data.Services.DataService&lt;'T&gt;.ProcessingPipeline" />
       <MemberType>Property</MemberType>
+      <Implements>
+        <InterfaceMember>P:System.Data.Services.IDataService.ProcessingPipeline</InterfaceMember>
+      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Services</AssemblyName>
         <AssemblyVersion>3.5.0.0</AssemblyVersion>
@@ -286,6 +289,17 @@
       <MemberSignature Language="F#" Value="abstract member ProcessRequestForMessage : System.IO.Stream -&gt; System.ServiceModel.Channels.Message&#xA;override this.ProcessRequestForMessage : System.IO.Stream -&gt; System.ServiceModel.Channels.Message" Usage="dataService.ProcessRequestForMessage messageBody" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Data.Services.IRequestHandler.ProcessRequestForMessage(System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Services.IRequestHandler.ProcessRequestForMessage(System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Services.IRequestHandler.ProcessRequestForMessage(System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Services.IRequestHandler.ProcessRequestForMessage(System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Services.IRequestHandler.ProcessRequestForMessage(System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Services.IRequestHandler.ProcessRequestForMessage(System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Services.IRequestHandler.ProcessRequestForMessage(System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Services.IRequestHandler.ProcessRequestForMessage(System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Services.IRequestHandler.ProcessRequestForMessage(System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Services.IRequestHandler.ProcessRequestForMessage(System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Services.IRequestHandler.ProcessRequestForMessage(System.IO.Stream)</InterfaceMember>
         <InterfaceMember>M:System.Data.Services.IRequestHandler.ProcessRequestForMessage(System.IO.Stream)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

@@ -1400,6 +1400,21 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Windows.Forms.IButtonControl.DialogResult</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IButtonControl.DialogResult</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IButtonControl.DialogResult</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IButtonControl.DialogResult</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IButtonControl.DialogResult</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IButtonControl.DialogResult</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IButtonControl.DialogResult</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IButtonControl.DialogResult</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IButtonControl.DialogResult</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IButtonControl.DialogResult</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IButtonControl.DialogResult</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IButtonControl.DialogResult</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IButtonControl.DialogResult</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IButtonControl.DialogResult</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IButtonControl.DialogResult</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.IButtonControl.DialogResult</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Forms</AssemblyName>
@@ -1430,6 +1445,22 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Windows.Forms.IButtonControl.NotifyDefault(bool value) = System::Windows::Forms::IButtonControl::NotifyDefault;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.NotifyDefault(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.NotifyDefault(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.NotifyDefault(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.NotifyDefault(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.NotifyDefault(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.NotifyDefault(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.NotifyDefault(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.NotifyDefault(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.NotifyDefault(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.NotifyDefault(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.NotifyDefault(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.NotifyDefault(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.NotifyDefault(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.NotifyDefault(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.NotifyDefault(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.NotifyDefault(System.Boolean)</InterfaceMember>
         <InterfaceMember>M:System.Windows.Forms.IButtonControl.NotifyDefault(System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1466,6 +1497,22 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Windows.Forms.IButtonControl.PerformClick() = System::Windows::Forms::IButtonControl::PerformClick;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.PerformClick</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.PerformClick</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.PerformClick</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.PerformClick</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.PerformClick</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.PerformClick</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.PerformClick</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.PerformClick</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.PerformClick</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.PerformClick</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.PerformClick</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.PerformClick</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.PerformClick</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.PerformClick</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.PerformClick</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IButtonControl.PerformClick</InterfaceMember>
         <InterfaceMember>M:System.Windows.Forms.IButtonControl.PerformClick</InterfaceMember>
       </Implements>
       <AssemblyInfo>

@@ -91,6 +91,17 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.IEnumerator.MoveNext</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerator.MoveNext</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerator.MoveNext</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerator.MoveNext</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerator.MoveNext</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerator.MoveNext</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerator.MoveNext</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerator.MoveNext</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerator.MoveNext</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerator.MoveNext</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerator.MoveNext</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerator.MoveNext</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualC.STLCLR</AssemblyName>
@@ -117,6 +128,17 @@
       <MemberSignature Language="F#" Value="abstract member Reset : unit -&gt; unit&#xA;override this.Reset : unit -&gt; unit" Usage="treeEnumeratorBase.Reset " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.IEnumerator.Reset</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerator.Reset</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerator.Reset</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerator.Reset</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerator.Reset</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerator.Reset</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerator.Reset</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerator.Reset</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerator.Reset</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerator.Reset</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerator.Reset</InterfaceMember>
         <InterfaceMember>M:System.Collections.IEnumerator.Reset</InterfaceMember>
       </Implements>
       <AssemblyInfo>

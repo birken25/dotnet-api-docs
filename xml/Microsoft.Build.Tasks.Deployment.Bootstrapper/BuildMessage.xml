@@ -41,6 +41,20 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.HelpId</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.HelpId</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.HelpId</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.HelpId</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.HelpId</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.HelpId</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.HelpId</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.HelpId</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.HelpId</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.HelpId</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.HelpId</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.HelpId</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.HelpId</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.HelpId</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.HelpId</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Build.Tasks.v4.0</AssemblyName>
@@ -78,6 +92,20 @@
       <MemberSignature Language="F#" Value="member this.HelpKeyword : string" Usage="Microsoft.Build.Tasks.Deployment.Bootstrapper.BuildMessage.HelpKeyword" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.HelpKeyword</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.HelpKeyword</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.HelpKeyword</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.HelpKeyword</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.HelpKeyword</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.HelpKeyword</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.HelpKeyword</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.HelpKeyword</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.HelpKeyword</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.HelpKeyword</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.HelpKeyword</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.HelpKeyword</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.HelpKeyword</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.HelpKeyword</InterfaceMember>
         <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.HelpKeyword</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -117,6 +145,20 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.Message</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.Message</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.Message</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.Message</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.Message</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.Message</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.Message</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.Message</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.Message</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.Message</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.Message</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.Message</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.Message</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.Message</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.Message</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Build.Tasks.v4.0</AssemblyName>
@@ -154,6 +196,20 @@
       <MemberSignature Language="F#" Value="member this.Severity : Microsoft.Build.Tasks.Deployment.Bootstrapper.BuildMessageSeverity" Usage="Microsoft.Build.Tasks.Deployment.Bootstrapper.BuildMessage.Severity" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.Severity</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.Severity</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.Severity</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.Severity</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.Severity</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.Severity</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.Severity</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.Severity</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.Severity</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.Severity</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.Severity</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.Severity</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.Severity</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.Severity</InterfaceMember>
         <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildMessage.Severity</InterfaceMember>
       </Implements>
       <AssemblyInfo>

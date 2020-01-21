@@ -1468,6 +1468,9 @@ The <see cref="T:System.Data.SqlClient.SqlConnection" /> closed or dropped durin
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.IDbCommand.Cancel</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Cancel</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Cancel</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Cancel</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.SqlClient</AssemblyName>
@@ -1598,6 +1601,9 @@ The <see cref="T:System.Data.SqlClient.SqlConnection" /> closed or dropped durin
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Data.IDbCommand.CommandText</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandText</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandText</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandText</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.SqlClient</AssemblyName>
@@ -1692,6 +1698,9 @@ SELECT * FROM dbo.Customers WHERE CustomerID = @CustomerID
       <MemberSignature Language="C++ CLI" Value="public:&#xA; property int CommandTimeout { int get(); void set(int value); };" FrameworkAlternate="netframework-1.1" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandTimeout</InterfaceMember>
         <InterfaceMember>P:System.Data.IDbCommand.CommandTimeout</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1790,6 +1799,9 @@ public class A {
       <MemberSignature Language="C++ CLI" Value="public:&#xA; property System::Data::CommandType CommandType { System::Data::CommandType get(); void set(System::Data::CommandType value); };" FrameworkAlternate="netframework-1.1" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandType</InterfaceMember>
         <InterfaceMember>P:System.Data.IDbCommand.CommandType</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2483,6 +2495,9 @@ In some situations, <see cref="T:System.IAsyncResult" /> can be set to <see lang
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.IDbCommand.ExecuteNonQuery</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteNonQuery</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteNonQuery</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteNonQuery</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.SqlClient</AssemblyName>
@@ -3131,6 +3146,9 @@ A timeout occurred during a streaming operation. For more information about stre
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.IDbCommand.ExecuteScalar</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteScalar</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteScalar</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteScalar</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.SqlClient</AssemblyName>
@@ -3698,6 +3716,9 @@ A timeout occurred during a streaming operation. For more information about stre
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.IDbCommand.Prepare</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Prepare</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Prepare</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Prepare</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.SqlClient</AssemblyName>
@@ -3925,6 +3946,27 @@ A timeout occurred during a streaming operation. For more information about stre
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data</AssemblyName>
@@ -4023,6 +4065,9 @@ A timeout occurred during a streaming operation. For more information about stre
       <MemberSignature Language="C++ CLI" Value="public:&#xA; property System::Data::UpdateRowSource UpdatedRowSource { System::Data::UpdateRowSource get(); void set(System::Data::UpdateRowSource value); };" FrameworkAlternate="netframework-1.1" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Data.IDbCommand.UpdatedRowSource</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.UpdatedRowSource</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.UpdatedRowSource</InterfaceMember>
         <InterfaceMember>P:System.Data.IDbCommand.UpdatedRowSource</InterfaceMember>
       </Implements>
       <AssemblyInfo>

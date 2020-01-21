@@ -81,6 +81,18 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.IExtension`1.Attach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Attach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Attach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Attach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Attach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Attach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Attach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Attach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Attach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Attach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Attach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Attach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Attach(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel.Web</AssemblyName>
@@ -687,6 +699,18 @@
       <MemberSignature Language="F#" Value="abstract member Detach : System.ServiceModel.OperationContext -&gt; unit&#xA;override this.Detach : System.ServiceModel.OperationContext -&gt; unit" Usage="webOperationContext.Detach context" FrameworkAlternate="xamarinmac-3.0" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Detach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Detach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Detach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Detach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Detach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Detach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Detach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Detach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Detach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Detach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Detach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IExtension`1.Detach(`0)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.IExtension`1.Detach(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

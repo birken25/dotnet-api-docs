@@ -49,6 +49,9 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IObserver`1.OnCompleted</InterfaceMember>
+        <InterfaceMember>M:System.IObserver`1.OnCompleted</InterfaceMember>
+        <InterfaceMember>M:System.IObserver`1.OnCompleted</InterfaceMember>
+        <InterfaceMember>M:System.IObserver`1.OnCompleted</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -72,6 +75,9 @@
       <MemberSignature Language="F#" Value="abstract member OnError : Exception -&gt; unit&#xA;override this.OnError : Exception -&gt; unit" Usage="lowPhysicalMemoryObserver.OnError error" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.IObserver`1.OnError(System.Exception)</InterfaceMember>
+        <InterfaceMember>M:System.IObserver`1.OnError(System.Exception)</InterfaceMember>
+        <InterfaceMember>M:System.IObserver`1.OnError(System.Exception)</InterfaceMember>
         <InterfaceMember>M:System.IObserver`1.OnError(System.Exception)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -99,6 +105,9 @@
       <MemberSignature Language="F#" Value="abstract member OnNext : System.Web.Hosting.LowPhysicalMemoryInfo -&gt; unit&#xA;override this.OnNext : System.Web.Hosting.LowPhysicalMemoryInfo -&gt; unit" Usage="lowPhysicalMemoryObserver.OnNext lowMemoryInfo" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.IObserver`1.OnNext(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IObserver`1.OnNext(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IObserver`1.OnNext(`0)</InterfaceMember>
         <InterfaceMember>M:System.IObserver`1.OnNext(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

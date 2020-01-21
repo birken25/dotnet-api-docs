@@ -99,6 +99,17 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Windows.Automation.Provider.IValueProvider.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IValueProvider.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IValueProvider.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IValueProvider.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IValueProvider.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IValueProvider.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IValueProvider.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IValueProvider.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IValueProvider.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IValueProvider.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IValueProvider.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IValueProvider.IsReadOnly</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Controls.Ribbon</AssemblyName>
@@ -146,6 +157,17 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Automation.Provider.IValueProvider.SetValue(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IValueProvider.SetValue(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IValueProvider.SetValue(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IValueProvider.SetValue(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IValueProvider.SetValue(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IValueProvider.SetValue(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IValueProvider.SetValue(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IValueProvider.SetValue(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IValueProvider.SetValue(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IValueProvider.SetValue(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IValueProvider.SetValue(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IValueProvider.SetValue(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Controls.Ribbon</AssemblyName>
@@ -175,6 +197,17 @@
       <MemberSignature Language="F#" Value="member this.Value : string" Usage="System.Windows.Automation.Peers.RibbonComboBoxAutomationPeer.Value" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IValueProvider.Value</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IValueProvider.Value</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IValueProvider.Value</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IValueProvider.Value</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IValueProvider.Value</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IValueProvider.Value</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IValueProvider.Value</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IValueProvider.Value</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IValueProvider.Value</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IValueProvider.Value</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IValueProvider.Value</InterfaceMember>
         <InterfaceMember>P:System.Windows.Automation.Provider.IValueProvider.Value</InterfaceMember>
       </Implements>
       <AssemblyInfo>

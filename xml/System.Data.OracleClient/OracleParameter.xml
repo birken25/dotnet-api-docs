@@ -352,6 +352,20 @@ Parameter = new OracleParameter("pname", Convert.ToInt32(0));
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Data.IDataParameter.DbType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.DbType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.DbType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.DbType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.DbType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.DbType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.DbType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.DbType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.DbType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.DbType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.DbType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.DbType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.DbType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.DbType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.DbType</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.OracleClient</AssemblyName>
@@ -412,6 +426,20 @@ Parameter = new OracleParameter("pname", Convert.ToInt32(0));
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual property System::Data::ParameterDirection Direction { System::Data::ParameterDirection get(); void set(System::Data::ParameterDirection value); };" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Data.IDataParameter.Direction</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.Direction</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.Direction</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.Direction</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.Direction</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.Direction</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.Direction</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.Direction</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.Direction</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.Direction</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.Direction</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.Direction</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.Direction</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.Direction</InterfaceMember>
         <InterfaceMember>P:System.Data.IDataParameter.Direction</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -666,6 +694,20 @@ public void CreateOracleParameter()
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Data.IDataParameter.ParameterName</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.ParameterName</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.ParameterName</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.ParameterName</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.ParameterName</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.ParameterName</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.ParameterName</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.ParameterName</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.ParameterName</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.ParameterName</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.ParameterName</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.ParameterName</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.ParameterName</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.ParameterName</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.ParameterName</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.OracleClient</AssemblyName>
@@ -729,6 +771,20 @@ public void CreateOracleDbParameter()
       <MemberSignature Language="F#" Value="member this.Precision : byte with get, set" Usage="System.Data.OracleClient.OracleParameter.Precision" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Precision</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Precision</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Precision</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Precision</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Precision</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Precision</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Precision</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Precision</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Precision</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Precision</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Precision</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Precision</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Precision</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Precision</InterfaceMember>
         <InterfaceMember>P:System.Data.IDbDataParameter.Precision</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -841,6 +897,20 @@ public void CreateOracleDbParameter()
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Data.IDbDataParameter.Scale</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Scale</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Scale</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Scale</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Scale</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Scale</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Scale</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Scale</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Scale</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Scale</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Scale</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Scale</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Scale</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Scale</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Scale</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.OracleClient</AssemblyName>
@@ -890,6 +960,20 @@ public void CreateOracleDbParameter()
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual property int Size { int get(); void set(int value); };" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Size</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Size</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Size</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Size</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Size</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Size</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Size</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Size</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Size</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Size</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Size</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Size</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Size</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Size</InterfaceMember>
         <InterfaceMember>P:System.Data.IDbDataParameter.Size</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -967,6 +1051,20 @@ public void CreateOracleParameter()
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual property System::String ^ SourceColumn { System::String ^ get(); void set(System::String ^ value); };" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Data.IDataParameter.SourceColumn</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.SourceColumn</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.SourceColumn</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.SourceColumn</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.SourceColumn</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.SourceColumn</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.SourceColumn</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.SourceColumn</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.SourceColumn</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.SourceColumn</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.SourceColumn</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.SourceColumn</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.SourceColumn</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.SourceColumn</InterfaceMember>
         <InterfaceMember>P:System.Data.IDataParameter.SourceColumn</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1080,6 +1178,20 @@ FieldName = @OriginalFieldName
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Data.IDataParameter.SourceVersion</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.SourceVersion</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.SourceVersion</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.SourceVersion</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.SourceVersion</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.SourceVersion</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.SourceVersion</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.SourceVersion</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.SourceVersion</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.SourceVersion</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.SourceVersion</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.SourceVersion</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.SourceVersion</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.SourceVersion</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.SourceVersion</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.OracleClient</AssemblyName>
@@ -1143,6 +1255,20 @@ public void CreateOracleParameter()
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.OracleClient</AssemblyName>
@@ -1203,6 +1329,20 @@ public void CreateOracleParameter()
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual property System::Object ^ Value { System::Object ^ get(); void set(System::Object ^ value); };" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Data.IDataParameter.Value</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.Value</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.Value</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.Value</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.Value</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.Value</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.Value</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.Value</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.Value</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.Value</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.Value</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.Value</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.Value</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.Value</InterfaceMember>
         <InterfaceMember>P:System.Data.IDataParameter.Value</InterfaceMember>
       </Implements>
       <AssemblyInfo>

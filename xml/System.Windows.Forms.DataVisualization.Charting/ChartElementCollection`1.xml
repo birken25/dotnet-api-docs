@@ -73,6 +73,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Forms.DataVisualization</AssemblyName>
@@ -147,6 +157,16 @@
       <MemberSignature Language="F#" Value="abstract member Invalidate : unit -&gt; unit&#xA;override this.Invalidate : unit -&gt; unit" Usage="chartElementCollection.Invalidate " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Forms.DataVisualization.Charting.IChartElement.Invalidate</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.DataVisualization.Charting.IChartElement.Invalidate</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.DataVisualization.Charting.IChartElement.Invalidate</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.DataVisualization.Charting.IChartElement.Invalidate</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.DataVisualization.Charting.IChartElement.Invalidate</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.DataVisualization.Charting.IChartElement.Invalidate</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.DataVisualization.Charting.IChartElement.Invalidate</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.DataVisualization.Charting.IChartElement.Invalidate</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.DataVisualization.Charting.IChartElement.Invalidate</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.DataVisualization.Charting.IChartElement.Invalidate</InterfaceMember>
         <InterfaceMember>M:System.Windows.Forms.DataVisualization.Charting.IChartElement.Invalidate</InterfaceMember>
       </Implements>
       <AssemblyInfo>

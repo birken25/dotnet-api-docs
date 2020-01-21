@@ -38,7 +38,7 @@
   </Docs>
   <Members>
     <Member MemberName=".ctor">
-      <MemberSignature Language="C#" Value="public FileSystemEnumerator (string directory, System.IO.EnumerationOptions options = null);" />
+      <MemberSignature Language="C#" Value="public FileSystemEnumerator (string directory, System.IO.EnumerationOptions options = default);" />
       <MemberSignature Language="ILAsm" Value=".method public hidebysig specialname rtspecialname instance void .ctor(string directory, class System.IO.EnumerationOptions options) cil managed" />
       <MemberSignature Language="DocId" Value="M:System.IO.Enumeration.FileSystemEnumerator`1.#ctor(System.String,System.IO.EnumerationOptions)" />
       <MemberSignature Language="VB.NET" Value="Public Sub New (directory As String, Optional options As EnumerationOptions = null)" />
@@ -105,6 +105,10 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.Generic.IEnumerator`1.Current</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IEnumerator`1.Current</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IEnumerator`1.Current</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IEnumerator`1.Current</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IEnumerator`1.Current</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.IO.FileSystem</AssemblyName>
@@ -133,6 +137,10 @@
       <MemberSignature Language="F#" Value="abstract member Dispose : unit -&gt; unit&#xA;override this.Dispose : unit -&gt; unit" Usage="fileSystemEnumerator.Dispose " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -193,6 +201,10 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.IEnumerator.MoveNext</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerator.MoveNext</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerator.MoveNext</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerator.MoveNext</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerator.MoveNext</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.IO.FileSystem</AssemblyName>
@@ -252,6 +264,10 @@
       <MemberSignature Language="F#" Value="abstract member Reset : unit -&gt; unit&#xA;override this.Reset : unit -&gt; unit" Usage="fileSystemEnumerator.Reset " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.IEnumerator.Reset</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerator.Reset</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerator.Reset</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerator.Reset</InterfaceMember>
         <InterfaceMember>M:System.Collections.IEnumerator.Reset</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -351,6 +367,10 @@ As described in the remarks for <xref:System.Collections.IEnumerator>, the `Rese
       <MemberSignature Language="F#" Usage="System.Collections.IEnumerator.Current" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Collections.IEnumerator.Current</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IEnumerator.Current</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IEnumerator.Current</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IEnumerator.Current</InterfaceMember>
         <InterfaceMember>P:System.Collections.IEnumerator.Current</InterfaceMember>
       </Implements>
       <AssemblyInfo>

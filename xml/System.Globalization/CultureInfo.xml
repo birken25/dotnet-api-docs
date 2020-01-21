@@ -826,6 +826,35 @@ If `name` is <xref:System.String.Empty?displayProperty=nameWithType>, the constr
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Globalization</AssemblyName>
@@ -2373,6 +2402,42 @@ For a list of predefined culture names on Windows systems, see the **Language ta
       <MemberSignature Language="F#" Value="abstract member GetFormat : Type -&gt; obj&#xA;override this.GetFormat : Type -&gt; obj" Usage="cultureInfo.GetFormat formatType" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
         <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

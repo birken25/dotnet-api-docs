@@ -92,6 +92,26 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.CreateConfigurationContext(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.CreateConfigurationContext(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.CreateConfigurationContext(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.CreateConfigurationContext(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.CreateConfigurationContext(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.CreateConfigurationContext(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.CreateConfigurationContext(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.CreateConfigurationContext(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.CreateConfigurationContext(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.CreateConfigurationContext(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.CreateConfigurationContext(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.CreateConfigurationContext(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.CreateConfigurationContext(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.CreateConfigurationContext(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.CreateConfigurationContext(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.CreateConfigurationContext(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.CreateConfigurationContext(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.CreateConfigurationContext(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.CreateConfigurationContext(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.CreateConfigurationContext(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.CreateConfigurationContext(System.String,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Configuration</AssemblyName>
@@ -130,6 +150,26 @@
       <MemberSignature Language="F#" Value="abstract member CreateDeprecatedConfigContext : string -&gt; obj&#xA;override this.CreateDeprecatedConfigContext : string -&gt; obj" Usage="delegatingConfigHost.CreateDeprecatedConfigContext configPath" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.CreateDeprecatedConfigContext(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.CreateDeprecatedConfigContext(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.CreateDeprecatedConfigContext(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.CreateDeprecatedConfigContext(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.CreateDeprecatedConfigContext(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.CreateDeprecatedConfigContext(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.CreateDeprecatedConfigContext(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.CreateDeprecatedConfigContext(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.CreateDeprecatedConfigContext(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.CreateDeprecatedConfigContext(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.CreateDeprecatedConfigContext(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.CreateDeprecatedConfigContext(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.CreateDeprecatedConfigContext(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.CreateDeprecatedConfigContext(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.CreateDeprecatedConfigContext(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.CreateDeprecatedConfigContext(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.CreateDeprecatedConfigContext(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.CreateDeprecatedConfigContext(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.CreateDeprecatedConfigContext(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.CreateDeprecatedConfigContext(System.String)</InterfaceMember>
         <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.CreateDeprecatedConfigContext(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -172,6 +212,26 @@
       <MemberSignature Language="F#" Value="abstract member DecryptSection : string * System.Configuration.ProtectedConfigurationProvider * System.Configuration.ProtectedConfigurationSection -&gt; string&#xA;override this.DecryptSection : string * System.Configuration.ProtectedConfigurationProvider * System.Configuration.ProtectedConfigurationSection -&gt; string" Usage="delegatingConfigHost.DecryptSection (encryptedXml, protectionProvider, protectedSection)" FrameworkAlternate="xamarinmac-3.0" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.DecryptSection(System.String,System.Configuration.ProtectedConfigurationProvider,System.Configuration.ProtectedConfigurationSection)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.DecryptSection(System.String,System.Configuration.ProtectedConfigurationProvider,System.Configuration.ProtectedConfigurationSection)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.DecryptSection(System.String,System.Configuration.ProtectedConfigurationProvider,System.Configuration.ProtectedConfigurationSection)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.DecryptSection(System.String,System.Configuration.ProtectedConfigurationProvider,System.Configuration.ProtectedConfigurationSection)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.DecryptSection(System.String,System.Configuration.ProtectedConfigurationProvider,System.Configuration.ProtectedConfigurationSection)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.DecryptSection(System.String,System.Configuration.ProtectedConfigurationProvider,System.Configuration.ProtectedConfigurationSection)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.DecryptSection(System.String,System.Configuration.ProtectedConfigurationProvider,System.Configuration.ProtectedConfigurationSection)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.DecryptSection(System.String,System.Configuration.ProtectedConfigurationProvider,System.Configuration.ProtectedConfigurationSection)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.DecryptSection(System.String,System.Configuration.ProtectedConfigurationProvider,System.Configuration.ProtectedConfigurationSection)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.DecryptSection(System.String,System.Configuration.ProtectedConfigurationProvider,System.Configuration.ProtectedConfigurationSection)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.DecryptSection(System.String,System.Configuration.ProtectedConfigurationProvider,System.Configuration.ProtectedConfigurationSection)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.DecryptSection(System.String,System.Configuration.ProtectedConfigurationProvider,System.Configuration.ProtectedConfigurationSection)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.DecryptSection(System.String,System.Configuration.ProtectedConfigurationProvider,System.Configuration.ProtectedConfigurationSection)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.DecryptSection(System.String,System.Configuration.ProtectedConfigurationProvider,System.Configuration.ProtectedConfigurationSection)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.DecryptSection(System.String,System.Configuration.ProtectedConfigurationProvider,System.Configuration.ProtectedConfigurationSection)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.DecryptSection(System.String,System.Configuration.ProtectedConfigurationProvider,System.Configuration.ProtectedConfigurationSection)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.DecryptSection(System.String,System.Configuration.ProtectedConfigurationProvider,System.Configuration.ProtectedConfigurationSection)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.DecryptSection(System.String,System.Configuration.ProtectedConfigurationProvider,System.Configuration.ProtectedConfigurationSection)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.DecryptSection(System.String,System.Configuration.ProtectedConfigurationProvider,System.Configuration.ProtectedConfigurationSection)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.DecryptSection(System.String,System.Configuration.ProtectedConfigurationProvider,System.Configuration.ProtectedConfigurationSection)</InterfaceMember>
         <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.DecryptSection(System.String,System.Configuration.ProtectedConfigurationProvider,System.Configuration.ProtectedConfigurationSection)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -216,6 +276,26 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.DeleteStream(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.DeleteStream(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.DeleteStream(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.DeleteStream(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.DeleteStream(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.DeleteStream(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.DeleteStream(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.DeleteStream(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.DeleteStream(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.DeleteStream(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.DeleteStream(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.DeleteStream(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.DeleteStream(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.DeleteStream(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.DeleteStream(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.DeleteStream(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.DeleteStream(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.DeleteStream(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.DeleteStream(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.DeleteStream(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.DeleteStream(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Configuration</AssemblyName>
@@ -256,6 +336,26 @@
       <MemberSignature Language="F#" Value="abstract member EncryptSection : string * System.Configuration.ProtectedConfigurationProvider * System.Configuration.ProtectedConfigurationSection -&gt; string&#xA;override this.EncryptSection : string * System.Configuration.ProtectedConfigurationProvider * System.Configuration.ProtectedConfigurationSection -&gt; string" Usage="delegatingConfigHost.EncryptSection (encryptedXml, protectionProvider, protectedSection)" FrameworkAlternate="xamarinmac-3.0" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.EncryptSection(System.String,System.Configuration.ProtectedConfigurationProvider,System.Configuration.ProtectedConfigurationSection)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.EncryptSection(System.String,System.Configuration.ProtectedConfigurationProvider,System.Configuration.ProtectedConfigurationSection)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.EncryptSection(System.String,System.Configuration.ProtectedConfigurationProvider,System.Configuration.ProtectedConfigurationSection)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.EncryptSection(System.String,System.Configuration.ProtectedConfigurationProvider,System.Configuration.ProtectedConfigurationSection)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.EncryptSection(System.String,System.Configuration.ProtectedConfigurationProvider,System.Configuration.ProtectedConfigurationSection)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.EncryptSection(System.String,System.Configuration.ProtectedConfigurationProvider,System.Configuration.ProtectedConfigurationSection)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.EncryptSection(System.String,System.Configuration.ProtectedConfigurationProvider,System.Configuration.ProtectedConfigurationSection)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.EncryptSection(System.String,System.Configuration.ProtectedConfigurationProvider,System.Configuration.ProtectedConfigurationSection)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.EncryptSection(System.String,System.Configuration.ProtectedConfigurationProvider,System.Configuration.ProtectedConfigurationSection)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.EncryptSection(System.String,System.Configuration.ProtectedConfigurationProvider,System.Configuration.ProtectedConfigurationSection)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.EncryptSection(System.String,System.Configuration.ProtectedConfigurationProvider,System.Configuration.ProtectedConfigurationSection)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.EncryptSection(System.String,System.Configuration.ProtectedConfigurationProvider,System.Configuration.ProtectedConfigurationSection)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.EncryptSection(System.String,System.Configuration.ProtectedConfigurationProvider,System.Configuration.ProtectedConfigurationSection)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.EncryptSection(System.String,System.Configuration.ProtectedConfigurationProvider,System.Configuration.ProtectedConfigurationSection)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.EncryptSection(System.String,System.Configuration.ProtectedConfigurationProvider,System.Configuration.ProtectedConfigurationSection)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.EncryptSection(System.String,System.Configuration.ProtectedConfigurationProvider,System.Configuration.ProtectedConfigurationSection)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.EncryptSection(System.String,System.Configuration.ProtectedConfigurationProvider,System.Configuration.ProtectedConfigurationSection)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.EncryptSection(System.String,System.Configuration.ProtectedConfigurationProvider,System.Configuration.ProtectedConfigurationSection)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.EncryptSection(System.String,System.Configuration.ProtectedConfigurationProvider,System.Configuration.ProtectedConfigurationSection)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.EncryptSection(System.String,System.Configuration.ProtectedConfigurationProvider,System.Configuration.ProtectedConfigurationSection)</InterfaceMember>
         <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.EncryptSection(System.String,System.Configuration.ProtectedConfigurationProvider,System.Configuration.ProtectedConfigurationSection)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -307,6 +407,26 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigPathFromLocationSubPath(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigPathFromLocationSubPath(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigPathFromLocationSubPath(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigPathFromLocationSubPath(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigPathFromLocationSubPath(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigPathFromLocationSubPath(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigPathFromLocationSubPath(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigPathFromLocationSubPath(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigPathFromLocationSubPath(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigPathFromLocationSubPath(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigPathFromLocationSubPath(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigPathFromLocationSubPath(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigPathFromLocationSubPath(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigPathFromLocationSubPath(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigPathFromLocationSubPath(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigPathFromLocationSubPath(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigPathFromLocationSubPath(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigPathFromLocationSubPath(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigPathFromLocationSubPath(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigPathFromLocationSubPath(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigPathFromLocationSubPath(System.String,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Configuration</AssemblyName>
@@ -348,6 +468,26 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigType(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigType(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigType(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigType(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigType(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigType(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigType(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigType(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigType(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigType(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigType(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigType(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigType(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigType(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigType(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigType(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigType(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigType(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigType(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigType(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigType(System.String,System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Configuration</AssemblyName>
@@ -388,6 +528,26 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigTypeName(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigTypeName(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigTypeName(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigTypeName(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigTypeName(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigTypeName(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigTypeName(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigTypeName(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigTypeName(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigTypeName(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigTypeName(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigTypeName(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigTypeName(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigTypeName(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigTypeName(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigTypeName(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigTypeName(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigTypeName(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigTypeName(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigTypeName(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetConfigTypeName(System.Type)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Configuration</AssemblyName>
@@ -424,6 +584,26 @@
       <MemberSignature Language="F#" Value="abstract member GetRestrictedPermissions : System.Configuration.Internal.IInternalConfigRecord * PermissionSet * bool -&gt; unit&#xA;override this.GetRestrictedPermissions : System.Configuration.Internal.IInternalConfigRecord * PermissionSet * bool -&gt; unit" Usage="delegatingConfigHost.GetRestrictedPermissions (configRecord, permissionSet, isHostReady)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetRestrictedPermissions(System.Configuration.Internal.IInternalConfigRecord,System.Security.PermissionSet@,System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetRestrictedPermissions(System.Configuration.Internal.IInternalConfigRecord,System.Security.PermissionSet@,System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetRestrictedPermissions(System.Configuration.Internal.IInternalConfigRecord,System.Security.PermissionSet@,System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetRestrictedPermissions(System.Configuration.Internal.IInternalConfigRecord,System.Security.PermissionSet@,System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetRestrictedPermissions(System.Configuration.Internal.IInternalConfigRecord,System.Security.PermissionSet@,System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetRestrictedPermissions(System.Configuration.Internal.IInternalConfigRecord,System.Security.PermissionSet@,System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetRestrictedPermissions(System.Configuration.Internal.IInternalConfigRecord,System.Security.PermissionSet@,System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetRestrictedPermissions(System.Configuration.Internal.IInternalConfigRecord,System.Security.PermissionSet@,System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetRestrictedPermissions(System.Configuration.Internal.IInternalConfigRecord,System.Security.PermissionSet@,System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetRestrictedPermissions(System.Configuration.Internal.IInternalConfigRecord,System.Security.PermissionSet@,System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetRestrictedPermissions(System.Configuration.Internal.IInternalConfigRecord,System.Security.PermissionSet@,System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetRestrictedPermissions(System.Configuration.Internal.IInternalConfigRecord,System.Security.PermissionSet@,System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetRestrictedPermissions(System.Configuration.Internal.IInternalConfigRecord,System.Security.PermissionSet@,System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetRestrictedPermissions(System.Configuration.Internal.IInternalConfigRecord,System.Security.PermissionSet@,System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetRestrictedPermissions(System.Configuration.Internal.IInternalConfigRecord,System.Security.PermissionSet@,System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetRestrictedPermissions(System.Configuration.Internal.IInternalConfigRecord,System.Security.PermissionSet@,System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetRestrictedPermissions(System.Configuration.Internal.IInternalConfigRecord,System.Security.PermissionSet@,System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetRestrictedPermissions(System.Configuration.Internal.IInternalConfigRecord,System.Security.PermissionSet@,System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetRestrictedPermissions(System.Configuration.Internal.IInternalConfigRecord,System.Security.PermissionSet@,System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetRestrictedPermissions(System.Configuration.Internal.IInternalConfigRecord,System.Security.PermissionSet@,System.Boolean@)</InterfaceMember>
         <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetRestrictedPermissions(System.Configuration.Internal.IInternalConfigRecord,System.Security.PermissionSet@,System.Boolean@)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -465,6 +645,26 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamName(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Configuration</AssemblyName>
@@ -501,6 +701,26 @@
       <MemberSignature Language="F#" Value="abstract member GetStreamNameForConfigSource : string * string -&gt; string&#xA;override this.GetStreamNameForConfigSource : string * string -&gt; string" Usage="delegatingConfigHost.GetStreamNameForConfigSource (streamName, configSource)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamNameForConfigSource(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamNameForConfigSource(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamNameForConfigSource(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamNameForConfigSource(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamNameForConfigSource(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamNameForConfigSource(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamNameForConfigSource(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamNameForConfigSource(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamNameForConfigSource(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamNameForConfigSource(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamNameForConfigSource(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamNameForConfigSource(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamNameForConfigSource(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamNameForConfigSource(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamNameForConfigSource(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamNameForConfigSource(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamNameForConfigSource(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamNameForConfigSource(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamNameForConfigSource(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamNameForConfigSource(System.String,System.String)</InterfaceMember>
         <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamNameForConfigSource(System.String,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -540,6 +760,26 @@
       <MemberSignature Language="F#" Value="abstract member GetStreamVersion : string -&gt; obj&#xA;override this.GetStreamVersion : string -&gt; obj" Usage="delegatingConfigHost.GetStreamVersion streamName" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamVersion(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamVersion(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamVersion(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamVersion(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamVersion(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamVersion(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamVersion(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamVersion(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamVersion(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamVersion(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamVersion(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamVersion(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamVersion(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamVersion(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamVersion(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamVersion(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamVersion(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamVersion(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamVersion(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamVersion(System.String)</InterfaceMember>
         <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.GetStreamVersion(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -664,6 +904,26 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.Impersonate</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.Impersonate</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.Impersonate</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.Impersonate</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.Impersonate</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.Impersonate</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.Impersonate</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.Impersonate</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.Impersonate</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.Impersonate</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.Impersonate</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.Impersonate</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.Impersonate</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.Impersonate</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.Impersonate</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.Impersonate</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.Impersonate</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.Impersonate</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.Impersonate</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.Impersonate</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.Impersonate</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Configuration</AssemblyName>
@@ -702,6 +962,26 @@
       <MemberSignature Language="F#" Value="abstract member Init : System.Configuration.Internal.IInternalConfigRoot * obj[] -&gt; unit&#xA;override this.Init : System.Configuration.Internal.IInternalConfigRoot * obj[] -&gt; unit" Usage="delegatingConfigHost.Init (root, hostInitParams)" FrameworkAlternate="xamarinmac-3.0" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.Init(System.Configuration.Internal.IInternalConfigRoot,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.Init(System.Configuration.Internal.IInternalConfigRoot,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.Init(System.Configuration.Internal.IInternalConfigRoot,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.Init(System.Configuration.Internal.IInternalConfigRoot,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.Init(System.Configuration.Internal.IInternalConfigRoot,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.Init(System.Configuration.Internal.IInternalConfigRoot,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.Init(System.Configuration.Internal.IInternalConfigRoot,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.Init(System.Configuration.Internal.IInternalConfigRoot,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.Init(System.Configuration.Internal.IInternalConfigRoot,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.Init(System.Configuration.Internal.IInternalConfigRoot,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.Init(System.Configuration.Internal.IInternalConfigRoot,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.Init(System.Configuration.Internal.IInternalConfigRoot,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.Init(System.Configuration.Internal.IInternalConfigRoot,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.Init(System.Configuration.Internal.IInternalConfigRoot,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.Init(System.Configuration.Internal.IInternalConfigRoot,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.Init(System.Configuration.Internal.IInternalConfigRoot,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.Init(System.Configuration.Internal.IInternalConfigRoot,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.Init(System.Configuration.Internal.IInternalConfigRoot,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.Init(System.Configuration.Internal.IInternalConfigRoot,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.Init(System.Configuration.Internal.IInternalConfigRoot,System.Object[])</InterfaceMember>
         <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.Init(System.Configuration.Internal.IInternalConfigRoot,System.Object[])</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -754,6 +1034,26 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.InitForConfiguration(System.String@,System.String@,System.String@,System.Configuration.Internal.IInternalConfigRoot,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.InitForConfiguration(System.String@,System.String@,System.String@,System.Configuration.Internal.IInternalConfigRoot,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.InitForConfiguration(System.String@,System.String@,System.String@,System.Configuration.Internal.IInternalConfigRoot,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.InitForConfiguration(System.String@,System.String@,System.String@,System.Configuration.Internal.IInternalConfigRoot,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.InitForConfiguration(System.String@,System.String@,System.String@,System.Configuration.Internal.IInternalConfigRoot,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.InitForConfiguration(System.String@,System.String@,System.String@,System.Configuration.Internal.IInternalConfigRoot,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.InitForConfiguration(System.String@,System.String@,System.String@,System.Configuration.Internal.IInternalConfigRoot,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.InitForConfiguration(System.String@,System.String@,System.String@,System.Configuration.Internal.IInternalConfigRoot,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.InitForConfiguration(System.String@,System.String@,System.String@,System.Configuration.Internal.IInternalConfigRoot,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.InitForConfiguration(System.String@,System.String@,System.String@,System.Configuration.Internal.IInternalConfigRoot,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.InitForConfiguration(System.String@,System.String@,System.String@,System.Configuration.Internal.IInternalConfigRoot,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.InitForConfiguration(System.String@,System.String@,System.String@,System.Configuration.Internal.IInternalConfigRoot,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.InitForConfiguration(System.String@,System.String@,System.String@,System.Configuration.Internal.IInternalConfigRoot,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.InitForConfiguration(System.String@,System.String@,System.String@,System.Configuration.Internal.IInternalConfigRoot,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.InitForConfiguration(System.String@,System.String@,System.String@,System.Configuration.Internal.IInternalConfigRoot,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.InitForConfiguration(System.String@,System.String@,System.String@,System.Configuration.Internal.IInternalConfigRoot,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.InitForConfiguration(System.String@,System.String@,System.String@,System.Configuration.Internal.IInternalConfigRoot,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.InitForConfiguration(System.String@,System.String@,System.String@,System.Configuration.Internal.IInternalConfigRoot,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.InitForConfiguration(System.String@,System.String@,System.String@,System.Configuration.Internal.IInternalConfigRoot,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.InitForConfiguration(System.String@,System.String@,System.String@,System.Configuration.Internal.IInternalConfigRoot,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.InitForConfiguration(System.String@,System.String@,System.String@,System.Configuration.Internal.IInternalConfigRoot,System.Object[])</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Configuration</AssemblyName>
@@ -805,6 +1105,26 @@
       <MemberSignature Language="F#" Value="abstract member IsAboveApplication : string -&gt; bool&#xA;override this.IsAboveApplication : string -&gt; bool" Usage="delegatingConfigHost.IsAboveApplication configPath" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsAboveApplication(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsAboveApplication(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsAboveApplication(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsAboveApplication(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsAboveApplication(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsAboveApplication(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsAboveApplication(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsAboveApplication(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsAboveApplication(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsAboveApplication(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsAboveApplication(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsAboveApplication(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsAboveApplication(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsAboveApplication(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsAboveApplication(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsAboveApplication(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsAboveApplication(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsAboveApplication(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsAboveApplication(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsAboveApplication(System.String)</InterfaceMember>
         <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsAboveApplication(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -872,6 +1192,26 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsConfigRecordRequired(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsConfigRecordRequired(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsConfigRecordRequired(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsConfigRecordRequired(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsConfigRecordRequired(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsConfigRecordRequired(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsConfigRecordRequired(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsConfigRecordRequired(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsConfigRecordRequired(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsConfigRecordRequired(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsConfigRecordRequired(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsConfigRecordRequired(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsConfigRecordRequired(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsConfigRecordRequired(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsConfigRecordRequired(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsConfigRecordRequired(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsConfigRecordRequired(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsConfigRecordRequired(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsConfigRecordRequired(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsConfigRecordRequired(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsConfigRecordRequired(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Configuration</AssemblyName>
@@ -909,6 +1249,26 @@
       <MemberSignature Language="F#" Value="abstract member IsDefinitionAllowed : string * System.Configuration.ConfigurationAllowDefinition * System.Configuration.ConfigurationAllowExeDefinition -&gt; bool&#xA;override this.IsDefinitionAllowed : string * System.Configuration.ConfigurationAllowDefinition * System.Configuration.ConfigurationAllowExeDefinition -&gt; bool" Usage="delegatingConfigHost.IsDefinitionAllowed (configPath, allowDefinition, allowExeDefinition)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsDefinitionAllowed(System.String,System.Configuration.ConfigurationAllowDefinition,System.Configuration.ConfigurationAllowExeDefinition)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsDefinitionAllowed(System.String,System.Configuration.ConfigurationAllowDefinition,System.Configuration.ConfigurationAllowExeDefinition)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsDefinitionAllowed(System.String,System.Configuration.ConfigurationAllowDefinition,System.Configuration.ConfigurationAllowExeDefinition)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsDefinitionAllowed(System.String,System.Configuration.ConfigurationAllowDefinition,System.Configuration.ConfigurationAllowExeDefinition)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsDefinitionAllowed(System.String,System.Configuration.ConfigurationAllowDefinition,System.Configuration.ConfigurationAllowExeDefinition)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsDefinitionAllowed(System.String,System.Configuration.ConfigurationAllowDefinition,System.Configuration.ConfigurationAllowExeDefinition)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsDefinitionAllowed(System.String,System.Configuration.ConfigurationAllowDefinition,System.Configuration.ConfigurationAllowExeDefinition)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsDefinitionAllowed(System.String,System.Configuration.ConfigurationAllowDefinition,System.Configuration.ConfigurationAllowExeDefinition)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsDefinitionAllowed(System.String,System.Configuration.ConfigurationAllowDefinition,System.Configuration.ConfigurationAllowExeDefinition)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsDefinitionAllowed(System.String,System.Configuration.ConfigurationAllowDefinition,System.Configuration.ConfigurationAllowExeDefinition)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsDefinitionAllowed(System.String,System.Configuration.ConfigurationAllowDefinition,System.Configuration.ConfigurationAllowExeDefinition)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsDefinitionAllowed(System.String,System.Configuration.ConfigurationAllowDefinition,System.Configuration.ConfigurationAllowExeDefinition)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsDefinitionAllowed(System.String,System.Configuration.ConfigurationAllowDefinition,System.Configuration.ConfigurationAllowExeDefinition)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsDefinitionAllowed(System.String,System.Configuration.ConfigurationAllowDefinition,System.Configuration.ConfigurationAllowExeDefinition)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsDefinitionAllowed(System.String,System.Configuration.ConfigurationAllowDefinition,System.Configuration.ConfigurationAllowExeDefinition)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsDefinitionAllowed(System.String,System.Configuration.ConfigurationAllowDefinition,System.Configuration.ConfigurationAllowExeDefinition)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsDefinitionAllowed(System.String,System.Configuration.ConfigurationAllowDefinition,System.Configuration.ConfigurationAllowExeDefinition)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsDefinitionAllowed(System.String,System.Configuration.ConfigurationAllowDefinition,System.Configuration.ConfigurationAllowExeDefinition)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsDefinitionAllowed(System.String,System.Configuration.ConfigurationAllowDefinition,System.Configuration.ConfigurationAllowExeDefinition)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsDefinitionAllowed(System.String,System.Configuration.ConfigurationAllowDefinition,System.Configuration.ConfigurationAllowExeDefinition)</InterfaceMember>
         <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsDefinitionAllowed(System.String,System.Configuration.ConfigurationAllowDefinition,System.Configuration.ConfigurationAllowExeDefinition)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -952,6 +1312,26 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsFile(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsFile(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsFile(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsFile(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsFile(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsFile(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsFile(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsFile(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsFile(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsFile(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsFile(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsFile(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsFile(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsFile(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsFile(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsFile(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsFile(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsFile(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsFile(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsFile(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsFile(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Configuration</AssemblyName>
@@ -989,6 +1369,26 @@
       <MemberSignature Language="F#" Value="abstract member IsFullTrustSectionWithoutAptcaAllowed : System.Configuration.Internal.IInternalConfigRecord -&gt; bool&#xA;override this.IsFullTrustSectionWithoutAptcaAllowed : System.Configuration.Internal.IInternalConfigRecord -&gt; bool" Usage="delegatingConfigHost.IsFullTrustSectionWithoutAptcaAllowed configRecord" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsFullTrustSectionWithoutAptcaAllowed(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsFullTrustSectionWithoutAptcaAllowed(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsFullTrustSectionWithoutAptcaAllowed(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsFullTrustSectionWithoutAptcaAllowed(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsFullTrustSectionWithoutAptcaAllowed(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsFullTrustSectionWithoutAptcaAllowed(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsFullTrustSectionWithoutAptcaAllowed(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsFullTrustSectionWithoutAptcaAllowed(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsFullTrustSectionWithoutAptcaAllowed(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsFullTrustSectionWithoutAptcaAllowed(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsFullTrustSectionWithoutAptcaAllowed(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsFullTrustSectionWithoutAptcaAllowed(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsFullTrustSectionWithoutAptcaAllowed(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsFullTrustSectionWithoutAptcaAllowed(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsFullTrustSectionWithoutAptcaAllowed(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsFullTrustSectionWithoutAptcaAllowed(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsFullTrustSectionWithoutAptcaAllowed(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsFullTrustSectionWithoutAptcaAllowed(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsFullTrustSectionWithoutAptcaAllowed(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsFullTrustSectionWithoutAptcaAllowed(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
         <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsFullTrustSectionWithoutAptcaAllowed(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1028,6 +1428,26 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsInitDelayed(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsInitDelayed(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsInitDelayed(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsInitDelayed(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsInitDelayed(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsInitDelayed(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsInitDelayed(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsInitDelayed(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsInitDelayed(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsInitDelayed(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsInitDelayed(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsInitDelayed(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsInitDelayed(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsInitDelayed(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsInitDelayed(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsInitDelayed(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsInitDelayed(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsInitDelayed(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsInitDelayed(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsInitDelayed(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsInitDelayed(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Configuration</AssemblyName>
@@ -1065,6 +1485,26 @@
       <MemberSignature Language="F#" Value="abstract member IsLocationApplicable : string -&gt; bool&#xA;override this.IsLocationApplicable : string -&gt; bool" Usage="delegatingConfigHost.IsLocationApplicable configPath" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsLocationApplicable(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsLocationApplicable(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsLocationApplicable(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsLocationApplicable(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsLocationApplicable(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsLocationApplicable(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsLocationApplicable(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsLocationApplicable(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsLocationApplicable(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsLocationApplicable(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsLocationApplicable(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsLocationApplicable(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsLocationApplicable(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsLocationApplicable(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsLocationApplicable(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsLocationApplicable(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsLocationApplicable(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsLocationApplicable(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsLocationApplicable(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsLocationApplicable(System.String)</InterfaceMember>
         <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsLocationApplicable(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1104,6 +1544,26 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.IsRemote</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.IsRemote</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.IsRemote</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.IsRemote</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.IsRemote</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.IsRemote</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.IsRemote</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.IsRemote</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.IsRemote</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.IsRemote</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.IsRemote</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.IsRemote</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.IsRemote</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.IsRemote</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.IsRemote</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.IsRemote</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.IsRemote</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.IsRemote</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.IsRemote</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.IsRemote</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.IsRemote</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Configuration</AssemblyName>
@@ -1137,6 +1597,26 @@
       <MemberSignature Language="F#" Value="abstract member IsSecondaryRoot : string -&gt; bool&#xA;override this.IsSecondaryRoot : string -&gt; bool" Usage="delegatingConfigHost.IsSecondaryRoot configPath" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsSecondaryRoot(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsSecondaryRoot(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsSecondaryRoot(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsSecondaryRoot(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsSecondaryRoot(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsSecondaryRoot(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsSecondaryRoot(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsSecondaryRoot(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsSecondaryRoot(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsSecondaryRoot(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsSecondaryRoot(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsSecondaryRoot(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsSecondaryRoot(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsSecondaryRoot(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsSecondaryRoot(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsSecondaryRoot(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsSecondaryRoot(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsSecondaryRoot(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsSecondaryRoot(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsSecondaryRoot(System.String)</InterfaceMember>
         <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsSecondaryRoot(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1175,6 +1655,26 @@
       <MemberSignature Language="F#" Value="abstract member IsTrustedConfigPath : string -&gt; bool&#xA;override this.IsTrustedConfigPath : string -&gt; bool" Usage="delegatingConfigHost.IsTrustedConfigPath configPath" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsTrustedConfigPath(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsTrustedConfigPath(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsTrustedConfigPath(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsTrustedConfigPath(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsTrustedConfigPath(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsTrustedConfigPath(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsTrustedConfigPath(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsTrustedConfigPath(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsTrustedConfigPath(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsTrustedConfigPath(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsTrustedConfigPath(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsTrustedConfigPath(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsTrustedConfigPath(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsTrustedConfigPath(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsTrustedConfigPath(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsTrustedConfigPath(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsTrustedConfigPath(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsTrustedConfigPath(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsTrustedConfigPath(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsTrustedConfigPath(System.String)</InterfaceMember>
         <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.IsTrustedConfigPath(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1223,6 +1723,26 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForRead(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForRead(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForRead(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForRead(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForRead(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForRead(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForRead(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForRead(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForRead(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForRead(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForRead(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForRead(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForRead(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForRead(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForRead(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForRead(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForRead(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForRead(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForRead(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForRead(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForRead(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Configuration</AssemblyName>
@@ -1259,6 +1779,26 @@
       <MemberSignature Language="F#" Value="abstract member OpenStreamForRead : string * bool -&gt; System.IO.Stream&#xA;override this.OpenStreamForRead : string * bool -&gt; System.IO.Stream" Usage="delegatingConfigHost.OpenStreamForRead (streamName, assertPermissions)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForRead(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForRead(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForRead(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForRead(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForRead(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForRead(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForRead(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForRead(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForRead(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForRead(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForRead(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForRead(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForRead(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForRead(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForRead(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForRead(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForRead(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForRead(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForRead(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForRead(System.String,System.Boolean)</InterfaceMember>
         <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForRead(System.String,System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1309,6 +1849,26 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForWrite(System.String,System.String,System.Object@)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForWrite(System.String,System.String,System.Object@)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForWrite(System.String,System.String,System.Object@)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForWrite(System.String,System.String,System.Object@)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForWrite(System.String,System.String,System.Object@)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForWrite(System.String,System.String,System.Object@)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForWrite(System.String,System.String,System.Object@)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForWrite(System.String,System.String,System.Object@)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForWrite(System.String,System.String,System.Object@)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForWrite(System.String,System.String,System.Object@)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForWrite(System.String,System.String,System.Object@)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForWrite(System.String,System.String,System.Object@)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForWrite(System.String,System.String,System.Object@)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForWrite(System.String,System.String,System.Object@)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForWrite(System.String,System.String,System.Object@)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForWrite(System.String,System.String,System.Object@)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForWrite(System.String,System.String,System.Object@)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForWrite(System.String,System.String,System.Object@)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForWrite(System.String,System.String,System.Object@)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForWrite(System.String,System.String,System.Object@)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForWrite(System.String,System.String,System.Object@)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Configuration</AssemblyName>
@@ -1349,6 +1909,26 @@
       <MemberSignature Language="F#" Value="abstract member OpenStreamForWrite : string * string * obj * bool -&gt; System.IO.Stream&#xA;override this.OpenStreamForWrite : string * string * obj * bool -&gt; System.IO.Stream" Usage="delegatingConfigHost.OpenStreamForWrite (streamName, templateStreamName, writeContext, assertPermissions)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForWrite(System.String,System.String,System.Object@,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForWrite(System.String,System.String,System.Object@,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForWrite(System.String,System.String,System.Object@,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForWrite(System.String,System.String,System.Object@,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForWrite(System.String,System.String,System.Object@,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForWrite(System.String,System.String,System.Object@,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForWrite(System.String,System.String,System.Object@,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForWrite(System.String,System.String,System.Object@,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForWrite(System.String,System.String,System.Object@,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForWrite(System.String,System.String,System.Object@,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForWrite(System.String,System.String,System.Object@,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForWrite(System.String,System.String,System.Object@,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForWrite(System.String,System.String,System.Object@,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForWrite(System.String,System.String,System.Object@,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForWrite(System.String,System.String,System.Object@,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForWrite(System.String,System.String,System.Object@,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForWrite(System.String,System.String,System.Object@,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForWrite(System.String,System.String,System.Object@,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForWrite(System.String,System.String,System.Object@,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForWrite(System.String,System.String,System.Object@,System.Boolean)</InterfaceMember>
         <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.OpenStreamForWrite(System.String,System.String,System.Object@,System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1394,6 +1974,26 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.PrefetchAll(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.PrefetchAll(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.PrefetchAll(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.PrefetchAll(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.PrefetchAll(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.PrefetchAll(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.PrefetchAll(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.PrefetchAll(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.PrefetchAll(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.PrefetchAll(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.PrefetchAll(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.PrefetchAll(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.PrefetchAll(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.PrefetchAll(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.PrefetchAll(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.PrefetchAll(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.PrefetchAll(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.PrefetchAll(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.PrefetchAll(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.PrefetchAll(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.PrefetchAll(System.String,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Configuration</AssemblyName>
@@ -1433,6 +2033,26 @@
       <MemberSignature Language="F#" Value="abstract member PrefetchSection : string * string -&gt; bool&#xA;override this.PrefetchSection : string * string -&gt; bool" Usage="delegatingConfigHost.PrefetchSection (sectionGroupName, sectionName)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.PrefetchSection(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.PrefetchSection(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.PrefetchSection(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.PrefetchSection(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.PrefetchSection(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.PrefetchSection(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.PrefetchSection(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.PrefetchSection(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.PrefetchSection(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.PrefetchSection(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.PrefetchSection(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.PrefetchSection(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.PrefetchSection(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.PrefetchSection(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.PrefetchSection(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.PrefetchSection(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.PrefetchSection(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.PrefetchSection(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.PrefetchSection(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.PrefetchSection(System.String,System.String)</InterfaceMember>
         <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.PrefetchSection(System.String,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1474,6 +2094,8 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Configuration.Internal.IInternalConfigurationBuilderHost.ProcessConfigurationSection(System.Configuration.ConfigurationSection,System.Configuration.ConfigurationBuilder)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigurationBuilderHost.ProcessConfigurationSection(System.Configuration.ConfigurationSection,System.Configuration.ConfigurationBuilder)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigurationBuilderHost.ProcessConfigurationSection(System.Configuration.ConfigurationSection,System.Configuration.ConfigurationBuilder)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Configuration</AssemblyName>
@@ -1507,6 +2129,8 @@
       <MemberSignature Language="F#" Value="abstract member ProcessRawXml : System.Xml.XmlNode * System.Configuration.ConfigurationBuilder -&gt; System.Xml.XmlNode&#xA;override this.ProcessRawXml : System.Xml.XmlNode * System.Configuration.ConfigurationBuilder -&gt; System.Xml.XmlNode" Usage="delegatingConfigHost.ProcessRawXml (rawXml, builder)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigurationBuilderHost.ProcessRawXml(System.Xml.XmlNode,System.Configuration.ConfigurationBuilder)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigurationBuilderHost.ProcessRawXml(System.Xml.XmlNode,System.Configuration.ConfigurationBuilder)</InterfaceMember>
         <InterfaceMember>M:System.Configuration.Internal.IInternalConfigurationBuilderHost.ProcessRawXml(System.Xml.XmlNode,System.Configuration.ConfigurationBuilder)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1569,6 +2193,26 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.RequireCompleteInit(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.RequireCompleteInit(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.RequireCompleteInit(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.RequireCompleteInit(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.RequireCompleteInit(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.RequireCompleteInit(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.RequireCompleteInit(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.RequireCompleteInit(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.RequireCompleteInit(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.RequireCompleteInit(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.RequireCompleteInit(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.RequireCompleteInit(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.RequireCompleteInit(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.RequireCompleteInit(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.RequireCompleteInit(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.RequireCompleteInit(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.RequireCompleteInit(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.RequireCompleteInit(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.RequireCompleteInit(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.RequireCompleteInit(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.RequireCompleteInit(System.Configuration.Internal.IInternalConfigRecord)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Configuration</AssemblyName>
@@ -1604,6 +2248,26 @@
       <MemberSignature Language="F#" Value="abstract member StartMonitoringStreamForChanges : string * System.Configuration.Internal.StreamChangeCallback -&gt; obj&#xA;override this.StartMonitoringStreamForChanges : string * System.Configuration.Internal.StreamChangeCallback -&gt; obj" Usage="delegatingConfigHost.StartMonitoringStreamForChanges (streamName, callback)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.StartMonitoringStreamForChanges(System.String,System.Configuration.Internal.StreamChangeCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.StartMonitoringStreamForChanges(System.String,System.Configuration.Internal.StreamChangeCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.StartMonitoringStreamForChanges(System.String,System.Configuration.Internal.StreamChangeCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.StartMonitoringStreamForChanges(System.String,System.Configuration.Internal.StreamChangeCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.StartMonitoringStreamForChanges(System.String,System.Configuration.Internal.StreamChangeCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.StartMonitoringStreamForChanges(System.String,System.Configuration.Internal.StreamChangeCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.StartMonitoringStreamForChanges(System.String,System.Configuration.Internal.StreamChangeCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.StartMonitoringStreamForChanges(System.String,System.Configuration.Internal.StreamChangeCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.StartMonitoringStreamForChanges(System.String,System.Configuration.Internal.StreamChangeCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.StartMonitoringStreamForChanges(System.String,System.Configuration.Internal.StreamChangeCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.StartMonitoringStreamForChanges(System.String,System.Configuration.Internal.StreamChangeCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.StartMonitoringStreamForChanges(System.String,System.Configuration.Internal.StreamChangeCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.StartMonitoringStreamForChanges(System.String,System.Configuration.Internal.StreamChangeCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.StartMonitoringStreamForChanges(System.String,System.Configuration.Internal.StreamChangeCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.StartMonitoringStreamForChanges(System.String,System.Configuration.Internal.StreamChangeCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.StartMonitoringStreamForChanges(System.String,System.Configuration.Internal.StreamChangeCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.StartMonitoringStreamForChanges(System.String,System.Configuration.Internal.StreamChangeCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.StartMonitoringStreamForChanges(System.String,System.Configuration.Internal.StreamChangeCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.StartMonitoringStreamForChanges(System.String,System.Configuration.Internal.StreamChangeCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.StartMonitoringStreamForChanges(System.String,System.Configuration.Internal.StreamChangeCallback)</InterfaceMember>
         <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.StartMonitoringStreamForChanges(System.String,System.Configuration.Internal.StreamChangeCallback)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1644,6 +2308,26 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.StopMonitoringStreamForChanges(System.String,System.Configuration.Internal.StreamChangeCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.StopMonitoringStreamForChanges(System.String,System.Configuration.Internal.StreamChangeCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.StopMonitoringStreamForChanges(System.String,System.Configuration.Internal.StreamChangeCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.StopMonitoringStreamForChanges(System.String,System.Configuration.Internal.StreamChangeCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.StopMonitoringStreamForChanges(System.String,System.Configuration.Internal.StreamChangeCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.StopMonitoringStreamForChanges(System.String,System.Configuration.Internal.StreamChangeCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.StopMonitoringStreamForChanges(System.String,System.Configuration.Internal.StreamChangeCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.StopMonitoringStreamForChanges(System.String,System.Configuration.Internal.StreamChangeCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.StopMonitoringStreamForChanges(System.String,System.Configuration.Internal.StreamChangeCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.StopMonitoringStreamForChanges(System.String,System.Configuration.Internal.StreamChangeCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.StopMonitoringStreamForChanges(System.String,System.Configuration.Internal.StreamChangeCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.StopMonitoringStreamForChanges(System.String,System.Configuration.Internal.StreamChangeCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.StopMonitoringStreamForChanges(System.String,System.Configuration.Internal.StreamChangeCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.StopMonitoringStreamForChanges(System.String,System.Configuration.Internal.StreamChangeCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.StopMonitoringStreamForChanges(System.String,System.Configuration.Internal.StreamChangeCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.StopMonitoringStreamForChanges(System.String,System.Configuration.Internal.StreamChangeCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.StopMonitoringStreamForChanges(System.String,System.Configuration.Internal.StreamChangeCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.StopMonitoringStreamForChanges(System.String,System.Configuration.Internal.StreamChangeCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.StopMonitoringStreamForChanges(System.String,System.Configuration.Internal.StreamChangeCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.StopMonitoringStreamForChanges(System.String,System.Configuration.Internal.StreamChangeCallback)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.StopMonitoringStreamForChanges(System.String,System.Configuration.Internal.StreamChangeCallback)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Configuration</AssemblyName>
@@ -1682,6 +2366,26 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsChangeNotifications</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsChangeNotifications</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsChangeNotifications</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsChangeNotifications</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsChangeNotifications</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsChangeNotifications</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsChangeNotifications</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsChangeNotifications</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsChangeNotifications</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsChangeNotifications</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsChangeNotifications</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsChangeNotifications</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsChangeNotifications</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsChangeNotifications</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsChangeNotifications</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsChangeNotifications</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsChangeNotifications</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsChangeNotifications</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsChangeNotifications</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsChangeNotifications</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsChangeNotifications</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Configuration</AssemblyName>
@@ -1715,6 +2419,26 @@
       <MemberSignature Language="F#" Value="member this.SupportsLocation : bool" Usage="System.Configuration.Internal.DelegatingConfigHost.SupportsLocation" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsLocation</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsLocation</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsLocation</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsLocation</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsLocation</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsLocation</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsLocation</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsLocation</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsLocation</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsLocation</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsLocation</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsLocation</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsLocation</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsLocation</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsLocation</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsLocation</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsLocation</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsLocation</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsLocation</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsLocation</InterfaceMember>
         <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsLocation</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1750,6 +2474,26 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsPath</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsPath</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsPath</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsPath</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsPath</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsPath</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsPath</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsPath</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsPath</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsPath</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsPath</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsPath</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsPath</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsPath</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsPath</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsPath</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsPath</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsPath</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsPath</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsPath</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsPath</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Configuration</AssemblyName>
@@ -1784,6 +2528,26 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsRefresh</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsRefresh</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsRefresh</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsRefresh</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsRefresh</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsRefresh</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsRefresh</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsRefresh</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsRefresh</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsRefresh</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsRefresh</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsRefresh</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsRefresh</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsRefresh</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsRefresh</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsRefresh</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsRefresh</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsRefresh</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsRefresh</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsRefresh</InterfaceMember>
+        <InterfaceMember>P:System.Configuration.Internal.IInternalConfigHost.SupportsRefresh</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Configuration</AssemblyName>
@@ -1817,6 +2581,26 @@
       <MemberSignature Language="F#" Value="abstract member VerifyDefinitionAllowed : string * System.Configuration.ConfigurationAllowDefinition * System.Configuration.ConfigurationAllowExeDefinition * System.Configuration.Internal.IConfigErrorInfo -&gt; unit&#xA;override this.VerifyDefinitionAllowed : string * System.Configuration.ConfigurationAllowDefinition * System.Configuration.ConfigurationAllowExeDefinition * System.Configuration.Internal.IConfigErrorInfo -&gt; unit" Usage="delegatingConfigHost.VerifyDefinitionAllowed (configPath, allowDefinition, allowExeDefinition, errorInfo)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.VerifyDefinitionAllowed(System.String,System.Configuration.ConfigurationAllowDefinition,System.Configuration.ConfigurationAllowExeDefinition,System.Configuration.Internal.IConfigErrorInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.VerifyDefinitionAllowed(System.String,System.Configuration.ConfigurationAllowDefinition,System.Configuration.ConfigurationAllowExeDefinition,System.Configuration.Internal.IConfigErrorInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.VerifyDefinitionAllowed(System.String,System.Configuration.ConfigurationAllowDefinition,System.Configuration.ConfigurationAllowExeDefinition,System.Configuration.Internal.IConfigErrorInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.VerifyDefinitionAllowed(System.String,System.Configuration.ConfigurationAllowDefinition,System.Configuration.ConfigurationAllowExeDefinition,System.Configuration.Internal.IConfigErrorInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.VerifyDefinitionAllowed(System.String,System.Configuration.ConfigurationAllowDefinition,System.Configuration.ConfigurationAllowExeDefinition,System.Configuration.Internal.IConfigErrorInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.VerifyDefinitionAllowed(System.String,System.Configuration.ConfigurationAllowDefinition,System.Configuration.ConfigurationAllowExeDefinition,System.Configuration.Internal.IConfigErrorInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.VerifyDefinitionAllowed(System.String,System.Configuration.ConfigurationAllowDefinition,System.Configuration.ConfigurationAllowExeDefinition,System.Configuration.Internal.IConfigErrorInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.VerifyDefinitionAllowed(System.String,System.Configuration.ConfigurationAllowDefinition,System.Configuration.ConfigurationAllowExeDefinition,System.Configuration.Internal.IConfigErrorInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.VerifyDefinitionAllowed(System.String,System.Configuration.ConfigurationAllowDefinition,System.Configuration.ConfigurationAllowExeDefinition,System.Configuration.Internal.IConfigErrorInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.VerifyDefinitionAllowed(System.String,System.Configuration.ConfigurationAllowDefinition,System.Configuration.ConfigurationAllowExeDefinition,System.Configuration.Internal.IConfigErrorInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.VerifyDefinitionAllowed(System.String,System.Configuration.ConfigurationAllowDefinition,System.Configuration.ConfigurationAllowExeDefinition,System.Configuration.Internal.IConfigErrorInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.VerifyDefinitionAllowed(System.String,System.Configuration.ConfigurationAllowDefinition,System.Configuration.ConfigurationAllowExeDefinition,System.Configuration.Internal.IConfigErrorInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.VerifyDefinitionAllowed(System.String,System.Configuration.ConfigurationAllowDefinition,System.Configuration.ConfigurationAllowExeDefinition,System.Configuration.Internal.IConfigErrorInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.VerifyDefinitionAllowed(System.String,System.Configuration.ConfigurationAllowDefinition,System.Configuration.ConfigurationAllowExeDefinition,System.Configuration.Internal.IConfigErrorInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.VerifyDefinitionAllowed(System.String,System.Configuration.ConfigurationAllowDefinition,System.Configuration.ConfigurationAllowExeDefinition,System.Configuration.Internal.IConfigErrorInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.VerifyDefinitionAllowed(System.String,System.Configuration.ConfigurationAllowDefinition,System.Configuration.ConfigurationAllowExeDefinition,System.Configuration.Internal.IConfigErrorInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.VerifyDefinitionAllowed(System.String,System.Configuration.ConfigurationAllowDefinition,System.Configuration.ConfigurationAllowExeDefinition,System.Configuration.Internal.IConfigErrorInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.VerifyDefinitionAllowed(System.String,System.Configuration.ConfigurationAllowDefinition,System.Configuration.ConfigurationAllowExeDefinition,System.Configuration.Internal.IConfigErrorInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.VerifyDefinitionAllowed(System.String,System.Configuration.ConfigurationAllowDefinition,System.Configuration.ConfigurationAllowExeDefinition,System.Configuration.Internal.IConfigErrorInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.VerifyDefinitionAllowed(System.String,System.Configuration.ConfigurationAllowDefinition,System.Configuration.ConfigurationAllowExeDefinition,System.Configuration.Internal.IConfigErrorInfo)</InterfaceMember>
         <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.VerifyDefinitionAllowed(System.String,System.Configuration.ConfigurationAllowDefinition,System.Configuration.ConfigurationAllowExeDefinition,System.Configuration.Internal.IConfigErrorInfo)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1869,6 +2653,26 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.WriteCompleted(System.String,System.Boolean,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.WriteCompleted(System.String,System.Boolean,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.WriteCompleted(System.String,System.Boolean,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.WriteCompleted(System.String,System.Boolean,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.WriteCompleted(System.String,System.Boolean,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.WriteCompleted(System.String,System.Boolean,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.WriteCompleted(System.String,System.Boolean,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.WriteCompleted(System.String,System.Boolean,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.WriteCompleted(System.String,System.Boolean,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.WriteCompleted(System.String,System.Boolean,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.WriteCompleted(System.String,System.Boolean,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.WriteCompleted(System.String,System.Boolean,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.WriteCompleted(System.String,System.Boolean,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.WriteCompleted(System.String,System.Boolean,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.WriteCompleted(System.String,System.Boolean,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.WriteCompleted(System.String,System.Boolean,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.WriteCompleted(System.String,System.Boolean,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.WriteCompleted(System.String,System.Boolean,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.WriteCompleted(System.String,System.Boolean,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.WriteCompleted(System.String,System.Boolean,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.WriteCompleted(System.String,System.Boolean,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Configuration</AssemblyName>
@@ -1909,6 +2713,26 @@
       <MemberSignature Language="F#" Value="abstract member WriteCompleted : string * bool * obj * bool -&gt; unit&#xA;override this.WriteCompleted : string * bool * obj * bool -&gt; unit" Usage="delegatingConfigHost.WriteCompleted (streamName, success, writeContext, assertPermissions)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.WriteCompleted(System.String,System.Boolean,System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.WriteCompleted(System.String,System.Boolean,System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.WriteCompleted(System.String,System.Boolean,System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.WriteCompleted(System.String,System.Boolean,System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.WriteCompleted(System.String,System.Boolean,System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.WriteCompleted(System.String,System.Boolean,System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.WriteCompleted(System.String,System.Boolean,System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.WriteCompleted(System.String,System.Boolean,System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.WriteCompleted(System.String,System.Boolean,System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.WriteCompleted(System.String,System.Boolean,System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.WriteCompleted(System.String,System.Boolean,System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.WriteCompleted(System.String,System.Boolean,System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.WriteCompleted(System.String,System.Boolean,System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.WriteCompleted(System.String,System.Boolean,System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.WriteCompleted(System.String,System.Boolean,System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.WriteCompleted(System.String,System.Boolean,System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.WriteCompleted(System.String,System.Boolean,System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.WriteCompleted(System.String,System.Boolean,System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.WriteCompleted(System.String,System.Boolean,System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.WriteCompleted(System.String,System.Boolean,System.Object,System.Boolean)</InterfaceMember>
         <InterfaceMember>M:System.Configuration.Internal.IInternalConfigHost.WriteCompleted(System.String,System.Boolean,System.Object,System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

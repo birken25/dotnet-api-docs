@@ -136,6 +136,15 @@ Use the <xref:System.Diagnostics.SymbolStore.SymBinder.Finalize> method to relea
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>ISymWrapper</AssemblyName>
@@ -241,6 +250,20 @@ Use the <xref:System.Diagnostics.SymbolStore.SymBinder.Finalize> method to relea
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolBinder.GetReader(System.Int32,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolBinder.GetReader(System.Int32,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolBinder.GetReader(System.Int32,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolBinder.GetReader(System.Int32,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolBinder.GetReader(System.Int32,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolBinder.GetReader(System.Int32,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolBinder.GetReader(System.Int32,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolBinder.GetReader(System.Int32,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolBinder.GetReader(System.Int32,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolBinder.GetReader(System.Int32,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolBinder.GetReader(System.Int32,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolBinder.GetReader(System.Int32,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolBinder.GetReader(System.Int32,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolBinder.GetReader(System.Int32,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolBinder.GetReader(System.Int32,System.String,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>ISymWrapper</AssemblyName>
@@ -294,6 +317,19 @@ Use the <xref:System.Diagnostics.SymbolStore.SymBinder.Finalize> method to relea
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual System::Diagnostics::SymbolStore::ISymbolReader ^ GetReader(IntPtr importer, System::String ^ filename, System::String ^ searchPath);" FrameworkAlternate="netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolBinder1.GetReader(System.IntPtr,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolBinder1.GetReader(System.IntPtr,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolBinder1.GetReader(System.IntPtr,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolBinder1.GetReader(System.IntPtr,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolBinder1.GetReader(System.IntPtr,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolBinder1.GetReader(System.IntPtr,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolBinder1.GetReader(System.IntPtr,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolBinder1.GetReader(System.IntPtr,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolBinder1.GetReader(System.IntPtr,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolBinder1.GetReader(System.IntPtr,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolBinder1.GetReader(System.IntPtr,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolBinder1.GetReader(System.IntPtr,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolBinder1.GetReader(System.IntPtr,System.String,System.String)</InterfaceMember>
         <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolBinder1.GetReader(System.IntPtr,System.String,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

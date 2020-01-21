@@ -118,6 +118,8 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.ServiceModel.IClientChannel.AllowInitializationUI</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.AllowInitializationUI</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.AllowInitializationUI</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -143,6 +145,8 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.ServiceModel.IContextChannel.AllowOutputBatching</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.AllowOutputBatching</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.AllowOutputBatching</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -167,6 +171,8 @@
       <MemberSignature Language="F#" Value="abstract member BeginDisplayInitializationUI : AsyncCallback * obj -&gt; IAsyncResult&#xA;override this.BeginDisplayInitializationUI : AsyncCallback * obj -&gt; IAsyncResult" Usage="channelBase.BeginDisplayInitializationUI (callback, state)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.BeginDisplayInitializationUI(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.BeginDisplayInitializationUI(System.AsyncCallback,System.Object)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.IClientChannel.BeginDisplayInitializationUI(System.AsyncCallback,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -247,6 +253,8 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.ServiceModel.IClientChannel.DidInteractiveInitialization</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.DidInteractiveInitialization</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.DidInteractiveInitialization</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -271,6 +279,8 @@
       <MemberSignature Language="F#" Value="abstract member DisplayInitializationUI : unit -&gt; unit&#xA;override this.DisplayInitializationUI : unit -&gt; unit" Usage="channelBase.DisplayInitializationUI " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.DisplayInitializationUI</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.DisplayInitializationUI</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.IClientChannel.DisplayInitializationUI</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -297,6 +307,8 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -321,6 +333,8 @@
       <MemberSignature Language="F#" Value="abstract member EndDisplayInitializationUI : IAsyncResult -&gt; unit&#xA;override this.EndDisplayInitializationUI : IAsyncResult -&gt; unit" Usage="channelBase.EndDisplayInitializationUI result" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.EndDisplayInitializationUI(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.EndDisplayInitializationUI(System.IAsyncResult)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.IClientChannel.EndDisplayInitializationUI(System.IAsyncResult)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -396,6 +410,8 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.ServiceModel.IContextChannel.InputSession</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.InputSession</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.InputSession</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -449,6 +465,8 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.ServiceModel.IContextChannel.LocalAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.LocalAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.LocalAddress</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -474,6 +492,8 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.ServiceModel.IContextChannel.OperationTimeout</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.OperationTimeout</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.OperationTimeout</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -498,6 +518,8 @@
       <MemberSignature Language="F#" Value="member this.OutputSession : System.ServiceModel.Channels.IOutputSession" Usage="System.ServiceModel.ClientBase&lt;'Channel (requires 'Channel : null)&gt;.ChannelBase&lt;'T (requires 'Channel : null)&gt;.OutputSession" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.OutputSession</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.OutputSession</InterfaceMember>
         <InterfaceMember>P:System.ServiceModel.IContextChannel.OutputSession</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -525,6 +547,10 @@
       <Implements>
         <InterfaceMember>P:System.ServiceModel.Channels.IOutputChannel.RemoteAddress</InterfaceMember>
         <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IOutputChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IOutputChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.RemoteAddress</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -550,6 +576,8 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.ServiceModel.IContextChannel.SessionId</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.SessionId</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.SessionId</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -573,6 +601,26 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.IDisposable.Dispose() = IDisposable::Dispose;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -607,6 +655,29 @@
       <MemberSignature Language="C++ CLI" Value="generic &lt;typename TProperty&gt;&#xA; where TProperty : class virtual TProperty System.ServiceModel.Channels.IChannel.GetProperty() = System::ServiceModel::Channels::IChannel::GetProperty;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannel.GetProperty``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannel.GetProperty``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannel.GetProperty``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannel.GetProperty``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannel.GetProperty``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannel.GetProperty``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannel.GetProperty``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannel.GetProperty``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannel.GetProperty``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannel.GetProperty``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannel.GetProperty``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannel.GetProperty``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannel.GetProperty``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannel.GetProperty``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannel.GetProperty``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannel.GetProperty``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannel.GetProperty``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannel.GetProperty``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannel.GetProperty``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannel.GetProperty``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannel.GetProperty``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannel.GetProperty``1</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IChannel.GetProperty``1</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Channels.IChannel.GetProperty``1</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -661,6 +732,29 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.BeginSend(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.BeginSend(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.BeginSend(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.BeginSend(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.BeginSend(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.BeginSend(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.BeginSend(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.BeginSend(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.BeginSend(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.BeginSend(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.BeginSend(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.BeginSend(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.BeginSend(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.BeginSend(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.BeginSend(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.BeginSend(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.BeginSend(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.BeginSend(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.BeginSend(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.BeginSend(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.BeginSend(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.BeginSend(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.BeginSend(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.BeginSend(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -702,6 +796,29 @@
       <MemberSignature Language="C++ CLI" Value=" virtual IAsyncResult ^ System.ServiceModel.Channels.IOutputChannel.BeginSend(System::ServiceModel::Channels::Message ^ message, TimeSpan timeout, AsyncCallback ^ callback, System::Object ^ state) = System::ServiceModel::Channels::IOutputChannel::BeginSend;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.BeginSend(System.ServiceModel.Channels.Message,System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.BeginSend(System.ServiceModel.Channels.Message,System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.BeginSend(System.ServiceModel.Channels.Message,System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.BeginSend(System.ServiceModel.Channels.Message,System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.BeginSend(System.ServiceModel.Channels.Message,System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.BeginSend(System.ServiceModel.Channels.Message,System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.BeginSend(System.ServiceModel.Channels.Message,System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.BeginSend(System.ServiceModel.Channels.Message,System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.BeginSend(System.ServiceModel.Channels.Message,System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.BeginSend(System.ServiceModel.Channels.Message,System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.BeginSend(System.ServiceModel.Channels.Message,System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.BeginSend(System.ServiceModel.Channels.Message,System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.BeginSend(System.ServiceModel.Channels.Message,System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.BeginSend(System.ServiceModel.Channels.Message,System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.BeginSend(System.ServiceModel.Channels.Message,System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.BeginSend(System.ServiceModel.Channels.Message,System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.BeginSend(System.ServiceModel.Channels.Message,System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.BeginSend(System.ServiceModel.Channels.Message,System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.BeginSend(System.ServiceModel.Channels.Message,System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.BeginSend(System.ServiceModel.Channels.Message,System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.BeginSend(System.ServiceModel.Channels.Message,System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.BeginSend(System.ServiceModel.Channels.Message,System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.BeginSend(System.ServiceModel.Channels.Message,System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.BeginSend(System.ServiceModel.Channels.Message,System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -748,6 +865,29 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.EndSend(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.EndSend(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.EndSend(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.EndSend(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.EndSend(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.EndSend(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.EndSend(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.EndSend(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.EndSend(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.EndSend(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.EndSend(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.EndSend(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.EndSend(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.EndSend(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.EndSend(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.EndSend(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.EndSend(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.EndSend(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.EndSend(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.EndSend(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.EndSend(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.EndSend(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.EndSend(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.EndSend(System.IAsyncResult)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -786,6 +926,26 @@
       <MemberSignature Language="F#" Usage="System.ServiceModel.Channels.IOutputChannel.RemoteAddress" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.ServiceModel.Channels.IOutputChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IOutputChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IOutputChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IOutputChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IOutputChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IOutputChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IOutputChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IOutputChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IOutputChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IOutputChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IOutputChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IOutputChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IOutputChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IOutputChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IOutputChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IOutputChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IOutputChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IOutputChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IOutputChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IOutputChannel.RemoteAddress</InterfaceMember>
         <InterfaceMember>P:System.ServiceModel.Channels.IOutputChannel.RemoteAddress</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -830,6 +990,29 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.Send(System.ServiceModel.Channels.Message)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.Send(System.ServiceModel.Channels.Message)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.Send(System.ServiceModel.Channels.Message)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.Send(System.ServiceModel.Channels.Message)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.Send(System.ServiceModel.Channels.Message)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.Send(System.ServiceModel.Channels.Message)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.Send(System.ServiceModel.Channels.Message)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.Send(System.ServiceModel.Channels.Message)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.Send(System.ServiceModel.Channels.Message)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.Send(System.ServiceModel.Channels.Message)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.Send(System.ServiceModel.Channels.Message)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.Send(System.ServiceModel.Channels.Message)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.Send(System.ServiceModel.Channels.Message)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.Send(System.ServiceModel.Channels.Message)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.Send(System.ServiceModel.Channels.Message)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.Send(System.ServiceModel.Channels.Message)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.Send(System.ServiceModel.Channels.Message)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.Send(System.ServiceModel.Channels.Message)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.Send(System.ServiceModel.Channels.Message)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.Send(System.ServiceModel.Channels.Message)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.Send(System.ServiceModel.Channels.Message)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.Send(System.ServiceModel.Channels.Message)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.Send(System.ServiceModel.Channels.Message)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.Send(System.ServiceModel.Channels.Message)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -866,6 +1049,29 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.ServiceModel.Channels.IOutputChannel.Send(System::ServiceModel::Channels::Message ^ message, TimeSpan timeout) = System::ServiceModel::Channels::IOutputChannel::Send;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.Send(System.ServiceModel.Channels.Message,System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.Send(System.ServiceModel.Channels.Message,System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.Send(System.ServiceModel.Channels.Message,System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.Send(System.ServiceModel.Channels.Message,System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.Send(System.ServiceModel.Channels.Message,System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.Send(System.ServiceModel.Channels.Message,System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.Send(System.ServiceModel.Channels.Message,System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.Send(System.ServiceModel.Channels.Message,System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.Send(System.ServiceModel.Channels.Message,System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.Send(System.ServiceModel.Channels.Message,System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.Send(System.ServiceModel.Channels.Message,System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.Send(System.ServiceModel.Channels.Message,System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.Send(System.ServiceModel.Channels.Message,System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.Send(System.ServiceModel.Channels.Message,System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.Send(System.ServiceModel.Channels.Message,System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.Send(System.ServiceModel.Channels.Message,System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.Send(System.ServiceModel.Channels.Message,System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.Send(System.ServiceModel.Channels.Message,System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.Send(System.ServiceModel.Channels.Message,System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.Send(System.ServiceModel.Channels.Message,System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.Send(System.ServiceModel.Channels.Message,System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.Send(System.ServiceModel.Channels.Message,System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.Send(System.ServiceModel.Channels.Message,System.TimeSpan)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Channels.IOutputChannel.Send(System.ServiceModel.Channels.Message,System.TimeSpan)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -907,6 +1113,26 @@
       <MemberSignature Language="F#" Usage="System.ServiceModel.Channels.IOutputChannel.Via" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.ServiceModel.Channels.IOutputChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IOutputChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IOutputChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IOutputChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IOutputChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IOutputChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IOutputChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IOutputChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IOutputChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IOutputChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IOutputChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IOutputChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IOutputChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IOutputChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IOutputChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IOutputChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IOutputChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IOutputChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IOutputChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IOutputChannel.Via</InterfaceMember>
         <InterfaceMember>P:System.ServiceModel.Channels.IOutputChannel.Via</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -951,6 +1177,29 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.BeginRequest(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.BeginRequest(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.BeginRequest(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.BeginRequest(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.BeginRequest(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.BeginRequest(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.BeginRequest(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.BeginRequest(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.BeginRequest(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.BeginRequest(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.BeginRequest(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.BeginRequest(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.BeginRequest(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.BeginRequest(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.BeginRequest(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.BeginRequest(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.BeginRequest(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.BeginRequest(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.BeginRequest(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.BeginRequest(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.BeginRequest(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.BeginRequest(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.BeginRequest(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.BeginRequest(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -992,6 +1241,29 @@
       <MemberSignature Language="C++ CLI" Value=" virtual IAsyncResult ^ System.ServiceModel.Channels.IRequestChannel.BeginRequest(System::ServiceModel::Channels::Message ^ message, TimeSpan timeout, AsyncCallback ^ callback, System::Object ^ state) = System::ServiceModel::Channels::IRequestChannel::BeginRequest;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.BeginRequest(System.ServiceModel.Channels.Message,System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.BeginRequest(System.ServiceModel.Channels.Message,System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.BeginRequest(System.ServiceModel.Channels.Message,System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.BeginRequest(System.ServiceModel.Channels.Message,System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.BeginRequest(System.ServiceModel.Channels.Message,System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.BeginRequest(System.ServiceModel.Channels.Message,System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.BeginRequest(System.ServiceModel.Channels.Message,System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.BeginRequest(System.ServiceModel.Channels.Message,System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.BeginRequest(System.ServiceModel.Channels.Message,System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.BeginRequest(System.ServiceModel.Channels.Message,System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.BeginRequest(System.ServiceModel.Channels.Message,System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.BeginRequest(System.ServiceModel.Channels.Message,System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.BeginRequest(System.ServiceModel.Channels.Message,System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.BeginRequest(System.ServiceModel.Channels.Message,System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.BeginRequest(System.ServiceModel.Channels.Message,System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.BeginRequest(System.ServiceModel.Channels.Message,System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.BeginRequest(System.ServiceModel.Channels.Message,System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.BeginRequest(System.ServiceModel.Channels.Message,System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.BeginRequest(System.ServiceModel.Channels.Message,System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.BeginRequest(System.ServiceModel.Channels.Message,System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.BeginRequest(System.ServiceModel.Channels.Message,System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.BeginRequest(System.ServiceModel.Channels.Message,System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.BeginRequest(System.ServiceModel.Channels.Message,System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.BeginRequest(System.ServiceModel.Channels.Message,System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1038,6 +1310,29 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.EndRequest(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.EndRequest(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.EndRequest(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.EndRequest(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.EndRequest(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.EndRequest(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.EndRequest(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.EndRequest(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.EndRequest(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.EndRequest(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.EndRequest(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.EndRequest(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.EndRequest(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.EndRequest(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.EndRequest(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.EndRequest(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.EndRequest(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.EndRequest(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.EndRequest(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.EndRequest(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.EndRequest(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.EndRequest(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.EndRequest(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.EndRequest(System.IAsyncResult)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -1077,6 +1372,29 @@
       <MemberSignature Language="F#" Usage="System.ServiceModel.Channels.IRequestChannel.RemoteAddress" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.RemoteAddress</InterfaceMember>
         <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.RemoteAddress</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1122,6 +1440,29 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.Request(System.ServiceModel.Channels.Message)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.Request(System.ServiceModel.Channels.Message)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.Request(System.ServiceModel.Channels.Message)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.Request(System.ServiceModel.Channels.Message)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.Request(System.ServiceModel.Channels.Message)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.Request(System.ServiceModel.Channels.Message)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.Request(System.ServiceModel.Channels.Message)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.Request(System.ServiceModel.Channels.Message)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.Request(System.ServiceModel.Channels.Message)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.Request(System.ServiceModel.Channels.Message)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.Request(System.ServiceModel.Channels.Message)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.Request(System.ServiceModel.Channels.Message)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.Request(System.ServiceModel.Channels.Message)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.Request(System.ServiceModel.Channels.Message)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.Request(System.ServiceModel.Channels.Message)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.Request(System.ServiceModel.Channels.Message)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.Request(System.ServiceModel.Channels.Message)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.Request(System.ServiceModel.Channels.Message)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.Request(System.ServiceModel.Channels.Message)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.Request(System.ServiceModel.Channels.Message)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.Request(System.ServiceModel.Channels.Message)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.Request(System.ServiceModel.Channels.Message)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.Request(System.ServiceModel.Channels.Message)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.Request(System.ServiceModel.Channels.Message)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -1159,6 +1500,29 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::ServiceModel::Channels::Message ^ System.ServiceModel.Channels.IRequestChannel.Request(System::ServiceModel::Channels::Message ^ message, TimeSpan timeout) = System::ServiceModel::Channels::IRequestChannel::Request;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.Request(System.ServiceModel.Channels.Message,System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.Request(System.ServiceModel.Channels.Message,System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.Request(System.ServiceModel.Channels.Message,System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.Request(System.ServiceModel.Channels.Message,System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.Request(System.ServiceModel.Channels.Message,System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.Request(System.ServiceModel.Channels.Message,System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.Request(System.ServiceModel.Channels.Message,System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.Request(System.ServiceModel.Channels.Message,System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.Request(System.ServiceModel.Channels.Message,System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.Request(System.ServiceModel.Channels.Message,System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.Request(System.ServiceModel.Channels.Message,System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.Request(System.ServiceModel.Channels.Message,System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.Request(System.ServiceModel.Channels.Message,System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.Request(System.ServiceModel.Channels.Message,System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.Request(System.ServiceModel.Channels.Message,System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.Request(System.ServiceModel.Channels.Message,System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.Request(System.ServiceModel.Channels.Message,System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.Request(System.ServiceModel.Channels.Message,System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.Request(System.ServiceModel.Channels.Message,System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.Request(System.ServiceModel.Channels.Message,System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.Request(System.ServiceModel.Channels.Message,System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.Request(System.ServiceModel.Channels.Message,System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.Request(System.ServiceModel.Channels.Message,System.TimeSpan)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Channels.IRequestChannel.Request(System.ServiceModel.Channels.Message,System.TimeSpan)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1202,6 +1566,29 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.Via</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -1238,6 +1625,26 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.ServiceModel.IClientChannel.AllowInitializationUI</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.AllowInitializationUI</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.AllowInitializationUI</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.AllowInitializationUI</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.AllowInitializationUI</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.AllowInitializationUI</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.AllowInitializationUI</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.AllowInitializationUI</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.AllowInitializationUI</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.AllowInitializationUI</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.AllowInitializationUI</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.AllowInitializationUI</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.AllowInitializationUI</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.AllowInitializationUI</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.AllowInitializationUI</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.AllowInitializationUI</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.AllowInitializationUI</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.AllowInitializationUI</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.AllowInitializationUI</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.AllowInitializationUI</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.AllowInitializationUI</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -1272,6 +1679,26 @@
       <MemberSignature Language="C++ CLI" Value=" virtual IAsyncResult ^ System.ServiceModel.IClientChannel.BeginDisplayInitializationUI(AsyncCallback ^ callback, System::Object ^ state) = System::ServiceModel::IClientChannel::BeginDisplayInitializationUI;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.BeginDisplayInitializationUI(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.BeginDisplayInitializationUI(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.BeginDisplayInitializationUI(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.BeginDisplayInitializationUI(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.BeginDisplayInitializationUI(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.BeginDisplayInitializationUI(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.BeginDisplayInitializationUI(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.BeginDisplayInitializationUI(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.BeginDisplayInitializationUI(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.BeginDisplayInitializationUI(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.BeginDisplayInitializationUI(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.BeginDisplayInitializationUI(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.BeginDisplayInitializationUI(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.BeginDisplayInitializationUI(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.BeginDisplayInitializationUI(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.BeginDisplayInitializationUI(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.BeginDisplayInitializationUI(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.BeginDisplayInitializationUI(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.BeginDisplayInitializationUI(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.BeginDisplayInitializationUI(System.AsyncCallback,System.Object)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.IClientChannel.BeginDisplayInitializationUI(System.AsyncCallback,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1319,6 +1746,26 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.ServiceModel.IClientChannel.DidInteractiveInitialization</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.DidInteractiveInitialization</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.DidInteractiveInitialization</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.DidInteractiveInitialization</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.DidInteractiveInitialization</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.DidInteractiveInitialization</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.DidInteractiveInitialization</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.DidInteractiveInitialization</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.DidInteractiveInitialization</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.DidInteractiveInitialization</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.DidInteractiveInitialization</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.DidInteractiveInitialization</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.DidInteractiveInitialization</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.DidInteractiveInitialization</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.DidInteractiveInitialization</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.DidInteractiveInitialization</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.DidInteractiveInitialization</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.DidInteractiveInitialization</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.DidInteractiveInitialization</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.DidInteractiveInitialization</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.DidInteractiveInitialization</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -1353,6 +1800,26 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.ServiceModel.IClientChannel.DisplayInitializationUI() = System::ServiceModel::IClientChannel::DisplayInitializationUI;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.DisplayInitializationUI</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.DisplayInitializationUI</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.DisplayInitializationUI</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.DisplayInitializationUI</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.DisplayInitializationUI</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.DisplayInitializationUI</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.DisplayInitializationUI</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.DisplayInitializationUI</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.DisplayInitializationUI</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.DisplayInitializationUI</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.DisplayInitializationUI</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.DisplayInitializationUI</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.DisplayInitializationUI</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.DisplayInitializationUI</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.DisplayInitializationUI</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.DisplayInitializationUI</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.DisplayInitializationUI</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.DisplayInitializationUI</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.DisplayInitializationUI</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.DisplayInitializationUI</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.IClientChannel.DisplayInitializationUI</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1392,6 +1859,26 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.ServiceModel.IClientChannel.EndDisplayInitializationUI(IAsyncResult ^ result) = System::ServiceModel::IClientChannel::EndDisplayInitializationUI;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.EndDisplayInitializationUI(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.EndDisplayInitializationUI(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.EndDisplayInitializationUI(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.EndDisplayInitializationUI(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.EndDisplayInitializationUI(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.EndDisplayInitializationUI(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.EndDisplayInitializationUI(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.EndDisplayInitializationUI(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.EndDisplayInitializationUI(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.EndDisplayInitializationUI(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.EndDisplayInitializationUI(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.EndDisplayInitializationUI(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.EndDisplayInitializationUI(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.EndDisplayInitializationUI(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.EndDisplayInitializationUI(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.EndDisplayInitializationUI(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.EndDisplayInitializationUI(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.EndDisplayInitializationUI(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.EndDisplayInitializationUI(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.IClientChannel.EndDisplayInitializationUI(System.IAsyncResult)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.IClientChannel.EndDisplayInitializationUI(System.IAsyncResult)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1434,6 +1921,26 @@
       <MemberType>Event</MemberType>
       <Implements>
         <InterfaceMember>E:System.ServiceModel.IClientChannel.UnknownMessageReceived</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.IClientChannel.UnknownMessageReceived</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.IClientChannel.UnknownMessageReceived</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.IClientChannel.UnknownMessageReceived</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.IClientChannel.UnknownMessageReceived</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.IClientChannel.UnknownMessageReceived</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.IClientChannel.UnknownMessageReceived</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.IClientChannel.UnknownMessageReceived</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.IClientChannel.UnknownMessageReceived</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.IClientChannel.UnknownMessageReceived</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.IClientChannel.UnknownMessageReceived</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.IClientChannel.UnknownMessageReceived</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.IClientChannel.UnknownMessageReceived</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.IClientChannel.UnknownMessageReceived</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.IClientChannel.UnknownMessageReceived</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.IClientChannel.UnknownMessageReceived</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.IClientChannel.UnknownMessageReceived</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.IClientChannel.UnknownMessageReceived</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.IClientChannel.UnknownMessageReceived</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.IClientChannel.UnknownMessageReceived</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.IClientChannel.UnknownMessageReceived</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel.Primitives</AssemblyName>
@@ -1468,6 +1975,26 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.ServiceModel.IClientChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.Via</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel.Primitives</AssemblyName>
@@ -1501,6 +2028,29 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.ServiceModel.ICommunicationObject.Abort() = System::ServiceModel::ICommunicationObject::Abort;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Abort</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Abort</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Abort</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Abort</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Abort</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Abort</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Abort</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Abort</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Abort</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Abort</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Abort</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Abort</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Abort</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Abort</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Abort</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Abort</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Abort</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Abort</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Abort</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Abort</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Abort</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Abort</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Abort</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Abort</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1547,6 +2097,29 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.AsyncCallback,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -1587,6 +2160,29 @@
       <MemberSignature Language="C++ CLI" Value=" virtual IAsyncResult ^ System.ServiceModel.ICommunicationObject.BeginClose(TimeSpan timeout, AsyncCallback ^ callback, System::Object ^ state) = System::ServiceModel::ICommunicationObject::BeginClose;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1641,6 +2237,29 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.AsyncCallback,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -1681,6 +2300,29 @@
       <MemberSignature Language="C++ CLI" Value=" virtual IAsyncResult ^ System.ServiceModel.ICommunicationObject.BeginOpen(TimeSpan timeout, AsyncCallback ^ callback, System::Object ^ state) = System::ServiceModel::ICommunicationObject::BeginOpen;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1735,6 +2377,29 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -1769,6 +2434,29 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.ServiceModel.ICommunicationObject.Close(TimeSpan timeout) = System::ServiceModel::ICommunicationObject::Close;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close(System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close(System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close(System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close(System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close(System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close(System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close(System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close(System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close(System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close(System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close(System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close(System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close(System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close(System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close(System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close(System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close(System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close(System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close(System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close(System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close(System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close(System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close(System.TimeSpan)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close(System.TimeSpan)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1807,6 +2495,29 @@
       <MemberType>Event</MemberType>
       <Implements>
         <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closed</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closed</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closed</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closed</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closed</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closed</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closed</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closed</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closed</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closed</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closed</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closed</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closed</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closed</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closed</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closed</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closed</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closed</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closed</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closed</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closed</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closed</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closed</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closed</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel.Primitives</AssemblyName>
@@ -1839,6 +2550,29 @@
       <MemberSignature Language="VB.NET" Value="Custom Event Closing As EventHandler Implements System.ServiceModel.ICommunicationObject" />
       <MemberType>Event</MemberType>
       <Implements>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closing</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closing</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closing</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closing</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closing</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closing</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closing</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closing</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closing</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closing</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closing</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closing</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closing</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closing</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closing</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closing</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closing</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closing</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closing</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closing</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closing</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closing</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closing</InterfaceMember>
         <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closing</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1873,6 +2607,29 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.ServiceModel.ICommunicationObject.EndClose(IAsyncResult ^ result) = System::ServiceModel::ICommunicationObject::EndClose;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndClose(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndClose(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndClose(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndClose(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndClose(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndClose(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndClose(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndClose(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndClose(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndClose(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndClose(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndClose(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndClose(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndClose(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndClose(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndClose(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndClose(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndClose(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndClose(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndClose(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndClose(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndClose(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndClose(System.IAsyncResult)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndClose(System.IAsyncResult)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1912,6 +2669,29 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndOpen(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndOpen(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndOpen(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndOpen(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndOpen(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndOpen(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndOpen(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndOpen(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndOpen(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndOpen(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndOpen(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndOpen(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndOpen(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndOpen(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndOpen(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndOpen(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndOpen(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndOpen(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndOpen(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndOpen(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndOpen(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndOpen(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndOpen(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndOpen(System.IAsyncResult)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -1948,6 +2728,29 @@
       <MemberSignature Language="VB.NET" Value="Custom Event Faulted As EventHandler Implements System.ServiceModel.ICommunicationObject" />
       <MemberType>Event</MemberType>
       <Implements>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Faulted</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Faulted</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Faulted</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Faulted</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Faulted</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Faulted</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Faulted</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Faulted</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Faulted</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Faulted</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Faulted</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Faulted</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Faulted</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Faulted</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Faulted</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Faulted</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Faulted</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Faulted</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Faulted</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Faulted</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Faulted</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Faulted</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Faulted</InterfaceMember>
         <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Faulted</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1993,6 +2796,29 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -2027,6 +2853,29 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.ServiceModel.ICommunicationObject.Open(TimeSpan timeout) = System::ServiceModel::ICommunicationObject::Open;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open(System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open(System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open(System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open(System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open(System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open(System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open(System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open(System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open(System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open(System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open(System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open(System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open(System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open(System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open(System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open(System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open(System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open(System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open(System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open(System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open(System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open(System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open(System.TimeSpan)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open(System.TimeSpan)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2065,6 +2914,29 @@
       <MemberType>Event</MemberType>
       <Implements>
         <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opened</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opened</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opened</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opened</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opened</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opened</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opened</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opened</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opened</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opened</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opened</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opened</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opened</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opened</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opened</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opened</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opened</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opened</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opened</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opened</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opened</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opened</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opened</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opened</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel.Primitives</AssemblyName>
@@ -2097,6 +2969,29 @@
       <MemberSignature Language="VB.NET" Value="Custom Event Opening As EventHandler Implements System.ServiceModel.ICommunicationObject" />
       <MemberType>Event</MemberType>
       <Implements>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opening</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opening</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opening</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opening</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opening</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opening</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opening</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opening</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opening</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opening</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opening</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opening</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opening</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opening</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opening</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opening</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opening</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opening</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opening</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opening</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opening</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opening</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opening</InterfaceMember>
         <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opening</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2132,6 +3027,29 @@
       <MemberSignature Language="F#" Usage="System.ServiceModel.ICommunicationObject.State" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.ServiceModel.ICommunicationObject.State</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.ICommunicationObject.State</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.ICommunicationObject.State</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.ICommunicationObject.State</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.ICommunicationObject.State</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.ICommunicationObject.State</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.ICommunicationObject.State</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.ICommunicationObject.State</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.ICommunicationObject.State</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.ICommunicationObject.State</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.ICommunicationObject.State</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.ICommunicationObject.State</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.ICommunicationObject.State</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.ICommunicationObject.State</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.ICommunicationObject.State</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.ICommunicationObject.State</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.ICommunicationObject.State</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.ICommunicationObject.State</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.ICommunicationObject.State</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.ICommunicationObject.State</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.ICommunicationObject.State</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.ICommunicationObject.State</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.ICommunicationObject.State</InterfaceMember>
         <InterfaceMember>P:System.ServiceModel.ICommunicationObject.State</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2169,6 +3087,26 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.ServiceModel.IContextChannel.AllowOutputBatching</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.AllowOutputBatching</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.AllowOutputBatching</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.AllowOutputBatching</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.AllowOutputBatching</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.AllowOutputBatching</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.AllowOutputBatching</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.AllowOutputBatching</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.AllowOutputBatching</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.AllowOutputBatching</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.AllowOutputBatching</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.AllowOutputBatching</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.AllowOutputBatching</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.AllowOutputBatching</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.AllowOutputBatching</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.AllowOutputBatching</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.AllowOutputBatching</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.AllowOutputBatching</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.AllowOutputBatching</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.AllowOutputBatching</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.AllowOutputBatching</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -2205,6 +3143,26 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.ServiceModel.IContextChannel.InputSession</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.InputSession</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.InputSession</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.InputSession</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.InputSession</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.InputSession</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.InputSession</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.InputSession</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.InputSession</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.InputSession</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.InputSession</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.InputSession</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.InputSession</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.InputSession</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.InputSession</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.InputSession</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.InputSession</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.InputSession</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.InputSession</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.InputSession</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.InputSession</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -2239,6 +3197,26 @@
       <MemberSignature Language="F#" Usage="System.ServiceModel.IContextChannel.LocalAddress" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.LocalAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.LocalAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.LocalAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.LocalAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.LocalAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.LocalAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.LocalAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.LocalAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.LocalAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.LocalAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.LocalAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.LocalAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.LocalAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.LocalAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.LocalAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.LocalAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.LocalAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.LocalAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.LocalAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.LocalAddress</InterfaceMember>
         <InterfaceMember>P:System.ServiceModel.IContextChannel.LocalAddress</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2275,6 +3253,26 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.ServiceModel.IContextChannel.OperationTimeout</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.OperationTimeout</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.OperationTimeout</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.OperationTimeout</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.OperationTimeout</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.OperationTimeout</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.OperationTimeout</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.OperationTimeout</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.OperationTimeout</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.OperationTimeout</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.OperationTimeout</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.OperationTimeout</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.OperationTimeout</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.OperationTimeout</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.OperationTimeout</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.OperationTimeout</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.OperationTimeout</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.OperationTimeout</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.OperationTimeout</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.OperationTimeout</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.OperationTimeout</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -2310,6 +3308,26 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.ServiceModel.IContextChannel.OutputSession</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.OutputSession</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.OutputSession</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.OutputSession</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.OutputSession</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.OutputSession</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.OutputSession</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.OutputSession</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.OutputSession</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.OutputSession</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.OutputSession</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.OutputSession</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.OutputSession</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.OutputSession</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.OutputSession</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.OutputSession</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.OutputSession</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.OutputSession</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.OutputSession</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.OutputSession</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.OutputSession</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -2344,6 +3362,37 @@
       <MemberSignature Language="F#" Usage="System.ServiceModel.IContextChannel.RemoteAddress" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.ServiceModel.Channels.IOutputChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IOutputChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IOutputChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IOutputChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IOutputChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IOutputChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IOutputChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IOutputChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IOutputChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IOutputChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IOutputChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.RemoteAddress</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.RemoteAddress</InterfaceMember>
         <InterfaceMember>P:System.ServiceModel.IContextChannel.RemoteAddress</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2380,6 +3429,26 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.ServiceModel.IContextChannel.SessionId</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.SessionId</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.SessionId</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.SessionId</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.SessionId</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.SessionId</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.SessionId</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.SessionId</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.SessionId</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.SessionId</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.SessionId</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.SessionId</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.SessionId</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.SessionId</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.SessionId</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.SessionId</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.SessionId</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.SessionId</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.SessionId</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.SessionId</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IContextChannel.SessionId</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -2414,6 +3483,29 @@
       <MemberSignature Language="F#" Usage="System.ServiceModel.IExtensibleObject&lt;System.ServiceModel.IContextChannel&gt;.Extensions" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.ServiceModel.IExtensibleObject`1.Extensions</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IExtensibleObject`1.Extensions</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IExtensibleObject`1.Extensions</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IExtensibleObject`1.Extensions</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IExtensibleObject`1.Extensions</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IExtensibleObject`1.Extensions</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IExtensibleObject`1.Extensions</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IExtensibleObject`1.Extensions</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IExtensibleObject`1.Extensions</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IExtensibleObject`1.Extensions</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IExtensibleObject`1.Extensions</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IExtensibleObject`1.Extensions</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IExtensibleObject`1.Extensions</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IExtensibleObject`1.Extensions</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IExtensibleObject`1.Extensions</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IExtensibleObject`1.Extensions</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IExtensibleObject`1.Extensions</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IExtensibleObject`1.Extensions</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IExtensibleObject`1.Extensions</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IExtensibleObject`1.Extensions</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IExtensibleObject`1.Extensions</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IExtensibleObject`1.Extensions</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IExtensibleObject`1.Extensions</InterfaceMember>
         <InterfaceMember>P:System.ServiceModel.IExtensibleObject`1.Extensions</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2451,6 +3543,8 @@
       <MemberType>Event</MemberType>
       <Implements>
         <InterfaceMember>E:System.ServiceModel.IClientChannel.UnknownMessageReceived</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.IClientChannel.UnknownMessageReceived</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.IClientChannel.UnknownMessageReceived</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -2474,6 +3568,12 @@
       <MemberSignature Language="F#" Value="member this.Via : Uri" Usage="System.ServiceModel.ClientBase&lt;'Channel (requires 'Channel : null)&gt;.ChannelBase&lt;'T (requires 'Channel : null)&gt;.Via" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IOutputChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IClientChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IOutputChannel.Via</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.Via</InterfaceMember>
         <InterfaceMember>P:System.ServiceModel.IClientChannel.Via</InterfaceMember>
         <InterfaceMember>P:System.ServiceModel.Channels.IOutputChannel.Via</InterfaceMember>
         <InterfaceMember>P:System.ServiceModel.Channels.IRequestChannel.Via</InterfaceMember>

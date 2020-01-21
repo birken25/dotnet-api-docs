@@ -269,6 +269,17 @@ protected void LinqDataSource_Updating(object sender,
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Extensions</AssemblyName>
@@ -310,6 +321,17 @@ protected void LinqDataSource_Updating(object sender,
       <MemberSignature Language="F#" Value="member this.InnerExceptions : System.Collections.Generic.IDictionary&lt;string, Exception&gt;" Usage="System.Web.UI.WebControls.LinqDataSourceValidationException.InnerExceptions" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicValidatorException.InnerExceptions</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicValidatorException.InnerExceptions</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicValidatorException.InnerExceptions</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicValidatorException.InnerExceptions</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicValidatorException.InnerExceptions</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicValidatorException.InnerExceptions</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicValidatorException.InnerExceptions</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicValidatorException.InnerExceptions</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicValidatorException.InnerExceptions</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicValidatorException.InnerExceptions</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicValidatorException.InnerExceptions</InterfaceMember>
         <InterfaceMember>P:System.Web.DynamicData.IDynamicValidatorException.InnerExceptions</InterfaceMember>
       </Implements>
       <AssemblyInfo>

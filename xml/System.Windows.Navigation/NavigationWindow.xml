@@ -139,6 +139,18 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:MS.Internal.AppModel.INavigator.AddBackEntry(System.Windows.Navigation.CustomContentState)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigator.AddBackEntry(System.Windows.Navigation.CustomContentState)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigator.AddBackEntry(System.Windows.Navigation.CustomContentState)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigator.AddBackEntry(System.Windows.Navigation.CustomContentState)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigator.AddBackEntry(System.Windows.Navigation.CustomContentState)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigator.AddBackEntry(System.Windows.Navigation.CustomContentState)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigator.AddBackEntry(System.Windows.Navigation.CustomContentState)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigator.AddBackEntry(System.Windows.Navigation.CustomContentState)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigator.AddBackEntry(System.Windows.Navigation.CustomContentState)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigator.AddBackEntry(System.Windows.Navigation.CustomContentState)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigator.AddBackEntry(System.Windows.Navigation.CustomContentState)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigator.AddBackEntry(System.Windows.Navigation.CustomContentState)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigator.AddBackEntry(System.Windows.Navigation.CustomContentState)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -230,6 +242,18 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:MS.Internal.AppModel.INavigator.BackStack</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigator.BackStack</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigator.BackStack</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigator.BackStack</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigator.BackStack</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigator.BackStack</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigator.BackStack</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigator.BackStack</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigator.BackStack</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigator.BackStack</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigator.BackStack</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigator.BackStack</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigator.BackStack</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -293,6 +317,18 @@
       <MemberSignature Language="F#" Value="member this.CanGoBack : bool" Usage="System.Windows.Navigation.NavigationWindow.CanGoBack" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigator.CanGoBack</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigator.CanGoBack</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigator.CanGoBack</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigator.CanGoBack</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigator.CanGoBack</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigator.CanGoBack</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigator.CanGoBack</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigator.CanGoBack</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigator.CanGoBack</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigator.CanGoBack</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigator.CanGoBack</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigator.CanGoBack</InterfaceMember>
         <InterfaceMember>P:MS.Internal.AppModel.INavigator.CanGoBack</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -359,6 +395,18 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:MS.Internal.AppModel.INavigator.CanGoForward</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigator.CanGoForward</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigator.CanGoForward</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigator.CanGoForward</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigator.CanGoForward</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigator.CanGoForward</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigator.CanGoForward</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigator.CanGoForward</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigator.CanGoForward</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigator.CanGoForward</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigator.CanGoForward</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigator.CanGoForward</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigator.CanGoForward</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -423,6 +471,18 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:MS.Internal.AppModel.INavigatorBase.CurrentSource</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigatorBase.CurrentSource</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigatorBase.CurrentSource</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigatorBase.CurrentSource</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigatorBase.CurrentSource</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigatorBase.CurrentSource</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigatorBase.CurrentSource</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigatorBase.CurrentSource</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigatorBase.CurrentSource</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigatorBase.CurrentSource</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigatorBase.CurrentSource</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigatorBase.CurrentSource</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigatorBase.CurrentSource</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -454,6 +514,18 @@
       <MemberSignature Language="F#" Value="member this.ForwardStack : System.Collections.IEnumerable" Usage="System.Windows.Navigation.NavigationWindow.ForwardStack" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigator.ForwardStack</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigator.ForwardStack</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigator.ForwardStack</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigator.ForwardStack</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigator.ForwardStack</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigator.ForwardStack</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigator.ForwardStack</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigator.ForwardStack</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigator.ForwardStack</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigator.ForwardStack</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigator.ForwardStack</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigator.ForwardStack</InterfaceMember>
         <InterfaceMember>P:MS.Internal.AppModel.INavigator.ForwardStack</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -520,6 +592,18 @@
       <MemberType>Event</MemberType>
       <Implements>
         <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.FragmentNavigation</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.FragmentNavigation</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.FragmentNavigation</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.FragmentNavigation</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.FragmentNavigation</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.FragmentNavigation</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.FragmentNavigation</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.FragmentNavigation</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.FragmentNavigation</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.FragmentNavigation</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.FragmentNavigation</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.FragmentNavigation</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.FragmentNavigation</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -560,6 +644,18 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:MS.Internal.AppModel.INavigator.GoBack</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigator.GoBack</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigator.GoBack</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigator.GoBack</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigator.GoBack</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigator.GoBack</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigator.GoBack</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigator.GoBack</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigator.GoBack</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigator.GoBack</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigator.GoBack</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigator.GoBack</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigator.GoBack</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -593,6 +689,18 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:MS.Internal.AppModel.INavigator.GoForward</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigator.GoForward</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigator.GoForward</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigator.GoForward</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigator.GoForward</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigator.GoForward</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigator.GoForward</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigator.GoForward</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigator.GoForward</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigator.GoForward</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigator.GoForward</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigator.GoForward</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigator.GoForward</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -623,6 +731,18 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual event System::Windows::Navigation::LoadCompletedEventHandler ^ LoadCompleted;" FrameworkAlternate="netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Event</MemberType>
       <Implements>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.LoadCompleted</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.LoadCompleted</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.LoadCompleted</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.LoadCompleted</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.LoadCompleted</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.LoadCompleted</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.LoadCompleted</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.LoadCompleted</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.LoadCompleted</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.LoadCompleted</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.LoadCompleted</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.LoadCompleted</InterfaceMember>
         <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.LoadCompleted</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -672,6 +792,18 @@
       <MemberSignature Language="F#" Value="abstract member Navigate : obj -&gt; bool&#xA;override this.Navigate : obj -&gt; bool" Usage="navigationWindow.Navigate content" FrameworkAlternate="netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Navigate(System.Object)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Navigate(System.Object)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Navigate(System.Object)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Navigate(System.Object)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Navigate(System.Object)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Navigate(System.Object)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Navigate(System.Object)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Navigate(System.Object)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Navigate(System.Object)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Navigate(System.Object)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Navigate(System.Object)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Navigate(System.Object)</InterfaceMember>
         <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Navigate(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -723,6 +855,18 @@
       <MemberSignature Language="F#" Value="abstract member Navigate : Uri -&gt; bool&#xA;override this.Navigate : Uri -&gt; bool" Usage="navigationWindow.Navigate source" FrameworkAlternate="netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Navigate(System.Uri)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Navigate(System.Uri)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Navigate(System.Uri)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Navigate(System.Uri)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Navigate(System.Uri)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Navigate(System.Uri)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Navigate(System.Uri)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Navigate(System.Uri)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Navigate(System.Uri)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Navigate(System.Uri)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Navigate(System.Uri)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Navigate(System.Uri)</InterfaceMember>
         <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Navigate(System.Uri)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -778,6 +922,18 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Navigate(System.Object,System.Object)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Navigate(System.Object,System.Object)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Navigate(System.Object,System.Object)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Navigate(System.Object,System.Object)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Navigate(System.Object,System.Object)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Navigate(System.Object,System.Object)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Navigate(System.Object,System.Object)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Navigate(System.Object,System.Object)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Navigate(System.Object,System.Object)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Navigate(System.Object,System.Object)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Navigate(System.Object,System.Object)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Navigate(System.Object,System.Object)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Navigate(System.Object,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -823,6 +979,18 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Navigate(System.Uri,System.Object)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Navigate(System.Uri,System.Object)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Navigate(System.Uri,System.Object)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Navigate(System.Uri,System.Object)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Navigate(System.Uri,System.Object)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Navigate(System.Uri,System.Object)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Navigate(System.Uri,System.Object)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Navigate(System.Uri,System.Object)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Navigate(System.Uri,System.Object)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Navigate(System.Uri,System.Object)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Navigate(System.Uri,System.Object)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Navigate(System.Uri,System.Object)</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Navigate(System.Uri,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -866,6 +1034,18 @@
       <MemberType>Event</MemberType>
       <Implements>
         <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.Navigated</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.Navigated</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.Navigated</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.Navigated</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.Navigated</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.Navigated</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.Navigated</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.Navigated</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.Navigated</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.Navigated</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.Navigated</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.Navigated</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.Navigated</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -903,6 +1083,18 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual event System::Windows::Navigation::NavigatingCancelEventHandler ^ Navigating;" FrameworkAlternate="netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Event</MemberType>
       <Implements>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.Navigating</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.Navigating</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.Navigating</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.Navigating</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.Navigating</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.Navigating</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.Navigating</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.Navigating</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.Navigating</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.Navigating</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.Navigating</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.Navigating</InterfaceMember>
         <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.Navigating</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -942,6 +1134,18 @@
       <MemberType>Event</MemberType>
       <Implements>
         <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.NavigationFailed</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.NavigationFailed</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.NavigationFailed</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.NavigationFailed</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.NavigationFailed</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.NavigationFailed</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.NavigationFailed</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.NavigationFailed</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.NavigationFailed</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.NavigationFailed</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.NavigationFailed</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.NavigationFailed</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.NavigationFailed</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -980,6 +1184,18 @@
       <MemberType>Event</MemberType>
       <Implements>
         <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.NavigationProgress</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.NavigationProgress</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.NavigationProgress</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.NavigationProgress</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.NavigationProgress</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.NavigationProgress</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.NavigationProgress</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.NavigationProgress</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.NavigationProgress</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.NavigationProgress</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.NavigationProgress</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.NavigationProgress</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.NavigationProgress</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -1017,6 +1233,18 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:MS.Internal.AppModel.IJournalNavigationScopeHost.NavigationService</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.IJournalNavigationScopeHost.NavigationService</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.IJournalNavigationScopeHost.NavigationService</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.IJournalNavigationScopeHost.NavigationService</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.IJournalNavigationScopeHost.NavigationService</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.IJournalNavigationScopeHost.NavigationService</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.IJournalNavigationScopeHost.NavigationService</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.IJournalNavigationScopeHost.NavigationService</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.IJournalNavigationScopeHost.NavigationService</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.IJournalNavigationScopeHost.NavigationService</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.IJournalNavigationScopeHost.NavigationService</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.IJournalNavigationScopeHost.NavigationService</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.IJournalNavigationScopeHost.NavigationService</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -1051,6 +1279,18 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual event System::Windows::Navigation::NavigationStoppedEventHandler ^ NavigationStopped;" FrameworkAlternate="netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Event</MemberType>
       <Implements>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.NavigationStopped</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.NavigationStopped</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.NavigationStopped</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.NavigationStopped</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.NavigationStopped</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.NavigationStopped</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.NavigationStopped</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.NavigationStopped</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.NavigationStopped</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.NavigationStopped</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.NavigationStopped</InterfaceMember>
+        <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.NavigationStopped</InterfaceMember>
         <InterfaceMember>E:MS.Internal.AppModel.INavigatorBase.NavigationStopped</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1181,6 +1421,18 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Refresh</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Refresh</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Refresh</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Refresh</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Refresh</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Refresh</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Refresh</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Refresh</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Refresh</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Refresh</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Refresh</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Refresh</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.Refresh</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -1223,6 +1475,18 @@
       <MemberSignature Language="F#" Value="abstract member RemoveBackEntry : unit -&gt; System.Windows.Navigation.JournalEntry&#xA;override this.RemoveBackEntry : unit -&gt; System.Windows.Navigation.JournalEntry" Usage="navigationWindow.RemoveBackEntry " FrameworkAlternate="netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigator.RemoveBackEntry</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigator.RemoveBackEntry</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigator.RemoveBackEntry</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigator.RemoveBackEntry</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigator.RemoveBackEntry</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigator.RemoveBackEntry</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigator.RemoveBackEntry</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigator.RemoveBackEntry</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigator.RemoveBackEntry</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigator.RemoveBackEntry</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigator.RemoveBackEntry</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigator.RemoveBackEntry</InterfaceMember>
         <InterfaceMember>M:MS.Internal.AppModel.INavigator.RemoveBackEntry</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1419,6 +1683,18 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:MS.Internal.AppModel.INavigatorBase.Source</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigatorBase.Source</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigatorBase.Source</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigatorBase.Source</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigatorBase.Source</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigatorBase.Source</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigatorBase.Source</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigatorBase.Source</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigatorBase.Source</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigatorBase.Source</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigatorBase.Source</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigatorBase.Source</InterfaceMember>
+        <InterfaceMember>P:MS.Internal.AppModel.INavigatorBase.Source</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -1499,6 +1775,18 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.StopLoading</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.StopLoading</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.StopLoading</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.StopLoading</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.StopLoading</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.StopLoading</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.StopLoading</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.StopLoading</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.StopLoading</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.StopLoading</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.StopLoading</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.StopLoading</InterfaceMember>
+        <InterfaceMember>M:MS.Internal.AppModel.INavigatorBase.StopLoading</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -1541,6 +1829,18 @@
       <MemberSignature Language="F#" Usage="System.Windows.Markup.IUriContext.BaseUri" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Windows.Markup.IUriContext.BaseUri</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Markup.IUriContext.BaseUri</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Markup.IUriContext.BaseUri</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Markup.IUriContext.BaseUri</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Markup.IUriContext.BaseUri</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Markup.IUriContext.BaseUri</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Markup.IUriContext.BaseUri</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Markup.IUriContext.BaseUri</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Markup.IUriContext.BaseUri</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Markup.IUriContext.BaseUri</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Markup.IUriContext.BaseUri</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Markup.IUriContext.BaseUri</InterfaceMember>
         <InterfaceMember>P:System.Windows.Markup.IUriContext.BaseUri</InterfaceMember>
       </Implements>
       <AssemblyInfo>

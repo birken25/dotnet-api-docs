@@ -55,6 +55,15 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.ModelBinding.IValueProvider.ContainsPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IValueProvider.ContainsPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IValueProvider.ContainsPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IValueProvider.ContainsPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IValueProvider.ContainsPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IValueProvider.ContainsPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IValueProvider.ContainsPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IValueProvider.ContainsPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IValueProvider.ContainsPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IValueProvider.ContainsPrefix(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -93,6 +102,15 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.ModelBinding.IValueProvider.GetValue(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IValueProvider.GetValue(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IValueProvider.GetValue(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IValueProvider.GetValue(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IValueProvider.GetValue(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IValueProvider.GetValue(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IValueProvider.GetValue(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IValueProvider.GetValue(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IValueProvider.GetValue(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IValueProvider.GetValue(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -120,6 +138,15 @@
       <MemberSignature Language="F#" Value="abstract member GetValue : string * bool -&gt; System.Web.ModelBinding.ValueProviderResult&#xA;override this.GetValue : string * bool -&gt; System.Web.ModelBinding.ValueProviderResult" Usage="cookieValueProvider.GetValue (key, skipValidation)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.ModelBinding.IUnvalidatedValueProvider.GetValue(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IUnvalidatedValueProvider.GetValue(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IUnvalidatedValueProvider.GetValue(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IUnvalidatedValueProvider.GetValue(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IUnvalidatedValueProvider.GetValue(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IUnvalidatedValueProvider.GetValue(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IUnvalidatedValueProvider.GetValue(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IUnvalidatedValueProvider.GetValue(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IUnvalidatedValueProvider.GetValue(System.String,System.Boolean)</InterfaceMember>
         <InterfaceMember>M:System.Web.ModelBinding.IUnvalidatedValueProvider.GetValue(System.String,System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

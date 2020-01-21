@@ -95,6 +95,12 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.FileProviders.Physical</AssemblyName>
@@ -175,6 +181,12 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Extensions.FileProviders.IFileProvider.GetDirectoryContents(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.FileProviders.IFileProvider.GetDirectoryContents(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.FileProviders.IFileProvider.GetDirectoryContents(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.FileProviders.IFileProvider.GetDirectoryContents(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.FileProviders.IFileProvider.GetDirectoryContents(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.FileProviders.IFileProvider.GetDirectoryContents(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.FileProviders.IFileProvider.GetDirectoryContents(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.FileProviders.Physical</AssemblyName>
@@ -212,6 +224,12 @@
       <MemberSignature Language="F#" Value="abstract member GetFileInfo : string -&gt; Microsoft.Extensions.FileProviders.IFileInfo&#xA;override this.GetFileInfo : string -&gt; Microsoft.Extensions.FileProviders.IFileInfo" Usage="physicalFileProvider.GetFileInfo subpath" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Extensions.FileProviders.IFileProvider.GetFileInfo(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.FileProviders.IFileProvider.GetFileInfo(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.FileProviders.IFileProvider.GetFileInfo(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.FileProviders.IFileProvider.GetFileInfo(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.FileProviders.IFileProvider.GetFileInfo(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.FileProviders.IFileProvider.GetFileInfo(System.String)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Extensions.FileProviders.IFileProvider.GetFileInfo(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -338,6 +356,12 @@
       <MemberSignature Language="F#" Value="abstract member Watch : string -&gt; Microsoft.Extensions.Primitives.IChangeToken&#xA;override this.Watch : string -&gt; Microsoft.Extensions.Primitives.IChangeToken" Usage="physicalFileProvider.Watch filter" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Extensions.FileProviders.IFileProvider.Watch(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.FileProviders.IFileProvider.Watch(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.FileProviders.IFileProvider.Watch(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.FileProviders.IFileProvider.Watch(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.FileProviders.IFileProvider.Watch(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.FileProviders.IFileProvider.Watch(System.String)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Extensions.FileProviders.IFileProvider.Watch(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

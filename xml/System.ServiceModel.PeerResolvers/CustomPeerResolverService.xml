@@ -161,6 +161,18 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.GetServiceSettings</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.GetServiceSettings</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.GetServiceSettings</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.GetServiceSettings</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.GetServiceSettings</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.GetServiceSettings</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.GetServiceSettings</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.GetServiceSettings</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.GetServiceSettings</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.GetServiceSettings</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.GetServiceSettings</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.GetServiceSettings</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.GetServiceSettings</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -218,6 +230,18 @@
       <MemberSignature Language="F#" Value="abstract member Refresh : System.ServiceModel.PeerResolvers.RefreshInfo -&gt; System.ServiceModel.PeerResolvers.RefreshResponseInfo&#xA;override this.Refresh : System.ServiceModel.PeerResolvers.RefreshInfo -&gt; System.ServiceModel.PeerResolvers.RefreshResponseInfo" Usage="customPeerResolverService.Refresh refreshInfo" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Refresh(System.ServiceModel.PeerResolvers.RefreshInfo)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Refresh(System.ServiceModel.PeerResolvers.RefreshInfo)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Refresh(System.ServiceModel.PeerResolvers.RefreshInfo)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Refresh(System.ServiceModel.PeerResolvers.RefreshInfo)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Refresh(System.ServiceModel.PeerResolvers.RefreshInfo)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Refresh(System.ServiceModel.PeerResolvers.RefreshInfo)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Refresh(System.ServiceModel.PeerResolvers.RefreshInfo)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Refresh(System.ServiceModel.PeerResolvers.RefreshInfo)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Refresh(System.ServiceModel.PeerResolvers.RefreshInfo)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Refresh(System.ServiceModel.PeerResolvers.RefreshInfo)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Refresh(System.ServiceModel.PeerResolvers.RefreshInfo)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Refresh(System.ServiceModel.PeerResolvers.RefreshInfo)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Refresh(System.ServiceModel.PeerResolvers.RefreshInfo)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -315,6 +339,18 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Register(System.ServiceModel.PeerResolvers.RegisterInfo)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Register(System.ServiceModel.PeerResolvers.RegisterInfo)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Register(System.ServiceModel.PeerResolvers.RegisterInfo)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Register(System.ServiceModel.PeerResolvers.RegisterInfo)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Register(System.ServiceModel.PeerResolvers.RegisterInfo)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Register(System.ServiceModel.PeerResolvers.RegisterInfo)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Register(System.ServiceModel.PeerResolvers.RegisterInfo)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Register(System.ServiceModel.PeerResolvers.RegisterInfo)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Register(System.ServiceModel.PeerResolvers.RegisterInfo)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Register(System.ServiceModel.PeerResolvers.RegisterInfo)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Register(System.ServiceModel.PeerResolvers.RegisterInfo)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Register(System.ServiceModel.PeerResolvers.RegisterInfo)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Register(System.ServiceModel.PeerResolvers.RegisterInfo)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -390,6 +426,18 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Resolve(System.ServiceModel.PeerResolvers.ResolveInfo)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Resolve(System.ServiceModel.PeerResolvers.ResolveInfo)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Resolve(System.ServiceModel.PeerResolvers.ResolveInfo)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Resolve(System.ServiceModel.PeerResolvers.ResolveInfo)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Resolve(System.ServiceModel.PeerResolvers.ResolveInfo)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Resolve(System.ServiceModel.PeerResolvers.ResolveInfo)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Resolve(System.ServiceModel.PeerResolvers.ResolveInfo)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Resolve(System.ServiceModel.PeerResolvers.ResolveInfo)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Resolve(System.ServiceModel.PeerResolvers.ResolveInfo)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Resolve(System.ServiceModel.PeerResolvers.ResolveInfo)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Resolve(System.ServiceModel.PeerResolvers.ResolveInfo)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Resolve(System.ServiceModel.PeerResolvers.ResolveInfo)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Resolve(System.ServiceModel.PeerResolvers.ResolveInfo)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -429,6 +477,18 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Unregister(System.ServiceModel.PeerResolvers.UnregisterInfo)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Unregister(System.ServiceModel.PeerResolvers.UnregisterInfo)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Unregister(System.ServiceModel.PeerResolvers.UnregisterInfo)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Unregister(System.ServiceModel.PeerResolvers.UnregisterInfo)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Unregister(System.ServiceModel.PeerResolvers.UnregisterInfo)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Unregister(System.ServiceModel.PeerResolvers.UnregisterInfo)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Unregister(System.ServiceModel.PeerResolvers.UnregisterInfo)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Unregister(System.ServiceModel.PeerResolvers.UnregisterInfo)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Unregister(System.ServiceModel.PeerResolvers.UnregisterInfo)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Unregister(System.ServiceModel.PeerResolvers.UnregisterInfo)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Unregister(System.ServiceModel.PeerResolvers.UnregisterInfo)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Unregister(System.ServiceModel.PeerResolvers.UnregisterInfo)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Unregister(System.ServiceModel.PeerResolvers.UnregisterInfo)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -458,6 +518,18 @@
       <MemberSignature Language="F#" Value="abstract member Update : System.ServiceModel.PeerResolvers.UpdateInfo -&gt; System.ServiceModel.PeerResolvers.RegisterResponseInfo&#xA;override this.Update : System.ServiceModel.PeerResolvers.UpdateInfo -&gt; System.ServiceModel.PeerResolvers.RegisterResponseInfo" Usage="customPeerResolverService.Update updateInfo" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Update(System.ServiceModel.PeerResolvers.UpdateInfo)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Update(System.ServiceModel.PeerResolvers.UpdateInfo)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Update(System.ServiceModel.PeerResolvers.UpdateInfo)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Update(System.ServiceModel.PeerResolvers.UpdateInfo)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Update(System.ServiceModel.PeerResolvers.UpdateInfo)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Update(System.ServiceModel.PeerResolvers.UpdateInfo)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Update(System.ServiceModel.PeerResolvers.UpdateInfo)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Update(System.ServiceModel.PeerResolvers.UpdateInfo)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Update(System.ServiceModel.PeerResolvers.UpdateInfo)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Update(System.ServiceModel.PeerResolvers.UpdateInfo)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Update(System.ServiceModel.PeerResolvers.UpdateInfo)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Update(System.ServiceModel.PeerResolvers.UpdateInfo)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.PeerResolvers.IPeerResolverContract.Update(System.ServiceModel.PeerResolvers.UpdateInfo)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

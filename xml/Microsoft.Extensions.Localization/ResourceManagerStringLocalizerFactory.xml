@@ -92,6 +92,12 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Extensions.Localization.IStringLocalizerFactory.Create(System.Type)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Localization.IStringLocalizerFactory.Create(System.Type)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Localization.IStringLocalizerFactory.Create(System.Type)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Localization.IStringLocalizerFactory.Create(System.Type)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Localization.IStringLocalizerFactory.Create(System.Type)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Localization.IStringLocalizerFactory.Create(System.Type)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Localization.IStringLocalizerFactory.Create(System.Type)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Localization</AssemblyName>
@@ -126,6 +132,12 @@
       <MemberSignature Language="F#" Value="abstract member Create : string * string -&gt; Microsoft.Extensions.Localization.IStringLocalizer&#xA;override this.Create : string * string -&gt; Microsoft.Extensions.Localization.IStringLocalizer" Usage="resourceManagerStringLocalizerFactory.Create (baseName, location)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Extensions.Localization.IStringLocalizerFactory.Create(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Localization.IStringLocalizerFactory.Create(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Localization.IStringLocalizerFactory.Create(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Localization.IStringLocalizerFactory.Create(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Localization.IStringLocalizerFactory.Create(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Localization.IStringLocalizerFactory.Create(System.String,System.String)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Extensions.Localization.IStringLocalizerFactory.Create(System.String,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

@@ -141,6 +141,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.DynamicData.IMetaChildrenColumn.GetChildrenListPath(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaChildrenColumn.GetChildrenListPath(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaChildrenColumn.GetChildrenListPath(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaChildrenColumn.GetChildrenListPath(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaChildrenColumn.GetChildrenListPath(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaChildrenColumn.GetChildrenListPath(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaChildrenColumn.GetChildrenListPath(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaChildrenColumn.GetChildrenListPath(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaChildrenColumn.GetChildrenListPath(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaChildrenColumn.GetChildrenListPath(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaChildrenColumn.GetChildrenListPath(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.DynamicData</AssemblyName>
@@ -193,6 +203,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.DynamicData.IMetaChildrenColumn.GetChildrenPath(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaChildrenColumn.GetChildrenPath(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaChildrenColumn.GetChildrenPath(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaChildrenColumn.GetChildrenPath(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaChildrenColumn.GetChildrenPath(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaChildrenColumn.GetChildrenPath(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaChildrenColumn.GetChildrenPath(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaChildrenColumn.GetChildrenPath(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaChildrenColumn.GetChildrenPath(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaChildrenColumn.GetChildrenPath(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaChildrenColumn.GetChildrenPath(System.String,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.DynamicData</AssemblyName>
@@ -238,6 +258,16 @@
       <MemberSignature Language="F#" Value="abstract member GetChildrenPath : string * obj * string -&gt; string&#xA;override this.GetChildrenPath : string * obj * string -&gt; string" Usage="metaChildrenColumn.GetChildrenPath (action, row, path)" FrameworkAlternate="netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaChildrenColumn.GetChildrenPath(System.String,System.Object,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaChildrenColumn.GetChildrenPath(System.String,System.Object,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaChildrenColumn.GetChildrenPath(System.String,System.Object,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaChildrenColumn.GetChildrenPath(System.String,System.Object,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaChildrenColumn.GetChildrenPath(System.String,System.Object,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaChildrenColumn.GetChildrenPath(System.String,System.Object,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaChildrenColumn.GetChildrenPath(System.String,System.Object,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaChildrenColumn.GetChildrenPath(System.String,System.Object,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaChildrenColumn.GetChildrenPath(System.String,System.Object,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IMetaChildrenColumn.GetChildrenPath(System.String,System.Object,System.String)</InterfaceMember>
         <InterfaceMember>M:System.Web.DynamicData.IMetaChildrenColumn.GetChildrenPath(System.String,System.Object,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -311,6 +341,16 @@
       <MemberSignature Language="F#" Value="member this.IsManyToMany : bool" Usage="System.Web.DynamicData.MetaChildrenColumn.IsManyToMany" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaChildrenColumn.IsManyToMany</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaChildrenColumn.IsManyToMany</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaChildrenColumn.IsManyToMany</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaChildrenColumn.IsManyToMany</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaChildrenColumn.IsManyToMany</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaChildrenColumn.IsManyToMany</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaChildrenColumn.IsManyToMany</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaChildrenColumn.IsManyToMany</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaChildrenColumn.IsManyToMany</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IMetaChildrenColumn.IsManyToMany</InterfaceMember>
         <InterfaceMember>P:System.Web.DynamicData.IMetaChildrenColumn.IsManyToMany</InterfaceMember>
       </Implements>
       <AssemblyInfo>

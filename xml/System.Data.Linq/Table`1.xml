@@ -153,6 +153,19 @@ End Using
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual void Attach(TEntity entity);" FrameworkAlternate="netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberSignature Language="F#" Value="abstract member Attach : 'Entity -&gt; unit&#xA;override this.Attach : 'Entity -&gt; unit" Usage="table.Attach entity" FrameworkAlternate="netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
+      <Implements>
+        <InterfaceMember>M:System.Data.Linq.ITable`1.Attach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable`1.Attach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable`1.Attach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable`1.Attach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable`1.Attach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable`1.Attach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable`1.Attach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable`1.Attach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable`1.Attach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable`1.Attach(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable`1.Attach(`0)</InterfaceMember>
+      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Linq</AssemblyName>
         <AssemblyVersion>3.5.0.0</AssemblyVersion>
@@ -394,6 +407,20 @@ End Using
       <MemberSignature Language="C++ CLI" Value="public:&#xA; property System::Data::Linq::DataContext ^ Context { System::Data::Linq::DataContext ^ get(); };" />
       <MemberSignature Language="F#" Value="member this.Context : System.Data.Linq.DataContext" Usage="System.Data.Linq.Table&lt;'Entity (requires 'Entity : null)&gt;.Context" />
       <MemberType>Property</MemberType>
+      <Implements>
+        <InterfaceMember>P:System.Data.Linq.ITable.Context</InterfaceMember>
+        <InterfaceMember>P:System.Data.Linq.ITable.Context</InterfaceMember>
+        <InterfaceMember>P:System.Data.Linq.ITable.Context</InterfaceMember>
+        <InterfaceMember>P:System.Data.Linq.ITable.Context</InterfaceMember>
+        <InterfaceMember>P:System.Data.Linq.ITable.Context</InterfaceMember>
+        <InterfaceMember>P:System.Data.Linq.ITable.Context</InterfaceMember>
+        <InterfaceMember>P:System.Data.Linq.ITable.Context</InterfaceMember>
+        <InterfaceMember>P:System.Data.Linq.ITable.Context</InterfaceMember>
+        <InterfaceMember>P:System.Data.Linq.ITable.Context</InterfaceMember>
+        <InterfaceMember>P:System.Data.Linq.ITable.Context</InterfaceMember>
+        <InterfaceMember>P:System.Data.Linq.ITable.Context</InterfaceMember>
+        <InterfaceMember>P:System.Data.Linq.ITable.Context</InterfaceMember>
+      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Linq</AssemblyName>
         <AssemblyVersion>3.5.0.0</AssemblyVersion>
@@ -486,6 +513,19 @@ db.SubmitChanges()
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual void DeleteOnSubmit(TEntity entity);" FrameworkAlternate="netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberSignature Language="F#" Value="abstract member DeleteOnSubmit : 'Entity -&gt; unit&#xA;override this.DeleteOnSubmit : 'Entity -&gt; unit" Usage="table.DeleteOnSubmit entity" FrameworkAlternate="netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
+      <Implements>
+        <InterfaceMember>M:System.Data.Linq.ITable`1.DeleteOnSubmit(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable`1.DeleteOnSubmit(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable`1.DeleteOnSubmit(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable`1.DeleteOnSubmit(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable`1.DeleteOnSubmit(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable`1.DeleteOnSubmit(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable`1.DeleteOnSubmit(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable`1.DeleteOnSubmit(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable`1.DeleteOnSubmit(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable`1.DeleteOnSubmit(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable`1.DeleteOnSubmit(`0)</InterfaceMember>
+      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Linq</AssemblyName>
         <AssemblyVersion>3.5.0.0</AssemblyVersion>
@@ -528,6 +568,18 @@ db.SubmitChanges()
       <MemberSignature Language="F#" Value="member this.GetEnumerator : unit -&gt; System.Collections.Generic.IEnumerator&lt;'Entity (requires 'Entity : null)&gt;" Usage="table.GetEnumerator " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
         <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -685,6 +737,19 @@ db.SubmitChanges()
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual void InsertOnSubmit(TEntity entity);" FrameworkAlternate="netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberSignature Language="F#" Value="abstract member InsertOnSubmit : 'Entity -&gt; unit&#xA;override this.InsertOnSubmit : 'Entity -&gt; unit" Usage="table.InsertOnSubmit entity" FrameworkAlternate="netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
+      <Implements>
+        <InterfaceMember>M:System.Data.Linq.ITable`1.InsertOnSubmit(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable`1.InsertOnSubmit(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable`1.InsertOnSubmit(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable`1.InsertOnSubmit(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable`1.InsertOnSubmit(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable`1.InsertOnSubmit(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable`1.InsertOnSubmit(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable`1.InsertOnSubmit(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable`1.InsertOnSubmit(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable`1.InsertOnSubmit(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable`1.InsertOnSubmit(`0)</InterfaceMember>
+      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Linq</AssemblyName>
         <AssemblyVersion>3.5.0.0</AssemblyVersion>
@@ -725,6 +790,18 @@ db.SubmitChanges()
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Data.Linq.ITable.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Data.Linq.ITable.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Data.Linq.ITable.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Data.Linq.ITable.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Data.Linq.ITable.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Data.Linq.ITable.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Data.Linq.ITable.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Data.Linq.ITable.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Data.Linq.ITable.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Data.Linq.ITable.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Data.Linq.ITable.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Data.Linq.ITable.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Data.Linq.ITable.IsReadOnly</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Linq</AssemblyName>
@@ -749,6 +826,18 @@ db.SubmitChanges()
       <MemberSignature Language="C++ CLI" Value=" virtual System::Collections::Generic::IEnumerator&lt;TEntity&gt; ^ System.Collections.Generic.IEnumerable&lt;TEntity&gt;.GetEnumerator() = System::Collections::Generic::IEnumerable&lt;TEntity&gt;::GetEnumerator;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
         <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -779,6 +868,18 @@ db.SubmitChanges()
       <MemberSignature Language="C++ CLI" Value=" virtual System::Collections::IEnumerator ^ System.Collections.IEnumerable.GetEnumerator() = System::Collections::IEnumerable::GetEnumerator;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
         <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -818,6 +919,18 @@ db.SubmitChanges()
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Linq</AssemblyName>
@@ -849,6 +962,18 @@ db.SubmitChanges()
       <MemberSignature Language="C++ CLI" Value=" virtual System::Collections::IList ^ System.ComponentModel.IListSource.GetList() = System::ComponentModel::IListSource::GetList;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -891,6 +1016,18 @@ db.SubmitChanges()
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.Linq.ITable.Attach(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.Attach(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.Attach(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.Attach(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.Attach(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.Attach(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.Attach(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.Attach(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.Attach(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.Attach(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.Attach(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.Attach(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.Attach(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Linq</AssemblyName>
@@ -924,6 +1061,18 @@ db.SubmitChanges()
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Data.Linq.ITable.Attach(System::Object ^ entity, bool asModified) = System::Data::Linq::ITable::Attach;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Data.Linq.ITable.Attach(System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.Attach(System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.Attach(System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.Attach(System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.Attach(System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.Attach(System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.Attach(System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.Attach(System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.Attach(System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.Attach(System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.Attach(System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.Attach(System.Object,System.Boolean)</InterfaceMember>
         <InterfaceMember>M:System.Data.Linq.ITable.Attach(System.Object,System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -961,6 +1110,18 @@ db.SubmitChanges()
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Data.Linq.ITable.Attach(System::Object ^ entity, System::Object ^ original) = System::Data::Linq::ITable::Attach;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Data.Linq.ITable.Attach(System.Object,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.Attach(System.Object,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.Attach(System.Object,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.Attach(System.Object,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.Attach(System.Object,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.Attach(System.Object,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.Attach(System.Object,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.Attach(System.Object,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.Attach(System.Object,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.Attach(System.Object,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.Attach(System.Object,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.Attach(System.Object,System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Data.Linq.ITable.Attach(System.Object,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1007,6 +1168,18 @@ db.SubmitChanges()
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.Linq.ITable.AttachAll(System.Collections.IEnumerable)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.AttachAll(System.Collections.IEnumerable)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.AttachAll(System.Collections.IEnumerable)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.AttachAll(System.Collections.IEnumerable)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.AttachAll(System.Collections.IEnumerable)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.AttachAll(System.Collections.IEnumerable)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.AttachAll(System.Collections.IEnumerable)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.AttachAll(System.Collections.IEnumerable)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.AttachAll(System.Collections.IEnumerable)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.AttachAll(System.Collections.IEnumerable)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.AttachAll(System.Collections.IEnumerable)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.AttachAll(System.Collections.IEnumerable)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.AttachAll(System.Collections.IEnumerable)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Linq</AssemblyName>
@@ -1040,6 +1213,18 @@ db.SubmitChanges()
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Data.Linq.ITable.AttachAll(System::Collections::IEnumerable ^ entities, bool asModified) = System::Data::Linq::ITable::AttachAll;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Data.Linq.ITable.AttachAll(System.Collections.IEnumerable,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.AttachAll(System.Collections.IEnumerable,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.AttachAll(System.Collections.IEnumerable,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.AttachAll(System.Collections.IEnumerable,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.AttachAll(System.Collections.IEnumerable,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.AttachAll(System.Collections.IEnumerable,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.AttachAll(System.Collections.IEnumerable,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.AttachAll(System.Collections.IEnumerable,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.AttachAll(System.Collections.IEnumerable,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.AttachAll(System.Collections.IEnumerable,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.AttachAll(System.Collections.IEnumerable,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.AttachAll(System.Collections.IEnumerable,System.Boolean)</InterfaceMember>
         <InterfaceMember>M:System.Data.Linq.ITable.AttachAll(System.Collections.IEnumerable,System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1078,6 +1263,18 @@ db.SubmitChanges()
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.Linq.ITable.DeleteAllOnSubmit(System.Collections.IEnumerable)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.DeleteAllOnSubmit(System.Collections.IEnumerable)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.DeleteAllOnSubmit(System.Collections.IEnumerable)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.DeleteAllOnSubmit(System.Collections.IEnumerable)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.DeleteAllOnSubmit(System.Collections.IEnumerable)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.DeleteAllOnSubmit(System.Collections.IEnumerable)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.DeleteAllOnSubmit(System.Collections.IEnumerable)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.DeleteAllOnSubmit(System.Collections.IEnumerable)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.DeleteAllOnSubmit(System.Collections.IEnumerable)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.DeleteAllOnSubmit(System.Collections.IEnumerable)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.DeleteAllOnSubmit(System.Collections.IEnumerable)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.DeleteAllOnSubmit(System.Collections.IEnumerable)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.DeleteAllOnSubmit(System.Collections.IEnumerable)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Linq</AssemblyName>
@@ -1111,6 +1308,18 @@ db.SubmitChanges()
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Data.Linq.ITable.DeleteOnSubmit(System::Object ^ entity) = System::Data::Linq::ITable::DeleteOnSubmit;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Data.Linq.ITable.DeleteOnSubmit(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.DeleteOnSubmit(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.DeleteOnSubmit(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.DeleteOnSubmit(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.DeleteOnSubmit(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.DeleteOnSubmit(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.DeleteOnSubmit(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.DeleteOnSubmit(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.DeleteOnSubmit(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.DeleteOnSubmit(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.DeleteOnSubmit(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.DeleteOnSubmit(System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Data.Linq.ITable.DeleteOnSubmit(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1148,6 +1357,18 @@ db.SubmitChanges()
       <MemberSignature Language="C++ CLI" Value=" virtual cli::array &lt;System::Data::Linq::ModifiedMemberInfo&gt; ^ System.Data.Linq.ITable.GetModifiedMembers(System::Object ^ entity) = System::Data::Linq::ITable::GetModifiedMembers;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Data.Linq.ITable.GetModifiedMembers(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.GetModifiedMembers(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.GetModifiedMembers(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.GetModifiedMembers(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.GetModifiedMembers(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.GetModifiedMembers(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.GetModifiedMembers(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.GetModifiedMembers(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.GetModifiedMembers(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.GetModifiedMembers(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.GetModifiedMembers(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.GetModifiedMembers(System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Data.Linq.ITable.GetModifiedMembers(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1189,6 +1410,18 @@ db.SubmitChanges()
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.Linq.ITable.GetOriginalEntityState(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.GetOriginalEntityState(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.GetOriginalEntityState(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.GetOriginalEntityState(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.GetOriginalEntityState(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.GetOriginalEntityState(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.GetOriginalEntityState(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.GetOriginalEntityState(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.GetOriginalEntityState(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.GetOriginalEntityState(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.GetOriginalEntityState(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.GetOriginalEntityState(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.GetOriginalEntityState(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Linq</AssemblyName>
@@ -1229,6 +1462,18 @@ db.SubmitChanges()
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.Linq.ITable.InsertAllOnSubmit(System.Collections.IEnumerable)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.InsertAllOnSubmit(System.Collections.IEnumerable)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.InsertAllOnSubmit(System.Collections.IEnumerable)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.InsertAllOnSubmit(System.Collections.IEnumerable)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.InsertAllOnSubmit(System.Collections.IEnumerable)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.InsertAllOnSubmit(System.Collections.IEnumerable)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.InsertAllOnSubmit(System.Collections.IEnumerable)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.InsertAllOnSubmit(System.Collections.IEnumerable)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.InsertAllOnSubmit(System.Collections.IEnumerable)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.InsertAllOnSubmit(System.Collections.IEnumerable)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.InsertAllOnSubmit(System.Collections.IEnumerable)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.InsertAllOnSubmit(System.Collections.IEnumerable)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.InsertAllOnSubmit(System.Collections.IEnumerable)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Linq</AssemblyName>
@@ -1262,6 +1507,18 @@ db.SubmitChanges()
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Data.Linq.ITable.InsertOnSubmit(System::Object ^ entity) = System::Data::Linq::ITable::InsertOnSubmit;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Data.Linq.ITable.InsertOnSubmit(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.InsertOnSubmit(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.InsertOnSubmit(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.InsertOnSubmit(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.InsertOnSubmit(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.InsertOnSubmit(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.InsertOnSubmit(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.InsertOnSubmit(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.InsertOnSubmit(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.InsertOnSubmit(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.InsertOnSubmit(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Linq.ITable.InsertOnSubmit(System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Data.Linq.ITable.InsertOnSubmit(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1298,6 +1555,18 @@ db.SubmitChanges()
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Linq</AssemblyName>
@@ -1329,6 +1598,18 @@ db.SubmitChanges()
       <MemberSignature Language="F#" Usage="System.Linq.IQueryable.Expression" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
         <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1362,6 +1643,18 @@ db.SubmitChanges()
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
+        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Linq</AssemblyName>
@@ -1391,6 +1684,18 @@ db.SubmitChanges()
       <MemberSignature Language="C++ CLI" Value=" virtual System::Linq::IQueryable ^ System.Linq.IQueryProvider.CreateQuery(System::Linq::Expressions::Expression ^ expression) = System::Linq::IQueryProvider::CreateQuery;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery(System.Linq.Expressions.Expression)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery(System.Linq.Expressions.Expression)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery(System.Linq.Expressions.Expression)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery(System.Linq.Expressions.Expression)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery(System.Linq.Expressions.Expression)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery(System.Linq.Expressions.Expression)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery(System.Linq.Expressions.Expression)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery(System.Linq.Expressions.Expression)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery(System.Linq.Expressions.Expression)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery(System.Linq.Expressions.Expression)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery(System.Linq.Expressions.Expression)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery(System.Linq.Expressions.Expression)</InterfaceMember>
         <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery(System.Linq.Expressions.Expression)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1425,6 +1730,17 @@ db.SubmitChanges()
       <MemberSignature Language="C++ CLI" Value="generic &lt;typename TResult&gt;&#xA; virtual System::Linq::IQueryable&lt;TResult&gt; ^ System.Linq.IQueryProvider.CreateQuery(System::Linq::Expressions::Expression ^ expression) = System::Linq::IQueryProvider::CreateQuery;" FrameworkAlternate="netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery``1(System.Linq.Expressions.Expression)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery``1(System.Linq.Expressions.Expression)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery``1(System.Linq.Expressions.Expression)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery``1(System.Linq.Expressions.Expression)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery``1(System.Linq.Expressions.Expression)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery``1(System.Linq.Expressions.Expression)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery``1(System.Linq.Expressions.Expression)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery``1(System.Linq.Expressions.Expression)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery``1(System.Linq.Expressions.Expression)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery``1(System.Linq.Expressions.Expression)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery``1(System.Linq.Expressions.Expression)</InterfaceMember>
         <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery``1(System.Linq.Expressions.Expression)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1464,6 +1780,18 @@ db.SubmitChanges()
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Linq.IQueryProvider.Execute(System.Linq.Expressions.Expression)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.IQueryProvider.Execute(System.Linq.Expressions.Expression)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.IQueryProvider.Execute(System.Linq.Expressions.Expression)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.IQueryProvider.Execute(System.Linq.Expressions.Expression)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.IQueryProvider.Execute(System.Linq.Expressions.Expression)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.IQueryProvider.Execute(System.Linq.Expressions.Expression)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.IQueryProvider.Execute(System.Linq.Expressions.Expression)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.IQueryProvider.Execute(System.Linq.Expressions.Expression)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.IQueryProvider.Execute(System.Linq.Expressions.Expression)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.IQueryProvider.Execute(System.Linq.Expressions.Expression)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.IQueryProvider.Execute(System.Linq.Expressions.Expression)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.IQueryProvider.Execute(System.Linq.Expressions.Expression)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.IQueryProvider.Execute(System.Linq.Expressions.Expression)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Linq</AssemblyName>
@@ -1497,6 +1825,17 @@ db.SubmitChanges()
       <MemberSignature Language="C++ CLI" Value="generic &lt;typename TResult&gt;&#xA; virtual TResult System.Linq.IQueryProvider.Execute(System::Linq::Expressions::Expression ^ expression) = System::Linq::IQueryProvider::Execute;" FrameworkAlternate="netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Linq.IQueryProvider.Execute``1(System.Linq.Expressions.Expression)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.IQueryProvider.Execute``1(System.Linq.Expressions.Expression)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.IQueryProvider.Execute``1(System.Linq.Expressions.Expression)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.IQueryProvider.Execute``1(System.Linq.Expressions.Expression)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.IQueryProvider.Execute``1(System.Linq.Expressions.Expression)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.IQueryProvider.Execute``1(System.Linq.Expressions.Expression)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.IQueryProvider.Execute``1(System.Linq.Expressions.Expression)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.IQueryProvider.Execute``1(System.Linq.Expressions.Expression)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.IQueryProvider.Execute``1(System.Linq.Expressions.Expression)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.IQueryProvider.Execute``1(System.Linq.Expressions.Expression)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.IQueryProvider.Execute``1(System.Linq.Expressions.Expression)</InterfaceMember>
         <InterfaceMember>M:System.Linq.IQueryProvider.Execute``1(System.Linq.Expressions.Expression)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

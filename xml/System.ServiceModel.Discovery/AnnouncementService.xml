@@ -112,6 +112,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Discovery.IAnnouncementServiceImplementation.OnBeginOfflineAnnouncement(System.ServiceModel.Discovery.DiscoveryMessageSequence,System.ServiceModel.Discovery.EndpointDiscoveryMetadata,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Discovery.IAnnouncementServiceImplementation.OnBeginOfflineAnnouncement(System.ServiceModel.Discovery.DiscoveryMessageSequence,System.ServiceModel.Discovery.EndpointDiscoveryMetadata,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Discovery.IAnnouncementServiceImplementation.OnBeginOfflineAnnouncement(System.ServiceModel.Discovery.DiscoveryMessageSequence,System.ServiceModel.Discovery.EndpointDiscoveryMetadata,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Discovery.IAnnouncementServiceImplementation.OnBeginOfflineAnnouncement(System.ServiceModel.Discovery.DiscoveryMessageSequence,System.ServiceModel.Discovery.EndpointDiscoveryMetadata,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Discovery.IAnnouncementServiceImplementation.OnBeginOfflineAnnouncement(System.ServiceModel.Discovery.DiscoveryMessageSequence,System.ServiceModel.Discovery.EndpointDiscoveryMetadata,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Discovery.IAnnouncementServiceImplementation.OnBeginOfflineAnnouncement(System.ServiceModel.Discovery.DiscoveryMessageSequence,System.ServiceModel.Discovery.EndpointDiscoveryMetadata,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Discovery.IAnnouncementServiceImplementation.OnBeginOfflineAnnouncement(System.ServiceModel.Discovery.DiscoveryMessageSequence,System.ServiceModel.Discovery.EndpointDiscoveryMetadata,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Discovery.IAnnouncementServiceImplementation.OnBeginOfflineAnnouncement(System.ServiceModel.Discovery.DiscoveryMessageSequence,System.ServiceModel.Discovery.EndpointDiscoveryMetadata,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Discovery.IAnnouncementServiceImplementation.OnBeginOfflineAnnouncement(System.ServiceModel.Discovery.DiscoveryMessageSequence,System.ServiceModel.Discovery.EndpointDiscoveryMetadata,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Discovery.IAnnouncementServiceImplementation.OnBeginOfflineAnnouncement(System.ServiceModel.Discovery.DiscoveryMessageSequence,System.ServiceModel.Discovery.EndpointDiscoveryMetadata,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Discovery.IAnnouncementServiceImplementation.OnBeginOfflineAnnouncement(System.ServiceModel.Discovery.DiscoveryMessageSequence,System.ServiceModel.Discovery.EndpointDiscoveryMetadata,System.AsyncCallback,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel.Discovery</AssemblyName>
@@ -151,6 +161,16 @@
       <MemberSignature Language="F#" Value="abstract member OnBeginOnlineAnnouncement : System.ServiceModel.Discovery.DiscoveryMessageSequence * System.ServiceModel.Discovery.EndpointDiscoveryMetadata * AsyncCallback * obj -&gt; IAsyncResult&#xA;override this.OnBeginOnlineAnnouncement : System.ServiceModel.Discovery.DiscoveryMessageSequence * System.ServiceModel.Discovery.EndpointDiscoveryMetadata * AsyncCallback * obj -&gt; IAsyncResult" Usage="announcementService.OnBeginOnlineAnnouncement (messageSequence, endpointDiscoveryMetadata, callback, state)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ServiceModel.Discovery.IAnnouncementServiceImplementation.OnBeginOnlineAnnouncement(System.ServiceModel.Discovery.DiscoveryMessageSequence,System.ServiceModel.Discovery.EndpointDiscoveryMetadata,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Discovery.IAnnouncementServiceImplementation.OnBeginOnlineAnnouncement(System.ServiceModel.Discovery.DiscoveryMessageSequence,System.ServiceModel.Discovery.EndpointDiscoveryMetadata,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Discovery.IAnnouncementServiceImplementation.OnBeginOnlineAnnouncement(System.ServiceModel.Discovery.DiscoveryMessageSequence,System.ServiceModel.Discovery.EndpointDiscoveryMetadata,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Discovery.IAnnouncementServiceImplementation.OnBeginOnlineAnnouncement(System.ServiceModel.Discovery.DiscoveryMessageSequence,System.ServiceModel.Discovery.EndpointDiscoveryMetadata,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Discovery.IAnnouncementServiceImplementation.OnBeginOnlineAnnouncement(System.ServiceModel.Discovery.DiscoveryMessageSequence,System.ServiceModel.Discovery.EndpointDiscoveryMetadata,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Discovery.IAnnouncementServiceImplementation.OnBeginOnlineAnnouncement(System.ServiceModel.Discovery.DiscoveryMessageSequence,System.ServiceModel.Discovery.EndpointDiscoveryMetadata,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Discovery.IAnnouncementServiceImplementation.OnBeginOnlineAnnouncement(System.ServiceModel.Discovery.DiscoveryMessageSequence,System.ServiceModel.Discovery.EndpointDiscoveryMetadata,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Discovery.IAnnouncementServiceImplementation.OnBeginOnlineAnnouncement(System.ServiceModel.Discovery.DiscoveryMessageSequence,System.ServiceModel.Discovery.EndpointDiscoveryMetadata,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Discovery.IAnnouncementServiceImplementation.OnBeginOnlineAnnouncement(System.ServiceModel.Discovery.DiscoveryMessageSequence,System.ServiceModel.Discovery.EndpointDiscoveryMetadata,System.AsyncCallback,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Discovery.IAnnouncementServiceImplementation.OnBeginOnlineAnnouncement(System.ServiceModel.Discovery.DiscoveryMessageSequence,System.ServiceModel.Discovery.EndpointDiscoveryMetadata,System.AsyncCallback,System.Object)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Discovery.IAnnouncementServiceImplementation.OnBeginOnlineAnnouncement(System.ServiceModel.Discovery.DiscoveryMessageSequence,System.ServiceModel.Discovery.EndpointDiscoveryMetadata,System.AsyncCallback,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -193,6 +213,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Discovery.IAnnouncementServiceImplementation.OnEndOfflineAnnouncement(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Discovery.IAnnouncementServiceImplementation.OnEndOfflineAnnouncement(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Discovery.IAnnouncementServiceImplementation.OnEndOfflineAnnouncement(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Discovery.IAnnouncementServiceImplementation.OnEndOfflineAnnouncement(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Discovery.IAnnouncementServiceImplementation.OnEndOfflineAnnouncement(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Discovery.IAnnouncementServiceImplementation.OnEndOfflineAnnouncement(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Discovery.IAnnouncementServiceImplementation.OnEndOfflineAnnouncement(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Discovery.IAnnouncementServiceImplementation.OnEndOfflineAnnouncement(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Discovery.IAnnouncementServiceImplementation.OnEndOfflineAnnouncement(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Discovery.IAnnouncementServiceImplementation.OnEndOfflineAnnouncement(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Discovery.IAnnouncementServiceImplementation.OnEndOfflineAnnouncement(System.IAsyncResult)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel.Discovery</AssemblyName>
@@ -219,6 +249,16 @@
       <MemberSignature Language="F#" Value="abstract member OnEndOnlineAnnouncement : IAsyncResult -&gt; unit&#xA;override this.OnEndOnlineAnnouncement : IAsyncResult -&gt; unit" Usage="announcementService.OnEndOnlineAnnouncement result" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ServiceModel.Discovery.IAnnouncementServiceImplementation.OnEndOnlineAnnouncement(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Discovery.IAnnouncementServiceImplementation.OnEndOnlineAnnouncement(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Discovery.IAnnouncementServiceImplementation.OnEndOnlineAnnouncement(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Discovery.IAnnouncementServiceImplementation.OnEndOnlineAnnouncement(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Discovery.IAnnouncementServiceImplementation.OnEndOnlineAnnouncement(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Discovery.IAnnouncementServiceImplementation.OnEndOnlineAnnouncement(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Discovery.IAnnouncementServiceImplementation.OnEndOnlineAnnouncement(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Discovery.IAnnouncementServiceImplementation.OnEndOnlineAnnouncement(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Discovery.IAnnouncementServiceImplementation.OnEndOnlineAnnouncement(System.IAsyncResult)</InterfaceMember>
+        <InterfaceMember>M:System.ServiceModel.Discovery.IAnnouncementServiceImplementation.OnEndOnlineAnnouncement(System.IAsyncResult)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Discovery.IAnnouncementServiceImplementation.OnEndOnlineAnnouncement(System.IAsyncResult)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

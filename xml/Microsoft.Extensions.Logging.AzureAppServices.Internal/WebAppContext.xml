@@ -59,6 +59,9 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Extensions.Logging.AzureAppServices.Internal.IWebAppContext.HomeFolder</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.Logging.AzureAppServices.Internal.IWebAppContext.HomeFolder</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.Logging.AzureAppServices.Internal.IWebAppContext.HomeFolder</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.Logging.AzureAppServices.Internal.IWebAppContext.HomeFolder</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Logging.AzureAppServices</AssemblyName>
@@ -86,6 +89,9 @@
       <MemberSignature Language="F#" Value="member this.IsRunningInAzureWebApp : bool" Usage="Microsoft.Extensions.Logging.AzureAppServices.Internal.WebAppContext.IsRunningInAzureWebApp" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:Microsoft.Extensions.Logging.AzureAppServices.Internal.IWebAppContext.IsRunningInAzureWebApp</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.Logging.AzureAppServices.Internal.IWebAppContext.IsRunningInAzureWebApp</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.Logging.AzureAppServices.Internal.IWebAppContext.IsRunningInAzureWebApp</InterfaceMember>
         <InterfaceMember>P:Microsoft.Extensions.Logging.AzureAppServices.Internal.IWebAppContext.IsRunningInAzureWebApp</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -115,6 +121,9 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Extensions.Logging.AzureAppServices.Internal.IWebAppContext.SiteInstanceId</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.Logging.AzureAppServices.Internal.IWebAppContext.SiteInstanceId</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.Logging.AzureAppServices.Internal.IWebAppContext.SiteInstanceId</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.Logging.AzureAppServices.Internal.IWebAppContext.SiteInstanceId</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Logging.AzureAppServices</AssemblyName>
@@ -142,6 +151,9 @@
       <MemberSignature Language="F#" Value="member this.SiteName : string" Usage="Microsoft.Extensions.Logging.AzureAppServices.Internal.WebAppContext.SiteName" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:Microsoft.Extensions.Logging.AzureAppServices.Internal.IWebAppContext.SiteName</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.Logging.AzureAppServices.Internal.IWebAppContext.SiteName</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.Logging.AzureAppServices.Internal.IWebAppContext.SiteName</InterfaceMember>
         <InterfaceMember>P:Microsoft.Extensions.Logging.AzureAppServices.Internal.IWebAppContext.SiteName</InterfaceMember>
       </Implements>
       <AssemblyInfo>

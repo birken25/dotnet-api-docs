@@ -98,6 +98,9 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Vsa.IVsaEngine.Assembly</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaEngine.Assembly</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaEngine.Assembly</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaEngine.Assembly</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic.Vsa</AssemblyName>
@@ -145,6 +148,9 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Vsa.IVsaEngine.Close</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Vsa.IVsaEngine.Close</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Vsa.IVsaEngine.Close</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Vsa.IVsaEngine.Close</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic.Vsa</AssemblyName>
@@ -169,6 +175,9 @@
       <MemberSignature Language="F#" Value="abstract member Compile : unit -&gt; bool&#xA;override this.Compile : unit -&gt; bool" Usage="vsaEngine.Compile " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Vsa.IVsaEngine.Compile</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Vsa.IVsaEngine.Compile</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Vsa.IVsaEngine.Compile</InterfaceMember>
         <InterfaceMember>M:Microsoft.Vsa.IVsaEngine.Compile</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -245,6 +254,9 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Vsa.IVsaEngine.Evidence</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaEngine.Evidence</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaEngine.Evidence</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaEngine.Evidence</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic.Vsa</AssemblyName>
@@ -291,6 +303,9 @@
       <MemberSignature Language="F#" Value="member this.GenerateDebugInfo : bool with get, set" Usage="Microsoft.VisualBasic.Vsa.VsaEngine.GenerateDebugInfo" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaEngine.GenerateDebugInfo</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaEngine.GenerateDebugInfo</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaEngine.GenerateDebugInfo</InterfaceMember>
         <InterfaceMember>P:Microsoft.Vsa.IVsaEngine.GenerateDebugInfo</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -344,6 +359,9 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Vsa.IVsaEngine.GetOption(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Vsa.IVsaEngine.GetOption(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Vsa.IVsaEngine.GetOption(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Vsa.IVsaEngine.GetOption(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic.Vsa</AssemblyName>
@@ -373,6 +391,9 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Vsa.IVsaEngine.InitNew</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Vsa.IVsaEngine.InitNew</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Vsa.IVsaEngine.InitNew</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Vsa.IVsaEngine.InitNew</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic.Vsa</AssemblyName>
@@ -397,6 +418,9 @@
       <MemberSignature Language="F#" Value="member this.IsCompiled : bool" Usage="Microsoft.VisualBasic.Vsa.VsaEngine.IsCompiled" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaEngine.IsCompiled</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaEngine.IsCompiled</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaEngine.IsCompiled</InterfaceMember>
         <InterfaceMember>P:Microsoft.Vsa.IVsaEngine.IsCompiled</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -424,6 +448,9 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Vsa.IVsaEngine.IsDirty</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaEngine.IsDirty</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaEngine.IsDirty</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaEngine.IsDirty</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic.Vsa</AssemblyName>
@@ -450,6 +477,9 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Vsa.IVsaEngine.IsRunning</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaEngine.IsRunning</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaEngine.IsRunning</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaEngine.IsRunning</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic.Vsa</AssemblyName>
@@ -475,6 +505,9 @@
       <MemberSignature Language="F#" Value="abstract member IsValidIdentifier : string -&gt; bool&#xA;override this.IsValidIdentifier : string -&gt; bool" Usage="vsaEngine.IsValidIdentifier identifier" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Vsa.IVsaEngine.IsValidIdentifier(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Vsa.IVsaEngine.IsValidIdentifier(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Vsa.IVsaEngine.IsValidIdentifier(System.String)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Vsa.IVsaEngine.IsValidIdentifier(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -506,6 +539,9 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Vsa.IVsaEngine.Items</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaEngine.Items</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaEngine.Items</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaEngine.Items</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic.Vsa</AssemblyName>
@@ -530,6 +566,9 @@
       <MemberSignature Language="F#" Value="member this.Language : string" Usage="Microsoft.VisualBasic.Vsa.VsaEngine.Language" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaEngine.Language</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaEngine.Language</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaEngine.Language</InterfaceMember>
         <InterfaceMember>P:Microsoft.Vsa.IVsaEngine.Language</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -556,6 +595,9 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Vsa.IVsaEngine.LCID</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaEngine.LCID</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaEngine.LCID</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaEngine.LCID</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic.Vsa</AssemblyName>
@@ -580,6 +622,9 @@
       <MemberSignature Language="F#" Value="abstract member LoadSourceState : Microsoft.Vsa.IVsaPersistSite -&gt; unit&#xA;override this.LoadSourceState : Microsoft.Vsa.IVsaPersistSite -&gt; unit" Usage="vsaEngine.LoadSourceState Site" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Vsa.IVsaEngine.LoadSourceState(Microsoft.Vsa.IVsaPersistSite)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Vsa.IVsaEngine.LoadSourceState(Microsoft.Vsa.IVsaPersistSite)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Vsa.IVsaEngine.LoadSourceState(Microsoft.Vsa.IVsaPersistSite)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Vsa.IVsaEngine.LoadSourceState(Microsoft.Vsa.IVsaPersistSite)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -630,6 +675,9 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Vsa.IVsaEngine.Name</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaEngine.Name</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaEngine.Name</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaEngine.Name</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic.Vsa</AssemblyName>
@@ -654,6 +702,9 @@
       <MemberSignature Language="F#" Value="abstract member Reset : unit -&gt; unit&#xA;override this.Reset : unit -&gt; unit" Usage="vsaEngine.Reset " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Vsa.IVsaEngine.Reset</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Vsa.IVsaEngine.Reset</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Vsa.IVsaEngine.Reset</InterfaceMember>
         <InterfaceMember>M:Microsoft.Vsa.IVsaEngine.Reset</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -680,6 +731,9 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Vsa.IVsaEngine.RevokeCache</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Vsa.IVsaEngine.RevokeCache</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Vsa.IVsaEngine.RevokeCache</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Vsa.IVsaEngine.RevokeCache</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic.Vsa</AssemblyName>
@@ -704,6 +758,9 @@
       <MemberSignature Language="F#" Value="member this.RootMoniker : string with get, set" Usage="Microsoft.VisualBasic.Vsa.VsaEngine.RootMoniker" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaEngine.RootMoniker</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaEngine.RootMoniker</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaEngine.RootMoniker</InterfaceMember>
         <InterfaceMember>P:Microsoft.Vsa.IVsaEngine.RootMoniker</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -730,6 +787,9 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Vsa.IVsaEngine.RootNamespace</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaEngine.RootNamespace</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaEngine.RootNamespace</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaEngine.RootNamespace</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic.Vsa</AssemblyName>
@@ -755,6 +815,9 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Vsa.IVsaEngine.Run</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Vsa.IVsaEngine.Run</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Vsa.IVsaEngine.Run</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Vsa.IVsaEngine.Run</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic.Vsa</AssemblyName>
@@ -779,6 +842,9 @@
       <MemberSignature Language="F#" Value="abstract member SaveCompiledState : Byte[] * Byte[] -&gt; unit&#xA;override this.SaveCompiledState : Byte[] * Byte[] -&gt; unit" Usage="vsaEngine.SaveCompiledState (PE, PDB)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Vsa.IVsaEngine.SaveCompiledState(System.Byte[]@,System.Byte[]@)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Vsa.IVsaEngine.SaveCompiledState(System.Byte[]@,System.Byte[]@)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Vsa.IVsaEngine.SaveCompiledState(System.Byte[]@,System.Byte[]@)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Vsa.IVsaEngine.SaveCompiledState(System.Byte[]@,System.Byte[]@)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -810,6 +876,9 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Vsa.IVsaEngine.SaveSourceState(Microsoft.Vsa.IVsaPersistSite)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Vsa.IVsaEngine.SaveSourceState(Microsoft.Vsa.IVsaPersistSite)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Vsa.IVsaEngine.SaveSourceState(Microsoft.Vsa.IVsaPersistSite)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Vsa.IVsaEngine.SaveSourceState(Microsoft.Vsa.IVsaPersistSite)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic.Vsa</AssemblyName>
@@ -837,6 +906,9 @@
       <MemberSignature Language="F#" Value="abstract member SetOption : string * obj -&gt; unit&#xA;override this.SetOption : string * obj -&gt; unit" Usage="vsaEngine.SetOption (Name, value)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Vsa.IVsaEngine.SetOption(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Vsa.IVsaEngine.SetOption(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Vsa.IVsaEngine.SetOption(System.String,System.Object)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Vsa.IVsaEngine.SetOption(System.String,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -868,6 +940,9 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Vsa.IVsaEngine.Site</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaEngine.Site</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaEngine.Site</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaEngine.Site</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic.Vsa</AssemblyName>
@@ -892,6 +967,9 @@
       <MemberSignature Language="F#" Value="member this.Version : string" Usage="Microsoft.VisualBasic.Vsa.VsaEngine.Version" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaEngine.Version</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaEngine.Version</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaEngine.Version</InterfaceMember>
         <InterfaceMember>P:Microsoft.Vsa.IVsaEngine.Version</InterfaceMember>
       </Implements>
       <AssemblyInfo>

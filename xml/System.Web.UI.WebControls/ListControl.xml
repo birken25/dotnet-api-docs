@@ -1320,6 +1320,19 @@ if(DropDownList1.Items.FindByValue("2") != null) {
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.UI.ITextControl.Text</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.ITextControl.Text</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.ITextControl.Text</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.ITextControl.Text</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.ITextControl.Text</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.ITextControl.Text</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.ITextControl.Text</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.ITextControl.Text</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.ITextControl.Text</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.ITextControl.Text</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.ITextControl.Text</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.ITextControl.Text</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.ITextControl.Text</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.ITextControl.Text</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -1380,6 +1393,19 @@ if(DropDownList1.Items.FindByValue("2") != null) {
       <MemberSignature Language="F#" Value="member this.TextChanged : EventHandler " Usage="member this.TextChanged : System.EventHandler " />
       <MemberType>Event</MemberType>
       <Implements>
+        <InterfaceMember>E:System.Web.UI.IEditableTextControl.TextChanged</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.IEditableTextControl.TextChanged</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.IEditableTextControl.TextChanged</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.IEditableTextControl.TextChanged</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.IEditableTextControl.TextChanged</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.IEditableTextControl.TextChanged</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.IEditableTextControl.TextChanged</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.IEditableTextControl.TextChanged</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.IEditableTextControl.TextChanged</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.IEditableTextControl.TextChanged</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.IEditableTextControl.TextChanged</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.IEditableTextControl.TextChanged</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.IEditableTextControl.TextChanged</InterfaceMember>
         <InterfaceMember>E:System.Web.UI.IEditableTextControl.TextChanged</InterfaceMember>
       </Implements>
       <AssemblyInfo>

@@ -408,6 +408,11 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.Generic.ICollection`1.Contains(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Contains(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Contains(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Contains(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Contains(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Contains(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -472,6 +477,11 @@
       <MemberSignature Language="F#" Value="abstract member CopyTo : 'T[] * int -&gt; unit&#xA;override this.CopyTo : 'T[] * int -&gt; unit" Usage="immutableArray.CopyTo (destination, destinationIndex)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.CopyTo(`0[],System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.CopyTo(`0[],System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.CopyTo(`0[],System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.CopyTo(`0[],System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.CopyTo(`0[],System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Collections.Generic.ICollection`1.CopyTo(`0[],System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -570,6 +580,11 @@
       <MemberSignature Language="F#" Value="abstract member Equals : System.Collections.Immutable.ImmutableArray&lt;'T&gt; -&gt; bool&#xA;override this.Equals : System.Collections.Immutable.ImmutableArray&lt;'T&gt; -&gt; bool" Usage="immutableArray.Equals other" FrameworkAlternate="netcore-1.0;netcore-1.1" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
+        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
         <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -695,6 +710,11 @@
       <MemberSignature Language="F#" Value="abstract member IndexOf : 'T -&gt; int&#xA;override this.IndexOf : 'T -&gt; int" Usage="immutableArray.IndexOf item" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.Generic.IList`1.IndexOf(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IList`1.IndexOf(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IList`1.IndexOf(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IList`1.IndexOf(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IList`1.IndexOf(`0)</InterfaceMember>
         <InterfaceMember>M:System.Collections.Generic.IList`1.IndexOf(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -832,6 +852,13 @@
       <MemberSignature Language="F#" Value="abstract member IndexOf : 'T * int * int * System.Collections.Generic.IEqualityComparer&lt;'T&gt; -&gt; int&#xA;override this.IndexOf : 'T * int * int * System.Collections.Generic.IEqualityComparer&lt;'T&gt; -&gt; int" Usage="immutableArray.IndexOf (item, startIndex, count, equalityComparer)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.IndexOf(`0,System.Int32,System.Int32,System.Collections.Generic.IEqualityComparer{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.IndexOf(`0,System.Int32,System.Int32,System.Collections.Generic.IEqualityComparer{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.IndexOf(`0,System.Int32,System.Int32,System.Collections.Generic.IEqualityComparer{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.IndexOf(`0,System.Int32,System.Int32,System.Collections.Generic.IEqualityComparer{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.IndexOf(`0,System.Int32,System.Int32,System.Collections.Generic.IEqualityComparer{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.IndexOf(`0,System.Int32,System.Int32,System.Collections.Generic.IEqualityComparer{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.IndexOf(`0,System.Int32,System.Int32,System.Collections.Generic.IEqualityComparer{`0})</InterfaceMember>
         <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.IndexOf(`0,System.Int32,System.Int32,System.Collections.Generic.IEqualityComparer{`0})</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1071,6 +1098,11 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.Generic.IReadOnlyList`1.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IReadOnlyList`1.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IReadOnlyList`1.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IReadOnlyList`1.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IReadOnlyList`1.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IReadOnlyList`1.Item(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -1235,6 +1267,13 @@
       <MemberSignature Language="F#" Value="abstract member LastIndexOf : 'T * int * int * System.Collections.Generic.IEqualityComparer&lt;'T&gt; -&gt; int&#xA;override this.LastIndexOf : 'T * int * int * System.Collections.Generic.IEqualityComparer&lt;'T&gt; -&gt; int" Usage="immutableArray.LastIndexOf (item, startIndex, count, equalityComparer)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.LastIndexOf(`0,System.Int32,System.Int32,System.Collections.Generic.IEqualityComparer{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.LastIndexOf(`0,System.Int32,System.Int32,System.Collections.Generic.IEqualityComparer{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.LastIndexOf(`0,System.Int32,System.Int32,System.Collections.Generic.IEqualityComparer{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.LastIndexOf(`0,System.Int32,System.Int32,System.Collections.Generic.IEqualityComparer{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.LastIndexOf(`0,System.Int32,System.Int32,System.Collections.Generic.IEqualityComparer{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.LastIndexOf(`0,System.Int32,System.Int32,System.Collections.Generic.IEqualityComparer{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.LastIndexOf(`0,System.Int32,System.Int32,System.Collections.Generic.IEqualityComparer{`0})</InterfaceMember>
         <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.LastIndexOf(`0,System.Int32,System.Int32,System.Collections.Generic.IEqualityComparer{`0})</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1995,6 +2034,11 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.Generic.ICollection`1.Add(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Add(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Add(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Add(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Add(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Add(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -2034,6 +2078,11 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.Generic.ICollection`1.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Clear</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -2071,6 +2120,11 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.Generic.ICollection`1.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.ICollection`1.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.ICollection`1.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.ICollection`1.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.ICollection`1.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.ICollection`1.Count</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -2107,6 +2161,11 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -2141,6 +2200,11 @@
       <MemberSignature Language="C++ CLI" Value=" virtual bool System.Collections.Generic.ICollection&lt;T&gt;.Remove(T item) = System::Collections::Generic::ICollection&lt;T&gt;::Remove;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Remove(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Remove(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Remove(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Remove(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Remove(`0)</InterfaceMember>
         <InterfaceMember>M:System.Collections.Generic.ICollection`1.Remove(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2182,6 +2246,11 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -2218,6 +2287,11 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Collections.Generic.IList&lt;T&gt;.Insert(int index, T item) = System::Collections::Generic::IList&lt;T&gt;::Insert;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.Generic.IList`1.Insert(System.Int32,`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IList`1.Insert(System.Int32,`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IList`1.Insert(System.Int32,`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IList`1.Insert(System.Int32,`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IList`1.Insert(System.Int32,`0)</InterfaceMember>
         <InterfaceMember>M:System.Collections.Generic.IList`1.Insert(System.Int32,`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2261,6 +2335,11 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.Generic.IList`1.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IList`1.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IList`1.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IList`1.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IList`1.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IList`1.Item(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -2296,6 +2375,11 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.Generic.IList`1.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IList`1.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IList`1.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IList`1.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IList`1.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IList`1.RemoveAt(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -2328,6 +2412,11 @@
       <MemberSignature Language="F#" Usage="System.Collections.Generic.IReadOnlyCollection&lt;T&gt;.Count" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Collections.Generic.IReadOnlyCollection`1.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IReadOnlyCollection`1.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IReadOnlyCollection`1.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IReadOnlyCollection`1.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IReadOnlyCollection`1.Count</InterfaceMember>
         <InterfaceMember>P:System.Collections.Generic.IReadOnlyCollection`1.Count</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2365,6 +2454,11 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.Generic.IReadOnlyList`1.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IReadOnlyList`1.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IReadOnlyList`1.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IReadOnlyList`1.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IReadOnlyList`1.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.IReadOnlyList`1.Item(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -2397,6 +2491,11 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Collections.ICollection.CopyTo(Array ^ array, int index) = System::Collections::ICollection::CopyTo;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2439,6 +2538,12 @@
       <MemberSignature Language="F#" Usage="System.Collections.ICollection.Count" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Collections.Generic.IReadOnlyCollection`1.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Generic.ICollection`1.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
         <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2476,6 +2581,11 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -2511,6 +2621,11 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -2545,6 +2660,11 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -2575,6 +2695,11 @@
       <MemberSignature Language="C++ CLI" Value=" virtual int System.Collections.IList.Add(System::Object ^ value) = System::Collections::IList::Add;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2610,6 +2735,11 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -2639,6 +2769,11 @@
       <MemberSignature Language="C++ CLI" Value=" virtual bool System.Collections.IList.Contains(System::Object ^ value) = System::Collections::IList::Contains;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2673,6 +2808,11 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -2705,6 +2845,11 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Collections.IList.Insert(int index, System::Object ^ value) = System::Collections::IList::Insert;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2742,6 +2887,11 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -2777,6 +2927,11 @@
       <MemberSignature Language="F#" Usage="System.Collections.IList.IsReadOnly" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
         <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2814,6 +2969,11 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -2849,6 +3009,11 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -2882,6 +3047,11 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -2914,6 +3084,13 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Collections::Immutable::IImmutableList&lt;T&gt; ^ System.Collections.Immutable.IImmutableList&lt;T&gt;.Add(T value) = System::Collections::Immutable::IImmutableList&lt;T&gt;::Add;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.Add(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.Add(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.Add(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.Add(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.Add(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.Add(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.Add(`0)</InterfaceMember>
         <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.Add(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2955,6 +3132,13 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.AddRange(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.AddRange(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.AddRange(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.AddRange(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.AddRange(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.AddRange(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.AddRange(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.AddRange(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -2995,6 +3179,13 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.Clear</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -3031,6 +3222,13 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Collections::Immutable::IImmutableList&lt;T&gt; ^ System.Collections.Immutable.IImmutableList&lt;T&gt;.Insert(int index, T element) = System::Collections::Immutable::IImmutableList&lt;T&gt;::Insert;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.Insert(System.Int32,`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.Insert(System.Int32,`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.Insert(System.Int32,`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.Insert(System.Int32,`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.Insert(System.Int32,`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.Insert(System.Int32,`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.Insert(System.Int32,`0)</InterfaceMember>
         <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.Insert(System.Int32,`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -3074,6 +3272,13 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.InsertRange(System.Int32,System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.InsertRange(System.Int32,System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.InsertRange(System.Int32,System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.InsertRange(System.Int32,System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.InsertRange(System.Int32,System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.InsertRange(System.Int32,System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.InsertRange(System.Int32,System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.InsertRange(System.Int32,System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -3115,6 +3320,13 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Collections::Immutable::IImmutableList&lt;T&gt; ^ System.Collections.Immutable.IImmutableList&lt;T&gt;.Remove(T value, System::Collections::Generic::IEqualityComparer&lt;T&gt; ^ equalityComparer) = System::Collections::Immutable::IImmutableList&lt;T&gt;::Remove;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.Remove(`0,System.Collections.Generic.IEqualityComparer{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.Remove(`0,System.Collections.Generic.IEqualityComparer{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.Remove(`0,System.Collections.Generic.IEqualityComparer{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.Remove(`0,System.Collections.Generic.IEqualityComparer{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.Remove(`0,System.Collections.Generic.IEqualityComparer{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.Remove(`0,System.Collections.Generic.IEqualityComparer{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.Remove(`0,System.Collections.Generic.IEqualityComparer{`0})</InterfaceMember>
         <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.Remove(`0,System.Collections.Generic.IEqualityComparer{`0})</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -3158,6 +3370,13 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.RemoveAll(System.Predicate{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.RemoveAll(System.Predicate{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.RemoveAll(System.Predicate{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.RemoveAll(System.Predicate{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.RemoveAll(System.Predicate{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.RemoveAll(System.Predicate{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.RemoveAll(System.Predicate{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.RemoveAll(System.Predicate{`0})</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -3198,6 +3417,13 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.RemoveAt(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -3237,6 +3463,13 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Collections::Immutable::IImmutableList&lt;T&gt; ^ System.Collections.Immutable.IImmutableList&lt;T&gt;.RemoveRange(System::Collections::Generic::IEnumerable&lt;T&gt; ^ items, System::Collections::Generic::IEqualityComparer&lt;T&gt; ^ equalityComparer) = System::Collections::Immutable::IImmutableList&lt;T&gt;::RemoveRange;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.RemoveRange(System.Collections.Generic.IEnumerable{`0},System.Collections.Generic.IEqualityComparer{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.RemoveRange(System.Collections.Generic.IEnumerable{`0},System.Collections.Generic.IEqualityComparer{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.RemoveRange(System.Collections.Generic.IEnumerable{`0},System.Collections.Generic.IEqualityComparer{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.RemoveRange(System.Collections.Generic.IEnumerable{`0},System.Collections.Generic.IEqualityComparer{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.RemoveRange(System.Collections.Generic.IEnumerable{`0},System.Collections.Generic.IEqualityComparer{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.RemoveRange(System.Collections.Generic.IEnumerable{`0},System.Collections.Generic.IEqualityComparer{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.RemoveRange(System.Collections.Generic.IEnumerable{`0},System.Collections.Generic.IEqualityComparer{`0})</InterfaceMember>
         <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.RemoveRange(System.Collections.Generic.IEnumerable{`0},System.Collections.Generic.IEqualityComparer{`0})</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -3280,6 +3513,13 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.RemoveRange(System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.RemoveRange(System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.RemoveRange(System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.RemoveRange(System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.RemoveRange(System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.RemoveRange(System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.RemoveRange(System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.RemoveRange(System.Int32,System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -3321,6 +3561,13 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Collections::Immutable::IImmutableList&lt;T&gt; ^ System.Collections.Immutable.IImmutableList&lt;T&gt;.Replace(T oldValue, T newValue, System::Collections::Generic::IEqualityComparer&lt;T&gt; ^ equalityComparer) = System::Collections::Immutable::IImmutableList&lt;T&gt;::Replace;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.Replace(`0,`0,System.Collections.Generic.IEqualityComparer{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.Replace(`0,`0,System.Collections.Generic.IEqualityComparer{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.Replace(`0,`0,System.Collections.Generic.IEqualityComparer{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.Replace(`0,`0,System.Collections.Generic.IEqualityComparer{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.Replace(`0,`0,System.Collections.Generic.IEqualityComparer{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.Replace(`0,`0,System.Collections.Generic.IEqualityComparer{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.Replace(`0,`0,System.Collections.Generic.IEqualityComparer{`0})</InterfaceMember>
         <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.Replace(`0,`0,System.Collections.Generic.IEqualityComparer{`0})</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -3368,6 +3615,13 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.SetItem(System.Int32,`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.SetItem(System.Int32,`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.SetItem(System.Int32,`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.SetItem(System.Int32,`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.SetItem(System.Int32,`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.SetItem(System.Int32,`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.SetItem(System.Int32,`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableList`1.SetItem(System.Int32,`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -3409,6 +3663,11 @@
       <MemberSignature Language="C++ CLI" Value=" virtual int System.Collections.IStructuralComparable.CompareTo(System::Object ^ other, System::Collections::IComparer ^ comparer) = System::Collections::IStructuralComparable::CompareTo;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.IStructuralComparable.CompareTo(System.Object,System.Collections.IComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralComparable.CompareTo(System.Object,System.Collections.IComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralComparable.CompareTo(System.Object,System.Collections.IComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralComparable.CompareTo(System.Object,System.Collections.IComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralComparable.CompareTo(System.Object,System.Collections.IComparer)</InterfaceMember>
         <InterfaceMember>M:System.Collections.IStructuralComparable.CompareTo(System.Object,System.Collections.IComparer)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -3453,6 +3712,11 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.IStructuralEquatable.Equals(System.Object,System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.Equals(System.Object,System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.Equals(System.Object,System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.Equals(System.Object,System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.Equals(System.Object,System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.Equals(System.Object,System.Collections.IEqualityComparer)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -3495,6 +3759,11 @@
       <MemberSignature Language="C++ CLI" Value=" virtual int System.Collections.IStructuralEquatable.GetHashCode(System::Collections::IEqualityComparer ^ comparer) = System::Collections::IStructuralEquatable::GetHashCode;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.GetHashCode(System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.GetHashCode(System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.GetHashCode(System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.GetHashCode(System.Collections.IEqualityComparer)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IStructuralEquatable.GetHashCode(System.Collections.IEqualityComparer)</InterfaceMember>
         <InterfaceMember>M:System.Collections.IStructuralEquatable.GetHashCode(System.Collections.IEqualityComparer)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

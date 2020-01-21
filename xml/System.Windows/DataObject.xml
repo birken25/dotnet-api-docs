@@ -688,6 +688,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.IDataObject.GetData(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetData(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetData(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetData(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetData(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetData(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetData(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetData(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetData(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetData(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetData(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetData(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetData(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetData(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetData(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
@@ -735,6 +749,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.IDataObject.GetData(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetData(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetData(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetData(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetData(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetData(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetData(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetData(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetData(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetData(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetData(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetData(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetData(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetData(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetData(System.Type)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
@@ -766,6 +794,20 @@
       <MemberSignature Language="F#" Value="abstract member GetData : string * bool -&gt; obj&#xA;override this.GetData : string * bool -&gt; obj" Usage="dataObject.GetData (format, autoConvert)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.IDataObject.GetData(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetData(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetData(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetData(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetData(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetData(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetData(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetData(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetData(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetData(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetData(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetData(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetData(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetData(System.String,System.Boolean)</InterfaceMember>
         <InterfaceMember>M:System.Windows.IDataObject.GetData(System.String,System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -821,6 +863,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.IDataObject.GetDataPresent(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetDataPresent(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetDataPresent(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetDataPresent(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetDataPresent(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetDataPresent(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetDataPresent(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetDataPresent(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetDataPresent(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetDataPresent(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetDataPresent(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetDataPresent(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetDataPresent(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetDataPresent(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetDataPresent(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
@@ -869,6 +925,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.IDataObject.GetDataPresent(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetDataPresent(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetDataPresent(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetDataPresent(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetDataPresent(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetDataPresent(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetDataPresent(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetDataPresent(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetDataPresent(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetDataPresent(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetDataPresent(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetDataPresent(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetDataPresent(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetDataPresent(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetDataPresent(System.Type)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
@@ -916,6 +986,20 @@
       <MemberSignature Language="F#" Value="abstract member GetDataPresent : string * bool -&gt; bool&#xA;override this.GetDataPresent : string * bool -&gt; bool" Usage="dataObject.GetDataPresent (format, autoConvert)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.IDataObject.GetDataPresent(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetDataPresent(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetDataPresent(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetDataPresent(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetDataPresent(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetDataPresent(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetDataPresent(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetDataPresent(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetDataPresent(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetDataPresent(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetDataPresent(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetDataPresent(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetDataPresent(System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetDataPresent(System.String,System.Boolean)</InterfaceMember>
         <InterfaceMember>M:System.Windows.IDataObject.GetDataPresent(System.String,System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1003,6 +1087,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.IDataObject.GetFormats</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetFormats</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetFormats</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetFormats</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetFormats</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetFormats</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetFormats</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetFormats</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetFormats</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetFormats</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetFormats</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetFormats</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetFormats</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetFormats</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetFormats</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
@@ -1048,6 +1146,20 @@
       <MemberSignature Language="F#" Value="abstract member GetFormats : bool -&gt; string[]&#xA;override this.GetFormats : bool -&gt; string[]" Usage="dataObject.GetFormats autoConvert" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.IDataObject.GetFormats(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetFormats(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetFormats(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetFormats(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetFormats(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetFormats(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetFormats(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetFormats(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetFormats(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetFormats(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetFormats(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetFormats(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetFormats(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.GetFormats(System.Boolean)</InterfaceMember>
         <InterfaceMember>M:System.Windows.IDataObject.GetFormats(System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1439,6 +1551,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.IDataObject.SetData(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.SetData(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.SetData(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.SetData(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.SetData(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.SetData(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.SetData(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.SetData(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.SetData(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.SetData(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.SetData(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.SetData(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.SetData(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.SetData(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.SetData(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
@@ -1481,6 +1607,20 @@
       <MemberSignature Language="F#" Value="abstract member SetData : string * obj -&gt; unit&#xA;override this.SetData : string * obj -&gt; unit" Usage="dataObject.SetData (format, data)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.IDataObject.SetData(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.SetData(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.SetData(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.SetData(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.SetData(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.SetData(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.SetData(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.SetData(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.SetData(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.SetData(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.SetData(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.SetData(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.SetData(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.SetData(System.String,System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Windows.IDataObject.SetData(System.String,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1527,6 +1667,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.IDataObject.SetData(System.Type,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.SetData(System.Type,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.SetData(System.Type,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.SetData(System.Type,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.SetData(System.Type,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.SetData(System.Type,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.SetData(System.Type,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.SetData(System.Type,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.SetData(System.Type,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.SetData(System.Type,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.SetData(System.Type,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.SetData(System.Type,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.SetData(System.Type,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.SetData(System.Type,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.SetData(System.Type,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
@@ -1571,6 +1725,20 @@
       <MemberSignature Language="F#" Value="abstract member SetData : string * obj * bool -&gt; unit&#xA;override this.SetData : string * obj * bool -&gt; unit" Usage="dataObject.SetData (format, data, autoConvert)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.IDataObject.SetData(System.String,System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.SetData(System.String,System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.SetData(System.String,System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.SetData(System.String,System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.SetData(System.String,System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.SetData(System.String,System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.SetData(System.String,System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.SetData(System.String,System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.SetData(System.String,System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.SetData(System.String,System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.SetData(System.String,System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.SetData(System.String,System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.SetData(System.String,System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IDataObject.SetData(System.String,System.Object,System.Boolean)</InterfaceMember>
         <InterfaceMember>M:System.Windows.IDataObject.SetData(System.String,System.Object,System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1831,6 +1999,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.DAdvise(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.ADVF,System.Runtime.InteropServices.ComTypes.IAdviseSink,System.Int32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.DAdvise(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.ADVF,System.Runtime.InteropServices.ComTypes.IAdviseSink,System.Int32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.DAdvise(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.ADVF,System.Runtime.InteropServices.ComTypes.IAdviseSink,System.Int32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.DAdvise(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.ADVF,System.Runtime.InteropServices.ComTypes.IAdviseSink,System.Int32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.DAdvise(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.ADVF,System.Runtime.InteropServices.ComTypes.IAdviseSink,System.Int32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.DAdvise(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.ADVF,System.Runtime.InteropServices.ComTypes.IAdviseSink,System.Int32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.DAdvise(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.ADVF,System.Runtime.InteropServices.ComTypes.IAdviseSink,System.Int32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.DAdvise(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.ADVF,System.Runtime.InteropServices.ComTypes.IAdviseSink,System.Int32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.DAdvise(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.ADVF,System.Runtime.InteropServices.ComTypes.IAdviseSink,System.Int32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.DAdvise(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.ADVF,System.Runtime.InteropServices.ComTypes.IAdviseSink,System.Int32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.DAdvise(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.ADVF,System.Runtime.InteropServices.ComTypes.IAdviseSink,System.Int32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.DAdvise(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.ADVF,System.Runtime.InteropServices.ComTypes.IAdviseSink,System.Int32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.DAdvise(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.ADVF,System.Runtime.InteropServices.ComTypes.IAdviseSink,System.Int32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.DAdvise(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.ADVF,System.Runtime.InteropServices.ComTypes.IAdviseSink,System.Int32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.DAdvise(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.ADVF,System.Runtime.InteropServices.ComTypes.IAdviseSink,System.Int32@)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
@@ -1877,6 +2059,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.DUnadvise(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.DUnadvise(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.DUnadvise(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.DUnadvise(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.DUnadvise(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.DUnadvise(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.DUnadvise(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.DUnadvise(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.DUnadvise(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.DUnadvise(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.DUnadvise(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.DUnadvise(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.DUnadvise(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.DUnadvise(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.DUnadvise(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
@@ -1915,6 +2111,20 @@
       <MemberSignature Language="C++ CLI" Value=" virtual int System.Runtime.InteropServices.ComTypes.IDataObject.EnumDAdvise([Runtime::InteropServices::Out] System::Runtime::InteropServices::ComTypes::IEnumSTATDATA ^ % enumAdvise) = System::Runtime::InteropServices::ComTypes::IDataObject::EnumDAdvise;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.EnumDAdvise(System.Runtime.InteropServices.ComTypes.IEnumSTATDATA@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.EnumDAdvise(System.Runtime.InteropServices.ComTypes.IEnumSTATDATA@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.EnumDAdvise(System.Runtime.InteropServices.ComTypes.IEnumSTATDATA@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.EnumDAdvise(System.Runtime.InteropServices.ComTypes.IEnumSTATDATA@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.EnumDAdvise(System.Runtime.InteropServices.ComTypes.IEnumSTATDATA@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.EnumDAdvise(System.Runtime.InteropServices.ComTypes.IEnumSTATDATA@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.EnumDAdvise(System.Runtime.InteropServices.ComTypes.IEnumSTATDATA@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.EnumDAdvise(System.Runtime.InteropServices.ComTypes.IEnumSTATDATA@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.EnumDAdvise(System.Runtime.InteropServices.ComTypes.IEnumSTATDATA@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.EnumDAdvise(System.Runtime.InteropServices.ComTypes.IEnumSTATDATA@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.EnumDAdvise(System.Runtime.InteropServices.ComTypes.IEnumSTATDATA@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.EnumDAdvise(System.Runtime.InteropServices.ComTypes.IEnumSTATDATA@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.EnumDAdvise(System.Runtime.InteropServices.ComTypes.IEnumSTATDATA@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.EnumDAdvise(System.Runtime.InteropServices.ComTypes.IEnumSTATDATA@)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.EnumDAdvise(System.Runtime.InteropServices.ComTypes.IEnumSTATDATA@)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1969,6 +2179,20 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Runtime::InteropServices::ComTypes::IEnumFORMATETC ^ System.Runtime.InteropServices.ComTypes.IDataObject.EnumFormatEtc(System::Runtime::InteropServices::ComTypes::DATADIR dwDirection) = System::Runtime::InteropServices::ComTypes::IDataObject::EnumFormatEtc;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.EnumFormatEtc(System.Runtime.InteropServices.ComTypes.DATADIR)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.EnumFormatEtc(System.Runtime.InteropServices.ComTypes.DATADIR)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.EnumFormatEtc(System.Runtime.InteropServices.ComTypes.DATADIR)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.EnumFormatEtc(System.Runtime.InteropServices.ComTypes.DATADIR)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.EnumFormatEtc(System.Runtime.InteropServices.ComTypes.DATADIR)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.EnumFormatEtc(System.Runtime.InteropServices.ComTypes.DATADIR)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.EnumFormatEtc(System.Runtime.InteropServices.ComTypes.DATADIR)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.EnumFormatEtc(System.Runtime.InteropServices.ComTypes.DATADIR)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.EnumFormatEtc(System.Runtime.InteropServices.ComTypes.DATADIR)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.EnumFormatEtc(System.Runtime.InteropServices.ComTypes.DATADIR)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.EnumFormatEtc(System.Runtime.InteropServices.ComTypes.DATADIR)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.EnumFormatEtc(System.Runtime.InteropServices.ComTypes.DATADIR)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.EnumFormatEtc(System.Runtime.InteropServices.ComTypes.DATADIR)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.EnumFormatEtc(System.Runtime.InteropServices.ComTypes.DATADIR)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.EnumFormatEtc(System.Runtime.InteropServices.ComTypes.DATADIR)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2027,6 +2251,20 @@
       <MemberSignature Language="C++ CLI" Value=" virtual int System.Runtime.InteropServices.ComTypes.IDataObject.GetCanonicalFormatEtc(System::Runtime::InteropServices::ComTypes::FORMATETC % pformatetcIn, [Runtime::InteropServices::Out] System::Runtime::InteropServices::ComTypes::FORMATETC % pformatetcOut) = System::Runtime::InteropServices::ComTypes::IDataObject::GetCanonicalFormatEtc;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.GetCanonicalFormatEtc(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.FORMATETC@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.GetCanonicalFormatEtc(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.FORMATETC@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.GetCanonicalFormatEtc(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.FORMATETC@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.GetCanonicalFormatEtc(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.FORMATETC@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.GetCanonicalFormatEtc(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.FORMATETC@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.GetCanonicalFormatEtc(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.FORMATETC@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.GetCanonicalFormatEtc(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.FORMATETC@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.GetCanonicalFormatEtc(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.FORMATETC@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.GetCanonicalFormatEtc(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.FORMATETC@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.GetCanonicalFormatEtc(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.FORMATETC@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.GetCanonicalFormatEtc(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.FORMATETC@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.GetCanonicalFormatEtc(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.FORMATETC@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.GetCanonicalFormatEtc(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.FORMATETC@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.GetCanonicalFormatEtc(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.FORMATETC@)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.GetCanonicalFormatEtc(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.FORMATETC@)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2096,6 +2334,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.GetData(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.STGMEDIUM@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.GetData(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.STGMEDIUM@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.GetData(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.STGMEDIUM@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.GetData(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.STGMEDIUM@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.GetData(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.STGMEDIUM@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.GetData(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.STGMEDIUM@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.GetData(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.STGMEDIUM@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.GetData(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.STGMEDIUM@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.GetData(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.STGMEDIUM@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.GetData(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.STGMEDIUM@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.GetData(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.STGMEDIUM@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.GetData(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.STGMEDIUM@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.GetData(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.STGMEDIUM@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.GetData(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.STGMEDIUM@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.GetData(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.STGMEDIUM@)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
@@ -2137,6 +2389,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.GetDataHere(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.STGMEDIUM@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.GetDataHere(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.STGMEDIUM@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.GetDataHere(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.STGMEDIUM@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.GetDataHere(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.STGMEDIUM@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.GetDataHere(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.STGMEDIUM@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.GetDataHere(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.STGMEDIUM@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.GetDataHere(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.STGMEDIUM@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.GetDataHere(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.STGMEDIUM@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.GetDataHere(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.STGMEDIUM@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.GetDataHere(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.STGMEDIUM@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.GetDataHere(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.STGMEDIUM@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.GetDataHere(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.STGMEDIUM@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.GetDataHere(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.STGMEDIUM@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.GetDataHere(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.STGMEDIUM@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.GetDataHere(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.STGMEDIUM@)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
@@ -2177,6 +2443,20 @@
       <MemberSignature Language="C++ CLI" Value=" virtual int System.Runtime.InteropServices.ComTypes.IDataObject.QueryGetData(System::Runtime::InteropServices::ComTypes::FORMATETC % formatetc) = System::Runtime::InteropServices::ComTypes::IDataObject::QueryGetData;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.QueryGetData(System.Runtime.InteropServices.ComTypes.FORMATETC@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.QueryGetData(System.Runtime.InteropServices.ComTypes.FORMATETC@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.QueryGetData(System.Runtime.InteropServices.ComTypes.FORMATETC@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.QueryGetData(System.Runtime.InteropServices.ComTypes.FORMATETC@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.QueryGetData(System.Runtime.InteropServices.ComTypes.FORMATETC@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.QueryGetData(System.Runtime.InteropServices.ComTypes.FORMATETC@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.QueryGetData(System.Runtime.InteropServices.ComTypes.FORMATETC@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.QueryGetData(System.Runtime.InteropServices.ComTypes.FORMATETC@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.QueryGetData(System.Runtime.InteropServices.ComTypes.FORMATETC@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.QueryGetData(System.Runtime.InteropServices.ComTypes.FORMATETC@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.QueryGetData(System.Runtime.InteropServices.ComTypes.FORMATETC@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.QueryGetData(System.Runtime.InteropServices.ComTypes.FORMATETC@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.QueryGetData(System.Runtime.InteropServices.ComTypes.FORMATETC@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.QueryGetData(System.Runtime.InteropServices.ComTypes.FORMATETC@)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.QueryGetData(System.Runtime.InteropServices.ComTypes.FORMATETC@)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2247,6 +2527,20 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Runtime.InteropServices.ComTypes.IDataObject.SetData(System::Runtime::InteropServices::ComTypes::FORMATETC % pFormatetcIn, System::Runtime::InteropServices::ComTypes::STGMEDIUM % pmedium, bool fRelease) = System::Runtime::InteropServices::ComTypes::IDataObject::SetData;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.SetData(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.STGMEDIUM@,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.SetData(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.STGMEDIUM@,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.SetData(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.STGMEDIUM@,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.SetData(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.STGMEDIUM@,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.SetData(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.STGMEDIUM@,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.SetData(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.STGMEDIUM@,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.SetData(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.STGMEDIUM@,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.SetData(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.STGMEDIUM@,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.SetData(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.STGMEDIUM@,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.SetData(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.STGMEDIUM@,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.SetData(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.STGMEDIUM@,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.SetData(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.STGMEDIUM@,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.SetData(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.STGMEDIUM@,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.SetData(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.STGMEDIUM@,System.Boolean)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices.ComTypes.IDataObject.SetData(System.Runtime.InteropServices.ComTypes.FORMATETC@,System.Runtime.InteropServices.ComTypes.STGMEDIUM@,System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

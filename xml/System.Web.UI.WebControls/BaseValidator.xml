@@ -686,6 +686,20 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.UI.IValidator.ErrorMessage</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IValidator.ErrorMessage</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IValidator.ErrorMessage</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IValidator.ErrorMessage</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IValidator.ErrorMessage</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IValidator.ErrorMessage</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IValidator.ErrorMessage</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IValidator.ErrorMessage</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IValidator.ErrorMessage</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IValidator.ErrorMessage</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IValidator.ErrorMessage</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IValidator.ErrorMessage</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IValidator.ErrorMessage</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IValidator.ErrorMessage</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IValidator.ErrorMessage</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -979,6 +993,20 @@
       <MemberSignature Language="F#" Value="member this.IsValid : bool with get, set" Usage="System.Web.UI.WebControls.BaseValidator.IsValid" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Web.UI.IValidator.IsValid</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IValidator.IsValid</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IValidator.IsValid</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IValidator.IsValid</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IValidator.IsValid</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IValidator.IsValid</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IValidator.IsValid</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IValidator.IsValid</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IValidator.IsValid</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IValidator.IsValid</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IValidator.IsValid</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IValidator.IsValid</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IValidator.IsValid</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IValidator.IsValid</InterfaceMember>
         <InterfaceMember>P:System.Web.UI.IValidator.IsValid</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1478,6 +1506,20 @@
       <MemberSignature Language="F#" Value="abstract member Validate : unit -&gt; unit&#xA;override this.Validate : unit -&gt; unit" Usage="baseValidator.Validate " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.UI.IValidator.Validate</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IValidator.Validate</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IValidator.Validate</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IValidator.Validate</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IValidator.Validate</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IValidator.Validate</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IValidator.Validate</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IValidator.Validate</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IValidator.Validate</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IValidator.Validate</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IValidator.Validate</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IValidator.Validate</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IValidator.Validate</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IValidator.Validate</InterfaceMember>
         <InterfaceMember>M:System.Web.UI.IValidator.Validate</InterfaceMember>
       </Implements>
       <AssemblyInfo>

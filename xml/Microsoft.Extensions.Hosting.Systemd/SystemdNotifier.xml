@@ -51,6 +51,7 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Extensions.Hosting.Systemd.ISystemdNotifier.IsEnabled</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.Hosting.Systemd.ISystemdNotifier.IsEnabled</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Hosting.Systemd</AssemblyName>
@@ -76,6 +77,7 @@
       <MemberSignature Language="F#" Value="abstract member Notify : Microsoft.Extensions.Hosting.Systemd.ServiceState -&gt; unit&#xA;override this.Notify : Microsoft.Extensions.Hosting.Systemd.ServiceState -&gt; unit" Usage="systemdNotifier.Notify state" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Extensions.Hosting.Systemd.ISystemdNotifier.Notify(Microsoft.Extensions.Hosting.Systemd.ServiceState)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Extensions.Hosting.Systemd.ISystemdNotifier.Notify(Microsoft.Extensions.Hosting.Systemd.ServiceState)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

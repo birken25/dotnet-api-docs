@@ -468,6 +468,17 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.DynamicData</AssemblyName>
@@ -699,6 +710,17 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.DynamicData</AssemblyName>
@@ -728,6 +750,17 @@
       <MemberSignature Language="F#" Usage="System.Web.DynamicData.IFieldTemplateHost.FormattingOptions" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldTemplateHost.FormattingOptions</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldTemplateHost.FormattingOptions</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldTemplateHost.FormattingOptions</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldTemplateHost.FormattingOptions</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldTemplateHost.FormattingOptions</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldTemplateHost.FormattingOptions</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldTemplateHost.FormattingOptions</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldTemplateHost.FormattingOptions</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldTemplateHost.FormattingOptions</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldTemplateHost.FormattingOptions</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IFieldTemplateHost.FormattingOptions</InterfaceMember>
         <InterfaceMember>P:System.Web.DynamicData.IFieldTemplateHost.FormattingOptions</InterfaceMember>
       </Implements>
       <AssemblyInfo>

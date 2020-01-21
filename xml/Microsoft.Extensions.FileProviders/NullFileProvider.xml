@@ -61,6 +61,12 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Extensions.FileProviders.IFileProvider.GetDirectoryContents(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.FileProviders.IFileProvider.GetDirectoryContents(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.FileProviders.IFileProvider.GetDirectoryContents(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.FileProviders.IFileProvider.GetDirectoryContents(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.FileProviders.IFileProvider.GetDirectoryContents(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.FileProviders.IFileProvider.GetDirectoryContents(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.FileProviders.IFileProvider.GetDirectoryContents(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.FileProviders.Abstractions</AssemblyName>
@@ -95,6 +101,12 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Extensions.FileProviders.IFileProvider.GetFileInfo(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.FileProviders.IFileProvider.GetFileInfo(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.FileProviders.IFileProvider.GetFileInfo(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.FileProviders.IFileProvider.GetFileInfo(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.FileProviders.IFileProvider.GetFileInfo(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.FileProviders.IFileProvider.GetFileInfo(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.FileProviders.IFileProvider.GetFileInfo(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.FileProviders.Abstractions</AssemblyName>
@@ -128,6 +140,12 @@
       <MemberSignature Language="F#" Value="abstract member Watch : string -&gt; Microsoft.Extensions.Primitives.IChangeToken&#xA;override this.Watch : string -&gt; Microsoft.Extensions.Primitives.IChangeToken" Usage="nullFileProvider.Watch filter" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Extensions.FileProviders.IFileProvider.Watch(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.FileProviders.IFileProvider.Watch(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.FileProviders.IFileProvider.Watch(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.FileProviders.IFileProvider.Watch(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.FileProviders.IFileProvider.Watch(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.FileProviders.IFileProvider.Watch(System.String)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Extensions.FileProviders.IFileProvider.Watch(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

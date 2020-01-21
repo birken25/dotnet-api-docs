@@ -231,6 +231,29 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Security.IPermission.Copy</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Copy</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Copy</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Copy</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Copy</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Copy</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Copy</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Copy</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Copy</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Copy</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Copy</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Copy</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Copy</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Copy</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Copy</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Copy</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Copy</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Copy</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Copy</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Copy</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Copy</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Copy</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Copy</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Copy</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -272,6 +295,29 @@
       <MemberSignature Language="F#" Value="abstract member Demand : unit -&gt; unit&#xA;override this.Demand : unit -&gt; unit" Usage="principalPermission.Demand " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Security.IPermission.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Demand</InterfaceMember>
         <InterfaceMember>M:System.Security.IPermission.Demand</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -385,6 +431,29 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -471,6 +540,29 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Security.IPermission.Intersect(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Intersect(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Intersect(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Intersect(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Intersect(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Intersect(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Intersect(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Intersect(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Intersect(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Intersect(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Intersect(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Intersect(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Intersect(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Intersect(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Intersect(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Intersect(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Intersect(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Intersect(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Intersect(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Intersect(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Intersect(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Intersect(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Intersect(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Intersect(System.Security.IPermission)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -529,6 +621,29 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Security.IPermission.IsSubsetOf(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.IsSubsetOf(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.IsSubsetOf(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.IsSubsetOf(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.IsSubsetOf(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.IsSubsetOf(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.IsSubsetOf(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.IsSubsetOf(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.IsSubsetOf(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.IsSubsetOf(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.IsSubsetOf(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.IsSubsetOf(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.IsSubsetOf(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.IsSubsetOf(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.IsSubsetOf(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.IsSubsetOf(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.IsSubsetOf(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.IsSubsetOf(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.IsSubsetOf(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.IsSubsetOf(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.IsSubsetOf(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.IsSubsetOf(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.IsSubsetOf(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.IsSubsetOf(System.Security.IPermission)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -586,6 +701,29 @@
       <MemberSignature Language="F#" Value="abstract member IsUnrestricted : unit -&gt; bool&#xA;override this.IsUnrestricted : unit -&gt; bool" Usage="principalPermission.IsUnrestricted " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Security.Permissions.IUnrestrictedPermission.IsUnrestricted</InterfaceMember>
+        <InterfaceMember>M:System.Security.Permissions.IUnrestrictedPermission.IsUnrestricted</InterfaceMember>
+        <InterfaceMember>M:System.Security.Permissions.IUnrestrictedPermission.IsUnrestricted</InterfaceMember>
+        <InterfaceMember>M:System.Security.Permissions.IUnrestrictedPermission.IsUnrestricted</InterfaceMember>
+        <InterfaceMember>M:System.Security.Permissions.IUnrestrictedPermission.IsUnrestricted</InterfaceMember>
+        <InterfaceMember>M:System.Security.Permissions.IUnrestrictedPermission.IsUnrestricted</InterfaceMember>
+        <InterfaceMember>M:System.Security.Permissions.IUnrestrictedPermission.IsUnrestricted</InterfaceMember>
+        <InterfaceMember>M:System.Security.Permissions.IUnrestrictedPermission.IsUnrestricted</InterfaceMember>
+        <InterfaceMember>M:System.Security.Permissions.IUnrestrictedPermission.IsUnrestricted</InterfaceMember>
+        <InterfaceMember>M:System.Security.Permissions.IUnrestrictedPermission.IsUnrestricted</InterfaceMember>
+        <InterfaceMember>M:System.Security.Permissions.IUnrestrictedPermission.IsUnrestricted</InterfaceMember>
+        <InterfaceMember>M:System.Security.Permissions.IUnrestrictedPermission.IsUnrestricted</InterfaceMember>
+        <InterfaceMember>M:System.Security.Permissions.IUnrestrictedPermission.IsUnrestricted</InterfaceMember>
+        <InterfaceMember>M:System.Security.Permissions.IUnrestrictedPermission.IsUnrestricted</InterfaceMember>
+        <InterfaceMember>M:System.Security.Permissions.IUnrestrictedPermission.IsUnrestricted</InterfaceMember>
+        <InterfaceMember>M:System.Security.Permissions.IUnrestrictedPermission.IsUnrestricted</InterfaceMember>
+        <InterfaceMember>M:System.Security.Permissions.IUnrestrictedPermission.IsUnrestricted</InterfaceMember>
+        <InterfaceMember>M:System.Security.Permissions.IUnrestrictedPermission.IsUnrestricted</InterfaceMember>
+        <InterfaceMember>M:System.Security.Permissions.IUnrestrictedPermission.IsUnrestricted</InterfaceMember>
+        <InterfaceMember>M:System.Security.Permissions.IUnrestrictedPermission.IsUnrestricted</InterfaceMember>
+        <InterfaceMember>M:System.Security.Permissions.IUnrestrictedPermission.IsUnrestricted</InterfaceMember>
+        <InterfaceMember>M:System.Security.Permissions.IUnrestrictedPermission.IsUnrestricted</InterfaceMember>
+        <InterfaceMember>M:System.Security.Permissions.IUnrestrictedPermission.IsUnrestricted</InterfaceMember>
         <InterfaceMember>M:System.Security.Permissions.IUnrestrictedPermission.IsUnrestricted</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -662,6 +800,29 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -696,6 +857,29 @@
       <MemberSignature Language="F#" Value="abstract member Union : System.Security.IPermission -&gt; System.Security.IPermission&#xA;override this.Union : System.Security.IPermission -&gt; System.Security.IPermission" Usage="principalPermission.Union other" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Security.IPermission.Union(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Union(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Union(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Union(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Union(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Union(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Union(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Union(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Union(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Union(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Union(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Union(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Union(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Union(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Union(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Union(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Union(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Union(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Union(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Union(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Union(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Union(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Union(System.Security.IPermission)</InterfaceMember>
         <InterfaceMember>M:System.Security.IPermission.Union(System.Security.IPermission)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

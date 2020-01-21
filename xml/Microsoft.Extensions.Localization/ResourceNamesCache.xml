@@ -61,6 +61,12 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Extensions.Localization.IResourceNamesCache.GetOrAdd(System.String,System.Func{System.String,System.Collections.Generic.IList{System.String}})</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Localization.IResourceNamesCache.GetOrAdd(System.String,System.Func{System.String,System.Collections.Generic.IList{System.String}})</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Localization.IResourceNamesCache.GetOrAdd(System.String,System.Func{System.String,System.Collections.Generic.IList{System.String}})</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Localization.IResourceNamesCache.GetOrAdd(System.String,System.Func{System.String,System.Collections.Generic.IList{System.String}})</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Localization.IResourceNamesCache.GetOrAdd(System.String,System.Func{System.String,System.Collections.Generic.IList{System.String}})</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Localization.IResourceNamesCache.GetOrAdd(System.String,System.Func{System.String,System.Collections.Generic.IList{System.String}})</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Localization.IResourceNamesCache.GetOrAdd(System.String,System.Func{System.String,System.Collections.Generic.IList{System.String}})</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Localization</AssemblyName>

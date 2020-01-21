@@ -65,6 +65,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
@@ -105,6 +119,20 @@
       <MemberSignature Language="F#" Value="abstract member ApplyAnimationClock : System.Windows.DependencyProperty * System.Windows.Media.Animation.AnimationClock * System.Windows.Media.Animation.HandoffBehavior -&gt; unit&#xA;override this.ApplyAnimationClock : System.Windows.DependencyProperty * System.Windows.Media.Animation.AnimationClock * System.Windows.Media.Animation.HandoffBehavior -&gt; unit" Usage="animatable.ApplyAnimationClock (dp, clock, handoffBehavior)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
         <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.ApplyAnimationClock(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationClock,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -172,6 +200,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
@@ -216,6 +258,20 @@
       <MemberSignature Language="F#" Value="abstract member BeginAnimation : System.Windows.DependencyProperty * System.Windows.Media.Animation.AnimationTimeline * System.Windows.Media.Animation.HandoffBehavior -&gt; unit&#xA;override this.BeginAnimation : System.Windows.DependencyProperty * System.Windows.Media.Animation.AnimationTimeline * System.Windows.Media.Animation.HandoffBehavior -&gt; unit" Usage="animatable.BeginAnimation (dp, animation, handoffBehavior)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
         <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.BeginAnimation(System.Windows.DependencyProperty,System.Windows.Media.Animation.AnimationTimeline,System.Windows.Media.Animation.HandoffBehavior)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -359,6 +415,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.GetAnimationBaseValue(System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.GetAnimationBaseValue(System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.GetAnimationBaseValue(System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.GetAnimationBaseValue(System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.GetAnimationBaseValue(System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.GetAnimationBaseValue(System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.GetAnimationBaseValue(System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.GetAnimationBaseValue(System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.GetAnimationBaseValue(System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.GetAnimationBaseValue(System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.GetAnimationBaseValue(System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.GetAnimationBaseValue(System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.GetAnimationBaseValue(System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.GetAnimationBaseValue(System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Media.Animation.IAnimatable.GetAnimationBaseValue(System.Windows.DependencyProperty)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
@@ -402,6 +472,20 @@
       <MemberSignature Language="F#" Value="member this.HasAnimatedProperties : bool" Usage="System.Windows.Media.Animation.Animatable.HasAnimatedProperties" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Windows.Media.Animation.IAnimatable.HasAnimatedProperties</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Media.Animation.IAnimatable.HasAnimatedProperties</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Media.Animation.IAnimatable.HasAnimatedProperties</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Media.Animation.IAnimatable.HasAnimatedProperties</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Media.Animation.IAnimatable.HasAnimatedProperties</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Media.Animation.IAnimatable.HasAnimatedProperties</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Media.Animation.IAnimatable.HasAnimatedProperties</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Media.Animation.IAnimatable.HasAnimatedProperties</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Media.Animation.IAnimatable.HasAnimatedProperties</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Media.Animation.IAnimatable.HasAnimatedProperties</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Media.Animation.IAnimatable.HasAnimatedProperties</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Media.Animation.IAnimatable.HasAnimatedProperties</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Media.Animation.IAnimatable.HasAnimatedProperties</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Media.Animation.IAnimatable.HasAnimatedProperties</InterfaceMember>
         <InterfaceMember>P:System.Windows.Media.Animation.IAnimatable.HasAnimatedProperties</InterfaceMember>
       </Implements>
       <AssemblyInfo>

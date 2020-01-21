@@ -279,6 +279,29 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Security.Cryptography.ICspAsymmetricAlgorithm.CspKeyContainerInfo</InterfaceMember>
+        <InterfaceMember>P:System.Security.Cryptography.ICspAsymmetricAlgorithm.CspKeyContainerInfo</InterfaceMember>
+        <InterfaceMember>P:System.Security.Cryptography.ICspAsymmetricAlgorithm.CspKeyContainerInfo</InterfaceMember>
+        <InterfaceMember>P:System.Security.Cryptography.ICspAsymmetricAlgorithm.CspKeyContainerInfo</InterfaceMember>
+        <InterfaceMember>P:System.Security.Cryptography.ICspAsymmetricAlgorithm.CspKeyContainerInfo</InterfaceMember>
+        <InterfaceMember>P:System.Security.Cryptography.ICspAsymmetricAlgorithm.CspKeyContainerInfo</InterfaceMember>
+        <InterfaceMember>P:System.Security.Cryptography.ICspAsymmetricAlgorithm.CspKeyContainerInfo</InterfaceMember>
+        <InterfaceMember>P:System.Security.Cryptography.ICspAsymmetricAlgorithm.CspKeyContainerInfo</InterfaceMember>
+        <InterfaceMember>P:System.Security.Cryptography.ICspAsymmetricAlgorithm.CspKeyContainerInfo</InterfaceMember>
+        <InterfaceMember>P:System.Security.Cryptography.ICspAsymmetricAlgorithm.CspKeyContainerInfo</InterfaceMember>
+        <InterfaceMember>P:System.Security.Cryptography.ICspAsymmetricAlgorithm.CspKeyContainerInfo</InterfaceMember>
+        <InterfaceMember>P:System.Security.Cryptography.ICspAsymmetricAlgorithm.CspKeyContainerInfo</InterfaceMember>
+        <InterfaceMember>P:System.Security.Cryptography.ICspAsymmetricAlgorithm.CspKeyContainerInfo</InterfaceMember>
+        <InterfaceMember>P:System.Security.Cryptography.ICspAsymmetricAlgorithm.CspKeyContainerInfo</InterfaceMember>
+        <InterfaceMember>P:System.Security.Cryptography.ICspAsymmetricAlgorithm.CspKeyContainerInfo</InterfaceMember>
+        <InterfaceMember>P:System.Security.Cryptography.ICspAsymmetricAlgorithm.CspKeyContainerInfo</InterfaceMember>
+        <InterfaceMember>P:System.Security.Cryptography.ICspAsymmetricAlgorithm.CspKeyContainerInfo</InterfaceMember>
+        <InterfaceMember>P:System.Security.Cryptography.ICspAsymmetricAlgorithm.CspKeyContainerInfo</InterfaceMember>
+        <InterfaceMember>P:System.Security.Cryptography.ICspAsymmetricAlgorithm.CspKeyContainerInfo</InterfaceMember>
+        <InterfaceMember>P:System.Security.Cryptography.ICspAsymmetricAlgorithm.CspKeyContainerInfo</InterfaceMember>
+        <InterfaceMember>P:System.Security.Cryptography.ICspAsymmetricAlgorithm.CspKeyContainerInfo</InterfaceMember>
+        <InterfaceMember>P:System.Security.Cryptography.ICspAsymmetricAlgorithm.CspKeyContainerInfo</InterfaceMember>
+        <InterfaceMember>P:System.Security.Cryptography.ICspAsymmetricAlgorithm.CspKeyContainerInfo</InterfaceMember>
+        <InterfaceMember>P:System.Security.Cryptography.ICspAsymmetricAlgorithm.CspKeyContainerInfo</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -377,6 +400,29 @@
       <MemberSignature Language="F#" Value="abstract member ExportCspBlob : bool -&gt; byte[]&#xA;override this.ExportCspBlob : bool -&gt; byte[]" Usage="dSACryptoServiceProvider.ExportCspBlob includePrivateParameters" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Security.Cryptography.ICspAsymmetricAlgorithm.ExportCspBlob(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Security.Cryptography.ICspAsymmetricAlgorithm.ExportCspBlob(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Security.Cryptography.ICspAsymmetricAlgorithm.ExportCspBlob(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Security.Cryptography.ICspAsymmetricAlgorithm.ExportCspBlob(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Security.Cryptography.ICspAsymmetricAlgorithm.ExportCspBlob(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Security.Cryptography.ICspAsymmetricAlgorithm.ExportCspBlob(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Security.Cryptography.ICspAsymmetricAlgorithm.ExportCspBlob(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Security.Cryptography.ICspAsymmetricAlgorithm.ExportCspBlob(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Security.Cryptography.ICspAsymmetricAlgorithm.ExportCspBlob(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Security.Cryptography.ICspAsymmetricAlgorithm.ExportCspBlob(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Security.Cryptography.ICspAsymmetricAlgorithm.ExportCspBlob(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Security.Cryptography.ICspAsymmetricAlgorithm.ExportCspBlob(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Security.Cryptography.ICspAsymmetricAlgorithm.ExportCspBlob(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Security.Cryptography.ICspAsymmetricAlgorithm.ExportCspBlob(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Security.Cryptography.ICspAsymmetricAlgorithm.ExportCspBlob(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Security.Cryptography.ICspAsymmetricAlgorithm.ExportCspBlob(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Security.Cryptography.ICspAsymmetricAlgorithm.ExportCspBlob(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Security.Cryptography.ICspAsymmetricAlgorithm.ExportCspBlob(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Security.Cryptography.ICspAsymmetricAlgorithm.ExportCspBlob(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Security.Cryptography.ICspAsymmetricAlgorithm.ExportCspBlob(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Security.Cryptography.ICspAsymmetricAlgorithm.ExportCspBlob(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Security.Cryptography.ICspAsymmetricAlgorithm.ExportCspBlob(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Security.Cryptography.ICspAsymmetricAlgorithm.ExportCspBlob(System.Boolean)</InterfaceMember>
         <InterfaceMember>M:System.Security.Cryptography.ICspAsymmetricAlgorithm.ExportCspBlob(System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -591,6 +637,29 @@
       <MemberSignature Language="F#" Value="abstract member ImportCspBlob : byte[] -&gt; unit&#xA;override this.ImportCspBlob : byte[] -&gt; unit" Usage="dSACryptoServiceProvider.ImportCspBlob keyBlob" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Security.Cryptography.ICspAsymmetricAlgorithm.ImportCspBlob(System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Security.Cryptography.ICspAsymmetricAlgorithm.ImportCspBlob(System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Security.Cryptography.ICspAsymmetricAlgorithm.ImportCspBlob(System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Security.Cryptography.ICspAsymmetricAlgorithm.ImportCspBlob(System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Security.Cryptography.ICspAsymmetricAlgorithm.ImportCspBlob(System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Security.Cryptography.ICspAsymmetricAlgorithm.ImportCspBlob(System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Security.Cryptography.ICspAsymmetricAlgorithm.ImportCspBlob(System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Security.Cryptography.ICspAsymmetricAlgorithm.ImportCspBlob(System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Security.Cryptography.ICspAsymmetricAlgorithm.ImportCspBlob(System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Security.Cryptography.ICspAsymmetricAlgorithm.ImportCspBlob(System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Security.Cryptography.ICspAsymmetricAlgorithm.ImportCspBlob(System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Security.Cryptography.ICspAsymmetricAlgorithm.ImportCspBlob(System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Security.Cryptography.ICspAsymmetricAlgorithm.ImportCspBlob(System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Security.Cryptography.ICspAsymmetricAlgorithm.ImportCspBlob(System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Security.Cryptography.ICspAsymmetricAlgorithm.ImportCspBlob(System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Security.Cryptography.ICspAsymmetricAlgorithm.ImportCspBlob(System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Security.Cryptography.ICspAsymmetricAlgorithm.ImportCspBlob(System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Security.Cryptography.ICspAsymmetricAlgorithm.ImportCspBlob(System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Security.Cryptography.ICspAsymmetricAlgorithm.ImportCspBlob(System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Security.Cryptography.ICspAsymmetricAlgorithm.ImportCspBlob(System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Security.Cryptography.ICspAsymmetricAlgorithm.ImportCspBlob(System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Security.Cryptography.ICspAsymmetricAlgorithm.ImportCspBlob(System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Security.Cryptography.ICspAsymmetricAlgorithm.ImportCspBlob(System.Byte[])</InterfaceMember>
         <InterfaceMember>M:System.Security.Cryptography.ICspAsymmetricAlgorithm.ImportCspBlob(System.Byte[])</InterfaceMember>
       </Implements>
       <AssemblyInfo>

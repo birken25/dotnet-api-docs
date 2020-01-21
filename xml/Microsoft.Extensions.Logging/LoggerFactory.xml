@@ -143,6 +143,12 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Extensions.Logging.ILoggerFactory.AddProvider(Microsoft.Extensions.Logging.ILoggerProvider)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.ILoggerFactory.AddProvider(Microsoft.Extensions.Logging.ILoggerProvider)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.ILoggerFactory.AddProvider(Microsoft.Extensions.Logging.ILoggerProvider)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.ILoggerFactory.AddProvider(Microsoft.Extensions.Logging.ILoggerProvider)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.ILoggerFactory.AddProvider(Microsoft.Extensions.Logging.ILoggerProvider)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.ILoggerFactory.AddProvider(Microsoft.Extensions.Logging.ILoggerProvider)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.ILoggerFactory.AddProvider(Microsoft.Extensions.Logging.ILoggerProvider)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Logging</AssemblyName>
@@ -230,6 +236,12 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Extensions.Logging.ILoggerFactory.CreateLogger(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.ILoggerFactory.CreateLogger(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.ILoggerFactory.CreateLogger(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.ILoggerFactory.CreateLogger(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.ILoggerFactory.CreateLogger(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.ILoggerFactory.CreateLogger(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.ILoggerFactory.CreateLogger(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Logging</AssemblyName>
@@ -263,6 +275,12 @@
       <MemberSignature Language="F#" Value="abstract member Dispose : unit -&gt; unit&#xA;override this.Dispose : unit -&gt; unit" Usage="loggerFactory.Dispose " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>

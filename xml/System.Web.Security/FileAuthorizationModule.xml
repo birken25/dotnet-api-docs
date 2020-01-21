@@ -131,6 +131,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.IHttpModule.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpModule.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpModule.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpModule.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpModule.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpModule.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpModule.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpModule.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpModule.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpModule.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpModule.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpModule.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpModule.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpModule.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpModule.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -164,6 +178,20 @@
       <MemberSignature Language="F#" Value="abstract member Init : System.Web.HttpApplication -&gt; unit&#xA;override this.Init : System.Web.HttpApplication -&gt; unit" Usage="fileAuthorizationModule.Init app" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.IHttpModule.Init(System.Web.HttpApplication)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpModule.Init(System.Web.HttpApplication)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpModule.Init(System.Web.HttpApplication)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpModule.Init(System.Web.HttpApplication)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpModule.Init(System.Web.HttpApplication)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpModule.Init(System.Web.HttpApplication)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpModule.Init(System.Web.HttpApplication)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpModule.Init(System.Web.HttpApplication)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpModule.Init(System.Web.HttpApplication)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpModule.Init(System.Web.HttpApplication)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpModule.Init(System.Web.HttpApplication)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpModule.Init(System.Web.HttpApplication)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpModule.Init(System.Web.HttpApplication)</InterfaceMember>
+        <InterfaceMember>M:System.Web.IHttpModule.Init(System.Web.HttpApplication)</InterfaceMember>
         <InterfaceMember>M:System.Web.IHttpModule.Init(System.Web.HttpApplication)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

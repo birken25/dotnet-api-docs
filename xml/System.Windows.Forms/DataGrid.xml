@@ -676,6 +676,21 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.BeginEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.BeginEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.BeginEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.BeginEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.BeginEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.BeginEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.BeginEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.BeginEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.BeginEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.BeginEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.BeginEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.BeginEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.BeginEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.BeginEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.BeginEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.BeginEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Forms</AssemblyName>
@@ -725,6 +740,21 @@
       <MemberSignature Language="F#" Value="abstract member BeginInit : unit -&gt; unit&#xA;override this.BeginInit : unit -&gt; unit" Usage="dataGrid.BeginInit " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.BeginInit</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.BeginInit</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.BeginInit</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.BeginInit</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.BeginInit</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.BeginInit</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.BeginInit</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.BeginInit</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.BeginInit</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.BeginInit</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.BeginInit</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.BeginInit</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.BeginInit</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.BeginInit</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.BeginInit</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.ISupportInitialize.BeginInit</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1842,6 +1872,21 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.EndEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.EndEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.EndEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.EndEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.EndEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.EndEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.EndEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.EndEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.EndEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.EndEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.EndEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.EndEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.EndEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.EndEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.EndEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.EndEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32,System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Forms</AssemblyName>
@@ -1893,6 +1938,21 @@
       <MemberSignature Language="F#" Value="abstract member EndInit : unit -&gt; unit&#xA;override this.EndInit : unit -&gt; unit" Usage="dataGrid.EndInit " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.EndInit</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.EndInit</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.EndInit</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.EndInit</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.EndInit</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.EndInit</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.EndInit</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.EndInit</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.EndInit</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.EndInit</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.EndInit</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.EndInit</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.EndInit</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.EndInit</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.EndInit</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.ISupportInitialize.EndInit</InterfaceMember>
       </Implements>
       <AssemblyInfo>

@@ -607,6 +607,38 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Threading.Tasks</AssemblyName>
@@ -2405,6 +2437,30 @@ Task t Status: RanToCompletion, Result: 42
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -3017,6 +3073,38 @@ Task t Status: RanToCompletion, Result: 42
       <MemberSignature Language="F#" Value="member this.IsCompleted : bool" Usage="System.Threading.Tasks.Task.IsCompleted" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
         <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -4005,6 +4093,38 @@ Task t Status: RanToCompletion, Result: 42
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Threading.Tasks</AssemblyName>
@@ -4053,6 +4173,38 @@ Task t Status: RanToCompletion, Result: 42
       <MemberSignature Language="F#" Usage="System.IAsyncResult.CompletedSynchronously" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
         <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
       </Implements>
       <AssemblyInfo>

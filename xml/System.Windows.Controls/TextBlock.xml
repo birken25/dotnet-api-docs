@@ -2381,6 +2381,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -2408,6 +2422,20 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Collections::ObjectModel::ReadOnlyCollection&lt;System::Windows::Rect&gt; ^ System.Windows.IContentHost.GetRectangles(System::Windows::ContentElement ^ child) = System::Windows::IContentHost::GetRectangles;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.IContentHost.GetRectangles(System.Windows.ContentElement)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IContentHost.GetRectangles(System.Windows.ContentElement)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IContentHost.GetRectangles(System.Windows.ContentElement)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IContentHost.GetRectangles(System.Windows.ContentElement)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IContentHost.GetRectangles(System.Windows.ContentElement)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IContentHost.GetRectangles(System.Windows.ContentElement)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IContentHost.GetRectangles(System.Windows.ContentElement)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IContentHost.GetRectangles(System.Windows.ContentElement)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IContentHost.GetRectangles(System.Windows.ContentElement)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IContentHost.GetRectangles(System.Windows.ContentElement)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IContentHost.GetRectangles(System.Windows.ContentElement)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IContentHost.GetRectangles(System.Windows.ContentElement)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IContentHost.GetRectangles(System.Windows.ContentElement)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IContentHost.GetRectangles(System.Windows.ContentElement)</InterfaceMember>
         <InterfaceMember>M:System.Windows.IContentHost.GetRectangles(System.Windows.ContentElement)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2443,6 +2471,20 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Windows.IContentHost.HostedElements</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IContentHost.HostedElements</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IContentHost.HostedElements</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IContentHost.HostedElements</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IContentHost.HostedElements</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IContentHost.HostedElements</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IContentHost.HostedElements</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IContentHost.HostedElements</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IContentHost.HostedElements</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IContentHost.HostedElements</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IContentHost.HostedElements</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IContentHost.HostedElements</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IContentHost.HostedElements</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IContentHost.HostedElements</InterfaceMember>
+        <InterfaceMember>P:System.Windows.IContentHost.HostedElements</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -2470,6 +2512,20 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Windows::IInputElement ^ System.Windows.IContentHost.InputHitTest(System::Windows::Point point) = System::Windows::IContentHost::InputHitTest;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.IContentHost.InputHitTest(System.Windows.Point)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IContentHost.InputHitTest(System.Windows.Point)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IContentHost.InputHitTest(System.Windows.Point)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IContentHost.InputHitTest(System.Windows.Point)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IContentHost.InputHitTest(System.Windows.Point)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IContentHost.InputHitTest(System.Windows.Point)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IContentHost.InputHitTest(System.Windows.Point)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IContentHost.InputHitTest(System.Windows.Point)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IContentHost.InputHitTest(System.Windows.Point)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IContentHost.InputHitTest(System.Windows.Point)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IContentHost.InputHitTest(System.Windows.Point)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IContentHost.InputHitTest(System.Windows.Point)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IContentHost.InputHitTest(System.Windows.Point)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IContentHost.InputHitTest(System.Windows.Point)</InterfaceMember>
         <InterfaceMember>M:System.Windows.IContentHost.InputHitTest(System.Windows.Point)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2504,6 +2560,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.IContentHost.OnChildDesiredSizeChanged(System.Windows.UIElement)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IContentHost.OnChildDesiredSizeChanged(System.Windows.UIElement)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IContentHost.OnChildDesiredSizeChanged(System.Windows.UIElement)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IContentHost.OnChildDesiredSizeChanged(System.Windows.UIElement)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IContentHost.OnChildDesiredSizeChanged(System.Windows.UIElement)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IContentHost.OnChildDesiredSizeChanged(System.Windows.UIElement)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IContentHost.OnChildDesiredSizeChanged(System.Windows.UIElement)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IContentHost.OnChildDesiredSizeChanged(System.Windows.UIElement)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IContentHost.OnChildDesiredSizeChanged(System.Windows.UIElement)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IContentHost.OnChildDesiredSizeChanged(System.Windows.UIElement)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IContentHost.OnChildDesiredSizeChanged(System.Windows.UIElement)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IContentHost.OnChildDesiredSizeChanged(System.Windows.UIElement)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IContentHost.OnChildDesiredSizeChanged(System.Windows.UIElement)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IContentHost.OnChildDesiredSizeChanged(System.Windows.UIElement)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IContentHost.OnChildDesiredSizeChanged(System.Windows.UIElement)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -2536,6 +2606,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -2562,6 +2646,20 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Windows.Markup.IAddChild.AddText(System::String ^ text) = System::Windows::Markup::IAddChild::AddText;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
         <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

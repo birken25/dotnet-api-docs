@@ -49,6 +49,10 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.Globalization.IStringLocalizerProvider.GetLocalizedString(System.Globalization.CultureInfo,System.String,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Web.Globalization.IStringLocalizerProvider.GetLocalizedString(System.Globalization.CultureInfo,System.String,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Web.Globalization.IStringLocalizerProvider.GetLocalizedString(System.Globalization.CultureInfo,System.String,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Web.Globalization.IStringLocalizerProvider.GetLocalizedString(System.Globalization.CultureInfo,System.String,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Web.Globalization.IStringLocalizerProvider.GetLocalizedString(System.Globalization.CultureInfo,System.String,System.Object[])</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>

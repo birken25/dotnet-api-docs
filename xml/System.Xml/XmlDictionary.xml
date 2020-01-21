@@ -254,6 +254,31 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.Int32,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.Int32,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.Int32,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.Int32,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.Int32,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.Int32,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.Int32,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.Int32,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.Int32,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.Int32,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.Int32,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.Int32,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.Int32,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.Int32,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.Int32,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.Int32,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.Int32,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.Int32,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.Int32,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.Int32,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.Int32,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.Int32,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.Int32,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.Int32,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.Int32,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.Int32,System.Xml.XmlDictionaryString@)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Runtime.Serialization.Xml</AssemblyName>
@@ -299,6 +324,31 @@
       <MemberSignature Language="F#" Value="abstract member TryLookup : string * XmlDictionaryString -&gt; bool&#xA;override this.TryLookup : string * XmlDictionaryString -&gt; bool" Usage="xmlDictionary.TryLookup (value, result)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.String,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.String,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.String,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.String,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.String,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.String,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.String,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.String,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.String,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.String,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.String,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.String,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.String,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.String,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.String,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.String,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.String,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.String,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.String,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.String,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.String,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.String,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.String,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.String,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.String,System.Xml.XmlDictionaryString@)</InterfaceMember>
         <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.String,System.Xml.XmlDictionaryString@)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -347,6 +397,31 @@
       <MemberSignature Language="F#" Value="abstract member TryLookup : System.Xml.XmlDictionaryString * XmlDictionaryString -&gt; bool&#xA;override this.TryLookup : System.Xml.XmlDictionaryString * XmlDictionaryString -&gt; bool" Usage="xmlDictionary.TryLookup (value, result)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.Xml.XmlDictionaryString,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.Xml.XmlDictionaryString,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.Xml.XmlDictionaryString,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.Xml.XmlDictionaryString,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.Xml.XmlDictionaryString,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.Xml.XmlDictionaryString,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.Xml.XmlDictionaryString,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.Xml.XmlDictionaryString,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.Xml.XmlDictionaryString,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.Xml.XmlDictionaryString,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.Xml.XmlDictionaryString,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.Xml.XmlDictionaryString,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.Xml.XmlDictionaryString,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.Xml.XmlDictionaryString,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.Xml.XmlDictionaryString,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.Xml.XmlDictionaryString,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.Xml.XmlDictionaryString,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.Xml.XmlDictionaryString,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.Xml.XmlDictionaryString,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.Xml.XmlDictionaryString,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.Xml.XmlDictionaryString,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.Xml.XmlDictionaryString,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.Xml.XmlDictionaryString,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.Xml.XmlDictionaryString,System.Xml.XmlDictionaryString@)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.Xml.XmlDictionaryString,System.Xml.XmlDictionaryString@)</InterfaceMember>
         <InterfaceMember>M:System.Xml.IXmlDictionary.TryLookup(System.Xml.XmlDictionaryString,System.Xml.XmlDictionaryString@)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

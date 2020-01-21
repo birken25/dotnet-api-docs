@@ -456,6 +456,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Activities.Presentation.ICompositeView.CanPasteItems(System.Collections.Generic.List{System.Object})</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.CanPasteItems(System.Collections.Generic.List{System.Object})</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.CanPasteItems(System.Collections.Generic.List{System.Object})</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.CanPasteItems(System.Collections.Generic.List{System.Object})</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.CanPasteItems(System.Collections.Generic.List{System.Object})</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.CanPasteItems(System.Collections.Generic.List{System.Object})</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.CanPasteItems(System.Collections.Generic.List{System.Object})</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.CanPasteItems(System.Collections.Generic.List{System.Object})</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.CanPasteItems(System.Collections.Generic.List{System.Object})</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.CanPasteItems(System.Collections.Generic.List{System.Object})</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.CanPasteItems(System.Collections.Generic.List{System.Object})</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Activities.Presentation</AssemblyName>
@@ -483,6 +493,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Activities.Presentation.ICompositeView.OnItemMoved(System.Activities.Presentation.Model.ModelItem)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.OnItemMoved(System.Activities.Presentation.Model.ModelItem)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.OnItemMoved(System.Activities.Presentation.Model.ModelItem)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.OnItemMoved(System.Activities.Presentation.Model.ModelItem)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.OnItemMoved(System.Activities.Presentation.Model.ModelItem)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.OnItemMoved(System.Activities.Presentation.Model.ModelItem)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.OnItemMoved(System.Activities.Presentation.Model.ModelItem)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.OnItemMoved(System.Activities.Presentation.Model.ModelItem)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.OnItemMoved(System.Activities.Presentation.Model.ModelItem)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.OnItemMoved(System.Activities.Presentation.Model.ModelItem)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.OnItemMoved(System.Activities.Presentation.Model.ModelItem)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Activities.Presentation</AssemblyName>
@@ -508,6 +528,16 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Object ^ System.Activities.Presentation.ICompositeView.OnItemsCopied(System::Collections::Generic::List&lt;System::Activities::Presentation::Model::ModelItem ^&gt; ^ itemsToCopy) = System::Activities::Presentation::ICompositeView::OnItemsCopied;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.OnItemsCopied(System.Collections.Generic.List{System.Activities.Presentation.Model.ModelItem})</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.OnItemsCopied(System.Collections.Generic.List{System.Activities.Presentation.Model.ModelItem})</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.OnItemsCopied(System.Collections.Generic.List{System.Activities.Presentation.Model.ModelItem})</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.OnItemsCopied(System.Collections.Generic.List{System.Activities.Presentation.Model.ModelItem})</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.OnItemsCopied(System.Collections.Generic.List{System.Activities.Presentation.Model.ModelItem})</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.OnItemsCopied(System.Collections.Generic.List{System.Activities.Presentation.Model.ModelItem})</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.OnItemsCopied(System.Collections.Generic.List{System.Activities.Presentation.Model.ModelItem})</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.OnItemsCopied(System.Collections.Generic.List{System.Activities.Presentation.Model.ModelItem})</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.OnItemsCopied(System.Collections.Generic.List{System.Activities.Presentation.Model.ModelItem})</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.OnItemsCopied(System.Collections.Generic.List{System.Activities.Presentation.Model.ModelItem})</InterfaceMember>
         <InterfaceMember>M:System.Activities.Presentation.ICompositeView.OnItemsCopied(System.Collections.Generic.List{System.Activities.Presentation.Model.ModelItem})</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -536,6 +566,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Activities.Presentation.ICompositeView.OnItemsCut(System.Collections.Generic.List{System.Activities.Presentation.Model.ModelItem})</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.OnItemsCut(System.Collections.Generic.List{System.Activities.Presentation.Model.ModelItem})</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.OnItemsCut(System.Collections.Generic.List{System.Activities.Presentation.Model.ModelItem})</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.OnItemsCut(System.Collections.Generic.List{System.Activities.Presentation.Model.ModelItem})</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.OnItemsCut(System.Collections.Generic.List{System.Activities.Presentation.Model.ModelItem})</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.OnItemsCut(System.Collections.Generic.List{System.Activities.Presentation.Model.ModelItem})</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.OnItemsCut(System.Collections.Generic.List{System.Activities.Presentation.Model.ModelItem})</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.OnItemsCut(System.Collections.Generic.List{System.Activities.Presentation.Model.ModelItem})</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.OnItemsCut(System.Collections.Generic.List{System.Activities.Presentation.Model.ModelItem})</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.OnItemsCut(System.Collections.Generic.List{System.Activities.Presentation.Model.ModelItem})</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.OnItemsCut(System.Collections.Generic.List{System.Activities.Presentation.Model.ModelItem})</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Activities.Presentation</AssemblyName>
@@ -563,6 +603,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Activities.Presentation.ICompositeView.OnItemsDelete(System.Collections.Generic.List{System.Activities.Presentation.Model.ModelItem})</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.OnItemsDelete(System.Collections.Generic.List{System.Activities.Presentation.Model.ModelItem})</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.OnItemsDelete(System.Collections.Generic.List{System.Activities.Presentation.Model.ModelItem})</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.OnItemsDelete(System.Collections.Generic.List{System.Activities.Presentation.Model.ModelItem})</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.OnItemsDelete(System.Collections.Generic.List{System.Activities.Presentation.Model.ModelItem})</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.OnItemsDelete(System.Collections.Generic.List{System.Activities.Presentation.Model.ModelItem})</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.OnItemsDelete(System.Collections.Generic.List{System.Activities.Presentation.Model.ModelItem})</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.OnItemsDelete(System.Collections.Generic.List{System.Activities.Presentation.Model.ModelItem})</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.OnItemsDelete(System.Collections.Generic.List{System.Activities.Presentation.Model.ModelItem})</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.OnItemsDelete(System.Collections.Generic.List{System.Activities.Presentation.Model.ModelItem})</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.OnItemsDelete(System.Collections.Generic.List{System.Activities.Presentation.Model.ModelItem})</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Activities.Presentation</AssemblyName>
@@ -588,6 +638,16 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Activities.Presentation.ICompositeView.OnItemsPasted(System::Collections::Generic::List&lt;System::Object ^&gt; ^ itemsToPaste, System::Collections::Generic::List&lt;System::Object ^&gt; ^ metaData, System::Windows::Point pastePoint, System::Activities::Presentation::WorkflowViewElement ^ pastePointReference) = System::Activities::Presentation::ICompositeView::OnItemsPasted;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.OnItemsPasted(System.Collections.Generic.List{System.Object},System.Collections.Generic.List{System.Object},System.Windows.Point,System.Activities.Presentation.WorkflowViewElement)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.OnItemsPasted(System.Collections.Generic.List{System.Object},System.Collections.Generic.List{System.Object},System.Windows.Point,System.Activities.Presentation.WorkflowViewElement)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.OnItemsPasted(System.Collections.Generic.List{System.Object},System.Collections.Generic.List{System.Object},System.Windows.Point,System.Activities.Presentation.WorkflowViewElement)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.OnItemsPasted(System.Collections.Generic.List{System.Object},System.Collections.Generic.List{System.Object},System.Windows.Point,System.Activities.Presentation.WorkflowViewElement)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.OnItemsPasted(System.Collections.Generic.List{System.Object},System.Collections.Generic.List{System.Object},System.Windows.Point,System.Activities.Presentation.WorkflowViewElement)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.OnItemsPasted(System.Collections.Generic.List{System.Object},System.Collections.Generic.List{System.Object},System.Windows.Point,System.Activities.Presentation.WorkflowViewElement)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.OnItemsPasted(System.Collections.Generic.List{System.Object},System.Collections.Generic.List{System.Object},System.Windows.Point,System.Activities.Presentation.WorkflowViewElement)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.OnItemsPasted(System.Collections.Generic.List{System.Object},System.Collections.Generic.List{System.Object},System.Windows.Point,System.Activities.Presentation.WorkflowViewElement)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.OnItemsPasted(System.Collections.Generic.List{System.Object},System.Collections.Generic.List{System.Object},System.Windows.Point,System.Activities.Presentation.WorkflowViewElement)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeView.OnItemsPasted(System.Collections.Generic.List{System.Object},System.Collections.Generic.List{System.Object},System.Windows.Point,System.Activities.Presentation.WorkflowViewElement)</InterfaceMember>
         <InterfaceMember>M:System.Activities.Presentation.ICompositeView.OnItemsPasted(System.Collections.Generic.List{System.Object},System.Collections.Generic.List{System.Object},System.Windows.Point,System.Activities.Presentation.WorkflowViewElement)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

@@ -170,6 +170,17 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Equals(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Reflection</AssemblyName>
@@ -216,6 +227,17 @@
       <MemberSignature Language="F#" Value="override this.GetHashCode : unit -&gt; int" Usage="constructorInfo.GetHashCode " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetHashCode</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetHashCode</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -478,6 +500,21 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.InteropServices._ConstructorInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._ConstructorInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._ConstructorInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._ConstructorInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._ConstructorInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._ConstructorInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._ConstructorInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._ConstructorInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._ConstructorInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._ConstructorInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._ConstructorInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._ConstructorInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._ConstructorInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._ConstructorInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._ConstructorInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._ConstructorInfo.MemberType</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Reflection</AssemblyName>
@@ -627,6 +664,21 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -680,6 +732,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetType</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -713,6 +779,21 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Runtime.InteropServices._ConstructorInfo.GetTypeInfo(System::UInt32 iTInfo, System::UInt32 lcid, IntPtr ppTInfo) = System::Runtime::InteropServices::_ConstructorInfo::GetTypeInfo;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -763,6 +844,21 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -807,6 +903,21 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Runtime.InteropServices._ConstructorInfo.Invoke(System::UInt32 dispIdMember, Guid % riid, System::UInt32 lcid, short wFlags, IntPtr pDispParams, IntPtr pVarResult, IntPtr pExcepInfo, IntPtr puArgErr) = System::Runtime::InteropServices::_ConstructorInfo::Invoke;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -866,6 +977,21 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_2(System.Object,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_2(System.Object,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_2(System.Object,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_2(System.Object,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_2(System.Object,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_2(System.Object,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_2(System.Object,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_2(System.Object,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_2(System.Object,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_2(System.Object,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_2(System.Object,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_2(System.Object,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_2(System.Object,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_2(System.Object,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_2(System.Object,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_2(System.Object,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -919,6 +1045,21 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_3(System.Object,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_3(System.Object,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_3(System.Object,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_3(System.Object,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_3(System.Object,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_3(System.Object,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_3(System.Object,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_3(System.Object,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_3(System.Object,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_3(System.Object,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_3(System.Object,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_3(System.Object,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_3(System.Object,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_3(System.Object,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_3(System.Object,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_3(System.Object,System.Object[])</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -964,6 +1105,21 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Object ^ System.Runtime.InteropServices._ConstructorInfo.Invoke_4(System::Reflection::BindingFlags invokeAttr, System::Reflection::Binder ^ binder, cli::array &lt;System::Object ^&gt; ^ parameters, System::Globalization::CultureInfo ^ culture) = System::Runtime::InteropServices::_ConstructorInfo::Invoke_4;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_4(System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_4(System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_4(System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_4(System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_4(System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_4(System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_4(System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_4(System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_4(System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_4(System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_4(System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_4(System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_4(System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_4(System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_4(System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_4(System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1015,6 +1171,21 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Object ^ System.Runtime.InteropServices._ConstructorInfo.Invoke_5(cli::array &lt;System::Object ^&gt; ^ parameters) = System::Runtime::InteropServices::_ConstructorInfo::Invoke_5;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_5(System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_5(System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_5(System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_5(System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_5(System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_5(System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_5(System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_5(System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_5(System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_5(System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_5(System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_5(System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_5(System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_5(System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_5(System.Object[])</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices._ConstructorInfo.Invoke_5(System.Object[])</InterfaceMember>
       </Implements>
       <AssemblyInfo>

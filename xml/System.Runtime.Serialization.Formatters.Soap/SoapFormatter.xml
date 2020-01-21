@@ -181,6 +181,21 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Binder</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Binder</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Binder</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Binder</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Binder</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Binder</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Binder</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Binder</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Binder</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Binder</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Binder</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Binder</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Binder</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Binder</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Binder</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Binder</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Runtime.Serialization.Formatters.Soap</AssemblyName>
@@ -207,6 +222,21 @@
       <MemberSignature Language="F#" Value="member this.Context : System.Runtime.Serialization.StreamingContext with get, set" Usage="System.Runtime.Serialization.Formatters.Soap.SoapFormatter.Context" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Context</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Context</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Context</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Context</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Context</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Context</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Context</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Context</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Context</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Context</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Context</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Context</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Context</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Context</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Context</InterfaceMember>
         <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Context</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -260,6 +290,21 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Deserialize(System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Deserialize(System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Deserialize(System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Deserialize(System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Deserialize(System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Deserialize(System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Deserialize(System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Deserialize(System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Deserialize(System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Deserialize(System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Deserialize(System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Deserialize(System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Deserialize(System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Deserialize(System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Deserialize(System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Deserialize(System.IO.Stream)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Runtime.Serialization.Formatters.Soap</AssemblyName>
@@ -305,6 +350,21 @@
       <MemberSignature Language="F#" Value="abstract member Deserialize : System.IO.Stream * System.Runtime.Remoting.Messaging.HeaderHandler -&gt; obj&#xA;override this.Deserialize : System.IO.Stream * System.Runtime.Remoting.Messaging.HeaderHandler -&gt; obj" Usage="soapFormatter.Deserialize (serializationStream, handler)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IRemotingFormatter.Deserialize(System.IO.Stream,System.Runtime.Remoting.Messaging.HeaderHandler)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IRemotingFormatter.Deserialize(System.IO.Stream,System.Runtime.Remoting.Messaging.HeaderHandler)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IRemotingFormatter.Deserialize(System.IO.Stream,System.Runtime.Remoting.Messaging.HeaderHandler)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IRemotingFormatter.Deserialize(System.IO.Stream,System.Runtime.Remoting.Messaging.HeaderHandler)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IRemotingFormatter.Deserialize(System.IO.Stream,System.Runtime.Remoting.Messaging.HeaderHandler)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IRemotingFormatter.Deserialize(System.IO.Stream,System.Runtime.Remoting.Messaging.HeaderHandler)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IRemotingFormatter.Deserialize(System.IO.Stream,System.Runtime.Remoting.Messaging.HeaderHandler)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IRemotingFormatter.Deserialize(System.IO.Stream,System.Runtime.Remoting.Messaging.HeaderHandler)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IRemotingFormatter.Deserialize(System.IO.Stream,System.Runtime.Remoting.Messaging.HeaderHandler)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IRemotingFormatter.Deserialize(System.IO.Stream,System.Runtime.Remoting.Messaging.HeaderHandler)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IRemotingFormatter.Deserialize(System.IO.Stream,System.Runtime.Remoting.Messaging.HeaderHandler)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IRemotingFormatter.Deserialize(System.IO.Stream,System.Runtime.Remoting.Messaging.HeaderHandler)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IRemotingFormatter.Deserialize(System.IO.Stream,System.Runtime.Remoting.Messaging.HeaderHandler)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IRemotingFormatter.Deserialize(System.IO.Stream,System.Runtime.Remoting.Messaging.HeaderHandler)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IRemotingFormatter.Deserialize(System.IO.Stream,System.Runtime.Remoting.Messaging.HeaderHandler)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.Remoting.Messaging.IRemotingFormatter.Deserialize(System.IO.Stream,System.Runtime.Remoting.Messaging.HeaderHandler)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -400,6 +460,21 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Serialize(System.IO.Stream,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Serialize(System.IO.Stream,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Serialize(System.IO.Stream,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Serialize(System.IO.Stream,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Serialize(System.IO.Stream,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Serialize(System.IO.Stream,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Serialize(System.IO.Stream,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Serialize(System.IO.Stream,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Serialize(System.IO.Stream,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Serialize(System.IO.Stream,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Serialize(System.IO.Stream,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Serialize(System.IO.Stream,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Serialize(System.IO.Stream,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Serialize(System.IO.Stream,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Serialize(System.IO.Stream,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Serialize(System.IO.Stream,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Runtime.Serialization.Formatters.Soap</AssemblyName>
@@ -447,6 +522,21 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.Remoting.Messaging.IRemotingFormatter.Serialize(System.IO.Stream,System.Object,System.Runtime.Remoting.Messaging.Header[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IRemotingFormatter.Serialize(System.IO.Stream,System.Object,System.Runtime.Remoting.Messaging.Header[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IRemotingFormatter.Serialize(System.IO.Stream,System.Object,System.Runtime.Remoting.Messaging.Header[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IRemotingFormatter.Serialize(System.IO.Stream,System.Object,System.Runtime.Remoting.Messaging.Header[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IRemotingFormatter.Serialize(System.IO.Stream,System.Object,System.Runtime.Remoting.Messaging.Header[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IRemotingFormatter.Serialize(System.IO.Stream,System.Object,System.Runtime.Remoting.Messaging.Header[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IRemotingFormatter.Serialize(System.IO.Stream,System.Object,System.Runtime.Remoting.Messaging.Header[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IRemotingFormatter.Serialize(System.IO.Stream,System.Object,System.Runtime.Remoting.Messaging.Header[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IRemotingFormatter.Serialize(System.IO.Stream,System.Object,System.Runtime.Remoting.Messaging.Header[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IRemotingFormatter.Serialize(System.IO.Stream,System.Object,System.Runtime.Remoting.Messaging.Header[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IRemotingFormatter.Serialize(System.IO.Stream,System.Object,System.Runtime.Remoting.Messaging.Header[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IRemotingFormatter.Serialize(System.IO.Stream,System.Object,System.Runtime.Remoting.Messaging.Header[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IRemotingFormatter.Serialize(System.IO.Stream,System.Object,System.Runtime.Remoting.Messaging.Header[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IRemotingFormatter.Serialize(System.IO.Stream,System.Object,System.Runtime.Remoting.Messaging.Header[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IRemotingFormatter.Serialize(System.IO.Stream,System.Object,System.Runtime.Remoting.Messaging.Header[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.Remoting.Messaging.IRemotingFormatter.Serialize(System.IO.Stream,System.Object,System.Runtime.Remoting.Messaging.Header[])</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Runtime.Serialization.Formatters.Soap</AssemblyName>
@@ -490,6 +580,21 @@
       <MemberSignature Language="F#" Value="member this.SurrogateSelector : System.Runtime.Serialization.ISurrogateSelector with get, set" Usage="System.Runtime.Serialization.Formatters.Soap.SoapFormatter.SurrogateSelector" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.SurrogateSelector</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.SurrogateSelector</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.SurrogateSelector</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.SurrogateSelector</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.SurrogateSelector</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.SurrogateSelector</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.SurrogateSelector</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.SurrogateSelector</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.SurrogateSelector</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.SurrogateSelector</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.SurrogateSelector</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.SurrogateSelector</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.SurrogateSelector</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.SurrogateSelector</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.SurrogateSelector</InterfaceMember>
         <InterfaceMember>P:System.Runtime.Serialization.IFormatter.SurrogateSelector</InterfaceMember>
       </Implements>
       <AssemblyInfo>

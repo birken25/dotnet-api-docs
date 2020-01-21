@@ -38,6 +38,8 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.IE.ISecureFactory.CreateInstanceWithSecurity(System.Int32,System.Int32,System.String,System.String,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.IE.ISecureFactory.CreateInstanceWithSecurity(System.Int32,System.Int32,System.String,System.String,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.IE.ISecureFactory.CreateInstanceWithSecurity(System.Int32,System.Int32,System.String,System.String,System.String,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>IIEHost</AssemblyName>

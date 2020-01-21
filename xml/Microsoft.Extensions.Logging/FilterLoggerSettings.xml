@@ -83,6 +83,7 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Extensions.Logging.IFilterLoggerSettings.ChangeToken</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.Logging.IFilterLoggerSettings.ChangeToken</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Logging.Filter</AssemblyName>
@@ -106,6 +107,7 @@
       <MemberSignature Language="C++ CLI" Value=" virtual Microsoft::Extensions::Logging::IFilterLoggerSettings ^ Microsoft.Extensions.Logging.IFilterLoggerSettings.Reload() = Microsoft::Extensions::Logging::IFilterLoggerSettings::Reload;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.IFilterLoggerSettings.Reload</InterfaceMember>
         <InterfaceMember>M:Microsoft.Extensions.Logging.IFilterLoggerSettings.Reload</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -154,6 +156,7 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Logging.Filter</AssemblyName>
@@ -178,6 +181,7 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Collections::IEnumerator ^ System.Collections.IEnumerable.GetEnumerator() = System::Collections::IEnumerable::GetEnumerator;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
         <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -204,6 +208,7 @@
       <MemberSignature Language="F#" Value="abstract member TryGetSwitch : string * LogLevel -&gt; bool&#xA;override this.TryGetSwitch : string * LogLevel -&gt; bool" Usage="filterLoggerSettings.TryGetSwitch (name, level)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.IFilterLoggerSettings.TryGetSwitch(System.String,Microsoft.Extensions.Logging.LogLevel@)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Extensions.Logging.IFilterLoggerSettings.TryGetSwitch(System.String,Microsoft.Extensions.Logging.LogLevel@)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

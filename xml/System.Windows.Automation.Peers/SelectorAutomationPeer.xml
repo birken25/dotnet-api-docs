@@ -113,6 +113,20 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.CanSelectMultiple</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.CanSelectMultiple</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.CanSelectMultiple</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.CanSelectMultiple</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.CanSelectMultiple</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.CanSelectMultiple</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.CanSelectMultiple</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.CanSelectMultiple</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.CanSelectMultiple</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.CanSelectMultiple</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.CanSelectMultiple</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.CanSelectMultiple</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.CanSelectMultiple</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.CanSelectMultiple</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.CanSelectMultiple</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -137,6 +151,20 @@
       <MemberSignature Language="C++ CLI" Value=" virtual cli::array &lt;System::Windows::Automation::Provider::IRawElementProviderSimple ^&gt; ^ System.Windows.Automation.Provider.ISelectionProvider.GetSelection() = System::Windows::Automation::Provider::ISelectionProvider::GetSelection;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionProvider.GetSelection</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionProvider.GetSelection</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionProvider.GetSelection</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionProvider.GetSelection</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionProvider.GetSelection</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionProvider.GetSelection</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionProvider.GetSelection</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionProvider.GetSelection</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionProvider.GetSelection</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionProvider.GetSelection</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionProvider.GetSelection</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionProvider.GetSelection</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionProvider.GetSelection</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionProvider.GetSelection</InterfaceMember>
         <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionProvider.GetSelection</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -163,6 +191,20 @@
       <MemberSignature Language="F#" Usage="System.Windows.Automation.Provider.ISelectionProvider.IsSelectionRequired" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.IsSelectionRequired</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.IsSelectionRequired</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.IsSelectionRequired</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.IsSelectionRequired</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.IsSelectionRequired</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.IsSelectionRequired</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.IsSelectionRequired</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.IsSelectionRequired</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.IsSelectionRequired</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.IsSelectionRequired</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.IsSelectionRequired</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.IsSelectionRequired</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.IsSelectionRequired</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.IsSelectionRequired</InterfaceMember>
         <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.IsSelectionRequired</InterfaceMember>
       </Implements>
       <AssemblyInfo>

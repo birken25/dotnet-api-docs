@@ -148,6 +148,19 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.UI.Design.IDataSourceDesigner.CanConfigure</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataSourceDesigner.CanConfigure</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataSourceDesigner.CanConfigure</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataSourceDesigner.CanConfigure</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataSourceDesigner.CanConfigure</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataSourceDesigner.CanConfigure</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataSourceDesigner.CanConfigure</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataSourceDesigner.CanConfigure</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataSourceDesigner.CanConfigure</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataSourceDesigner.CanConfigure</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataSourceDesigner.CanConfigure</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataSourceDesigner.CanConfigure</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataSourceDesigner.CanConfigure</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataSourceDesigner.CanConfigure</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -184,6 +197,19 @@
       <MemberSignature Language="F#" Value="member this.CanRefreshSchema : bool" Usage="System.Web.UI.Design.DataSourceDesigner.CanRefreshSchema" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Web.UI.Design.IDataSourceDesigner.CanRefreshSchema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataSourceDesigner.CanRefreshSchema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataSourceDesigner.CanRefreshSchema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataSourceDesigner.CanRefreshSchema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataSourceDesigner.CanRefreshSchema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataSourceDesigner.CanRefreshSchema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataSourceDesigner.CanRefreshSchema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataSourceDesigner.CanRefreshSchema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataSourceDesigner.CanRefreshSchema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataSourceDesigner.CanRefreshSchema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataSourceDesigner.CanRefreshSchema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataSourceDesigner.CanRefreshSchema</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.Design.IDataSourceDesigner.CanRefreshSchema</InterfaceMember>
         <InterfaceMember>P:System.Web.UI.Design.IDataSourceDesigner.CanRefreshSchema</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -232,6 +258,19 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.Configure</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.Configure</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.Configure</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.Configure</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.Configure</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.Configure</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.Configure</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.Configure</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.Configure</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.Configure</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.Configure</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.Configure</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.Configure</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.Configure</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -272,6 +311,19 @@
       <MemberSignature Language="F#" Value="member this.DataSourceChanged : EventHandler " Usage="member this.DataSourceChanged : System.EventHandler " />
       <MemberType>Event</MemberType>
       <Implements>
+        <InterfaceMember>E:System.Web.UI.Design.IDataSourceDesigner.DataSourceChanged</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.Design.IDataSourceDesigner.DataSourceChanged</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.Design.IDataSourceDesigner.DataSourceChanged</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.Design.IDataSourceDesigner.DataSourceChanged</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.Design.IDataSourceDesigner.DataSourceChanged</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.Design.IDataSourceDesigner.DataSourceChanged</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.Design.IDataSourceDesigner.DataSourceChanged</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.Design.IDataSourceDesigner.DataSourceChanged</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.Design.IDataSourceDesigner.DataSourceChanged</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.Design.IDataSourceDesigner.DataSourceChanged</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.Design.IDataSourceDesigner.DataSourceChanged</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.Design.IDataSourceDesigner.DataSourceChanged</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.Design.IDataSourceDesigner.DataSourceChanged</InterfaceMember>
         <InterfaceMember>E:System.Web.UI.Design.IDataSourceDesigner.DataSourceChanged</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -341,6 +393,19 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.GetView(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -379,6 +444,19 @@
       <MemberSignature Language="F#" Value="abstract member GetViewNames : unit -&gt; string[]&#xA;override this.GetViewNames : unit -&gt; string[]" Usage="dataSourceDesigner.GetViewNames " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.GetViewNames</InterfaceMember>
         <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.GetViewNames</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -479,6 +557,19 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.RefreshSchema(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.RefreshSchema(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.RefreshSchema(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.RefreshSchema(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.RefreshSchema(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.RefreshSchema(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.RefreshSchema(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.RefreshSchema(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.RefreshSchema(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.RefreshSchema(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.RefreshSchema(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.RefreshSchema(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.RefreshSchema(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.RefreshSchema(System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -520,6 +611,19 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.ResumeDataSourceEvents</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.ResumeDataSourceEvents</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.ResumeDataSourceEvents</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.ResumeDataSourceEvents</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.ResumeDataSourceEvents</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.ResumeDataSourceEvents</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.ResumeDataSourceEvents</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.ResumeDataSourceEvents</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.ResumeDataSourceEvents</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.ResumeDataSourceEvents</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.ResumeDataSourceEvents</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.ResumeDataSourceEvents</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.ResumeDataSourceEvents</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.ResumeDataSourceEvents</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -554,6 +658,19 @@
       <MemberSignature Language="F#" Value="member this.SchemaRefreshed : EventHandler " Usage="member this.SchemaRefreshed : System.EventHandler " />
       <MemberType>Event</MemberType>
       <Implements>
+        <InterfaceMember>E:System.Web.UI.Design.IDataSourceDesigner.SchemaRefreshed</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.Design.IDataSourceDesigner.SchemaRefreshed</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.Design.IDataSourceDesigner.SchemaRefreshed</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.Design.IDataSourceDesigner.SchemaRefreshed</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.Design.IDataSourceDesigner.SchemaRefreshed</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.Design.IDataSourceDesigner.SchemaRefreshed</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.Design.IDataSourceDesigner.SchemaRefreshed</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.Design.IDataSourceDesigner.SchemaRefreshed</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.Design.IDataSourceDesigner.SchemaRefreshed</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.Design.IDataSourceDesigner.SchemaRefreshed</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.Design.IDataSourceDesigner.SchemaRefreshed</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.Design.IDataSourceDesigner.SchemaRefreshed</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.Design.IDataSourceDesigner.SchemaRefreshed</InterfaceMember>
         <InterfaceMember>E:System.Web.UI.Design.IDataSourceDesigner.SchemaRefreshed</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -628,6 +745,19 @@
       <MemberSignature Language="F#" Value="abstract member SuppressDataSourceEvents : unit -&gt; unit&#xA;override this.SuppressDataSourceEvents : unit -&gt; unit" Usage="dataSourceDesigner.SuppressDataSourceEvents " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.SuppressDataSourceEvents</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.SuppressDataSourceEvents</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.SuppressDataSourceEvents</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.SuppressDataSourceEvents</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.SuppressDataSourceEvents</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.SuppressDataSourceEvents</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.SuppressDataSourceEvents</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.SuppressDataSourceEvents</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.SuppressDataSourceEvents</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.SuppressDataSourceEvents</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.SuppressDataSourceEvents</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.SuppressDataSourceEvents</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.SuppressDataSourceEvents</InterfaceMember>
         <InterfaceMember>M:System.Web.UI.Design.IDataSourceDesigner.SuppressDataSourceEvents</InterfaceMember>
       </Implements>
       <AssemblyInfo>

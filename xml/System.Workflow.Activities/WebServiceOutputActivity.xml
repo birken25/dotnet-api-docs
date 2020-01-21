@@ -351,6 +351,18 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Workflow.ComponentModel.IDynamicPropertyTypeProvider.GetAccessType(System.IServiceProvider,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.IDynamicPropertyTypeProvider.GetAccessType(System.IServiceProvider,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.IDynamicPropertyTypeProvider.GetAccessType(System.IServiceProvider,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.IDynamicPropertyTypeProvider.GetAccessType(System.IServiceProvider,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.IDynamicPropertyTypeProvider.GetAccessType(System.IServiceProvider,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.IDynamicPropertyTypeProvider.GetAccessType(System.IServiceProvider,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.IDynamicPropertyTypeProvider.GetAccessType(System.IServiceProvider,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.IDynamicPropertyTypeProvider.GetAccessType(System.IServiceProvider,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.IDynamicPropertyTypeProvider.GetAccessType(System.IServiceProvider,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.IDynamicPropertyTypeProvider.GetAccessType(System.IServiceProvider,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.IDynamicPropertyTypeProvider.GetAccessType(System.IServiceProvider,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.IDynamicPropertyTypeProvider.GetAccessType(System.IServiceProvider,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.IDynamicPropertyTypeProvider.GetAccessType(System.IServiceProvider,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Workflow.Activities</AssemblyName>
@@ -387,6 +399,18 @@
       <MemberSignature Language="C++ CLI" Value=" virtual Type ^ System.Workflow.ComponentModel.IDynamicPropertyTypeProvider.GetPropertyType(IServiceProvider ^ serviceProvider, System::String ^ propertyName) = System::Workflow::ComponentModel::IDynamicPropertyTypeProvider::GetPropertyType;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Workflow.ComponentModel.IDynamicPropertyTypeProvider.GetPropertyType(System.IServiceProvider,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.IDynamicPropertyTypeProvider.GetPropertyType(System.IServiceProvider,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.IDynamicPropertyTypeProvider.GetPropertyType(System.IServiceProvider,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.IDynamicPropertyTypeProvider.GetPropertyType(System.IServiceProvider,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.IDynamicPropertyTypeProvider.GetPropertyType(System.IServiceProvider,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.IDynamicPropertyTypeProvider.GetPropertyType(System.IServiceProvider,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.IDynamicPropertyTypeProvider.GetPropertyType(System.IServiceProvider,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.IDynamicPropertyTypeProvider.GetPropertyType(System.IServiceProvider,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.IDynamicPropertyTypeProvider.GetPropertyType(System.IServiceProvider,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.IDynamicPropertyTypeProvider.GetPropertyType(System.IServiceProvider,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.IDynamicPropertyTypeProvider.GetPropertyType(System.IServiceProvider,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Workflow.ComponentModel.IDynamicPropertyTypeProvider.GetPropertyType(System.IServiceProvider,System.String)</InterfaceMember>
         <InterfaceMember>M:System.Workflow.ComponentModel.IDynamicPropertyTypeProvider.GetPropertyType(System.IServiceProvider,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

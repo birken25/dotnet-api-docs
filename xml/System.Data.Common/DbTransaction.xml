@@ -86,6 +86,31 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.IDbTransaction.Commit</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbTransaction.Commit</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbTransaction.Commit</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbTransaction.Commit</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbTransaction.Commit</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbTransaction.Commit</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbTransaction.Commit</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbTransaction.Commit</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbTransaction.Commit</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbTransaction.Commit</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbTransaction.Commit</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbTransaction.Commit</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbTransaction.Commit</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbTransaction.Commit</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbTransaction.Commit</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbTransaction.Commit</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbTransaction.Commit</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbTransaction.Commit</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbTransaction.Commit</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbTransaction.Commit</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbTransaction.Commit</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbTransaction.Commit</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbTransaction.Commit</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbTransaction.Commit</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbTransaction.Commit</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbTransaction.Commit</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Common</AssemblyName>
@@ -118,7 +143,7 @@
       </Docs>
     </Member>
     <Member MemberName="CommitAsync">
-      <MemberSignature Language="C#" Value="public virtual System.Threading.Tasks.Task CommitAsync (System.Threading.CancellationToken cancellationToken = null);" />
+      <MemberSignature Language="C#" Value="public virtual System.Threading.Tasks.Task CommitAsync (System.Threading.CancellationToken cancellationToken = default);" />
       <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class System.Threading.Tasks.Task CommitAsync(valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
       <MemberSignature Language="DocId" Value="M:System.Data.Common.DbTransaction.CommitAsync(System.Threading.CancellationToken)" />
       <MemberSignature Language="F#" Value="abstract member CommitAsync : System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&#xA;override this.CommitAsync : System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task" Usage="dbTransaction.CommitAsync cancellationToken" />
@@ -276,6 +301,30 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Common</AssemblyName>
@@ -372,6 +421,8 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IAsyncDisposable.DisposeAsync</InterfaceMember>
+        <InterfaceMember>M:System.IAsyncDisposable.DisposeAsync</InterfaceMember>
+        <InterfaceMember>M:System.IAsyncDisposable.DisposeAsync</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Common</AssemblyName>
@@ -414,6 +465,31 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Data.IDbTransaction.IsolationLevel</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbTransaction.IsolationLevel</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbTransaction.IsolationLevel</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbTransaction.IsolationLevel</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbTransaction.IsolationLevel</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbTransaction.IsolationLevel</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbTransaction.IsolationLevel</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbTransaction.IsolationLevel</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbTransaction.IsolationLevel</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbTransaction.IsolationLevel</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbTransaction.IsolationLevel</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbTransaction.IsolationLevel</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbTransaction.IsolationLevel</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbTransaction.IsolationLevel</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbTransaction.IsolationLevel</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbTransaction.IsolationLevel</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbTransaction.IsolationLevel</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbTransaction.IsolationLevel</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbTransaction.IsolationLevel</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbTransaction.IsolationLevel</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbTransaction.IsolationLevel</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbTransaction.IsolationLevel</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbTransaction.IsolationLevel</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbTransaction.IsolationLevel</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbTransaction.IsolationLevel</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbTransaction.IsolationLevel</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Common</AssemblyName>
@@ -455,6 +531,31 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.IDbTransaction.Rollback</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbTransaction.Rollback</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbTransaction.Rollback</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbTransaction.Rollback</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbTransaction.Rollback</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbTransaction.Rollback</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbTransaction.Rollback</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbTransaction.Rollback</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbTransaction.Rollback</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbTransaction.Rollback</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbTransaction.Rollback</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbTransaction.Rollback</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbTransaction.Rollback</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbTransaction.Rollback</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbTransaction.Rollback</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbTransaction.Rollback</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbTransaction.Rollback</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbTransaction.Rollback</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbTransaction.Rollback</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbTransaction.Rollback</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbTransaction.Rollback</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbTransaction.Rollback</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbTransaction.Rollback</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbTransaction.Rollback</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbTransaction.Rollback</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbTransaction.Rollback</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Common</AssemblyName>
@@ -487,7 +588,7 @@
       </Docs>
     </Member>
     <Member MemberName="RollbackAsync">
-      <MemberSignature Language="C#" Value="public virtual System.Threading.Tasks.Task RollbackAsync (System.Threading.CancellationToken cancellationToken = null);" />
+      <MemberSignature Language="C#" Value="public virtual System.Threading.Tasks.Task RollbackAsync (System.Threading.CancellationToken cancellationToken = default);" />
       <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class System.Threading.Tasks.Task RollbackAsync(valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
       <MemberSignature Language="DocId" Value="M:System.Data.Common.DbTransaction.RollbackAsync(System.Threading.CancellationToken)" />
       <MemberSignature Language="F#" Value="abstract member RollbackAsync : System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&#xA;override this.RollbackAsync : System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task" Usage="dbTransaction.RollbackAsync cancellationToken" />
@@ -535,6 +636,31 @@
       <MemberSignature Language="F#" Usage="System.Data.IDbTransaction.Connection" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Data.IDbTransaction.Connection</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbTransaction.Connection</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbTransaction.Connection</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbTransaction.Connection</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbTransaction.Connection</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbTransaction.Connection</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbTransaction.Connection</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbTransaction.Connection</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbTransaction.Connection</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbTransaction.Connection</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbTransaction.Connection</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbTransaction.Connection</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbTransaction.Connection</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbTransaction.Connection</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbTransaction.Connection</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbTransaction.Connection</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbTransaction.Connection</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbTransaction.Connection</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbTransaction.Connection</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbTransaction.Connection</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbTransaction.Connection</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbTransaction.Connection</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbTransaction.Connection</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbTransaction.Connection</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbTransaction.Connection</InterfaceMember>
         <InterfaceMember>P:System.Data.IDbTransaction.Connection</InterfaceMember>
       </Implements>
       <AssemblyInfo>

@@ -179,6 +179,30 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.ComponentModel.Design.ServiceCreatorCallback)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.ComponentModel.Design.ServiceCreatorCallback)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.ComponentModel.Design.ServiceCreatorCallback)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.ComponentModel.Design.ServiceCreatorCallback)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.ComponentModel.Design.ServiceCreatorCallback)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.ComponentModel.Design.ServiceCreatorCallback)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.ComponentModel.Design.ServiceCreatorCallback)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.ComponentModel.Design.ServiceCreatorCallback)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.ComponentModel.Design.ServiceCreatorCallback)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.ComponentModel.Design.ServiceCreatorCallback)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.ComponentModel.Design.ServiceCreatorCallback)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.ComponentModel.Design.ServiceCreatorCallback)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.ComponentModel.Design.ServiceCreatorCallback)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.ComponentModel.Design.ServiceCreatorCallback)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.ComponentModel.Design.ServiceCreatorCallback)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.ComponentModel.Design.ServiceCreatorCallback)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.ComponentModel.Design.ServiceCreatorCallback)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.ComponentModel.Design.ServiceCreatorCallback)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.ComponentModel.Design.ServiceCreatorCallback)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.ComponentModel.Design.ServiceCreatorCallback)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.ComponentModel.Design.ServiceCreatorCallback)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.ComponentModel.Design.ServiceCreatorCallback)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.ComponentModel.Design.ServiceCreatorCallback)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.ComponentModel.Design.ServiceCreatorCallback)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.ComponentModel.Design.ServiceCreatorCallback)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System</AssemblyName>
@@ -241,6 +265,30 @@
       <MemberSignature Language="F#" Value="abstract member AddService : Type * obj -&gt; unit&#xA;override this.AddService : Type * obj -&gt; unit" Usage="serviceContainer.AddService (serviceType, serviceInstance)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.Object)</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -307,6 +355,30 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.ComponentModel.Design.ServiceCreatorCallback,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.ComponentModel.Design.ServiceCreatorCallback,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.ComponentModel.Design.ServiceCreatorCallback,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.ComponentModel.Design.ServiceCreatorCallback,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.ComponentModel.Design.ServiceCreatorCallback,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.ComponentModel.Design.ServiceCreatorCallback,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.ComponentModel.Design.ServiceCreatorCallback,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.ComponentModel.Design.ServiceCreatorCallback,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.ComponentModel.Design.ServiceCreatorCallback,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.ComponentModel.Design.ServiceCreatorCallback,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.ComponentModel.Design.ServiceCreatorCallback,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.ComponentModel.Design.ServiceCreatorCallback,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.ComponentModel.Design.ServiceCreatorCallback,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.ComponentModel.Design.ServiceCreatorCallback,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.ComponentModel.Design.ServiceCreatorCallback,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.ComponentModel.Design.ServiceCreatorCallback,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.ComponentModel.Design.ServiceCreatorCallback,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.ComponentModel.Design.ServiceCreatorCallback,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.ComponentModel.Design.ServiceCreatorCallback,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.ComponentModel.Design.ServiceCreatorCallback,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.ComponentModel.Design.ServiceCreatorCallback,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.ComponentModel.Design.ServiceCreatorCallback,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.ComponentModel.Design.ServiceCreatorCallback,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.ComponentModel.Design.ServiceCreatorCallback,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.ComponentModel.Design.ServiceCreatorCallback,System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System</AssemblyName>
@@ -358,6 +430,30 @@
       <MemberSignature Language="VB.NET" Value="Public Sub AddService (serviceType As Type, serviceInstance As Object, promote As Boolean)" FrameworkAlternate="netframework-1.1" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.Object,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.Object,System.Boolean)</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.AddService(System.Type,System.Object,System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -464,6 +560,29 @@
       <MemberSignature Language="F#" Value="abstract member Dispose : unit -&gt; unit&#xA;override this.Dispose : unit -&gt; unit" Usage="serviceContainer.Dispose " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -576,6 +695,30 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System</AssemblyName>
@@ -628,6 +771,30 @@
       <MemberSignature Language="F#" Value="abstract member RemoveService : Type -&gt; unit&#xA;override this.RemoveService : Type -&gt; unit" Usage="serviceContainer.RemoveService serviceType" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.RemoveService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.RemoveService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.RemoveService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.RemoveService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.RemoveService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.RemoveService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.RemoveService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.RemoveService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.RemoveService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.RemoveService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.RemoveService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.RemoveService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.RemoveService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.RemoveService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.RemoveService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.RemoveService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.RemoveService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.RemoveService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.RemoveService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.RemoveService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.RemoveService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.RemoveService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.RemoveService(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.RemoveService(System.Type)</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.RemoveService(System.Type)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -690,6 +857,30 @@
       <MemberSignature Language="VB.NET" Value="Public Sub RemoveService (serviceType As Type, promote As Boolean)" FrameworkAlternate="netframework-1.1" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.RemoveService(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.RemoveService(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.RemoveService(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.RemoveService(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.RemoveService(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.RemoveService(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.RemoveService(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.RemoveService(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.RemoveService(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.RemoveService(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.RemoveService(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.RemoveService(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.RemoveService(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.RemoveService(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.RemoveService(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.RemoveService(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.RemoveService(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.RemoveService(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.RemoveService(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.RemoveService(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.RemoveService(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.RemoveService(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.RemoveService(System.Type,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.RemoveService(System.Type,System.Boolean)</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.Design.IServiceContainer.RemoveService(System.Type,System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

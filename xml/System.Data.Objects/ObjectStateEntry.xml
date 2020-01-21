@@ -37,6 +37,17 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.IEntityStateEntry.AcceptChanges</InterfaceMember>
+        <InterfaceMember>M:System.Data.IEntityStateEntry.AcceptChanges</InterfaceMember>
+        <InterfaceMember>M:System.Data.IEntityStateEntry.AcceptChanges</InterfaceMember>
+        <InterfaceMember>M:System.Data.IEntityStateEntry.AcceptChanges</InterfaceMember>
+        <InterfaceMember>M:System.Data.IEntityStateEntry.AcceptChanges</InterfaceMember>
+        <InterfaceMember>M:System.Data.IEntityStateEntry.AcceptChanges</InterfaceMember>
+        <InterfaceMember>M:System.Data.IEntityStateEntry.AcceptChanges</InterfaceMember>
+        <InterfaceMember>M:System.Data.IEntityStateEntry.AcceptChanges</InterfaceMember>
+        <InterfaceMember>M:System.Data.IEntityStateEntry.AcceptChanges</InterfaceMember>
+        <InterfaceMember>M:System.Data.IEntityStateEntry.AcceptChanges</InterfaceMember>
+        <InterfaceMember>M:System.Data.IEntityStateEntry.AcceptChanges</InterfaceMember>
+        <InterfaceMember>M:System.Data.IEntityStateEntry.AcceptChanges</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Entity</AssemblyName>
@@ -137,6 +148,17 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Data.IEntityStateEntry.CurrentValues</InterfaceMember>
+        <InterfaceMember>P:System.Data.IEntityStateEntry.CurrentValues</InterfaceMember>
+        <InterfaceMember>P:System.Data.IEntityStateEntry.CurrentValues</InterfaceMember>
+        <InterfaceMember>P:System.Data.IEntityStateEntry.CurrentValues</InterfaceMember>
+        <InterfaceMember>P:System.Data.IEntityStateEntry.CurrentValues</InterfaceMember>
+        <InterfaceMember>P:System.Data.IEntityStateEntry.CurrentValues</InterfaceMember>
+        <InterfaceMember>P:System.Data.IEntityStateEntry.CurrentValues</InterfaceMember>
+        <InterfaceMember>P:System.Data.IEntityStateEntry.CurrentValues</InterfaceMember>
+        <InterfaceMember>P:System.Data.IEntityStateEntry.CurrentValues</InterfaceMember>
+        <InterfaceMember>P:System.Data.IEntityStateEntry.CurrentValues</InterfaceMember>
+        <InterfaceMember>P:System.Data.IEntityStateEntry.CurrentValues</InterfaceMember>
+        <InterfaceMember>P:System.Data.IEntityStateEntry.CurrentValues</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Entity</AssemblyName>
@@ -170,6 +192,17 @@
       <MemberSignature Language="F#" Value="abstract member Delete : unit -&gt; unit" Usage="objectStateEntry.Delete " FrameworkAlternate="netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Data.IEntityStateEntry.Delete</InterfaceMember>
+        <InterfaceMember>M:System.Data.IEntityStateEntry.Delete</InterfaceMember>
+        <InterfaceMember>M:System.Data.IEntityStateEntry.Delete</InterfaceMember>
+        <InterfaceMember>M:System.Data.IEntityStateEntry.Delete</InterfaceMember>
+        <InterfaceMember>M:System.Data.IEntityStateEntry.Delete</InterfaceMember>
+        <InterfaceMember>M:System.Data.IEntityStateEntry.Delete</InterfaceMember>
+        <InterfaceMember>M:System.Data.IEntityStateEntry.Delete</InterfaceMember>
+        <InterfaceMember>M:System.Data.IEntityStateEntry.Delete</InterfaceMember>
+        <InterfaceMember>M:System.Data.IEntityStateEntry.Delete</InterfaceMember>
+        <InterfaceMember>M:System.Data.IEntityStateEntry.Delete</InterfaceMember>
+        <InterfaceMember>M:System.Data.IEntityStateEntry.Delete</InterfaceMember>
         <InterfaceMember>M:System.Data.IEntityStateEntry.Delete</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -246,6 +279,17 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Data.IEntityStateEntry.EntitySet</InterfaceMember>
+        <InterfaceMember>P:System.Data.IEntityStateEntry.EntitySet</InterfaceMember>
+        <InterfaceMember>P:System.Data.IEntityStateEntry.EntitySet</InterfaceMember>
+        <InterfaceMember>P:System.Data.IEntityStateEntry.EntitySet</InterfaceMember>
+        <InterfaceMember>P:System.Data.IEntityStateEntry.EntitySet</InterfaceMember>
+        <InterfaceMember>P:System.Data.IEntityStateEntry.EntitySet</InterfaceMember>
+        <InterfaceMember>P:System.Data.IEntityStateEntry.EntitySet</InterfaceMember>
+        <InterfaceMember>P:System.Data.IEntityStateEntry.EntitySet</InterfaceMember>
+        <InterfaceMember>P:System.Data.IEntityStateEntry.EntitySet</InterfaceMember>
+        <InterfaceMember>P:System.Data.IEntityStateEntry.EntitySet</InterfaceMember>
+        <InterfaceMember>P:System.Data.IEntityStateEntry.EntitySet</InterfaceMember>
+        <InterfaceMember>P:System.Data.IEntityStateEntry.EntitySet</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Entity</AssemblyName>
@@ -274,6 +318,17 @@
       <MemberSignature Language="F#" Value="abstract member GetModifiedProperties : unit -&gt; seq&lt;string&gt;" Usage="objectStateEntry.GetModifiedProperties " FrameworkAlternate="netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Data.IEntityStateEntry.GetModifiedProperties</InterfaceMember>
+        <InterfaceMember>M:System.Data.IEntityStateEntry.GetModifiedProperties</InterfaceMember>
+        <InterfaceMember>M:System.Data.IEntityStateEntry.GetModifiedProperties</InterfaceMember>
+        <InterfaceMember>M:System.Data.IEntityStateEntry.GetModifiedProperties</InterfaceMember>
+        <InterfaceMember>M:System.Data.IEntityStateEntry.GetModifiedProperties</InterfaceMember>
+        <InterfaceMember>M:System.Data.IEntityStateEntry.GetModifiedProperties</InterfaceMember>
+        <InterfaceMember>M:System.Data.IEntityStateEntry.GetModifiedProperties</InterfaceMember>
+        <InterfaceMember>M:System.Data.IEntityStateEntry.GetModifiedProperties</InterfaceMember>
+        <InterfaceMember>M:System.Data.IEntityStateEntry.GetModifiedProperties</InterfaceMember>
+        <InterfaceMember>M:System.Data.IEntityStateEntry.GetModifiedProperties</InterfaceMember>
+        <InterfaceMember>M:System.Data.IEntityStateEntry.GetModifiedProperties</InterfaceMember>
         <InterfaceMember>M:System.Data.IEntityStateEntry.GetModifiedProperties</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -359,6 +414,17 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Data.IEntityStateEntry.IsRelationship</InterfaceMember>
+        <InterfaceMember>P:System.Data.IEntityStateEntry.IsRelationship</InterfaceMember>
+        <InterfaceMember>P:System.Data.IEntityStateEntry.IsRelationship</InterfaceMember>
+        <InterfaceMember>P:System.Data.IEntityStateEntry.IsRelationship</InterfaceMember>
+        <InterfaceMember>P:System.Data.IEntityStateEntry.IsRelationship</InterfaceMember>
+        <InterfaceMember>P:System.Data.IEntityStateEntry.IsRelationship</InterfaceMember>
+        <InterfaceMember>P:System.Data.IEntityStateEntry.IsRelationship</InterfaceMember>
+        <InterfaceMember>P:System.Data.IEntityStateEntry.IsRelationship</InterfaceMember>
+        <InterfaceMember>P:System.Data.IEntityStateEntry.IsRelationship</InterfaceMember>
+        <InterfaceMember>P:System.Data.IEntityStateEntry.IsRelationship</InterfaceMember>
+        <InterfaceMember>P:System.Data.IEntityStateEntry.IsRelationship</InterfaceMember>
+        <InterfaceMember>P:System.Data.IEntityStateEntry.IsRelationship</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Entity</AssemblyName>
@@ -409,6 +475,17 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; abstract property System::Data::Common::DbDataRecord ^ OriginalValues { System::Data::Common::DbDataRecord ^ get(); };" FrameworkAlternate="netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Data.IEntityStateEntry.OriginalValues</InterfaceMember>
+        <InterfaceMember>P:System.Data.IEntityStateEntry.OriginalValues</InterfaceMember>
+        <InterfaceMember>P:System.Data.IEntityStateEntry.OriginalValues</InterfaceMember>
+        <InterfaceMember>P:System.Data.IEntityStateEntry.OriginalValues</InterfaceMember>
+        <InterfaceMember>P:System.Data.IEntityStateEntry.OriginalValues</InterfaceMember>
+        <InterfaceMember>P:System.Data.IEntityStateEntry.OriginalValues</InterfaceMember>
+        <InterfaceMember>P:System.Data.IEntityStateEntry.OriginalValues</InterfaceMember>
+        <InterfaceMember>P:System.Data.IEntityStateEntry.OriginalValues</InterfaceMember>
+        <InterfaceMember>P:System.Data.IEntityStateEntry.OriginalValues</InterfaceMember>
+        <InterfaceMember>P:System.Data.IEntityStateEntry.OriginalValues</InterfaceMember>
+        <InterfaceMember>P:System.Data.IEntityStateEntry.OriginalValues</InterfaceMember>
         <InterfaceMember>P:System.Data.IEntityStateEntry.OriginalValues</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -496,6 +573,17 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.IEntityStateEntry.SetModified</InterfaceMember>
+        <InterfaceMember>M:System.Data.IEntityStateEntry.SetModified</InterfaceMember>
+        <InterfaceMember>M:System.Data.IEntityStateEntry.SetModified</InterfaceMember>
+        <InterfaceMember>M:System.Data.IEntityStateEntry.SetModified</InterfaceMember>
+        <InterfaceMember>M:System.Data.IEntityStateEntry.SetModified</InterfaceMember>
+        <InterfaceMember>M:System.Data.IEntityStateEntry.SetModified</InterfaceMember>
+        <InterfaceMember>M:System.Data.IEntityStateEntry.SetModified</InterfaceMember>
+        <InterfaceMember>M:System.Data.IEntityStateEntry.SetModified</InterfaceMember>
+        <InterfaceMember>M:System.Data.IEntityStateEntry.SetModified</InterfaceMember>
+        <InterfaceMember>M:System.Data.IEntityStateEntry.SetModified</InterfaceMember>
+        <InterfaceMember>M:System.Data.IEntityStateEntry.SetModified</InterfaceMember>
+        <InterfaceMember>M:System.Data.IEntityStateEntry.SetModified</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Entity</AssemblyName>
@@ -524,6 +612,17 @@
       <MemberSignature Language="F#" Value="abstract member SetModifiedProperty : string -&gt; unit" Usage="objectStateEntry.SetModifiedProperty propertyName" FrameworkAlternate="netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Data.IEntityStateEntry.SetModifiedProperty(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IEntityStateEntry.SetModifiedProperty(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IEntityStateEntry.SetModifiedProperty(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IEntityStateEntry.SetModifiedProperty(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IEntityStateEntry.SetModifiedProperty(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IEntityStateEntry.SetModifiedProperty(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IEntityStateEntry.SetModifiedProperty(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IEntityStateEntry.SetModifiedProperty(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IEntityStateEntry.SetModifiedProperty(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IEntityStateEntry.SetModifiedProperty(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IEntityStateEntry.SetModifiedProperty(System.String)</InterfaceMember>
         <InterfaceMember>M:System.Data.IEntityStateEntry.SetModifiedProperty(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -582,6 +681,17 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityComplexMemberChanged(System.String,System.Object,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityComplexMemberChanged(System.String,System.Object,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityComplexMemberChanged(System.String,System.Object,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityComplexMemberChanged(System.String,System.Object,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityComplexMemberChanged(System.String,System.Object,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityComplexMemberChanged(System.String,System.Object,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityComplexMemberChanged(System.String,System.Object,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityComplexMemberChanged(System.String,System.Object,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityComplexMemberChanged(System.String,System.Object,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityComplexMemberChanged(System.String,System.Object,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityComplexMemberChanged(System.String,System.Object,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityComplexMemberChanged(System.String,System.Object,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Entity</AssemblyName>
@@ -617,6 +727,17 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Data.Objects.DataClasses.IEntityChangeTracker.EntityComplexMemberChanging(System::String ^ entityMemberName, System::Object ^ complexObject, System::String ^ complexObjectMemberName) = System::Data::Objects::DataClasses::IEntityChangeTracker::EntityComplexMemberChanging;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityComplexMemberChanging(System.String,System.Object,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityComplexMemberChanging(System.String,System.Object,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityComplexMemberChanging(System.String,System.Object,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityComplexMemberChanging(System.String,System.Object,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityComplexMemberChanging(System.String,System.Object,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityComplexMemberChanging(System.String,System.Object,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityComplexMemberChanging(System.String,System.Object,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityComplexMemberChanging(System.String,System.Object,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityComplexMemberChanging(System.String,System.Object,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityComplexMemberChanging(System.String,System.Object,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityComplexMemberChanging(System.String,System.Object,System.String)</InterfaceMember>
         <InterfaceMember>M:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityComplexMemberChanging(System.String,System.Object,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -654,6 +775,17 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityMemberChanged(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityMemberChanged(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityMemberChanged(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityMemberChanged(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityMemberChanged(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityMemberChanged(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityMemberChanged(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityMemberChanged(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityMemberChanged(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityMemberChanged(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityMemberChanged(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityMemberChanged(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Entity</AssemblyName>
@@ -685,6 +817,17 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Data.Objects.DataClasses.IEntityChangeTracker.EntityMemberChanging(System::String ^ entityMemberName) = System::Data::Objects::DataClasses::IEntityChangeTracker::EntityMemberChanging;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityMemberChanging(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityMemberChanging(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityMemberChanging(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityMemberChanging(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityMemberChanging(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityMemberChanging(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityMemberChanging(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityMemberChanging(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityMemberChanging(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityMemberChanging(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityMemberChanging(System.String)</InterfaceMember>
         <InterfaceMember>M:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityMemberChanging(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -718,6 +861,17 @@
       <MemberSignature Language="F#" Usage="System.Data.Objects.DataClasses.IEntityChangeTracker.EntityState" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityState</InterfaceMember>
+        <InterfaceMember>P:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityState</InterfaceMember>
+        <InterfaceMember>P:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityState</InterfaceMember>
+        <InterfaceMember>P:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityState</InterfaceMember>
+        <InterfaceMember>P:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityState</InterfaceMember>
+        <InterfaceMember>P:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityState</InterfaceMember>
+        <InterfaceMember>P:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityState</InterfaceMember>
+        <InterfaceMember>P:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityState</InterfaceMember>
+        <InterfaceMember>P:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityState</InterfaceMember>
+        <InterfaceMember>P:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityState</InterfaceMember>
+        <InterfaceMember>P:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityState</InterfaceMember>
         <InterfaceMember>P:System.Data.Objects.DataClasses.IEntityChangeTracker.EntityState</InterfaceMember>
       </Implements>
       <AssemblyInfo>

@@ -832,6 +832,35 @@ Changing the value of this property affects the following properties as well: <x
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Globalization</AssemblyName>
@@ -1768,6 +1797,42 @@ Changing the value of this property affects the following properties as well: <x
       <MemberSignature Language="F#" Value="abstract member GetFormat : Type -&gt; obj&#xA;override this.GetFormat : Type -&gt; obj" Usage="dateTimeFormatInfo.GetFormat formatType" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
         <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

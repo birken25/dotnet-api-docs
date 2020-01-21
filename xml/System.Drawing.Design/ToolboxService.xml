@@ -77,6 +77,19 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Drawing.Design.IToolboxService.CategoryNames</InterfaceMember>
+        <InterfaceMember>P:System.Drawing.Design.IToolboxService.CategoryNames</InterfaceMember>
+        <InterfaceMember>P:System.Drawing.Design.IToolboxService.CategoryNames</InterfaceMember>
+        <InterfaceMember>P:System.Drawing.Design.IToolboxService.CategoryNames</InterfaceMember>
+        <InterfaceMember>P:System.Drawing.Design.IToolboxService.CategoryNames</InterfaceMember>
+        <InterfaceMember>P:System.Drawing.Design.IToolboxService.CategoryNames</InterfaceMember>
+        <InterfaceMember>P:System.Drawing.Design.IToolboxService.CategoryNames</InterfaceMember>
+        <InterfaceMember>P:System.Drawing.Design.IToolboxService.CategoryNames</InterfaceMember>
+        <InterfaceMember>P:System.Drawing.Design.IToolboxService.CategoryNames</InterfaceMember>
+        <InterfaceMember>P:System.Drawing.Design.IToolboxService.CategoryNames</InterfaceMember>
+        <InterfaceMember>P:System.Drawing.Design.IToolboxService.CategoryNames</InterfaceMember>
+        <InterfaceMember>P:System.Drawing.Design.IToolboxService.CategoryNames</InterfaceMember>
+        <InterfaceMember>P:System.Drawing.Design.IToolboxService.CategoryNames</InterfaceMember>
+        <InterfaceMember>P:System.Drawing.Design.IToolboxService.CategoryNames</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Drawing.Design</AssemblyName>
@@ -673,6 +686,19 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Drawing.Design.IToolboxService.Refresh</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.Refresh</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.Refresh</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.Refresh</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.Refresh</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.Refresh</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.Refresh</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.Refresh</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.Refresh</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.Refresh</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.Refresh</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.Refresh</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.Refresh</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.Refresh</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Drawing.Design</AssemblyName>
@@ -704,6 +730,19 @@
       <MemberSignature Language="F#" Value="member this.SelectedCategory : string with get, set" Usage="System.Drawing.Design.ToolboxService.SelectedCategory" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Drawing.Design.IToolboxService.SelectedCategory</InterfaceMember>
+        <InterfaceMember>P:System.Drawing.Design.IToolboxService.SelectedCategory</InterfaceMember>
+        <InterfaceMember>P:System.Drawing.Design.IToolboxService.SelectedCategory</InterfaceMember>
+        <InterfaceMember>P:System.Drawing.Design.IToolboxService.SelectedCategory</InterfaceMember>
+        <InterfaceMember>P:System.Drawing.Design.IToolboxService.SelectedCategory</InterfaceMember>
+        <InterfaceMember>P:System.Drawing.Design.IToolboxService.SelectedCategory</InterfaceMember>
+        <InterfaceMember>P:System.Drawing.Design.IToolboxService.SelectedCategory</InterfaceMember>
+        <InterfaceMember>P:System.Drawing.Design.IToolboxService.SelectedCategory</InterfaceMember>
+        <InterfaceMember>P:System.Drawing.Design.IToolboxService.SelectedCategory</InterfaceMember>
+        <InterfaceMember>P:System.Drawing.Design.IToolboxService.SelectedCategory</InterfaceMember>
+        <InterfaceMember>P:System.Drawing.Design.IToolboxService.SelectedCategory</InterfaceMember>
+        <InterfaceMember>P:System.Drawing.Design.IToolboxService.SelectedCategory</InterfaceMember>
+        <InterfaceMember>P:System.Drawing.Design.IToolboxService.SelectedCategory</InterfaceMember>
         <InterfaceMember>P:System.Drawing.Design.IToolboxService.SelectedCategory</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -793,6 +832,19 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Drawing.Design.IToolboxService.SetCursor</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SetCursor</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SetCursor</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SetCursor</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SetCursor</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SetCursor</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SetCursor</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SetCursor</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SetCursor</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SetCursor</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SetCursor</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SetCursor</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SetCursor</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SetCursor</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Drawing.Design</AssemblyName>
@@ -825,6 +877,19 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Collections::ICollection ^ System.ComponentModel.Design.IComponentDiscoveryService.GetComponentTypes(System::ComponentModel::Design::IDesignerHost ^ designerHost, Type ^ baseType) = System::ComponentModel::Design::IComponentDiscoveryService::GetComponentTypes;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ComponentModel.Design.IComponentDiscoveryService.GetComponentTypes(System.ComponentModel.Design.IDesignerHost,System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IComponentDiscoveryService.GetComponentTypes(System.ComponentModel.Design.IDesignerHost,System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IComponentDiscoveryService.GetComponentTypes(System.ComponentModel.Design.IDesignerHost,System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IComponentDiscoveryService.GetComponentTypes(System.ComponentModel.Design.IDesignerHost,System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IComponentDiscoveryService.GetComponentTypes(System.ComponentModel.Design.IDesignerHost,System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IComponentDiscoveryService.GetComponentTypes(System.ComponentModel.Design.IDesignerHost,System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IComponentDiscoveryService.GetComponentTypes(System.ComponentModel.Design.IDesignerHost,System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IComponentDiscoveryService.GetComponentTypes(System.ComponentModel.Design.IDesignerHost,System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IComponentDiscoveryService.GetComponentTypes(System.ComponentModel.Design.IDesignerHost,System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IComponentDiscoveryService.GetComponentTypes(System.ComponentModel.Design.IDesignerHost,System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IComponentDiscoveryService.GetComponentTypes(System.ComponentModel.Design.IDesignerHost,System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IComponentDiscoveryService.GetComponentTypes(System.ComponentModel.Design.IDesignerHost,System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.IComponentDiscoveryService.GetComponentTypes(System.ComponentModel.Design.IDesignerHost,System.Type)</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.Design.IComponentDiscoveryService.GetComponentTypes(System.ComponentModel.Design.IDesignerHost,System.Type)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -865,6 +930,19 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddCreator(System.Drawing.Design.ToolboxItemCreatorCallback,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddCreator(System.Drawing.Design.ToolboxItemCreatorCallback,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddCreator(System.Drawing.Design.ToolboxItemCreatorCallback,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddCreator(System.Drawing.Design.ToolboxItemCreatorCallback,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddCreator(System.Drawing.Design.ToolboxItemCreatorCallback,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddCreator(System.Drawing.Design.ToolboxItemCreatorCallback,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddCreator(System.Drawing.Design.ToolboxItemCreatorCallback,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddCreator(System.Drawing.Design.ToolboxItemCreatorCallback,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddCreator(System.Drawing.Design.ToolboxItemCreatorCallback,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddCreator(System.Drawing.Design.ToolboxItemCreatorCallback,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddCreator(System.Drawing.Design.ToolboxItemCreatorCallback,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddCreator(System.Drawing.Design.ToolboxItemCreatorCallback,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddCreator(System.Drawing.Design.ToolboxItemCreatorCallback,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddCreator(System.Drawing.Design.ToolboxItemCreatorCallback,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Drawing.Design</AssemblyName>
@@ -900,6 +978,19 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Drawing.Design.IToolboxService.AddCreator(System::Drawing::Design::ToolboxItemCreatorCallback ^ creator, System::String ^ format, System::ComponentModel::Design::IDesignerHost ^ host) = System::Drawing::Design::IToolboxService::AddCreator;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddCreator(System.Drawing.Design.ToolboxItemCreatorCallback,System.String,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddCreator(System.Drawing.Design.ToolboxItemCreatorCallback,System.String,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddCreator(System.Drawing.Design.ToolboxItemCreatorCallback,System.String,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddCreator(System.Drawing.Design.ToolboxItemCreatorCallback,System.String,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddCreator(System.Drawing.Design.ToolboxItemCreatorCallback,System.String,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddCreator(System.Drawing.Design.ToolboxItemCreatorCallback,System.String,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddCreator(System.Drawing.Design.ToolboxItemCreatorCallback,System.String,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddCreator(System.Drawing.Design.ToolboxItemCreatorCallback,System.String,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddCreator(System.Drawing.Design.ToolboxItemCreatorCallback,System.String,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddCreator(System.Drawing.Design.ToolboxItemCreatorCallback,System.String,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddCreator(System.Drawing.Design.ToolboxItemCreatorCallback,System.String,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddCreator(System.Drawing.Design.ToolboxItemCreatorCallback,System.String,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddCreator(System.Drawing.Design.ToolboxItemCreatorCallback,System.String,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
         <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddCreator(System.Drawing.Design.ToolboxItemCreatorCallback,System.String,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -947,6 +1038,19 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddLinkedToolboxItem(System.Drawing.Design.ToolboxItem,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddLinkedToolboxItem(System.Drawing.Design.ToolboxItem,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddLinkedToolboxItem(System.Drawing.Design.ToolboxItem,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddLinkedToolboxItem(System.Drawing.Design.ToolboxItem,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddLinkedToolboxItem(System.Drawing.Design.ToolboxItem,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddLinkedToolboxItem(System.Drawing.Design.ToolboxItem,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddLinkedToolboxItem(System.Drawing.Design.ToolboxItem,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddLinkedToolboxItem(System.Drawing.Design.ToolboxItem,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddLinkedToolboxItem(System.Drawing.Design.ToolboxItem,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddLinkedToolboxItem(System.Drawing.Design.ToolboxItem,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddLinkedToolboxItem(System.Drawing.Design.ToolboxItem,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddLinkedToolboxItem(System.Drawing.Design.ToolboxItem,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddLinkedToolboxItem(System.Drawing.Design.ToolboxItem,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddLinkedToolboxItem(System.Drawing.Design.ToolboxItem,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Drawing.Design</AssemblyName>
@@ -981,6 +1085,19 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Drawing.Design.IToolboxService.AddLinkedToolboxItem(System::Drawing::Design::ToolboxItem ^ toolboxItem, System::String ^ category, System::ComponentModel::Design::IDesignerHost ^ host) = System::Drawing::Design::IToolboxService::AddLinkedToolboxItem;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddLinkedToolboxItem(System.Drawing.Design.ToolboxItem,System.String,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddLinkedToolboxItem(System.Drawing.Design.ToolboxItem,System.String,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddLinkedToolboxItem(System.Drawing.Design.ToolboxItem,System.String,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddLinkedToolboxItem(System.Drawing.Design.ToolboxItem,System.String,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddLinkedToolboxItem(System.Drawing.Design.ToolboxItem,System.String,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddLinkedToolboxItem(System.Drawing.Design.ToolboxItem,System.String,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddLinkedToolboxItem(System.Drawing.Design.ToolboxItem,System.String,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddLinkedToolboxItem(System.Drawing.Design.ToolboxItem,System.String,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddLinkedToolboxItem(System.Drawing.Design.ToolboxItem,System.String,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddLinkedToolboxItem(System.Drawing.Design.ToolboxItem,System.String,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddLinkedToolboxItem(System.Drawing.Design.ToolboxItem,System.String,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddLinkedToolboxItem(System.Drawing.Design.ToolboxItem,System.String,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddLinkedToolboxItem(System.Drawing.Design.ToolboxItem,System.String,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
         <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddLinkedToolboxItem(System.Drawing.Design.ToolboxItem,System.String,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1028,6 +1145,19 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddToolboxItem(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddToolboxItem(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddToolboxItem(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddToolboxItem(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddToolboxItem(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddToolboxItem(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddToolboxItem(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddToolboxItem(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddToolboxItem(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddToolboxItem(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddToolboxItem(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddToolboxItem(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddToolboxItem(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddToolboxItem(System.Drawing.Design.ToolboxItem)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Drawing.Design</AssemblyName>
@@ -1060,6 +1190,19 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Drawing.Design.IToolboxService.AddToolboxItem(System::Drawing::Design::ToolboxItem ^ toolboxItem, System::String ^ category) = System::Drawing::Design::IToolboxService::AddToolboxItem;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddToolboxItem(System.Drawing.Design.ToolboxItem,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddToolboxItem(System.Drawing.Design.ToolboxItem,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddToolboxItem(System.Drawing.Design.ToolboxItem,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddToolboxItem(System.Drawing.Design.ToolboxItem,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddToolboxItem(System.Drawing.Design.ToolboxItem,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddToolboxItem(System.Drawing.Design.ToolboxItem,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddToolboxItem(System.Drawing.Design.ToolboxItem,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddToolboxItem(System.Drawing.Design.ToolboxItem,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddToolboxItem(System.Drawing.Design.ToolboxItem,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddToolboxItem(System.Drawing.Design.ToolboxItem,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddToolboxItem(System.Drawing.Design.ToolboxItem,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddToolboxItem(System.Drawing.Design.ToolboxItem,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddToolboxItem(System.Drawing.Design.ToolboxItem,System.String)</InterfaceMember>
         <InterfaceMember>M:System.Drawing.Design.IToolboxService.AddToolboxItem(System.Drawing.Design.ToolboxItem,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1097,6 +1240,19 @@
       <MemberSignature Language="F#" Usage="System.Drawing.Design.IToolboxService.CategoryNames" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Drawing.Design.IToolboxService.CategoryNames</InterfaceMember>
+        <InterfaceMember>P:System.Drawing.Design.IToolboxService.CategoryNames</InterfaceMember>
+        <InterfaceMember>P:System.Drawing.Design.IToolboxService.CategoryNames</InterfaceMember>
+        <InterfaceMember>P:System.Drawing.Design.IToolboxService.CategoryNames</InterfaceMember>
+        <InterfaceMember>P:System.Drawing.Design.IToolboxService.CategoryNames</InterfaceMember>
+        <InterfaceMember>P:System.Drawing.Design.IToolboxService.CategoryNames</InterfaceMember>
+        <InterfaceMember>P:System.Drawing.Design.IToolboxService.CategoryNames</InterfaceMember>
+        <InterfaceMember>P:System.Drawing.Design.IToolboxService.CategoryNames</InterfaceMember>
+        <InterfaceMember>P:System.Drawing.Design.IToolboxService.CategoryNames</InterfaceMember>
+        <InterfaceMember>P:System.Drawing.Design.IToolboxService.CategoryNames</InterfaceMember>
+        <InterfaceMember>P:System.Drawing.Design.IToolboxService.CategoryNames</InterfaceMember>
+        <InterfaceMember>P:System.Drawing.Design.IToolboxService.CategoryNames</InterfaceMember>
+        <InterfaceMember>P:System.Drawing.Design.IToolboxService.CategoryNames</InterfaceMember>
         <InterfaceMember>P:System.Drawing.Design.IToolboxService.CategoryNames</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1143,6 +1299,19 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Drawing.Design.IToolboxService.DeserializeToolboxItem(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.DeserializeToolboxItem(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.DeserializeToolboxItem(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.DeserializeToolboxItem(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.DeserializeToolboxItem(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.DeserializeToolboxItem(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.DeserializeToolboxItem(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.DeserializeToolboxItem(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.DeserializeToolboxItem(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.DeserializeToolboxItem(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.DeserializeToolboxItem(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.DeserializeToolboxItem(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.DeserializeToolboxItem(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.DeserializeToolboxItem(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Drawing.Design</AssemblyName>
@@ -1177,6 +1346,19 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Drawing::Design::ToolboxItem ^ System.Drawing.Design.IToolboxService.DeserializeToolboxItem(System::Object ^ serializedObject, System::ComponentModel::Design::IDesignerHost ^ host) = System::Drawing::Design::IToolboxService::DeserializeToolboxItem;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.DeserializeToolboxItem(System.Object,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.DeserializeToolboxItem(System.Object,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.DeserializeToolboxItem(System.Object,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.DeserializeToolboxItem(System.Object,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.DeserializeToolboxItem(System.Object,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.DeserializeToolboxItem(System.Object,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.DeserializeToolboxItem(System.Object,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.DeserializeToolboxItem(System.Object,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.DeserializeToolboxItem(System.Object,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.DeserializeToolboxItem(System.Object,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.DeserializeToolboxItem(System.Object,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.DeserializeToolboxItem(System.Object,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.DeserializeToolboxItem(System.Object,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
         <InterfaceMember>M:System.Drawing.Design.IToolboxService.DeserializeToolboxItem(System.Object,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1224,6 +1406,19 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetSelectedToolboxItem</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetSelectedToolboxItem</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetSelectedToolboxItem</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetSelectedToolboxItem</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetSelectedToolboxItem</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetSelectedToolboxItem</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetSelectedToolboxItem</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetSelectedToolboxItem</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetSelectedToolboxItem</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetSelectedToolboxItem</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetSelectedToolboxItem</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetSelectedToolboxItem</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetSelectedToolboxItem</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetSelectedToolboxItem</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Drawing.Design</AssemblyName>
@@ -1255,6 +1450,19 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Drawing::Design::ToolboxItem ^ System.Drawing.Design.IToolboxService.GetSelectedToolboxItem(System::ComponentModel::Design::IDesignerHost ^ host) = System::Drawing::Design::IToolboxService::GetSelectedToolboxItem;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetSelectedToolboxItem(System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetSelectedToolboxItem(System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetSelectedToolboxItem(System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetSelectedToolboxItem(System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetSelectedToolboxItem(System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetSelectedToolboxItem(System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetSelectedToolboxItem(System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetSelectedToolboxItem(System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetSelectedToolboxItem(System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetSelectedToolboxItem(System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetSelectedToolboxItem(System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetSelectedToolboxItem(System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetSelectedToolboxItem(System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
         <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetSelectedToolboxItem(System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1300,6 +1508,19 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetToolboxItems</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetToolboxItems</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetToolboxItems</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetToolboxItems</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetToolboxItems</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetToolboxItems</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetToolboxItems</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetToolboxItems</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetToolboxItems</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetToolboxItems</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetToolboxItems</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetToolboxItems</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetToolboxItems</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetToolboxItems</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Drawing.Design</AssemblyName>
@@ -1324,6 +1545,19 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Drawing::Design::ToolboxItemCollection ^ System.Drawing.Design.IToolboxService.GetToolboxItems(System::ComponentModel::Design::IDesignerHost ^ host) = System::Drawing::Design::IToolboxService::GetToolboxItems;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetToolboxItems(System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetToolboxItems(System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetToolboxItems(System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetToolboxItems(System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetToolboxItems(System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetToolboxItems(System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetToolboxItems(System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetToolboxItems(System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetToolboxItems(System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetToolboxItems(System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetToolboxItems(System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetToolboxItems(System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetToolboxItems(System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
         <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetToolboxItems(System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1355,6 +1589,19 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetToolboxItems(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetToolboxItems(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetToolboxItems(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetToolboxItems(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetToolboxItems(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetToolboxItems(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetToolboxItems(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetToolboxItems(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetToolboxItems(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetToolboxItems(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetToolboxItems(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetToolboxItems(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetToolboxItems(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetToolboxItems(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Drawing.Design</AssemblyName>
@@ -1384,6 +1631,19 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Drawing::Design::ToolboxItemCollection ^ System.Drawing.Design.IToolboxService.GetToolboxItems(System::String ^ category, System::ComponentModel::Design::IDesignerHost ^ host) = System::Drawing::Design::IToolboxService::GetToolboxItems;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetToolboxItems(System.String,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetToolboxItems(System.String,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetToolboxItems(System.String,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetToolboxItems(System.String,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetToolboxItems(System.String,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetToolboxItems(System.String,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetToolboxItems(System.String,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetToolboxItems(System.String,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetToolboxItems(System.String,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetToolboxItems(System.String,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetToolboxItems(System.String,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetToolboxItems(System.String,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetToolboxItems(System.String,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
         <InterfaceMember>M:System.Drawing.Design.IToolboxService.GetToolboxItems(System.String,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1426,6 +1686,19 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Drawing.Design.IToolboxService.IsSupported(System.Object,System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.IsSupported(System.Object,System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.IsSupported(System.Object,System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.IsSupported(System.Object,System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.IsSupported(System.Object,System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.IsSupported(System.Object,System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.IsSupported(System.Object,System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.IsSupported(System.Object,System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.IsSupported(System.Object,System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.IsSupported(System.Object,System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.IsSupported(System.Object,System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.IsSupported(System.Object,System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.IsSupported(System.Object,System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.IsSupported(System.Object,System.Collections.ICollection)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Drawing.Design</AssemblyName>
@@ -1458,6 +1731,19 @@
       <MemberSignature Language="C++ CLI" Value=" virtual bool System.Drawing.Design.IToolboxService.IsSupported(System::Object ^ serializedObject, System::ComponentModel::Design::IDesignerHost ^ host) = System::Drawing::Design::IToolboxService::IsSupported;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.IsSupported(System.Object,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.IsSupported(System.Object,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.IsSupported(System.Object,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.IsSupported(System.Object,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.IsSupported(System.Object,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.IsSupported(System.Object,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.IsSupported(System.Object,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.IsSupported(System.Object,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.IsSupported(System.Object,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.IsSupported(System.Object,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.IsSupported(System.Object,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.IsSupported(System.Object,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.IsSupported(System.Object,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
         <InterfaceMember>M:System.Drawing.Design.IToolboxService.IsSupported(System.Object,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1501,6 +1787,19 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Drawing.Design.IToolboxService.IsToolboxItem(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.IsToolboxItem(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.IsToolboxItem(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.IsToolboxItem(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.IsToolboxItem(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.IsToolboxItem(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.IsToolboxItem(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.IsToolboxItem(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.IsToolboxItem(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.IsToolboxItem(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.IsToolboxItem(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.IsToolboxItem(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.IsToolboxItem(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.IsToolboxItem(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Drawing.Design</AssemblyName>
@@ -1529,6 +1828,19 @@
       <MemberSignature Language="C++ CLI" Value=" virtual bool System.Drawing.Design.IToolboxService.IsToolboxItem(System::Object ^ serializedObject, System::ComponentModel::Design::IDesignerHost ^ host) = System::Drawing::Design::IToolboxService::IsToolboxItem;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.IsToolboxItem(System.Object,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.IsToolboxItem(System.Object,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.IsToolboxItem(System.Object,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.IsToolboxItem(System.Object,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.IsToolboxItem(System.Object,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.IsToolboxItem(System.Object,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.IsToolboxItem(System.Object,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.IsToolboxItem(System.Object,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.IsToolboxItem(System.Object,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.IsToolboxItem(System.Object,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.IsToolboxItem(System.Object,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.IsToolboxItem(System.Object,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.IsToolboxItem(System.Object,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
         <InterfaceMember>M:System.Drawing.Design.IToolboxService.IsToolboxItem(System.Object,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1560,6 +1872,19 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Drawing.Design.IToolboxService.Refresh() = System::Drawing::Design::IToolboxService::Refresh;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.Refresh</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.Refresh</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.Refresh</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.Refresh</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.Refresh</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.Refresh</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.Refresh</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.Refresh</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.Refresh</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.Refresh</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.Refresh</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.Refresh</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.Refresh</InterfaceMember>
         <InterfaceMember>M:System.Drawing.Design.IToolboxService.Refresh</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1599,6 +1924,19 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Drawing.Design.IToolboxService.RemoveCreator(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.RemoveCreator(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.RemoveCreator(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.RemoveCreator(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.RemoveCreator(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.RemoveCreator(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.RemoveCreator(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.RemoveCreator(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.RemoveCreator(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.RemoveCreator(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.RemoveCreator(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.RemoveCreator(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.RemoveCreator(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.RemoveCreator(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Drawing.Design</AssemblyName>
@@ -1627,6 +1965,19 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Drawing.Design.IToolboxService.RemoveCreator(System::String ^ format, System::ComponentModel::Design::IDesignerHost ^ host) = System::Drawing::Design::IToolboxService::RemoveCreator;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.RemoveCreator(System.String,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.RemoveCreator(System.String,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.RemoveCreator(System.String,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.RemoveCreator(System.String,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.RemoveCreator(System.String,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.RemoveCreator(System.String,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.RemoveCreator(System.String,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.RemoveCreator(System.String,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.RemoveCreator(System.String,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.RemoveCreator(System.String,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.RemoveCreator(System.String,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.RemoveCreator(System.String,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.RemoveCreator(System.String,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
         <InterfaceMember>M:System.Drawing.Design.IToolboxService.RemoveCreator(System.String,System.ComponentModel.Design.IDesignerHost)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1667,6 +2018,19 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Drawing.Design.IToolboxService.RemoveToolboxItem(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.RemoveToolboxItem(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.RemoveToolboxItem(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.RemoveToolboxItem(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.RemoveToolboxItem(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.RemoveToolboxItem(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.RemoveToolboxItem(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.RemoveToolboxItem(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.RemoveToolboxItem(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.RemoveToolboxItem(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.RemoveToolboxItem(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.RemoveToolboxItem(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.RemoveToolboxItem(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.RemoveToolboxItem(System.Drawing.Design.ToolboxItem)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Drawing.Design</AssemblyName>
@@ -1694,6 +2058,19 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Drawing.Design.IToolboxService.RemoveToolboxItem(System::Drawing::Design::ToolboxItem ^ toolboxItem, System::String ^ category) = System::Drawing::Design::IToolboxService::RemoveToolboxItem;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.RemoveToolboxItem(System.Drawing.Design.ToolboxItem,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.RemoveToolboxItem(System.Drawing.Design.ToolboxItem,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.RemoveToolboxItem(System.Drawing.Design.ToolboxItem,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.RemoveToolboxItem(System.Drawing.Design.ToolboxItem,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.RemoveToolboxItem(System.Drawing.Design.ToolboxItem,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.RemoveToolboxItem(System.Drawing.Design.ToolboxItem,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.RemoveToolboxItem(System.Drawing.Design.ToolboxItem,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.RemoveToolboxItem(System.Drawing.Design.ToolboxItem,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.RemoveToolboxItem(System.Drawing.Design.ToolboxItem,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.RemoveToolboxItem(System.Drawing.Design.ToolboxItem,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.RemoveToolboxItem(System.Drawing.Design.ToolboxItem,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.RemoveToolboxItem(System.Drawing.Design.ToolboxItem,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.RemoveToolboxItem(System.Drawing.Design.ToolboxItem,System.String)</InterfaceMember>
         <InterfaceMember>M:System.Drawing.Design.IToolboxService.RemoveToolboxItem(System.Drawing.Design.ToolboxItem,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1726,6 +2103,19 @@
       <MemberSignature Language="F#" Usage="System.Drawing.Design.IToolboxService.SelectedCategory" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Drawing.Design.IToolboxService.SelectedCategory</InterfaceMember>
+        <InterfaceMember>P:System.Drawing.Design.IToolboxService.SelectedCategory</InterfaceMember>
+        <InterfaceMember>P:System.Drawing.Design.IToolboxService.SelectedCategory</InterfaceMember>
+        <InterfaceMember>P:System.Drawing.Design.IToolboxService.SelectedCategory</InterfaceMember>
+        <InterfaceMember>P:System.Drawing.Design.IToolboxService.SelectedCategory</InterfaceMember>
+        <InterfaceMember>P:System.Drawing.Design.IToolboxService.SelectedCategory</InterfaceMember>
+        <InterfaceMember>P:System.Drawing.Design.IToolboxService.SelectedCategory</InterfaceMember>
+        <InterfaceMember>P:System.Drawing.Design.IToolboxService.SelectedCategory</InterfaceMember>
+        <InterfaceMember>P:System.Drawing.Design.IToolboxService.SelectedCategory</InterfaceMember>
+        <InterfaceMember>P:System.Drawing.Design.IToolboxService.SelectedCategory</InterfaceMember>
+        <InterfaceMember>P:System.Drawing.Design.IToolboxService.SelectedCategory</InterfaceMember>
+        <InterfaceMember>P:System.Drawing.Design.IToolboxService.SelectedCategory</InterfaceMember>
+        <InterfaceMember>P:System.Drawing.Design.IToolboxService.SelectedCategory</InterfaceMember>
         <InterfaceMember>P:System.Drawing.Design.IToolboxService.SelectedCategory</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1766,6 +2156,19 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Drawing.Design.IToolboxService.SelectedToolboxItemUsed</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SelectedToolboxItemUsed</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SelectedToolboxItemUsed</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SelectedToolboxItemUsed</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SelectedToolboxItemUsed</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SelectedToolboxItemUsed</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SelectedToolboxItemUsed</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SelectedToolboxItemUsed</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SelectedToolboxItemUsed</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SelectedToolboxItemUsed</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SelectedToolboxItemUsed</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SelectedToolboxItemUsed</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SelectedToolboxItemUsed</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SelectedToolboxItemUsed</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Drawing.Design</AssemblyName>
@@ -1793,6 +2196,19 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Object ^ System.Drawing.Design.IToolboxService.SerializeToolboxItem(System::Drawing::Design::ToolboxItem ^ toolboxItem) = System::Drawing::Design::IToolboxService::SerializeToolboxItem;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SerializeToolboxItem(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SerializeToolboxItem(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SerializeToolboxItem(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SerializeToolboxItem(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SerializeToolboxItem(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SerializeToolboxItem(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SerializeToolboxItem(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SerializeToolboxItem(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SerializeToolboxItem(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SerializeToolboxItem(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SerializeToolboxItem(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SerializeToolboxItem(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SerializeToolboxItem(System.Drawing.Design.ToolboxItem)</InterfaceMember>
         <InterfaceMember>M:System.Drawing.Design.IToolboxService.SerializeToolboxItem(System.Drawing.Design.ToolboxItem)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1824,6 +2240,19 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Drawing.Design.IToolboxService.SetCursor</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SetCursor</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SetCursor</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SetCursor</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SetCursor</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SetCursor</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SetCursor</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SetCursor</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SetCursor</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SetCursor</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SetCursor</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SetCursor</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SetCursor</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SetCursor</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Drawing.Design</AssemblyName>
@@ -1853,6 +2282,19 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Drawing.Design.IToolboxService.SetSelectedToolboxItem(System::Drawing::Design::ToolboxItem ^ toolboxItem) = System::Drawing::Design::IToolboxService::SetSelectedToolboxItem;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SetSelectedToolboxItem(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SetSelectedToolboxItem(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SetSelectedToolboxItem(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SetSelectedToolboxItem(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SetSelectedToolboxItem(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SetSelectedToolboxItem(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SetSelectedToolboxItem(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SetSelectedToolboxItem(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SetSelectedToolboxItem(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SetSelectedToolboxItem(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SetSelectedToolboxItem(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SetSelectedToolboxItem(System.Drawing.Design.ToolboxItem)</InterfaceMember>
+        <InterfaceMember>M:System.Drawing.Design.IToolboxService.SetSelectedToolboxItem(System.Drawing.Design.ToolboxItem)</InterfaceMember>
         <InterfaceMember>M:System.Drawing.Design.IToolboxService.SetSelectedToolboxItem(System.Drawing.Design.ToolboxItem)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

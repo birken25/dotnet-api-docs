@@ -52,6 +52,15 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.ModelBinding.IModelNameProvider.GetModelName</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IModelNameProvider.GetModelName</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IModelNameProvider.GetModelName</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IModelNameProvider.GetModelName</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IModelNameProvider.GetModelName</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IModelNameProvider.GetModelName</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IModelNameProvider.GetModelName</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IModelNameProvider.GetModelName</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IModelNameProvider.GetModelName</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IModelNameProvider.GetModelName</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -75,6 +84,15 @@
       <MemberSignature Language="F#" Value="abstract member GetValueProvider : System.Web.ModelBinding.ModelBindingExecutionContext -&gt; System.Web.ModelBinding.IValueProvider" Usage="valueProviderSourceAttribute.GetValueProvider modelBindingExecutionContext" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.ModelBinding.IValueProviderSource.GetValueProvider(System.Web.ModelBinding.ModelBindingExecutionContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IValueProviderSource.GetValueProvider(System.Web.ModelBinding.ModelBindingExecutionContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IValueProviderSource.GetValueProvider(System.Web.ModelBinding.ModelBindingExecutionContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IValueProviderSource.GetValueProvider(System.Web.ModelBinding.ModelBindingExecutionContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IValueProviderSource.GetValueProvider(System.Web.ModelBinding.ModelBindingExecutionContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IValueProviderSource.GetValueProvider(System.Web.ModelBinding.ModelBindingExecutionContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IValueProviderSource.GetValueProvider(System.Web.ModelBinding.ModelBindingExecutionContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IValueProviderSource.GetValueProvider(System.Web.ModelBinding.ModelBindingExecutionContext)</InterfaceMember>
+        <InterfaceMember>M:System.Web.ModelBinding.IValueProviderSource.GetValueProvider(System.Web.ModelBinding.ModelBindingExecutionContext)</InterfaceMember>
         <InterfaceMember>M:System.Web.ModelBinding.IValueProviderSource.GetValueProvider(System.Web.ModelBinding.ModelBindingExecutionContext)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

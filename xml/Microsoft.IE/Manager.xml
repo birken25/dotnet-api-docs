@@ -195,6 +195,9 @@ The Manager class initializes the properties that enable managed code to execute
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.IE.IHostEx.GetClassFactory(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.IE.IHostEx.GetClassFactory(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.IE.IHostEx.GetClassFactory(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.IE.IHostEx.GetClassFactory(System.String,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>IEHost</AssemblyName>
@@ -302,6 +305,9 @@ This API is not CLS-compliant. </summary>
       <MemberSignature Language="F#" Value="abstract member GetSecuredClassFactory : int * int * string * string * string * string * string -&gt; Microsoft.IE.ISecureFactory&#xA;override this.GetSecuredClassFactory : int * int * string * string * string * string * string -&gt; Microsoft.IE.ISecureFactory" Usage="manager.GetSecuredClassFactory (flags, zone, site, uniqueIdString, fileHashString, typeName, assemblyName)" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.IE.IHostEx.GetSecuredClassFactory(System.Int32,System.Int32,System.String,System.String,System.String,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.IE.IHostEx.GetSecuredClassFactory(System.Int32,System.Int32,System.String,System.String,System.String,System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.IE.IHostEx.GetSecuredClassFactory(System.Int32,System.Int32,System.String,System.String,System.String,System.String,System.String)</InterfaceMember>
         <InterfaceMember>M:Microsoft.IE.IHostEx.GetSecuredClassFactory(System.Int32,System.Int32,System.String,System.String,System.String,System.String,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

@@ -114,6 +114,15 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.IdentityModel</AssemblyName>
@@ -144,6 +153,15 @@
       <MemberSignature Language="F#" Value="member this.AsyncWaitHandle : System.Threading.WaitHandle" Usage="System.IdentityModel.AsyncResult.AsyncWaitHandle" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
         <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -236,6 +254,15 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.IdentityModel</AssemblyName>
@@ -276,6 +303,15 @@
       <MemberSignature Language="F#" Value="abstract member Dispose : unit -&gt; unit&#xA;override this.Dispose : unit -&gt; unit" Usage="asyncResult.Dispose " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -370,6 +406,15 @@
       <MemberSignature Language="F#" Value="member this.IsCompleted : bool" Usage="System.IdentityModel.AsyncResult.IsCompleted" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
+        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
         <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
       </Implements>
       <AssemblyInfo>

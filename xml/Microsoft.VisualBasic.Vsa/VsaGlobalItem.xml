@@ -41,6 +41,9 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Vsa.IVsaGlobalItem.ExposeMembers</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaGlobalItem.ExposeMembers</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaGlobalItem.ExposeMembers</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaGlobalItem.ExposeMembers</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic.Vsa</AssemblyName>
@@ -66,6 +69,9 @@
       <MemberSignature Language="F#" Value="member this.TypeString : string" Usage="Microsoft.VisualBasic.Vsa.VsaGlobalItem.TypeString" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaGlobalItem.TypeString</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaGlobalItem.TypeString</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaGlobalItem.TypeString</InterfaceMember>
         <InterfaceMember>P:Microsoft.Vsa.IVsaGlobalItem.TypeString</InterfaceMember>
       </Implements>
       <AssemblyInfo>

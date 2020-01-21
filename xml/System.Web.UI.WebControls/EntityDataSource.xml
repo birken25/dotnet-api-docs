@@ -269,6 +269,17 @@ AutoGenerateOrderByClause="True">
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.AutoGenerateWhereClause</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.AutoGenerateWhereClause</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.AutoGenerateWhereClause</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.AutoGenerateWhereClause</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.AutoGenerateWhereClause</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.AutoGenerateWhereClause</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.AutoGenerateWhereClause</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.AutoGenerateWhereClause</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.AutoGenerateWhereClause</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.AutoGenerateWhereClause</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.AutoGenerateWhereClause</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.AutoGenerateWhereClause</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Entity</AssemblyName>
@@ -769,6 +780,17 @@ protected void EntityDataSource2_ContextDisposing(object sender,
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.ContextType</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.ContextType</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.ContextType</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.ContextType</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.ContextType</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.ContextType</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.ContextType</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.ContextType</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.ContextType</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.ContextType</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.ContextType</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.ContextType</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Entity</AssemblyName>
@@ -1029,6 +1051,17 @@ protected void EntityDataSource2_ContextDisposing(object sender,
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.EnableDelete</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.EnableDelete</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.EnableDelete</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.EnableDelete</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.EnableDelete</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.EnableDelete</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.EnableDelete</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.EnableDelete</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.EnableDelete</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.EnableDelete</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.EnableDelete</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.EnableDelete</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Entity</AssemblyName>
@@ -1117,6 +1150,17 @@ protected void EntityDataSource2_ContextDisposing(object sender,
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.EnableInsert</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.EnableInsert</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.EnableInsert</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.EnableInsert</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.EnableInsert</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.EnableInsert</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.EnableInsert</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.EnableInsert</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.EnableInsert</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.EnableInsert</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.EnableInsert</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.EnableInsert</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Entity</AssemblyName>
@@ -1164,6 +1208,17 @@ protected void EntityDataSource2_ContextDisposing(object sender,
       <MemberSignature Language="F#" Value="member this.EnableUpdate : bool with get, set" Usage="System.Web.UI.WebControls.EntityDataSource.EnableUpdate" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.EnableUpdate</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.EnableUpdate</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.EnableUpdate</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.EnableUpdate</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.EnableUpdate</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.EnableUpdate</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.EnableUpdate</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.EnableUpdate</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.EnableUpdate</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.EnableUpdate</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.EnableUpdate</InterfaceMember>
         <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.EnableUpdate</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1214,6 +1269,17 @@ protected void EntityDataSource2_ContextDisposing(object sender,
       <MemberSignature Language="F#" Value="member this.EntitySetName : string with get, set" Usage="System.Web.UI.WebControls.EntityDataSource.EntitySetName" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.EntitySetName</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.EntitySetName</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.EntitySetName</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.EntitySetName</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.EntitySetName</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.EntitySetName</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.EntitySetName</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.EntitySetName</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.EntitySetName</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.EntitySetName</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.EntitySetName</InterfaceMember>
         <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.EntitySetName</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1286,6 +1352,17 @@ protected void EntityDataSource2_ContextDisposing(object sender,
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Entity</AssemblyName>
@@ -1326,6 +1403,17 @@ protected void EntityDataSource2_ContextDisposing(object sender,
       <MemberSignature Language="F#" Value="override this.GetViewNames : unit -&gt; System.Collections.ICollection" Usage="entityDataSource.GetViewNames " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
         <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1788,6 +1876,16 @@ ObjectQuery<SalesOrderHeader> onlineOrders =
       <MemberType>Event</MemberType>
       <Implements>
         <InterfaceMember>E:System.Web.UI.WebControls.IQueryableDataSource.QueryCreated</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.WebControls.IQueryableDataSource.QueryCreated</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.WebControls.IQueryableDataSource.QueryCreated</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.WebControls.IQueryableDataSource.QueryCreated</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.WebControls.IQueryableDataSource.QueryCreated</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.WebControls.IQueryableDataSource.QueryCreated</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.WebControls.IQueryableDataSource.QueryCreated</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.WebControls.IQueryableDataSource.QueryCreated</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.WebControls.IQueryableDataSource.QueryCreated</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.WebControls.IQueryableDataSource.QueryCreated</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.WebControls.IQueryableDataSource.QueryCreated</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Entity</AssemblyName>
@@ -2079,6 +2177,16 @@ ObjectQuery<Product> products = context.Product
       <MemberType>Event</MemberType>
       <Implements>
         <InterfaceMember>E:System.Web.DynamicData.IDynamicDataSource.Exception</InterfaceMember>
+        <InterfaceMember>E:System.Web.DynamicData.IDynamicDataSource.Exception</InterfaceMember>
+        <InterfaceMember>E:System.Web.DynamicData.IDynamicDataSource.Exception</InterfaceMember>
+        <InterfaceMember>E:System.Web.DynamicData.IDynamicDataSource.Exception</InterfaceMember>
+        <InterfaceMember>E:System.Web.DynamicData.IDynamicDataSource.Exception</InterfaceMember>
+        <InterfaceMember>E:System.Web.DynamicData.IDynamicDataSource.Exception</InterfaceMember>
+        <InterfaceMember>E:System.Web.DynamicData.IDynamicDataSource.Exception</InterfaceMember>
+        <InterfaceMember>E:System.Web.DynamicData.IDynamicDataSource.Exception</InterfaceMember>
+        <InterfaceMember>E:System.Web.DynamicData.IDynamicDataSource.Exception</InterfaceMember>
+        <InterfaceMember>E:System.Web.DynamicData.IDynamicDataSource.Exception</InterfaceMember>
+        <InterfaceMember>E:System.Web.DynamicData.IDynamicDataSource.Exception</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Entity</AssemblyName>
@@ -2116,6 +2224,16 @@ ObjectQuery<Product> products = context.Product
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Web.UI.WebControls.IQueryableDataSource.RaiseViewChanged() = System::Web::UI::WebControls::IQueryableDataSource::RaiseViewChanged;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.UI.WebControls.IQueryableDataSource.RaiseViewChanged</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.WebControls.IQueryableDataSource.RaiseViewChanged</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.WebControls.IQueryableDataSource.RaiseViewChanged</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.WebControls.IQueryableDataSource.RaiseViewChanged</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.WebControls.IQueryableDataSource.RaiseViewChanged</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.WebControls.IQueryableDataSource.RaiseViewChanged</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.WebControls.IQueryableDataSource.RaiseViewChanged</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.WebControls.IQueryableDataSource.RaiseViewChanged</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.WebControls.IQueryableDataSource.RaiseViewChanged</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.WebControls.IQueryableDataSource.RaiseViewChanged</InterfaceMember>
         <InterfaceMember>M:System.Web.UI.WebControls.IQueryableDataSource.RaiseViewChanged</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2290,6 +2408,17 @@ ObjectQuery<Product> products = context.Product
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.Where</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.Where</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.Where</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.Where</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.Where</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.Where</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.Where</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.Where</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.Where</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.Where</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.Where</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.Where</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Entity</AssemblyName>
@@ -2358,6 +2487,17 @@ ObjectQuery<SalesOrderHeader> onlineOrders =
       <MemberSignature Language="F#" Value="member this.WhereParameters : System.Web.UI.WebControls.ParameterCollection" Usage="System.Web.UI.WebControls.EntityDataSource.WhereParameters" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.WhereParameters</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.WhereParameters</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.WhereParameters</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.WhereParameters</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.WhereParameters</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.WhereParameters</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.WhereParameters</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.WhereParameters</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.WhereParameters</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.WhereParameters</InterfaceMember>
+        <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.WhereParameters</InterfaceMember>
         <InterfaceMember>P:System.Web.DynamicData.IDynamicDataSource.WhereParameters</InterfaceMember>
       </Implements>
       <AssemblyInfo>

@@ -203,6 +203,20 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.CanHorizontallyScroll</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.CanHorizontallyScroll</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.CanHorizontallyScroll</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.CanHorizontallyScroll</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.CanHorizontallyScroll</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.CanHorizontallyScroll</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.CanHorizontallyScroll</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.CanHorizontallyScroll</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.CanHorizontallyScroll</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.CanHorizontallyScroll</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.CanHorizontallyScroll</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.CanHorizontallyScroll</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.CanHorizontallyScroll</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.CanHorizontallyScroll</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.CanHorizontallyScroll</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -233,6 +247,20 @@
       <MemberSignature Language="F#" Value="member this.CanVerticallyScroll : bool with get, set" Usage="System.Windows.Controls.VirtualizingStackPanel.CanVerticallyScroll" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.CanVerticallyScroll</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.CanVerticallyScroll</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.CanVerticallyScroll</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.CanVerticallyScroll</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.CanVerticallyScroll</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.CanVerticallyScroll</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.CanVerticallyScroll</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.CanVerticallyScroll</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.CanVerticallyScroll</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.CanVerticallyScroll</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.CanVerticallyScroll</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.CanVerticallyScroll</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.CanVerticallyScroll</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.CanVerticallyScroll</InterfaceMember>
         <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.CanVerticallyScroll</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -319,6 +347,20 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ExtentHeight</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ExtentHeight</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ExtentHeight</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ExtentHeight</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ExtentHeight</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ExtentHeight</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ExtentHeight</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ExtentHeight</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ExtentHeight</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ExtentHeight</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ExtentHeight</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ExtentHeight</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ExtentHeight</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ExtentHeight</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ExtentHeight</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -343,6 +385,20 @@
       <MemberSignature Language="F#" Value="member this.ExtentWidth : double" Usage="System.Windows.Controls.VirtualizingStackPanel.ExtentWidth" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ExtentWidth</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ExtentWidth</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ExtentWidth</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ExtentWidth</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ExtentWidth</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ExtentWidth</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ExtentWidth</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ExtentWidth</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ExtentWidth</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ExtentWidth</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ExtentWidth</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ExtentWidth</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ExtentWidth</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ExtentWidth</InterfaceMember>
         <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ExtentWidth</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -486,6 +542,20 @@ The default value of the <xref:System.Windows.Controls.VirtualizingStackPanel.Is
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.HorizontalOffset</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.HorizontalOffset</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.HorizontalOffset</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.HorizontalOffset</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.HorizontalOffset</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.HorizontalOffset</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.HorizontalOffset</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.HorizontalOffset</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.HorizontalOffset</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.HorizontalOffset</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.HorizontalOffset</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.HorizontalOffset</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.HorizontalOffset</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.HorizontalOffset</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.HorizontalOffset</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -607,6 +677,20 @@ Notice that the IsVirtualizing attached property is explicitly set to `true`.
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineDown</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineDown</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineDown</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineDown</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineDown</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineDown</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineDown</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineDown</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineDown</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineDown</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineDown</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineDown</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineDown</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineDown</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineDown</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -640,6 +724,20 @@ Notice that the IsVirtualizing attached property is explicitly set to `true`.
       <MemberSignature Language="F#" Value="abstract member LineLeft : unit -&gt; unit&#xA;override this.LineLeft : unit -&gt; unit" Usage="virtualizingStackPanel.LineLeft " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineLeft</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineLeft</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineLeft</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineLeft</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineLeft</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineLeft</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineLeft</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineLeft</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineLeft</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineLeft</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineLeft</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineLeft</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineLeft</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineLeft</InterfaceMember>
         <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineLeft</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -675,6 +773,20 @@ Notice that the IsVirtualizing attached property is explicitly set to `true`.
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineRight</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineRight</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineRight</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineRight</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineRight</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineRight</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineRight</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineRight</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineRight</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineRight</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineRight</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineRight</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineRight</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineRight</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineRight</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -708,6 +820,20 @@ Notice that the IsVirtualizing attached property is explicitly set to `true`.
       <MemberSignature Language="F#" Value="abstract member LineUp : unit -&gt; unit&#xA;override this.LineUp : unit -&gt; unit" Usage="virtualizingStackPanel.LineUp " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineUp</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineUp</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineUp</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineUp</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineUp</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineUp</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineUp</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineUp</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineUp</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineUp</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineUp</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineUp</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineUp</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineUp</InterfaceMember>
         <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.LineUp</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -769,6 +895,20 @@ Notice that the IsVirtualizing attached property is explicitly set to `true`.
       <MemberSignature Language="F#" Value="abstract member MakeVisible : System.Windows.Media.Visual * System.Windows.Rect -&gt; System.Windows.Rect&#xA;override this.MakeVisible : System.Windows.Media.Visual * System.Windows.Rect -&gt; System.Windows.Rect" Usage="virtualizingStackPanel.MakeVisible (visual, rectangle)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MakeVisible(System.Windows.Media.Visual,System.Windows.Rect)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MakeVisible(System.Windows.Media.Visual,System.Windows.Rect)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MakeVisible(System.Windows.Media.Visual,System.Windows.Rect)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MakeVisible(System.Windows.Media.Visual,System.Windows.Rect)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MakeVisible(System.Windows.Media.Visual,System.Windows.Rect)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MakeVisible(System.Windows.Media.Visual,System.Windows.Rect)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MakeVisible(System.Windows.Media.Visual,System.Windows.Rect)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MakeVisible(System.Windows.Media.Visual,System.Windows.Rect)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MakeVisible(System.Windows.Media.Visual,System.Windows.Rect)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MakeVisible(System.Windows.Media.Visual,System.Windows.Rect)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MakeVisible(System.Windows.Media.Visual,System.Windows.Rect)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MakeVisible(System.Windows.Media.Visual,System.Windows.Rect)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MakeVisible(System.Windows.Media.Visual,System.Windows.Rect)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MakeVisible(System.Windows.Media.Visual,System.Windows.Rect)</InterfaceMember>
         <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MakeVisible(System.Windows.Media.Visual,System.Windows.Rect)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -835,6 +975,20 @@ Notice that the IsVirtualizing attached property is explicitly set to `true`.
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelDown</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelDown</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelDown</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelDown</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelDown</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelDown</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelDown</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelDown</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelDown</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelDown</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelDown</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelDown</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelDown</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelDown</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelDown</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -868,6 +1022,20 @@ Notice that the IsVirtualizing attached property is explicitly set to `true`.
       <MemberSignature Language="F#" Value="abstract member MouseWheelLeft : unit -&gt; unit&#xA;override this.MouseWheelLeft : unit -&gt; unit" Usage="virtualizingStackPanel.MouseWheelLeft " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelLeft</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelLeft</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelLeft</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelLeft</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelLeft</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelLeft</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelLeft</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelLeft</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelLeft</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelLeft</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelLeft</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelLeft</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelLeft</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelLeft</InterfaceMember>
         <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelLeft</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -903,6 +1071,20 @@ Notice that the IsVirtualizing attached property is explicitly set to `true`.
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelRight</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelRight</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelRight</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelRight</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelRight</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelRight</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelRight</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelRight</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelRight</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelRight</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelRight</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelRight</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelRight</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelRight</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelRight</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -936,6 +1118,20 @@ Notice that the IsVirtualizing attached property is explicitly set to `true`.
       <MemberSignature Language="F#" Value="abstract member MouseWheelUp : unit -&gt; unit&#xA;override this.MouseWheelUp : unit -&gt; unit" Usage="virtualizingStackPanel.MouseWheelUp " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelUp</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelUp</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelUp</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelUp</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelUp</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelUp</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelUp</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelUp</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelUp</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelUp</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelUp</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelUp</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelUp</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelUp</InterfaceMember>
         <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.MouseWheelUp</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1227,6 +1423,20 @@ Notice that the IsVirtualizing attached property is explicitly set to `true`.
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageDown</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageDown</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageDown</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageDown</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageDown</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageDown</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageDown</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageDown</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageDown</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageDown</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageDown</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageDown</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageDown</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageDown</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageDown</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -1260,6 +1470,20 @@ Notice that the IsVirtualizing attached property is explicitly set to `true`.
       <MemberSignature Language="F#" Value="abstract member PageLeft : unit -&gt; unit&#xA;override this.PageLeft : unit -&gt; unit" Usage="virtualizingStackPanel.PageLeft " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageLeft</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageLeft</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageLeft</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageLeft</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageLeft</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageLeft</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageLeft</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageLeft</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageLeft</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageLeft</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageLeft</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageLeft</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageLeft</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageLeft</InterfaceMember>
         <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageLeft</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1295,6 +1519,20 @@ Notice that the IsVirtualizing attached property is explicitly set to `true`.
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageRight</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageRight</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageRight</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageRight</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageRight</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageRight</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageRight</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageRight</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageRight</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageRight</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageRight</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageRight</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageRight</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageRight</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageRight</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -1328,6 +1566,20 @@ Notice that the IsVirtualizing attached property is explicitly set to `true`.
       <MemberSignature Language="F#" Value="abstract member PageUp : unit -&gt; unit&#xA;override this.PageUp : unit -&gt; unit" Usage="virtualizingStackPanel.PageUp " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageUp</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageUp</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageUp</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageUp</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageUp</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageUp</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageUp</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageUp</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageUp</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageUp</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageUp</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageUp</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageUp</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageUp</InterfaceMember>
         <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.PageUp</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1397,6 +1649,20 @@ Notice that the IsVirtualizing attached property is explicitly set to `true`.
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ScrollOwner</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ScrollOwner</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ScrollOwner</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ScrollOwner</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ScrollOwner</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ScrollOwner</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ScrollOwner</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ScrollOwner</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ScrollOwner</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ScrollOwner</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ScrollOwner</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ScrollOwner</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ScrollOwner</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ScrollOwner</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ScrollOwner</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -1433,6 +1699,20 @@ Notice that the IsVirtualizing attached property is explicitly set to `true`.
       <MemberSignature Language="F#" Value="abstract member SetHorizontalOffset : double -&gt; unit&#xA;override this.SetHorizontalOffset : double -&gt; unit" Usage="virtualizingStackPanel.SetHorizontalOffset offset" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.SetHorizontalOffset(System.Double)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.SetHorizontalOffset(System.Double)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.SetHorizontalOffset(System.Double)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.SetHorizontalOffset(System.Double)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.SetHorizontalOffset(System.Double)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.SetHorizontalOffset(System.Double)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.SetHorizontalOffset(System.Double)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.SetHorizontalOffset(System.Double)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.SetHorizontalOffset(System.Double)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.SetHorizontalOffset(System.Double)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.SetHorizontalOffset(System.Double)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.SetHorizontalOffset(System.Double)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.SetHorizontalOffset(System.Double)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.SetHorizontalOffset(System.Double)</InterfaceMember>
         <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.SetHorizontalOffset(System.Double)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1501,6 +1781,20 @@ The <xref:System.Windows.Controls.VirtualizingStackPanel> calculates the number 
       <MemberSignature Language="F#" Value="abstract member SetVerticalOffset : double -&gt; unit&#xA;override this.SetVerticalOffset : double -&gt; unit" Usage="virtualizingStackPanel.SetVerticalOffset offset" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.SetVerticalOffset(System.Double)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.SetVerticalOffset(System.Double)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.SetVerticalOffset(System.Double)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.SetVerticalOffset(System.Double)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.SetVerticalOffset(System.Double)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.SetVerticalOffset(System.Double)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.SetVerticalOffset(System.Double)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.SetVerticalOffset(System.Double)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.SetVerticalOffset(System.Double)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.SetVerticalOffset(System.Double)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.SetVerticalOffset(System.Double)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.SetVerticalOffset(System.Double)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.SetVerticalOffset(System.Double)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.SetVerticalOffset(System.Double)</InterfaceMember>
         <InterfaceMember>M:System.Windows.Controls.Primitives.IScrollInfo.SetVerticalOffset(System.Double)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1594,6 +1888,20 @@ For more information about the <xref:System.Windows.Controls.VirtualizingStackPa
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.VerticalOffset</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.VerticalOffset</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.VerticalOffset</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.VerticalOffset</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.VerticalOffset</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.VerticalOffset</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.VerticalOffset</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.VerticalOffset</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.VerticalOffset</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.VerticalOffset</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.VerticalOffset</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.VerticalOffset</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.VerticalOffset</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.VerticalOffset</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.VerticalOffset</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -1624,6 +1932,20 @@ For more information about the <xref:System.Windows.Controls.VirtualizingStackPa
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ViewportHeight</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ViewportHeight</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ViewportHeight</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ViewportHeight</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ViewportHeight</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ViewportHeight</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ViewportHeight</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ViewportHeight</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ViewportHeight</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ViewportHeight</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ViewportHeight</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ViewportHeight</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ViewportHeight</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ViewportHeight</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ViewportHeight</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -1648,6 +1970,20 @@ For more information about the <xref:System.Windows.Controls.VirtualizingStackPa
       <MemberSignature Language="F#" Value="member this.ViewportWidth : double" Usage="System.Windows.Controls.VirtualizingStackPanel.ViewportWidth" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ViewportWidth</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ViewportWidth</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ViewportWidth</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ViewportWidth</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ViewportWidth</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ViewportWidth</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ViewportWidth</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ViewportWidth</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ViewportWidth</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ViewportWidth</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ViewportWidth</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ViewportWidth</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ViewportWidth</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ViewportWidth</InterfaceMember>
         <InterfaceMember>P:System.Windows.Controls.Primitives.IScrollInfo.ViewportWidth</InterfaceMember>
       </Implements>
       <AssemblyInfo>

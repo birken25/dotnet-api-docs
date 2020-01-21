@@ -485,6 +485,21 @@ private void PrintCurrentListName(DataGrid myDataGrid){
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.BeginEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.BeginEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.BeginEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.BeginEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.BeginEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.BeginEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.BeginEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.BeginEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.BeginEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.BeginEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.BeginEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.BeginEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.BeginEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.BeginEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.BeginEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.BeginEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Forms</AssemblyName>
@@ -817,6 +832,21 @@ private void PrintCurrentListName(DataGrid myDataGrid){
       <MemberSignature Language="F#" Value="abstract member EndEdit : System.Windows.Forms.DataGridColumnStyle * int * bool -&gt; bool&#xA;override this.EndEdit : System.Windows.Forms.DataGridColumnStyle * int * bool -&gt; bool" Usage="dataGridTableStyle.EndEdit (gridColumn, rowNumber, shouldAbort)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.EndEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.EndEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.EndEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.EndEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.EndEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.EndEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.EndEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.EndEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.EndEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.EndEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.EndEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.EndEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.EndEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.EndEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.EndEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32,System.Boolean)</InterfaceMember>
         <InterfaceMember>M:System.Windows.Forms.IDataGridEditingService.EndEdit(System.Windows.Forms.DataGridColumnStyle,System.Int32,System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

@@ -909,6 +909,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Activities.Presentation.ICompositeViewEvents.RegisterCompositeView(System.Activities.Presentation.ICompositeView)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeViewEvents.RegisterCompositeView(System.Activities.Presentation.ICompositeView)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeViewEvents.RegisterCompositeView(System.Activities.Presentation.ICompositeView)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeViewEvents.RegisterCompositeView(System.Activities.Presentation.ICompositeView)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeViewEvents.RegisterCompositeView(System.Activities.Presentation.ICompositeView)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeViewEvents.RegisterCompositeView(System.Activities.Presentation.ICompositeView)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeViewEvents.RegisterCompositeView(System.Activities.Presentation.ICompositeView)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeViewEvents.RegisterCompositeView(System.Activities.Presentation.ICompositeView)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeViewEvents.RegisterCompositeView(System.Activities.Presentation.ICompositeView)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeViewEvents.RegisterCompositeView(System.Activities.Presentation.ICompositeView)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeViewEvents.RegisterCompositeView(System.Activities.Presentation.ICompositeView)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Activities.Presentation</AssemblyName>
@@ -935,6 +945,16 @@
       <MemberSignature Language="F#" Value="abstract member RegisterDefaultCompositeView : System.Activities.Presentation.ICompositeView -&gt; unit&#xA;override this.RegisterDefaultCompositeView : System.Activities.Presentation.ICompositeView -&gt; unit" Usage="workflowViewElement.RegisterDefaultCompositeView container" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeViewEvents.RegisterDefaultCompositeView(System.Activities.Presentation.ICompositeView)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeViewEvents.RegisterDefaultCompositeView(System.Activities.Presentation.ICompositeView)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeViewEvents.RegisterDefaultCompositeView(System.Activities.Presentation.ICompositeView)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeViewEvents.RegisterDefaultCompositeView(System.Activities.Presentation.ICompositeView)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeViewEvents.RegisterDefaultCompositeView(System.Activities.Presentation.ICompositeView)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeViewEvents.RegisterDefaultCompositeView(System.Activities.Presentation.ICompositeView)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeViewEvents.RegisterDefaultCompositeView(System.Activities.Presentation.ICompositeView)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeViewEvents.RegisterDefaultCompositeView(System.Activities.Presentation.ICompositeView)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeViewEvents.RegisterDefaultCompositeView(System.Activities.Presentation.ICompositeView)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeViewEvents.RegisterDefaultCompositeView(System.Activities.Presentation.ICompositeView)</InterfaceMember>
         <InterfaceMember>M:System.Activities.Presentation.ICompositeViewEvents.RegisterDefaultCompositeView(System.Activities.Presentation.ICompositeView)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1005,6 +1025,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Activities.Presentation.ICompositeViewEvents.UnregisterCompositeView(System.Activities.Presentation.ICompositeView)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeViewEvents.UnregisterCompositeView(System.Activities.Presentation.ICompositeView)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeViewEvents.UnregisterCompositeView(System.Activities.Presentation.ICompositeView)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeViewEvents.UnregisterCompositeView(System.Activities.Presentation.ICompositeView)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeViewEvents.UnregisterCompositeView(System.Activities.Presentation.ICompositeView)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeViewEvents.UnregisterCompositeView(System.Activities.Presentation.ICompositeView)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeViewEvents.UnregisterCompositeView(System.Activities.Presentation.ICompositeView)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeViewEvents.UnregisterCompositeView(System.Activities.Presentation.ICompositeView)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeViewEvents.UnregisterCompositeView(System.Activities.Presentation.ICompositeView)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeViewEvents.UnregisterCompositeView(System.Activities.Presentation.ICompositeView)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeViewEvents.UnregisterCompositeView(System.Activities.Presentation.ICompositeView)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Activities.Presentation</AssemblyName>
@@ -1031,6 +1061,16 @@
       <MemberSignature Language="F#" Value="abstract member UnregisterDefaultCompositeView : System.Activities.Presentation.ICompositeView -&gt; unit&#xA;override this.UnregisterDefaultCompositeView : System.Activities.Presentation.ICompositeView -&gt; unit" Usage="workflowViewElement.UnregisterDefaultCompositeView container" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeViewEvents.UnregisterDefaultCompositeView(System.Activities.Presentation.ICompositeView)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeViewEvents.UnregisterDefaultCompositeView(System.Activities.Presentation.ICompositeView)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeViewEvents.UnregisterDefaultCompositeView(System.Activities.Presentation.ICompositeView)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeViewEvents.UnregisterDefaultCompositeView(System.Activities.Presentation.ICompositeView)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeViewEvents.UnregisterDefaultCompositeView(System.Activities.Presentation.ICompositeView)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeViewEvents.UnregisterDefaultCompositeView(System.Activities.Presentation.ICompositeView)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeViewEvents.UnregisterDefaultCompositeView(System.Activities.Presentation.ICompositeView)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeViewEvents.UnregisterDefaultCompositeView(System.Activities.Presentation.ICompositeView)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeViewEvents.UnregisterDefaultCompositeView(System.Activities.Presentation.ICompositeView)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Presentation.ICompositeViewEvents.UnregisterDefaultCompositeView(System.Activities.Presentation.ICompositeView)</InterfaceMember>
         <InterfaceMember>M:System.Activities.Presentation.ICompositeViewEvents.UnregisterDefaultCompositeView(System.Activities.Presentation.ICompositeView)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

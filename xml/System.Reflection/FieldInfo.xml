@@ -125,6 +125,21 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.Attributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.Attributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.Attributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.Attributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.Attributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.Attributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.Attributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.Attributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.Attributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.Attributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.Attributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.Attributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.Attributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.Attributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.Attributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.Attributes</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Reflection</AssemblyName>
@@ -189,6 +204,17 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.Equals(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Reflection</AssemblyName>
@@ -235,6 +261,21 @@
       <MemberSignature Language="F#" Value="member this.FieldHandle : RuntimeFieldHandle" Usage="System.Reflection.FieldInfo.FieldHandle" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.FieldHandle</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.FieldHandle</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.FieldHandle</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.FieldHandle</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.FieldHandle</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.FieldHandle</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.FieldHandle</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.FieldHandle</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.FieldHandle</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.FieldHandle</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.FieldHandle</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.FieldHandle</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.FieldHandle</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.FieldHandle</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.FieldHandle</InterfaceMember>
         <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.FieldHandle</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -292,6 +333,21 @@
       <MemberSignature Language="F#" Value="member this.FieldType : Type" Usage="System.Reflection.FieldInfo.FieldType" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.FieldType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.FieldType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.FieldType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.FieldType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.FieldType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.FieldType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.FieldType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.FieldType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.FieldType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.FieldType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.FieldType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.FieldType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.FieldType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.FieldType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.FieldType</InterfaceMember>
         <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.FieldType</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -527,6 +583,17 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetHashCode</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Reflection</AssemblyName>
@@ -752,6 +819,21 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetValue(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetValue(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetValue(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetValue(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetValue(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetValue(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetValue(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetValue(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetValue(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetValue(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetValue(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetValue(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetValue(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetValue(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetValue(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetValue(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Reflection</AssemblyName>
@@ -852,6 +934,21 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetValueDirect(System.TypedReference)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetValueDirect(System.TypedReference)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetValueDirect(System.TypedReference)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetValueDirect(System.TypedReference)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetValueDirect(System.TypedReference)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetValueDirect(System.TypedReference)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetValueDirect(System.TypedReference)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetValueDirect(System.TypedReference)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetValueDirect(System.TypedReference)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetValueDirect(System.TypedReference)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetValueDirect(System.TypedReference)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetValueDirect(System.TypedReference)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetValueDirect(System.TypedReference)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetValueDirect(System.TypedReference)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetValueDirect(System.TypedReference)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetValueDirect(System.TypedReference)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -904,6 +1001,21 @@
       <MemberSignature Language="F#" Value="member this.IsAssembly : bool" Usage="System.Reflection.FieldInfo.IsAssembly" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsAssembly</InterfaceMember>
         <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsAssembly</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -975,6 +1087,21 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsFamily</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsFamily</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsFamily</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsFamily</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsFamily</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsFamily</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsFamily</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsFamily</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsFamily</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsFamily</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsFamily</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsFamily</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsFamily</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsFamily</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsFamily</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsFamily</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Reflection</AssemblyName>
@@ -1043,6 +1170,21 @@
       <MemberSignature Language="F#" Value="member this.IsFamilyAndAssembly : bool" Usage="System.Reflection.FieldInfo.IsFamilyAndAssembly" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsFamilyAndAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsFamilyAndAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsFamilyAndAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsFamilyAndAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsFamilyAndAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsFamilyAndAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsFamilyAndAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsFamilyAndAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsFamilyAndAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsFamilyAndAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsFamilyAndAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsFamilyAndAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsFamilyAndAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsFamilyAndAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsFamilyAndAssembly</InterfaceMember>
         <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsFamilyAndAssembly</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1114,6 +1256,21 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsFamilyOrAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsFamilyOrAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsFamilyOrAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsFamilyOrAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsFamilyOrAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsFamilyOrAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsFamilyOrAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsFamilyOrAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsFamilyOrAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsFamilyOrAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsFamilyOrAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsFamilyOrAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsFamilyOrAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsFamilyOrAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsFamilyOrAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsFamilyOrAssembly</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Reflection</AssemblyName>
@@ -1184,6 +1341,21 @@
       <MemberSignature Language="F#" Value="member this.IsInitOnly : bool" Usage="System.Reflection.FieldInfo.IsInitOnly" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsInitOnly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsInitOnly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsInitOnly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsInitOnly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsInitOnly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsInitOnly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsInitOnly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsInitOnly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsInitOnly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsInitOnly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsInitOnly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsInitOnly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsInitOnly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsInitOnly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsInitOnly</InterfaceMember>
         <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsInitOnly</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1261,6 +1433,21 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsLiteral</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsLiteral</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsLiteral</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsLiteral</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsLiteral</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsLiteral</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsLiteral</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsLiteral</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsLiteral</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsLiteral</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsLiteral</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsLiteral</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsLiteral</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsLiteral</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsLiteral</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsLiteral</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Reflection</AssemblyName>
@@ -1313,6 +1500,21 @@
       <MemberSignature Language="F#" Value="member this.IsNotSerialized : bool" Usage="System.Reflection.FieldInfo.IsNotSerialized" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsNotSerialized</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsNotSerialized</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsNotSerialized</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsNotSerialized</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsNotSerialized</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsNotSerialized</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsNotSerialized</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsNotSerialized</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsNotSerialized</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsNotSerialized</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsNotSerialized</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsNotSerialized</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsNotSerialized</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsNotSerialized</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsNotSerialized</InterfaceMember>
         <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsNotSerialized</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1373,6 +1575,21 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsPinvokeImpl</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsPinvokeImpl</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsPinvokeImpl</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsPinvokeImpl</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsPinvokeImpl</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsPinvokeImpl</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsPinvokeImpl</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsPinvokeImpl</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsPinvokeImpl</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsPinvokeImpl</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsPinvokeImpl</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsPinvokeImpl</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsPinvokeImpl</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsPinvokeImpl</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsPinvokeImpl</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsPinvokeImpl</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -1426,6 +1643,21 @@
       <MemberSignature Language="F#" Value="member this.IsPrivate : bool" Usage="System.Reflection.FieldInfo.IsPrivate" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsPrivate</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsPrivate</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsPrivate</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsPrivate</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsPrivate</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsPrivate</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsPrivate</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsPrivate</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsPrivate</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsPrivate</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsPrivate</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsPrivate</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsPrivate</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsPrivate</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsPrivate</InterfaceMember>
         <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsPrivate</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1493,6 +1725,21 @@
       <MemberSignature Language="F#" Value="member this.IsPublic : bool" Usage="System.Reflection.FieldInfo.IsPublic" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsPublic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsPublic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsPublic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsPublic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsPublic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsPublic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsPublic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsPublic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsPublic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsPublic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsPublic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsPublic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsPublic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsPublic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsPublic</InterfaceMember>
         <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsPublic</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1738,6 +1985,21 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsSpecialName</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Reflection</AssemblyName>
@@ -1799,6 +2061,21 @@
       <MemberSignature Language="F#" Value="member this.IsStatic : bool" Usage="System.Reflection.FieldInfo.IsStatic" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsStatic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsStatic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsStatic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsStatic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsStatic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsStatic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsStatic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsStatic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsStatic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsStatic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsStatic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsStatic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsStatic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsStatic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsStatic</InterfaceMember>
         <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.IsStatic</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1875,6 +2152,21 @@
       <MemberSignature Language="F#" Value="member this.MemberType : System.Reflection.MemberTypes" Usage="System.Reflection.FieldInfo.MemberType" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.MemberType</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.MemberType</InterfaceMember>
         <InterfaceMember>P:System.Runtime.InteropServices._FieldInfo.MemberType</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2049,6 +2341,21 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.SetValue(System.Object,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.SetValue(System.Object,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.SetValue(System.Object,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.SetValue(System.Object,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.SetValue(System.Object,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.SetValue(System.Object,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.SetValue(System.Object,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.SetValue(System.Object,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.SetValue(System.Object,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.SetValue(System.Object,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.SetValue(System.Object,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.SetValue(System.Object,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.SetValue(System.Object,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.SetValue(System.Object,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.SetValue(System.Object,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.SetValue(System.Object,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Reflection</AssemblyName>
@@ -2151,6 +2458,21 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.SetValue(System.Object,System.Object,System.Reflection.BindingFlags,System.Reflection.Binder,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.SetValue(System.Object,System.Object,System.Reflection.BindingFlags,System.Reflection.Binder,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.SetValue(System.Object,System.Object,System.Reflection.BindingFlags,System.Reflection.Binder,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.SetValue(System.Object,System.Object,System.Reflection.BindingFlags,System.Reflection.Binder,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.SetValue(System.Object,System.Object,System.Reflection.BindingFlags,System.Reflection.Binder,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.SetValue(System.Object,System.Object,System.Reflection.BindingFlags,System.Reflection.Binder,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.SetValue(System.Object,System.Object,System.Reflection.BindingFlags,System.Reflection.Binder,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.SetValue(System.Object,System.Object,System.Reflection.BindingFlags,System.Reflection.Binder,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.SetValue(System.Object,System.Object,System.Reflection.BindingFlags,System.Reflection.Binder,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.SetValue(System.Object,System.Object,System.Reflection.BindingFlags,System.Reflection.Binder,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.SetValue(System.Object,System.Object,System.Reflection.BindingFlags,System.Reflection.Binder,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.SetValue(System.Object,System.Object,System.Reflection.BindingFlags,System.Reflection.Binder,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.SetValue(System.Object,System.Object,System.Reflection.BindingFlags,System.Reflection.Binder,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.SetValue(System.Object,System.Object,System.Reflection.BindingFlags,System.Reflection.Binder,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.SetValue(System.Object,System.Object,System.Reflection.BindingFlags,System.Reflection.Binder,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.SetValue(System.Object,System.Object,System.Reflection.BindingFlags,System.Reflection.Binder,System.Globalization.CultureInfo)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -2227,6 +2549,21 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.SetValueDirect(System.TypedReference,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.SetValueDirect(System.TypedReference,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.SetValueDirect(System.TypedReference,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.SetValueDirect(System.TypedReference,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.SetValueDirect(System.TypedReference,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.SetValueDirect(System.TypedReference,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.SetValueDirect(System.TypedReference,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.SetValueDirect(System.TypedReference,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.SetValueDirect(System.TypedReference,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.SetValueDirect(System.TypedReference,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.SetValueDirect(System.TypedReference,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.SetValueDirect(System.TypedReference,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.SetValueDirect(System.TypedReference,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.SetValueDirect(System.TypedReference,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.SetValueDirect(System.TypedReference,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.SetValueDirect(System.TypedReference,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -2291,6 +2628,21 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -2344,6 +2696,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetType</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -2377,6 +2743,21 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Runtime.InteropServices._FieldInfo.GetTypeInfo(System::UInt32 iTInfo, System::UInt32 lcid, IntPtr ppTInfo) = System::Runtime::InteropServices::_FieldInfo::GetTypeInfo;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2427,6 +2808,21 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -2471,6 +2867,21 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Runtime.InteropServices._FieldInfo.Invoke(System::UInt32 dispIdMember, Guid % riid, System::UInt32 lcid, short wFlags, IntPtr pDispParams, IntPtr pVarResult, IntPtr pExcepInfo, IntPtr puArgErr) = System::Runtime::InteropServices::_FieldInfo::Invoke;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices._FieldInfo.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

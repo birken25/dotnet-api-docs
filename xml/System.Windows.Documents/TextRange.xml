@@ -198,6 +198,18 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Documents.ITextRange.CanSave(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextRange.CanSave(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextRange.CanSave(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextRange.CanSave(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextRange.CanSave(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextRange.CanSave(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextRange.CanSave(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextRange.CanSave(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextRange.CanSave(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextRange.CanSave(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextRange.CanSave(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextRange.CanSave(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextRange.CanSave(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -245,6 +257,18 @@
       <MemberSignature Language="VB.NET" Value="Public Event Changed As EventHandler " FrameworkAlternate="netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Event</MemberType>
       <Implements>
+        <InterfaceMember>E:System.Windows.Documents.ITextRange.Changed</InterfaceMember>
+        <InterfaceMember>E:System.Windows.Documents.ITextRange.Changed</InterfaceMember>
+        <InterfaceMember>E:System.Windows.Documents.ITextRange.Changed</InterfaceMember>
+        <InterfaceMember>E:System.Windows.Documents.ITextRange.Changed</InterfaceMember>
+        <InterfaceMember>E:System.Windows.Documents.ITextRange.Changed</InterfaceMember>
+        <InterfaceMember>E:System.Windows.Documents.ITextRange.Changed</InterfaceMember>
+        <InterfaceMember>E:System.Windows.Documents.ITextRange.Changed</InterfaceMember>
+        <InterfaceMember>E:System.Windows.Documents.ITextRange.Changed</InterfaceMember>
+        <InterfaceMember>E:System.Windows.Documents.ITextRange.Changed</InterfaceMember>
+        <InterfaceMember>E:System.Windows.Documents.ITextRange.Changed</InterfaceMember>
+        <InterfaceMember>E:System.Windows.Documents.ITextRange.Changed</InterfaceMember>
+        <InterfaceMember>E:System.Windows.Documents.ITextRange.Changed</InterfaceMember>
         <InterfaceMember>E:System.Windows.Documents.ITextRange.Changed</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -375,6 +399,18 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Documents.ITextRange.GetPropertyValue(System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextRange.GetPropertyValue(System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextRange.GetPropertyValue(System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextRange.GetPropertyValue(System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextRange.GetPropertyValue(System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextRange.GetPropertyValue(System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextRange.GetPropertyValue(System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextRange.GetPropertyValue(System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextRange.GetPropertyValue(System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextRange.GetPropertyValue(System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextRange.GetPropertyValue(System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextRange.GetPropertyValue(System.Windows.DependencyProperty)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextRange.GetPropertyValue(System.Windows.DependencyProperty)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -414,6 +450,18 @@
       <MemberSignature Language="F#" Value="member this.IsEmpty : bool" Usage="System.Windows.Documents.TextRange.IsEmpty" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Windows.Documents.ITextRange.IsEmpty</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.ITextRange.IsEmpty</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.ITextRange.IsEmpty</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.ITextRange.IsEmpty</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.ITextRange.IsEmpty</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.ITextRange.IsEmpty</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.ITextRange.IsEmpty</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.ITextRange.IsEmpty</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.ITextRange.IsEmpty</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.ITextRange.IsEmpty</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.ITextRange.IsEmpty</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.ITextRange.IsEmpty</InterfaceMember>
         <InterfaceMember>P:System.Windows.Documents.ITextRange.IsEmpty</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -517,6 +565,18 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Documents.ITextRange.Save(System.IO.Stream,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextRange.Save(System.IO.Stream,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextRange.Save(System.IO.Stream,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextRange.Save(System.IO.Stream,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextRange.Save(System.IO.Stream,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextRange.Save(System.IO.Stream,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextRange.Save(System.IO.Stream,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextRange.Save(System.IO.Stream,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextRange.Save(System.IO.Stream,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextRange.Save(System.IO.Stream,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextRange.Save(System.IO.Stream,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextRange.Save(System.IO.Stream,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextRange.Save(System.IO.Stream,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -572,6 +632,18 @@
       <MemberSignature Language="F#" Value="member this.Save : System.IO.Stream * string * bool -&gt; unit" Usage="textRange.Save (stream, dataFormat, preserveTextElements)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Documents.ITextRange.Save(System.IO.Stream,System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextRange.Save(System.IO.Stream,System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextRange.Save(System.IO.Stream,System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextRange.Save(System.IO.Stream,System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextRange.Save(System.IO.Stream,System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextRange.Save(System.IO.Stream,System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextRange.Save(System.IO.Stream,System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextRange.Save(System.IO.Stream,System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextRange.Save(System.IO.Stream,System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextRange.Save(System.IO.Stream,System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextRange.Save(System.IO.Stream,System.String,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.ITextRange.Save(System.IO.Stream,System.String,System.Boolean)</InterfaceMember>
         <InterfaceMember>M:System.Windows.Documents.ITextRange.Save(System.IO.Stream,System.String,System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -687,6 +759,18 @@
       <MemberSignature Language="F#" Value="member this.Text : string with get, set" Usage="System.Windows.Documents.TextRange.Text" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Windows.Documents.ITextRange.Text</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.ITextRange.Text</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.ITextRange.Text</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.ITextRange.Text</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.ITextRange.Text</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.ITextRange.Text</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.ITextRange.Text</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.ITextRange.Text</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.ITextRange.Text</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.ITextRange.Text</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.ITextRange.Text</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.ITextRange.Text</InterfaceMember>
         <InterfaceMember>P:System.Windows.Documents.ITextRange.Text</InterfaceMember>
       </Implements>
       <AssemblyInfo>

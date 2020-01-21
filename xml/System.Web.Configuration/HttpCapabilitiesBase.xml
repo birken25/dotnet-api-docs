@@ -3902,6 +3902,19 @@ CACHE-CONTROL: NO-CACHE
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.UI.IFilterResolutionService.CompareFilters(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.CompareFilters(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.CompareFilters(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.CompareFilters(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.CompareFilters(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.CompareFilters(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.CompareFilters(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.CompareFilters(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.CompareFilters(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.CompareFilters(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.CompareFilters(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.CompareFilters(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.CompareFilters(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.CompareFilters(System.String,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -3931,6 +3944,19 @@ CACHE-CONTROL: NO-CACHE
       <MemberSignature Language="C++ CLI" Value=" virtual bool System.Web.UI.IFilterResolutionService.EvaluateFilter(System::String ^ filterName) = System::Web::UI::IFilterResolutionService::EvaluateFilter;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.EvaluateFilter(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.EvaluateFilter(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.EvaluateFilter(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.EvaluateFilter(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.EvaluateFilter(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.EvaluateFilter(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.EvaluateFilter(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.EvaluateFilter(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.EvaluateFilter(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.EvaluateFilter(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.EvaluateFilter(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.EvaluateFilter(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.EvaluateFilter(System.String)</InterfaceMember>
         <InterfaceMember>M:System.Web.UI.IFilterResolutionService.EvaluateFilter(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

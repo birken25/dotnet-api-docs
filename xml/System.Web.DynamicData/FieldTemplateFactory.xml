@@ -99,6 +99,17 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.DynamicData.IFieldTemplateFactory.CreateFieldTemplate(System.Web.DynamicData.MetaColumn,System.Web.UI.WebControls.DataBoundControlMode,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IFieldTemplateFactory.CreateFieldTemplate(System.Web.DynamicData.MetaColumn,System.Web.UI.WebControls.DataBoundControlMode,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IFieldTemplateFactory.CreateFieldTemplate(System.Web.DynamicData.MetaColumn,System.Web.UI.WebControls.DataBoundControlMode,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IFieldTemplateFactory.CreateFieldTemplate(System.Web.DynamicData.MetaColumn,System.Web.UI.WebControls.DataBoundControlMode,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IFieldTemplateFactory.CreateFieldTemplate(System.Web.DynamicData.MetaColumn,System.Web.UI.WebControls.DataBoundControlMode,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IFieldTemplateFactory.CreateFieldTemplate(System.Web.DynamicData.MetaColumn,System.Web.UI.WebControls.DataBoundControlMode,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IFieldTemplateFactory.CreateFieldTemplate(System.Web.DynamicData.MetaColumn,System.Web.UI.WebControls.DataBoundControlMode,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IFieldTemplateFactory.CreateFieldTemplate(System.Web.DynamicData.MetaColumn,System.Web.UI.WebControls.DataBoundControlMode,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IFieldTemplateFactory.CreateFieldTemplate(System.Web.DynamicData.MetaColumn,System.Web.UI.WebControls.DataBoundControlMode,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IFieldTemplateFactory.CreateFieldTemplate(System.Web.DynamicData.MetaColumn,System.Web.UI.WebControls.DataBoundControlMode,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IFieldTemplateFactory.CreateFieldTemplate(System.Web.DynamicData.MetaColumn,System.Web.UI.WebControls.DataBoundControlMode,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IFieldTemplateFactory.CreateFieldTemplate(System.Web.DynamicData.MetaColumn,System.Web.UI.WebControls.DataBoundControlMode,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.DynamicData</AssemblyName>
@@ -168,6 +179,17 @@
       <MemberSignature Language="F#" Value="abstract member Initialize : System.Web.DynamicData.MetaModel -&gt; unit&#xA;override this.Initialize : System.Web.DynamicData.MetaModel -&gt; unit" Usage="fieldTemplateFactory.Initialize model" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.DynamicData.IFieldTemplateFactory.Initialize(System.Web.DynamicData.MetaModel)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IFieldTemplateFactory.Initialize(System.Web.DynamicData.MetaModel)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IFieldTemplateFactory.Initialize(System.Web.DynamicData.MetaModel)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IFieldTemplateFactory.Initialize(System.Web.DynamicData.MetaModel)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IFieldTemplateFactory.Initialize(System.Web.DynamicData.MetaModel)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IFieldTemplateFactory.Initialize(System.Web.DynamicData.MetaModel)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IFieldTemplateFactory.Initialize(System.Web.DynamicData.MetaModel)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IFieldTemplateFactory.Initialize(System.Web.DynamicData.MetaModel)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IFieldTemplateFactory.Initialize(System.Web.DynamicData.MetaModel)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IFieldTemplateFactory.Initialize(System.Web.DynamicData.MetaModel)</InterfaceMember>
+        <InterfaceMember>M:System.Web.DynamicData.IFieldTemplateFactory.Initialize(System.Web.DynamicData.MetaModel)</InterfaceMember>
         <InterfaceMember>M:System.Web.DynamicData.IFieldTemplateFactory.Initialize(System.Web.DynamicData.MetaModel)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

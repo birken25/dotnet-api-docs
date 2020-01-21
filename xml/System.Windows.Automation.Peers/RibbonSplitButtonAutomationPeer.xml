@@ -122,6 +122,17 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Automation.Provider.IInvokeProvider.Invoke</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IInvokeProvider.Invoke</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IInvokeProvider.Invoke</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IInvokeProvider.Invoke</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IInvokeProvider.Invoke</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IInvokeProvider.Invoke</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IInvokeProvider.Invoke</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IInvokeProvider.Invoke</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IInvokeProvider.Invoke</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IInvokeProvider.Invoke</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IInvokeProvider.Invoke</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IInvokeProvider.Invoke</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Controls.Ribbon</AssemblyName>
@@ -153,6 +164,17 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Windows.Automation.Provider.IToggleProvider.Toggle() = System::Windows::Automation::Provider::IToggleProvider::Toggle;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IToggleProvider.Toggle</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IToggleProvider.Toggle</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IToggleProvider.Toggle</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IToggleProvider.Toggle</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IToggleProvider.Toggle</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IToggleProvider.Toggle</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IToggleProvider.Toggle</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IToggleProvider.Toggle</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IToggleProvider.Toggle</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IToggleProvider.Toggle</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IToggleProvider.Toggle</InterfaceMember>
         <InterfaceMember>M:System.Windows.Automation.Provider.IToggleProvider.Toggle</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -186,6 +208,17 @@
       <MemberSignature Language="F#" Usage="System.Windows.Automation.Provider.IToggleProvider.ToggleState" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IToggleProvider.ToggleState</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IToggleProvider.ToggleState</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IToggleProvider.ToggleState</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IToggleProvider.ToggleState</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IToggleProvider.ToggleState</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IToggleProvider.ToggleState</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IToggleProvider.ToggleState</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IToggleProvider.ToggleState</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IToggleProvider.ToggleState</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IToggleProvider.ToggleState</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IToggleProvider.ToggleState</InterfaceMember>
         <InterfaceMember>P:System.Windows.Automation.Provider.IToggleProvider.ToggleState</InterfaceMember>
       </Implements>
       <AssemblyInfo>

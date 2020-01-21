@@ -497,6 +497,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationService.Deserialize(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationService.Deserialize(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationService.Deserialize(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationService.Deserialize(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationService.Deserialize(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationService.Deserialize(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationService.Deserialize(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationService.Deserialize(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationService.Deserialize(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationService.Deserialize(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationService.Deserialize(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationService.Deserialize(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationService.Deserialize(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationService.Deserialize(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationService.Deserialize(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -531,6 +545,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationService.Serialize(System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationService.Serialize(System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationService.Serialize(System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationService.Serialize(System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationService.Serialize(System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationService.Serialize(System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationService.Serialize(System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationService.Serialize(System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationService.Serialize(System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationService.Serialize(System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationService.Serialize(System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationService.Serialize(System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationService.Serialize(System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationService.Serialize(System.Collections.ICollection)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationService.Serialize(System.Collections.ICollection)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -563,6 +591,20 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::String ^ System.ComponentModel.Design.Serialization.INameCreationService.CreateName(System::ComponentModel::IContainer ^ container, Type ^ dataType) = System::ComponentModel::Design::Serialization::INameCreationService::CreateName;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.INameCreationService.CreateName(System.ComponentModel.IContainer,System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.INameCreationService.CreateName(System.ComponentModel.IContainer,System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.INameCreationService.CreateName(System.ComponentModel.IContainer,System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.INameCreationService.CreateName(System.ComponentModel.IContainer,System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.INameCreationService.CreateName(System.ComponentModel.IContainer,System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.INameCreationService.CreateName(System.ComponentModel.IContainer,System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.INameCreationService.CreateName(System.ComponentModel.IContainer,System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.INameCreationService.CreateName(System.ComponentModel.IContainer,System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.INameCreationService.CreateName(System.ComponentModel.IContainer,System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.INameCreationService.CreateName(System.ComponentModel.IContainer,System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.INameCreationService.CreateName(System.ComponentModel.IContainer,System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.INameCreationService.CreateName(System.ComponentModel.IContainer,System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.INameCreationService.CreateName(System.ComponentModel.IContainer,System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.INameCreationService.CreateName(System.ComponentModel.IContainer,System.Type)</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.Design.Serialization.INameCreationService.CreateName(System.ComponentModel.IContainer,System.Type)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -600,6 +642,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ComponentModel.Design.Serialization.INameCreationService.IsValidName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.INameCreationService.IsValidName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.INameCreationService.IsValidName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.INameCreationService.IsValidName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.INameCreationService.IsValidName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.INameCreationService.IsValidName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.INameCreationService.IsValidName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.INameCreationService.IsValidName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.INameCreationService.IsValidName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.INameCreationService.IsValidName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.INameCreationService.IsValidName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.INameCreationService.IsValidName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.INameCreationService.IsValidName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.INameCreationService.IsValidName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.INameCreationService.IsValidName(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -634,6 +690,20 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.ComponentModel.Design.Serialization.INameCreationService.ValidateName(System::String ^ name) = System::ComponentModel::Design::Serialization::INameCreationService::ValidateName;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.INameCreationService.ValidateName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.INameCreationService.ValidateName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.INameCreationService.ValidateName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.INameCreationService.ValidateName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.INameCreationService.ValidateName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.INameCreationService.ValidateName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.INameCreationService.ValidateName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.INameCreationService.ValidateName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.INameCreationService.ValidateName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.INameCreationService.ValidateName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.INameCreationService.ValidateName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.INameCreationService.ValidateName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.INameCreationService.ValidateName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.Design.Serialization.INameCreationService.ValidateName(System.String)</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.Design.Serialization.INameCreationService.ValidateName(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

@@ -161,6 +161,15 @@ Use the <xref:System.Diagnostics.SymbolStore.SymDocumentWriter.Finalize> method 
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>ISymWrapper</AssemblyName>
@@ -278,6 +287,20 @@ Use the <xref:System.Diagnostics.SymbolStore.SymDocumentWriter.Finalize> method 
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocumentWriter.SetCheckSum(System.Guid,System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocumentWriter.SetCheckSum(System.Guid,System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocumentWriter.SetCheckSum(System.Guid,System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocumentWriter.SetCheckSum(System.Guid,System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocumentWriter.SetCheckSum(System.Guid,System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocumentWriter.SetCheckSum(System.Guid,System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocumentWriter.SetCheckSum(System.Guid,System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocumentWriter.SetCheckSum(System.Guid,System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocumentWriter.SetCheckSum(System.Guid,System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocumentWriter.SetCheckSum(System.Guid,System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocumentWriter.SetCheckSum(System.Guid,System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocumentWriter.SetCheckSum(System.Guid,System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocumentWriter.SetCheckSum(System.Guid,System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocumentWriter.SetCheckSum(System.Guid,System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocumentWriter.SetCheckSum(System.Guid,System.Byte[])</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>ISymWrapper</AssemblyName>
@@ -313,6 +336,20 @@ Use the <xref:System.Diagnostics.SymbolStore.SymDocumentWriter.Finalize> method 
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual void SetSource(cli::array &lt;System::Byte&gt; ^ source);" FrameworkAlternate="netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocumentWriter.SetSource(System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocumentWriter.SetSource(System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocumentWriter.SetSource(System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocumentWriter.SetSource(System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocumentWriter.SetSource(System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocumentWriter.SetSource(System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocumentWriter.SetSource(System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocumentWriter.SetSource(System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocumentWriter.SetSource(System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocumentWriter.SetSource(System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocumentWriter.SetSource(System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocumentWriter.SetSource(System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocumentWriter.SetSource(System.Byte[])</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocumentWriter.SetSource(System.Byte[])</InterfaceMember>
         <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocumentWriter.SetSource(System.Byte[])</InterfaceMember>
       </Implements>
       <AssemblyInfo>

@@ -87,6 +87,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Extensions</AssemblyName>
@@ -114,6 +124,16 @@
       <MemberSignature Language="F#" Value="override this.GetViewNames : unit -&gt; System.Collections.ICollection" Usage="queryableDataSource.GetViewNames " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
         <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -188,6 +208,16 @@
       <MemberType>Event</MemberType>
       <Implements>
         <InterfaceMember>E:System.Web.UI.WebControls.IQueryableDataSource.QueryCreated</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.WebControls.IQueryableDataSource.QueryCreated</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.WebControls.IQueryableDataSource.QueryCreated</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.WebControls.IQueryableDataSource.QueryCreated</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.WebControls.IQueryableDataSource.QueryCreated</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.WebControls.IQueryableDataSource.QueryCreated</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.WebControls.IQueryableDataSource.QueryCreated</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.WebControls.IQueryableDataSource.QueryCreated</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.WebControls.IQueryableDataSource.QueryCreated</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.WebControls.IQueryableDataSource.QueryCreated</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.WebControls.IQueryableDataSource.QueryCreated</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Extensions</AssemblyName>
@@ -210,6 +240,16 @@
       <MemberSignature Language="F#" Value="abstract member RaiseViewChanged : unit -&gt; unit&#xA;override this.RaiseViewChanged : unit -&gt; unit" Usage="queryableDataSource.RaiseViewChanged " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.UI.WebControls.IQueryableDataSource.RaiseViewChanged</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.WebControls.IQueryableDataSource.RaiseViewChanged</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.WebControls.IQueryableDataSource.RaiseViewChanged</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.WebControls.IQueryableDataSource.RaiseViewChanged</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.WebControls.IQueryableDataSource.RaiseViewChanged</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.WebControls.IQueryableDataSource.RaiseViewChanged</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.WebControls.IQueryableDataSource.RaiseViewChanged</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.WebControls.IQueryableDataSource.RaiseViewChanged</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.WebControls.IQueryableDataSource.RaiseViewChanged</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.WebControls.IQueryableDataSource.RaiseViewChanged</InterfaceMember>
         <InterfaceMember>M:System.Web.UI.WebControls.IQueryableDataSource.RaiseViewChanged</InterfaceMember>
       </Implements>
       <AssemblyInfo>

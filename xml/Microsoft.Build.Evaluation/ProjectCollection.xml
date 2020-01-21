@@ -340,6 +340,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Build</AssemblyName>
@@ -490,6 +500,16 @@
       <MemberSignature Language="F#" Value="abstract member GetToolset : string -&gt; Microsoft.Build.Evaluation.Toolset&#xA;override this.GetToolset : string -&gt; Microsoft.Build.Evaluation.Toolset" Usage="projectCollection.GetToolset toolsVersion" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Build.Evaluation.IToolsetProvider.GetToolset(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Evaluation.IToolsetProvider.GetToolset(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Evaluation.IToolsetProvider.GetToolset(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Evaluation.IToolsetProvider.GetToolset(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Evaluation.IToolsetProvider.GetToolset(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Evaluation.IToolsetProvider.GetToolset(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Evaluation.IToolsetProvider.GetToolset(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Evaluation.IToolsetProvider.GetToolset(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Evaluation.IToolsetProvider.GetToolset(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Evaluation.IToolsetProvider.GetToolset(System.String)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Build.Evaluation.IToolsetProvider.GetToolset(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1340,6 +1360,16 @@
       <MemberSignature Language="F#" Value="member this.Toolsets : System.Collections.Generic.ICollection&lt;Microsoft.Build.Evaluation.Toolset&gt;" Usage="Microsoft.Build.Evaluation.ProjectCollection.Toolsets" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:Microsoft.Build.Evaluation.IToolsetProvider.Toolsets</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Evaluation.IToolsetProvider.Toolsets</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Evaluation.IToolsetProvider.Toolsets</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Evaluation.IToolsetProvider.Toolsets</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Evaluation.IToolsetProvider.Toolsets</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Evaluation.IToolsetProvider.Toolsets</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Evaluation.IToolsetProvider.Toolsets</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Evaluation.IToolsetProvider.Toolsets</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Evaluation.IToolsetProvider.Toolsets</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Evaluation.IToolsetProvider.Toolsets</InterfaceMember>
         <InterfaceMember>P:Microsoft.Build.Evaluation.IToolsetProvider.Toolsets</InterfaceMember>
       </Implements>
       <AssemblyInfo>

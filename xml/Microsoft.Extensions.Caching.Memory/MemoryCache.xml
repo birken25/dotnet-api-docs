@@ -150,6 +150,12 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Extensions.Caching.Memory.IMemoryCache.CreateEntry(System.Object)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Caching.Memory.IMemoryCache.CreateEntry(System.Object)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Caching.Memory.IMemoryCache.CreateEntry(System.Object)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Caching.Memory.IMemoryCache.CreateEntry(System.Object)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Caching.Memory.IMemoryCache.CreateEntry(System.Object)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Caching.Memory.IMemoryCache.CreateEntry(System.Object)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Caching.Memory.IMemoryCache.CreateEntry(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Caching.Memory</AssemblyName>
@@ -184,6 +190,12 @@
       <MemberSignature Language="F#" Value="abstract member Dispose : unit -&gt; unit&#xA;override this.Dispose : unit -&gt; unit" Usage="memoryCache.Dispose " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -272,6 +284,12 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Extensions.Caching.Memory.IMemoryCache.Remove(System.Object)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Caching.Memory.IMemoryCache.Remove(System.Object)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Caching.Memory.IMemoryCache.Remove(System.Object)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Caching.Memory.IMemoryCache.Remove(System.Object)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Caching.Memory.IMemoryCache.Remove(System.Object)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Caching.Memory.IMemoryCache.Remove(System.Object)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Caching.Memory.IMemoryCache.Remove(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Caching.Memory</AssemblyName>
@@ -305,6 +323,12 @@
       <MemberSignature Language="F#" Value="abstract member TryGetValue : obj * obj -&gt; bool&#xA;override this.TryGetValue : obj * obj -&gt; bool" Usage="memoryCache.TryGetValue (key, result)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Extensions.Caching.Memory.IMemoryCache.TryGetValue(System.Object,System.Object@)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Caching.Memory.IMemoryCache.TryGetValue(System.Object,System.Object@)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Caching.Memory.IMemoryCache.TryGetValue(System.Object,System.Object@)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Caching.Memory.IMemoryCache.TryGetValue(System.Object,System.Object@)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Caching.Memory.IMemoryCache.TryGetValue(System.Object,System.Object@)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Caching.Memory.IMemoryCache.TryGetValue(System.Object,System.Object@)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Extensions.Caching.Memory.IMemoryCache.TryGetValue(System.Object,System.Object@)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

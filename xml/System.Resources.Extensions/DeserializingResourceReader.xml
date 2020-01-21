@@ -80,6 +80,10 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual void Close();" />
       <MemberSignature Language="F#" Value="abstract member Close : unit -&gt; unit&#xA;override this.Close : unit -&gt; unit" Usage="deserializingResourceReader.Close " />
       <MemberType>Method</MemberType>
+      <Implements>
+        <InterfaceMember>M:System.Resources.IResourceReader.Close</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceReader.Close</InterfaceMember>
+      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Resources.Extensions</AssemblyName>
         <AssemblyVersion>4.0.0.0</AssemblyVersion>
@@ -102,6 +106,10 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual void Dispose();" />
       <MemberSignature Language="F#" Value="abstract member Dispose : unit -&gt; unit&#xA;override this.Dispose : unit -&gt; unit" Usage="deserializingResourceReader.Dispose " />
       <MemberType>Method</MemberType>
+      <Implements>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Resources.Extensions</AssemblyName>
         <AssemblyVersion>4.0.0.0</AssemblyVersion>
@@ -124,6 +132,10 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual System::Collections::IDictionaryEnumerator ^ GetEnumerator();" />
       <MemberSignature Language="F#" Value="abstract member GetEnumerator : unit -&gt; System.Collections.IDictionaryEnumerator&#xA;override this.GetEnumerator : unit -&gt; System.Collections.IDictionaryEnumerator" Usage="deserializingResourceReader.GetEnumerator " />
       <MemberType>Method</MemberType>
+      <Implements>
+        <InterfaceMember>M:System.Resources.IResourceReader.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Resources.IResourceReader.GetEnumerator</InterfaceMember>
+      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Resources.Extensions</AssemblyName>
         <AssemblyVersion>4.0.0.0</AssemblyVersion>
@@ -146,6 +158,10 @@
       <MemberSignature Language="VB.NET" Value="Function GetEnumerator () As IEnumerator Implements IEnumerable.GetEnumerator" />
       <MemberSignature Language="C++ CLI" Value=" virtual System::Collections::IEnumerator ^ System.Collections.IEnumerable.GetEnumerator() = System::Collections::IEnumerable::GetEnumerator;" />
       <MemberType>Method</MemberType>
+      <Implements>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Resources.Extensions</AssemblyName>
         <AssemblyVersion>4.0.0.0</AssemblyVersion>

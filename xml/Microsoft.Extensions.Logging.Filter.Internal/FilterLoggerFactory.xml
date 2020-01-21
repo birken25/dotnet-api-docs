@@ -60,6 +60,7 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Extensions.Logging.ILoggerFactory.AddProvider(Microsoft.Extensions.Logging.ILoggerProvider)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.ILoggerFactory.AddProvider(Microsoft.Extensions.Logging.ILoggerProvider)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Logging.Filter</AssemblyName>
@@ -87,6 +88,7 @@
       <MemberSignature Language="F#" Value="abstract member CreateLogger : string -&gt; Microsoft.Extensions.Logging.ILogger&#xA;override this.CreateLogger : string -&gt; Microsoft.Extensions.Logging.ILogger" Usage="filterLoggerFactory.CreateLogger categoryName" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.ILoggerFactory.CreateLogger(System.String)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Extensions.Logging.ILoggerFactory.CreateLogger(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -116,6 +118,7 @@
       <MemberSignature Language="F#" Value="abstract member Dispose : unit -&gt; unit&#xA;override this.Dispose : unit -&gt; unit" Usage="filterLoggerFactory.Dispose " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>

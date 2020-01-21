@@ -99,6 +99,10 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Extensions.Options.IConfigureOptions`1.Configure(`0)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Options.IConfigureOptions`1.Configure(`0)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Options.IConfigureOptions`1.Configure(`0)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Options.IConfigureOptions`1.Configure(`0)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Options.IConfigureOptions`1.Configure(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Options</AssemblyName>
@@ -129,6 +133,10 @@
       <MemberSignature Language="F#" Value="abstract member Configure : string * 'Options -&gt; unit&#xA;override this.Configure : string * 'Options -&gt; unit" Usage="configureNamedOptions.Configure (name, options)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Extensions.Options.IConfigureNamedOptions`1.Configure(System.String,`0)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Options.IConfigureNamedOptions`1.Configure(System.String,`0)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Options.IConfigureNamedOptions`1.Configure(System.String,`0)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Options.IConfigureNamedOptions`1.Configure(System.String,`0)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Extensions.Options.IConfigureNamedOptions`1.Configure(System.String,`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

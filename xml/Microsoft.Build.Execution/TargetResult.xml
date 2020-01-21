@@ -32,6 +32,16 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Build.Execution.ITargetResult.Exception</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Execution.ITargetResult.Exception</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Execution.ITargetResult.Exception</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Execution.ITargetResult.Exception</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Execution.ITargetResult.Exception</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Execution.ITargetResult.Exception</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Execution.ITargetResult.Exception</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Execution.ITargetResult.Exception</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Execution.ITargetResult.Exception</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Execution.ITargetResult.Exception</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Execution.ITargetResult.Exception</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Build</AssemblyName>
@@ -63,6 +73,16 @@
       <MemberSignature Language="F#" Value="member this.Items : Microsoft.Build.Framework.ITaskItem[]" Usage="Microsoft.Build.Execution.TargetResult.Items" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:Microsoft.Build.Execution.ITargetResult.Items</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Execution.ITargetResult.Items</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Execution.ITargetResult.Items</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Execution.ITargetResult.Items</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Execution.ITargetResult.Items</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Execution.ITargetResult.Items</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Execution.ITargetResult.Items</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Execution.ITargetResult.Items</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Execution.ITargetResult.Items</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Execution.ITargetResult.Items</InterfaceMember>
         <InterfaceMember>P:Microsoft.Build.Execution.ITargetResult.Items</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -102,6 +122,16 @@
       <MemberSignature Language="F#" Value="member this.ResultCode : Microsoft.Build.Execution.TargetResultCode" Usage="Microsoft.Build.Execution.TargetResult.ResultCode" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:Microsoft.Build.Execution.ITargetResult.ResultCode</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Execution.ITargetResult.ResultCode</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Execution.ITargetResult.ResultCode</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Execution.ITargetResult.ResultCode</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Execution.ITargetResult.ResultCode</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Execution.ITargetResult.ResultCode</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Execution.ITargetResult.ResultCode</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Execution.ITargetResult.ResultCode</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Execution.ITargetResult.ResultCode</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Execution.ITargetResult.ResultCode</InterfaceMember>
         <InterfaceMember>P:Microsoft.Build.Execution.ITargetResult.ResultCode</InterfaceMember>
       </Implements>
       <AssemblyInfo>

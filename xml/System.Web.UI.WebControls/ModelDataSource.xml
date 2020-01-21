@@ -121,6 +121,15 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.UI.IStateManager.LoadViewState(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IStateManager.LoadViewState(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IStateManager.LoadViewState(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IStateManager.LoadViewState(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IStateManager.LoadViewState(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IStateManager.LoadViewState(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IStateManager.LoadViewState(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IStateManager.LoadViewState(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IStateManager.LoadViewState(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IStateManager.LoadViewState(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -155,6 +164,15 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.UI.IStateManager.SaveViewState</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IStateManager.SaveViewState</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IStateManager.SaveViewState</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IStateManager.SaveViewState</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IStateManager.SaveViewState</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IStateManager.SaveViewState</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IStateManager.SaveViewState</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IStateManager.SaveViewState</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IStateManager.SaveViewState</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IStateManager.SaveViewState</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -177,6 +195,15 @@
       <MemberSignature Language="VB.NET" Value="Custom Event DataSourceChanged As EventHandler Implements System.Web.UI.IDataSource" />
       <MemberType>Event</MemberType>
       <Implements>
+        <InterfaceMember>E:System.Web.UI.IDataSource.DataSourceChanged</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.IDataSource.DataSourceChanged</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.IDataSource.DataSourceChanged</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.IDataSource.DataSourceChanged</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.IDataSource.DataSourceChanged</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.IDataSource.DataSourceChanged</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.IDataSource.DataSourceChanged</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.IDataSource.DataSourceChanged</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.IDataSource.DataSourceChanged</InterfaceMember>
         <InterfaceMember>E:System.Web.UI.IDataSource.DataSourceChanged</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -206,6 +233,15 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Web::UI::DataSourceView ^ System.Web.UI.IDataSource.GetView(System::String ^ viewName) = System::Web::UI::IDataSource::GetView;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
         <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -241,6 +277,15 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -273,6 +318,15 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.UI.IStateManager.IsTrackingViewState</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IStateManager.IsTrackingViewState</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IStateManager.IsTrackingViewState</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IStateManager.IsTrackingViewState</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IStateManager.IsTrackingViewState</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IStateManager.IsTrackingViewState</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IStateManager.IsTrackingViewState</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IStateManager.IsTrackingViewState</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IStateManager.IsTrackingViewState</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IStateManager.IsTrackingViewState</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -303,6 +357,15 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Web.UI.IStateManager.LoadViewState(System::Object ^ savedState) = System::Web::UI::IStateManager::LoadViewState;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.UI.IStateManager.LoadViewState(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IStateManager.LoadViewState(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IStateManager.LoadViewState(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IStateManager.LoadViewState(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IStateManager.LoadViewState(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IStateManager.LoadViewState(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IStateManager.LoadViewState(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IStateManager.LoadViewState(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IStateManager.LoadViewState(System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Web.UI.IStateManager.LoadViewState(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -337,6 +400,15 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.UI.IStateManager.SaveViewState</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IStateManager.SaveViewState</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IStateManager.SaveViewState</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IStateManager.SaveViewState</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IStateManager.SaveViewState</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IStateManager.SaveViewState</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IStateManager.SaveViewState</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IStateManager.SaveViewState</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IStateManager.SaveViewState</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IStateManager.SaveViewState</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -368,6 +440,15 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.UI.IStateManager.TrackViewState</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IStateManager.TrackViewState</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IStateManager.TrackViewState</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IStateManager.TrackViewState</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IStateManager.TrackViewState</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IStateManager.TrackViewState</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IStateManager.TrackViewState</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IStateManager.TrackViewState</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IStateManager.TrackViewState</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IStateManager.TrackViewState</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -398,6 +479,15 @@
       <MemberSignature Language="F#" Value="abstract member TrackViewState : unit -&gt; unit&#xA;override this.TrackViewState : unit -&gt; unit" Usage="modelDataSource.TrackViewState " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.UI.IStateManager.TrackViewState</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IStateManager.TrackViewState</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IStateManager.TrackViewState</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IStateManager.TrackViewState</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IStateManager.TrackViewState</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IStateManager.TrackViewState</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IStateManager.TrackViewState</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IStateManager.TrackViewState</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IStateManager.TrackViewState</InterfaceMember>
         <InterfaceMember>M:System.Web.UI.IStateManager.TrackViewState</InterfaceMember>
       </Implements>
       <AssemblyInfo>

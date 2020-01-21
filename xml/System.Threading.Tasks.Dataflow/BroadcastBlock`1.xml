@@ -134,6 +134,13 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Threading.Tasks.Dataflow.IDataflowBlock.Complete</InterfaceMember>
+        <InterfaceMember>M:System.Threading.Tasks.Dataflow.IDataflowBlock.Complete</InterfaceMember>
+        <InterfaceMember>M:System.Threading.Tasks.Dataflow.IDataflowBlock.Complete</InterfaceMember>
+        <InterfaceMember>M:System.Threading.Tasks.Dataflow.IDataflowBlock.Complete</InterfaceMember>
+        <InterfaceMember>M:System.Threading.Tasks.Dataflow.IDataflowBlock.Complete</InterfaceMember>
+        <InterfaceMember>M:System.Threading.Tasks.Dataflow.IDataflowBlock.Complete</InterfaceMember>
+        <InterfaceMember>M:System.Threading.Tasks.Dataflow.IDataflowBlock.Complete</InterfaceMember>
+        <InterfaceMember>M:System.Threading.Tasks.Dataflow.IDataflowBlock.Complete</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Threading.Tasks.Dataflow</AssemblyName>
@@ -170,6 +177,13 @@
       <MemberSignature Language="F#" Value="member this.Completion : System.Threading.Tasks.Task" Usage="System.Threading.Tasks.Dataflow.BroadcastBlock&lt;'T&gt;.Completion" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Threading.Tasks.Dataflow.IDataflowBlock.Completion</InterfaceMember>
+        <InterfaceMember>P:System.Threading.Tasks.Dataflow.IDataflowBlock.Completion</InterfaceMember>
+        <InterfaceMember>P:System.Threading.Tasks.Dataflow.IDataflowBlock.Completion</InterfaceMember>
+        <InterfaceMember>P:System.Threading.Tasks.Dataflow.IDataflowBlock.Completion</InterfaceMember>
+        <InterfaceMember>P:System.Threading.Tasks.Dataflow.IDataflowBlock.Completion</InterfaceMember>
+        <InterfaceMember>P:System.Threading.Tasks.Dataflow.IDataflowBlock.Completion</InterfaceMember>
+        <InterfaceMember>P:System.Threading.Tasks.Dataflow.IDataflowBlock.Completion</InterfaceMember>
         <InterfaceMember>P:System.Threading.Tasks.Dataflow.IDataflowBlock.Completion</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -208,6 +222,13 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Threading.Tasks.Dataflow.ISourceBlock`1.LinkTo(System.Threading.Tasks.Dataflow.ITargetBlock{`0},System.Threading.Tasks.Dataflow.DataflowLinkOptions)</InterfaceMember>
+        <InterfaceMember>M:System.Threading.Tasks.Dataflow.ISourceBlock`1.LinkTo(System.Threading.Tasks.Dataflow.ITargetBlock{`0},System.Threading.Tasks.Dataflow.DataflowLinkOptions)</InterfaceMember>
+        <InterfaceMember>M:System.Threading.Tasks.Dataflow.ISourceBlock`1.LinkTo(System.Threading.Tasks.Dataflow.ITargetBlock{`0},System.Threading.Tasks.Dataflow.DataflowLinkOptions)</InterfaceMember>
+        <InterfaceMember>M:System.Threading.Tasks.Dataflow.ISourceBlock`1.LinkTo(System.Threading.Tasks.Dataflow.ITargetBlock{`0},System.Threading.Tasks.Dataflow.DataflowLinkOptions)</InterfaceMember>
+        <InterfaceMember>M:System.Threading.Tasks.Dataflow.ISourceBlock`1.LinkTo(System.Threading.Tasks.Dataflow.ITargetBlock{`0},System.Threading.Tasks.Dataflow.DataflowLinkOptions)</InterfaceMember>
+        <InterfaceMember>M:System.Threading.Tasks.Dataflow.ISourceBlock`1.LinkTo(System.Threading.Tasks.Dataflow.ITargetBlock{`0},System.Threading.Tasks.Dataflow.DataflowLinkOptions)</InterfaceMember>
+        <InterfaceMember>M:System.Threading.Tasks.Dataflow.ISourceBlock`1.LinkTo(System.Threading.Tasks.Dataflow.ITargetBlock{`0},System.Threading.Tasks.Dataflow.DataflowLinkOptions)</InterfaceMember>
+        <InterfaceMember>M:System.Threading.Tasks.Dataflow.ISourceBlock`1.LinkTo(System.Threading.Tasks.Dataflow.ITargetBlock{`0},System.Threading.Tasks.Dataflow.DataflowLinkOptions)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Threading.Tasks.Dataflow</AssemblyName>
@@ -243,6 +264,13 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Threading.Tasks.Dataflow.IDataflowBlock.Fault(Exception ^ exception) = System::Threading::Tasks::Dataflow::IDataflowBlock::Fault;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Threading.Tasks.Dataflow.IDataflowBlock.Fault(System.Exception)</InterfaceMember>
+        <InterfaceMember>M:System.Threading.Tasks.Dataflow.IDataflowBlock.Fault(System.Exception)</InterfaceMember>
+        <InterfaceMember>M:System.Threading.Tasks.Dataflow.IDataflowBlock.Fault(System.Exception)</InterfaceMember>
+        <InterfaceMember>M:System.Threading.Tasks.Dataflow.IDataflowBlock.Fault(System.Exception)</InterfaceMember>
+        <InterfaceMember>M:System.Threading.Tasks.Dataflow.IDataflowBlock.Fault(System.Exception)</InterfaceMember>
+        <InterfaceMember>M:System.Threading.Tasks.Dataflow.IDataflowBlock.Fault(System.Exception)</InterfaceMember>
+        <InterfaceMember>M:System.Threading.Tasks.Dataflow.IDataflowBlock.Fault(System.Exception)</InterfaceMember>
         <InterfaceMember>M:System.Threading.Tasks.Dataflow.IDataflowBlock.Fault(System.Exception)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -324,6 +352,13 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Threading.Tasks.Dataflow.ISourceBlock`1.ConsumeMessage(System.Threading.Tasks.Dataflow.DataflowMessageHeader,System.Threading.Tasks.Dataflow.ITargetBlock{`0},System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Threading.Tasks.Dataflow.ISourceBlock`1.ConsumeMessage(System.Threading.Tasks.Dataflow.DataflowMessageHeader,System.Threading.Tasks.Dataflow.ITargetBlock{`0},System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Threading.Tasks.Dataflow.ISourceBlock`1.ConsumeMessage(System.Threading.Tasks.Dataflow.DataflowMessageHeader,System.Threading.Tasks.Dataflow.ITargetBlock{`0},System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Threading.Tasks.Dataflow.ISourceBlock`1.ConsumeMessage(System.Threading.Tasks.Dataflow.DataflowMessageHeader,System.Threading.Tasks.Dataflow.ITargetBlock{`0},System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Threading.Tasks.Dataflow.ISourceBlock`1.ConsumeMessage(System.Threading.Tasks.Dataflow.DataflowMessageHeader,System.Threading.Tasks.Dataflow.ITargetBlock{`0},System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Threading.Tasks.Dataflow.ISourceBlock`1.ConsumeMessage(System.Threading.Tasks.Dataflow.DataflowMessageHeader,System.Threading.Tasks.Dataflow.ITargetBlock{`0},System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Threading.Tasks.Dataflow.ISourceBlock`1.ConsumeMessage(System.Threading.Tasks.Dataflow.DataflowMessageHeader,System.Threading.Tasks.Dataflow.ITargetBlock{`0},System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Threading.Tasks.Dataflow.ISourceBlock`1.ConsumeMessage(System.Threading.Tasks.Dataflow.DataflowMessageHeader,System.Threading.Tasks.Dataflow.ITargetBlock{`0},System.Boolean@)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Threading.Tasks.Dataflow</AssemblyName>
@@ -373,6 +408,13 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Threading.Tasks.Dataflow.ISourceBlock`1.ReleaseReservation(System.Threading.Tasks.Dataflow.DataflowMessageHeader,System.Threading.Tasks.Dataflow.ITargetBlock{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Threading.Tasks.Dataflow.ISourceBlock`1.ReleaseReservation(System.Threading.Tasks.Dataflow.DataflowMessageHeader,System.Threading.Tasks.Dataflow.ITargetBlock{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Threading.Tasks.Dataflow.ISourceBlock`1.ReleaseReservation(System.Threading.Tasks.Dataflow.DataflowMessageHeader,System.Threading.Tasks.Dataflow.ITargetBlock{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Threading.Tasks.Dataflow.ISourceBlock`1.ReleaseReservation(System.Threading.Tasks.Dataflow.DataflowMessageHeader,System.Threading.Tasks.Dataflow.ITargetBlock{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Threading.Tasks.Dataflow.ISourceBlock`1.ReleaseReservation(System.Threading.Tasks.Dataflow.DataflowMessageHeader,System.Threading.Tasks.Dataflow.ITargetBlock{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Threading.Tasks.Dataflow.ISourceBlock`1.ReleaseReservation(System.Threading.Tasks.Dataflow.DataflowMessageHeader,System.Threading.Tasks.Dataflow.ITargetBlock{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Threading.Tasks.Dataflow.ISourceBlock`1.ReleaseReservation(System.Threading.Tasks.Dataflow.DataflowMessageHeader,System.Threading.Tasks.Dataflow.ITargetBlock{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Threading.Tasks.Dataflow.ISourceBlock`1.ReleaseReservation(System.Threading.Tasks.Dataflow.DataflowMessageHeader,System.Threading.Tasks.Dataflow.ITargetBlock{`0})</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Threading.Tasks.Dataflow</AssemblyName>
@@ -416,6 +458,13 @@
       <MemberSignature Language="C++ CLI" Value=" virtual bool System.Threading.Tasks.Dataflow.ISourceBlock&lt;T&gt;.ReserveMessage(System::Threading::Tasks::Dataflow::DataflowMessageHeader messageHeader, System::Threading::Tasks::Dataflow::ITargetBlock&lt;T&gt; ^ target) = System::Threading::Tasks::Dataflow::ISourceBlock&lt;T&gt;::ReserveMessage;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Threading.Tasks.Dataflow.ISourceBlock`1.ReserveMessage(System.Threading.Tasks.Dataflow.DataflowMessageHeader,System.Threading.Tasks.Dataflow.ITargetBlock{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Threading.Tasks.Dataflow.ISourceBlock`1.ReserveMessage(System.Threading.Tasks.Dataflow.DataflowMessageHeader,System.Threading.Tasks.Dataflow.ITargetBlock{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Threading.Tasks.Dataflow.ISourceBlock`1.ReserveMessage(System.Threading.Tasks.Dataflow.DataflowMessageHeader,System.Threading.Tasks.Dataflow.ITargetBlock{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Threading.Tasks.Dataflow.ISourceBlock`1.ReserveMessage(System.Threading.Tasks.Dataflow.DataflowMessageHeader,System.Threading.Tasks.Dataflow.ITargetBlock{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Threading.Tasks.Dataflow.ISourceBlock`1.ReserveMessage(System.Threading.Tasks.Dataflow.DataflowMessageHeader,System.Threading.Tasks.Dataflow.ITargetBlock{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Threading.Tasks.Dataflow.ISourceBlock`1.ReserveMessage(System.Threading.Tasks.Dataflow.DataflowMessageHeader,System.Threading.Tasks.Dataflow.ITargetBlock{`0})</InterfaceMember>
+        <InterfaceMember>M:System.Threading.Tasks.Dataflow.ISourceBlock`1.ReserveMessage(System.Threading.Tasks.Dataflow.DataflowMessageHeader,System.Threading.Tasks.Dataflow.ITargetBlock{`0})</InterfaceMember>
         <InterfaceMember>M:System.Threading.Tasks.Dataflow.ISourceBlock`1.ReserveMessage(System.Threading.Tasks.Dataflow.DataflowMessageHeader,System.Threading.Tasks.Dataflow.ITargetBlock{`0})</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -465,6 +514,13 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Threading::Tasks::Dataflow::DataflowMessageStatus System.Threading.Tasks.Dataflow.ITargetBlock&lt;T&gt;.OfferMessage(System::Threading::Tasks::Dataflow::DataflowMessageHeader messageHeader, T messageValue, System::Threading::Tasks::Dataflow::ISourceBlock&lt;T&gt; ^ source, bool consumeToAccept) = System::Threading::Tasks::Dataflow::ITargetBlock&lt;T&gt;::OfferMessage;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Threading.Tasks.Dataflow.ITargetBlock`1.OfferMessage(System.Threading.Tasks.Dataflow.DataflowMessageHeader,`0,System.Threading.Tasks.Dataflow.ISourceBlock{`0},System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Threading.Tasks.Dataflow.ITargetBlock`1.OfferMessage(System.Threading.Tasks.Dataflow.DataflowMessageHeader,`0,System.Threading.Tasks.Dataflow.ISourceBlock{`0},System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Threading.Tasks.Dataflow.ITargetBlock`1.OfferMessage(System.Threading.Tasks.Dataflow.DataflowMessageHeader,`0,System.Threading.Tasks.Dataflow.ISourceBlock{`0},System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Threading.Tasks.Dataflow.ITargetBlock`1.OfferMessage(System.Threading.Tasks.Dataflow.DataflowMessageHeader,`0,System.Threading.Tasks.Dataflow.ISourceBlock{`0},System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Threading.Tasks.Dataflow.ITargetBlock`1.OfferMessage(System.Threading.Tasks.Dataflow.DataflowMessageHeader,`0,System.Threading.Tasks.Dataflow.ISourceBlock{`0},System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Threading.Tasks.Dataflow.ITargetBlock`1.OfferMessage(System.Threading.Tasks.Dataflow.DataflowMessageHeader,`0,System.Threading.Tasks.Dataflow.ISourceBlock{`0},System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Threading.Tasks.Dataflow.ITargetBlock`1.OfferMessage(System.Threading.Tasks.Dataflow.DataflowMessageHeader,`0,System.Threading.Tasks.Dataflow.ISourceBlock{`0},System.Boolean)</InterfaceMember>
         <InterfaceMember>M:System.Threading.Tasks.Dataflow.ITargetBlock`1.OfferMessage(System.Threading.Tasks.Dataflow.DataflowMessageHeader,`0,System.Threading.Tasks.Dataflow.ISourceBlock{`0},System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

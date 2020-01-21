@@ -64,6 +64,15 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Build.Framework.ICancelableTask.Cancel</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ICancelableTask.Cancel</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ICancelableTask.Cancel</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ICancelableTask.Cancel</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ICancelableTask.Cancel</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ICancelableTask.Cancel</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ICancelableTask.Cancel</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ICancelableTask.Cancel</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ICancelableTask.Cancel</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ICancelableTask.Cancel</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Build.Tasks.v4.0</AssemblyName>
@@ -148,6 +157,15 @@
       <MemberSignature Language="F#" Value="override this.Execute : unit -&gt; bool" Usage="move.Execute " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITask.Execute</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITask.Execute</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITask.Execute</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITask.Execute</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITask.Execute</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITask.Execute</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITask.Execute</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITask.Execute</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITask.Execute</InterfaceMember>
         <InterfaceMember>M:Microsoft.Build.Framework.ITask.Execute</InterfaceMember>
       </Implements>
       <AssemblyInfo>

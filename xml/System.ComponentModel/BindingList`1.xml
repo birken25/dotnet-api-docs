@@ -617,6 +617,29 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ComponentModel.ICancelAddNew.CancelNew(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ICancelAddNew.CancelNew(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ICancelAddNew.CancelNew(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ICancelAddNew.CancelNew(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ICancelAddNew.CancelNew(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ICancelAddNew.CancelNew(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ICancelAddNew.CancelNew(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ICancelAddNew.CancelNew(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ICancelAddNew.CancelNew(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ICancelAddNew.CancelNew(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ICancelAddNew.CancelNew(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ICancelAddNew.CancelNew(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ICancelAddNew.CancelNew(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ICancelAddNew.CancelNew(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ICancelAddNew.CancelNew(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ICancelAddNew.CancelNew(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ICancelAddNew.CancelNew(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ICancelAddNew.CancelNew(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ICancelAddNew.CancelNew(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ICancelAddNew.CancelNew(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ICancelAddNew.CancelNew(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ICancelAddNew.CancelNew(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ICancelAddNew.CancelNew(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ICancelAddNew.CancelNew(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System</AssemblyName>
@@ -723,6 +746,29 @@
       <MemberSignature Language="F#" Value="abstract member EndNew : int -&gt; unit&#xA;override this.EndNew : int -&gt; unit" Usage="bindingList.EndNew itemIndex" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ComponentModel.ICancelAddNew.EndNew(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ICancelAddNew.EndNew(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ICancelAddNew.EndNew(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ICancelAddNew.EndNew(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ICancelAddNew.EndNew(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ICancelAddNew.EndNew(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ICancelAddNew.EndNew(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ICancelAddNew.EndNew(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ICancelAddNew.EndNew(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ICancelAddNew.EndNew(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ICancelAddNew.EndNew(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ICancelAddNew.EndNew(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ICancelAddNew.EndNew(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ICancelAddNew.EndNew(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ICancelAddNew.EndNew(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ICancelAddNew.EndNew(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ICancelAddNew.EndNew(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ICancelAddNew.EndNew(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ICancelAddNew.EndNew(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ICancelAddNew.EndNew(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ICancelAddNew.EndNew(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ICancelAddNew.EndNew(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.ICancelAddNew.EndNew(System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.ICancelAddNew.EndNew(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -941,6 +987,29 @@
       <MemberSignature Language="F#" Value="member this.ListChanged : System.ComponentModel.ListChangedEventHandler " Usage="member this.ListChanged : System.ComponentModel.ListChangedEventHandler " />
       <MemberType>Event</MemberType>
       <Implements>
+        <InterfaceMember>E:System.ComponentModel.IBindingList.ListChanged</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IBindingList.ListChanged</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IBindingList.ListChanged</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IBindingList.ListChanged</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IBindingList.ListChanged</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IBindingList.ListChanged</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IBindingList.ListChanged</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IBindingList.ListChanged</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IBindingList.ListChanged</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IBindingList.ListChanged</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IBindingList.ListChanged</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IBindingList.ListChanged</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IBindingList.ListChanged</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IBindingList.ListChanged</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IBindingList.ListChanged</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IBindingList.ListChanged</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IBindingList.ListChanged</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IBindingList.ListChanged</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IBindingList.ListChanged</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IBindingList.ListChanged</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IBindingList.ListChanged</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IBindingList.ListChanged</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.IBindingList.ListChanged</InterfaceMember>
         <InterfaceMember>E:System.ComponentModel.IBindingList.ListChanged</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1618,6 +1687,29 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ComponentModel.IBindingList.AddIndex(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.AddIndex(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.AddIndex(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.AddIndex(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.AddIndex(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.AddIndex(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.AddIndex(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.AddIndex(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.AddIndex(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.AddIndex(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.AddIndex(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.AddIndex(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.AddIndex(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.AddIndex(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.AddIndex(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.AddIndex(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.AddIndex(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.AddIndex(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.AddIndex(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.AddIndex(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.AddIndex(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.AddIndex(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.AddIndex(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.AddIndex(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System</AssemblyName>
@@ -1667,6 +1759,29 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ComponentModel.IBindingList.AddNew</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.AddNew</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.AddNew</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.AddNew</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.AddNew</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.AddNew</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.AddNew</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.AddNew</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.AddNew</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.AddNew</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.AddNew</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.AddNew</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.AddNew</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.AddNew</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.AddNew</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.AddNew</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.AddNew</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.AddNew</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.AddNew</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.AddNew</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.AddNew</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.AddNew</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.AddNew</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.AddNew</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System</AssemblyName>
@@ -1714,6 +1829,29 @@
       <MemberSignature Language="F#" Usage="System.ComponentModel.IBindingList.AllowEdit" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowEdit</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowEdit</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowEdit</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowEdit</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowEdit</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowEdit</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowEdit</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowEdit</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowEdit</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowEdit</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowEdit</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowEdit</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowEdit</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowEdit</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowEdit</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowEdit</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowEdit</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowEdit</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowEdit</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowEdit</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowEdit</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowEdit</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowEdit</InterfaceMember>
         <InterfaceMember>P:System.ComponentModel.IBindingList.AllowEdit</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1765,6 +1903,29 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.ComponentModel.IBindingList.AllowNew</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowNew</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowNew</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowNew</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowNew</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowNew</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowNew</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowNew</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowNew</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowNew</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowNew</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowNew</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowNew</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowNew</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowNew</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowNew</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowNew</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowNew</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowNew</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowNew</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowNew</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowNew</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowNew</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowNew</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System</AssemblyName>
@@ -1808,6 +1969,29 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.ComponentModel.IBindingList.AllowRemove</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowRemove</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowRemove</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowRemove</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowRemove</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowRemove</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowRemove</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowRemove</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowRemove</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowRemove</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowRemove</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowRemove</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowRemove</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowRemove</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowRemove</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowRemove</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowRemove</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowRemove</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowRemove</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowRemove</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowRemove</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowRemove</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowRemove</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.AllowRemove</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System</AssemblyName>
@@ -1849,6 +2033,29 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.ComponentModel.IBindingList.ApplySort(System::ComponentModel::PropertyDescriptor ^ prop, System::ComponentModel::ListSortDirection direction) = System::ComponentModel::IBindingList::ApplySort;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.ApplySort(System.ComponentModel.PropertyDescriptor,System.ComponentModel.ListSortDirection)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.ApplySort(System.ComponentModel.PropertyDescriptor,System.ComponentModel.ListSortDirection)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.ApplySort(System.ComponentModel.PropertyDescriptor,System.ComponentModel.ListSortDirection)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.ApplySort(System.ComponentModel.PropertyDescriptor,System.ComponentModel.ListSortDirection)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.ApplySort(System.ComponentModel.PropertyDescriptor,System.ComponentModel.ListSortDirection)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.ApplySort(System.ComponentModel.PropertyDescriptor,System.ComponentModel.ListSortDirection)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.ApplySort(System.ComponentModel.PropertyDescriptor,System.ComponentModel.ListSortDirection)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.ApplySort(System.ComponentModel.PropertyDescriptor,System.ComponentModel.ListSortDirection)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.ApplySort(System.ComponentModel.PropertyDescriptor,System.ComponentModel.ListSortDirection)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.ApplySort(System.ComponentModel.PropertyDescriptor,System.ComponentModel.ListSortDirection)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.ApplySort(System.ComponentModel.PropertyDescriptor,System.ComponentModel.ListSortDirection)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.ApplySort(System.ComponentModel.PropertyDescriptor,System.ComponentModel.ListSortDirection)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.ApplySort(System.ComponentModel.PropertyDescriptor,System.ComponentModel.ListSortDirection)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.ApplySort(System.ComponentModel.PropertyDescriptor,System.ComponentModel.ListSortDirection)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.ApplySort(System.ComponentModel.PropertyDescriptor,System.ComponentModel.ListSortDirection)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.ApplySort(System.ComponentModel.PropertyDescriptor,System.ComponentModel.ListSortDirection)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.ApplySort(System.ComponentModel.PropertyDescriptor,System.ComponentModel.ListSortDirection)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.ApplySort(System.ComponentModel.PropertyDescriptor,System.ComponentModel.ListSortDirection)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.ApplySort(System.ComponentModel.PropertyDescriptor,System.ComponentModel.ListSortDirection)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.ApplySort(System.ComponentModel.PropertyDescriptor,System.ComponentModel.ListSortDirection)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.ApplySort(System.ComponentModel.PropertyDescriptor,System.ComponentModel.ListSortDirection)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.ApplySort(System.ComponentModel.PropertyDescriptor,System.ComponentModel.ListSortDirection)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.ApplySort(System.ComponentModel.PropertyDescriptor,System.ComponentModel.ListSortDirection)</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.IBindingList.ApplySort(System.ComponentModel.PropertyDescriptor,System.ComponentModel.ListSortDirection)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1902,6 +2109,29 @@
       <MemberSignature Language="C++ CLI" Value=" virtual int System.ComponentModel.IBindingList.Find(System::ComponentModel::PropertyDescriptor ^ prop, System::Object ^ key) = System::ComponentModel::IBindingList::Find;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.Find(System.ComponentModel.PropertyDescriptor,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.Find(System.ComponentModel.PropertyDescriptor,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.Find(System.ComponentModel.PropertyDescriptor,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.Find(System.ComponentModel.PropertyDescriptor,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.Find(System.ComponentModel.PropertyDescriptor,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.Find(System.ComponentModel.PropertyDescriptor,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.Find(System.ComponentModel.PropertyDescriptor,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.Find(System.ComponentModel.PropertyDescriptor,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.Find(System.ComponentModel.PropertyDescriptor,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.Find(System.ComponentModel.PropertyDescriptor,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.Find(System.ComponentModel.PropertyDescriptor,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.Find(System.ComponentModel.PropertyDescriptor,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.Find(System.ComponentModel.PropertyDescriptor,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.Find(System.ComponentModel.PropertyDescriptor,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.Find(System.ComponentModel.PropertyDescriptor,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.Find(System.ComponentModel.PropertyDescriptor,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.Find(System.ComponentModel.PropertyDescriptor,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.Find(System.ComponentModel.PropertyDescriptor,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.Find(System.ComponentModel.PropertyDescriptor,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.Find(System.ComponentModel.PropertyDescriptor,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.Find(System.ComponentModel.PropertyDescriptor,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.Find(System.ComponentModel.PropertyDescriptor,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.Find(System.ComponentModel.PropertyDescriptor,System.Object)</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.IBindingList.Find(System.ComponentModel.PropertyDescriptor,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1958,6 +2188,29 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.ComponentModel.IBindingList.IsSorted</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.IsSorted</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.IsSorted</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.IsSorted</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.IsSorted</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.IsSorted</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.IsSorted</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.IsSorted</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.IsSorted</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.IsSorted</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.IsSorted</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.IsSorted</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.IsSorted</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.IsSorted</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.IsSorted</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.IsSorted</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.IsSorted</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.IsSorted</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.IsSorted</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.IsSorted</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.IsSorted</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.IsSorted</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.IsSorted</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.IsSorted</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System</AssemblyName>
@@ -2006,6 +2259,29 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.ComponentModel.IBindingList.RemoveIndex(System::ComponentModel::PropertyDescriptor ^ prop) = System::ComponentModel::IBindingList::RemoveIndex;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.RemoveIndex(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.RemoveIndex(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.RemoveIndex(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.RemoveIndex(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.RemoveIndex(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.RemoveIndex(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.RemoveIndex(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.RemoveIndex(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.RemoveIndex(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.RemoveIndex(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.RemoveIndex(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.RemoveIndex(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.RemoveIndex(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.RemoveIndex(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.RemoveIndex(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.RemoveIndex(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.RemoveIndex(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.RemoveIndex(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.RemoveIndex(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.RemoveIndex(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.RemoveIndex(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.RemoveIndex(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.RemoveIndex(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.IBindingList.RemoveIndex(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2056,6 +2332,29 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ComponentModel.IBindingList.RemoveSort</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.RemoveSort</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.RemoveSort</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.RemoveSort</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.RemoveSort</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.RemoveSort</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.RemoveSort</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.RemoveSort</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.RemoveSort</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.RemoveSort</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.RemoveSort</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.RemoveSort</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.RemoveSort</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.RemoveSort</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.RemoveSort</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.RemoveSort</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.RemoveSort</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.RemoveSort</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.RemoveSort</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.RemoveSort</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.RemoveSort</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.RemoveSort</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.RemoveSort</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IBindingList.RemoveSort</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System</AssemblyName>
@@ -2104,6 +2403,29 @@
       <MemberSignature Language="F#" Usage="System.ComponentModel.IBindingList.SortDirection" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SortDirection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SortDirection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SortDirection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SortDirection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SortDirection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SortDirection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SortDirection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SortDirection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SortDirection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SortDirection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SortDirection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SortDirection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SortDirection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SortDirection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SortDirection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SortDirection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SortDirection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SortDirection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SortDirection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SortDirection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SortDirection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SortDirection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SortDirection</InterfaceMember>
         <InterfaceMember>P:System.ComponentModel.IBindingList.SortDirection</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2154,6 +2476,29 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.ComponentModel.IBindingList.SortProperty</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SortProperty</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SortProperty</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SortProperty</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SortProperty</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SortProperty</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SortProperty</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SortProperty</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SortProperty</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SortProperty</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SortProperty</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SortProperty</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SortProperty</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SortProperty</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SortProperty</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SortProperty</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SortProperty</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SortProperty</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SortProperty</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SortProperty</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SortProperty</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SortProperty</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SortProperty</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SortProperty</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System</AssemblyName>
@@ -2202,6 +2547,29 @@
       <MemberSignature Language="F#" Usage="System.ComponentModel.IBindingList.SupportsChangeNotification" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsChangeNotification</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsChangeNotification</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsChangeNotification</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsChangeNotification</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsChangeNotification</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsChangeNotification</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsChangeNotification</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsChangeNotification</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsChangeNotification</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsChangeNotification</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsChangeNotification</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsChangeNotification</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsChangeNotification</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsChangeNotification</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsChangeNotification</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsChangeNotification</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsChangeNotification</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsChangeNotification</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsChangeNotification</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsChangeNotification</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsChangeNotification</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsChangeNotification</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsChangeNotification</InterfaceMember>
         <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsChangeNotification</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2253,6 +2621,29 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsSearching</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsSearching</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsSearching</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsSearching</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsSearching</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsSearching</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsSearching</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsSearching</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsSearching</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsSearching</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsSearching</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsSearching</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsSearching</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsSearching</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsSearching</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsSearching</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsSearching</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsSearching</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsSearching</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsSearching</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsSearching</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsSearching</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsSearching</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsSearching</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System</AssemblyName>
@@ -2303,6 +2694,29 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsSorting</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsSorting</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsSorting</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsSorting</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsSorting</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsSorting</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsSorting</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsSorting</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsSorting</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsSorting</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsSorting</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsSorting</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsSorting</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsSorting</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsSorting</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsSorting</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsSorting</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsSorting</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsSorting</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsSorting</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsSorting</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsSorting</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsSorting</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IBindingList.SupportsSorting</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System</AssemblyName>
@@ -2352,6 +2766,29 @@
       <MemberSignature Language="F#" Usage="System.ComponentModel.IRaiseItemChangedEvents.RaisesItemChangedEvents" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.ComponentModel.IRaiseItemChangedEvents.RaisesItemChangedEvents</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IRaiseItemChangedEvents.RaisesItemChangedEvents</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IRaiseItemChangedEvents.RaisesItemChangedEvents</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IRaiseItemChangedEvents.RaisesItemChangedEvents</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IRaiseItemChangedEvents.RaisesItemChangedEvents</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IRaiseItemChangedEvents.RaisesItemChangedEvents</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IRaiseItemChangedEvents.RaisesItemChangedEvents</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IRaiseItemChangedEvents.RaisesItemChangedEvents</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IRaiseItemChangedEvents.RaisesItemChangedEvents</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IRaiseItemChangedEvents.RaisesItemChangedEvents</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IRaiseItemChangedEvents.RaisesItemChangedEvents</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IRaiseItemChangedEvents.RaisesItemChangedEvents</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IRaiseItemChangedEvents.RaisesItemChangedEvents</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IRaiseItemChangedEvents.RaisesItemChangedEvents</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IRaiseItemChangedEvents.RaisesItemChangedEvents</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IRaiseItemChangedEvents.RaisesItemChangedEvents</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IRaiseItemChangedEvents.RaisesItemChangedEvents</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IRaiseItemChangedEvents.RaisesItemChangedEvents</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IRaiseItemChangedEvents.RaisesItemChangedEvents</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IRaiseItemChangedEvents.RaisesItemChangedEvents</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IRaiseItemChangedEvents.RaisesItemChangedEvents</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IRaiseItemChangedEvents.RaisesItemChangedEvents</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IRaiseItemChangedEvents.RaisesItemChangedEvents</InterfaceMember>
         <InterfaceMember>P:System.ComponentModel.IRaiseItemChangedEvents.RaisesItemChangedEvents</InterfaceMember>
       </Implements>
       <AssemblyInfo>

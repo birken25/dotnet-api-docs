@@ -89,6 +89,9 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Vsa.IVsaItems.Count</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaItems.Count</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaItems.Count</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaItems.Count</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic.Vsa</AssemblyName>
@@ -113,6 +116,9 @@
       <MemberSignature Language="F#" Value="abstract member CreateItem : string * Microsoft.Vsa.VsaItemType * Microsoft.Vsa.VsaItemFlag -&gt; Microsoft.Vsa.IVsaItem&#xA;override this.CreateItem : string * Microsoft.Vsa.VsaItemType * Microsoft.Vsa.VsaItemFlag -&gt; Microsoft.Vsa.IVsaItem" Usage="vsaItems.CreateItem (Name, ItemType, ItemFlag)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Vsa.IVsaItems.CreateItem(System.String,Microsoft.Vsa.VsaItemType,Microsoft.Vsa.VsaItemFlag)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Vsa.IVsaItems.CreateItem(System.String,Microsoft.Vsa.VsaItemType,Microsoft.Vsa.VsaItemFlag)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Vsa.IVsaItems.CreateItem(System.String,Microsoft.Vsa.VsaItemType,Microsoft.Vsa.VsaItemFlag)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Vsa.IVsaItems.CreateItem(System.String,Microsoft.Vsa.VsaItemType,Microsoft.Vsa.VsaItemFlag)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -146,6 +152,9 @@
       <MemberSignature Language="F#" Value="abstract member GetEnumerator : unit -&gt; System.Collections.IEnumerator&#xA;override this.GetEnumerator : unit -&gt; System.Collections.IEnumerator" Usage="vsaItems.GetEnumerator " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
         <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -199,6 +208,9 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Vsa.IVsaItems.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaItems.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaItems.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaItems.Item(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic.Vsa</AssemblyName>
@@ -227,6 +239,9 @@
       <MemberSignature Language="F#" Value="member this.Item(string) : Microsoft.Vsa.IVsaItem" Usage="Microsoft.VisualBasic.Vsa.VsaItems.Item" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaItems.Item(System.String)</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaItems.Item(System.String)</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Vsa.IVsaItems.Item(System.String)</InterfaceMember>
         <InterfaceMember>P:Microsoft.Vsa.IVsaItems.Item(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -278,6 +293,9 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Vsa.IVsaItems.Remove(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Vsa.IVsaItems.Remove(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Vsa.IVsaItems.Remove(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Vsa.IVsaItems.Remove(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic.Vsa</AssemblyName>
@@ -305,6 +323,9 @@
       <MemberSignature Language="F#" Value="abstract member Remove : string -&gt; unit&#xA;override this.Remove : string -&gt; unit" Usage="vsaItems.Remove Name" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Vsa.IVsaItems.Remove(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Vsa.IVsaItems.Remove(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Vsa.IVsaItems.Remove(System.String)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Vsa.IVsaItems.Remove(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

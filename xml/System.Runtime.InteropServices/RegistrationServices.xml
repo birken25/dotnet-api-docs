@@ -87,6 +87,21 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.GetManagedCategoryGuid</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.GetManagedCategoryGuid</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.GetManagedCategoryGuid</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.GetManagedCategoryGuid</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.GetManagedCategoryGuid</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.GetManagedCategoryGuid</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.GetManagedCategoryGuid</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.GetManagedCategoryGuid</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.GetManagedCategoryGuid</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.GetManagedCategoryGuid</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.GetManagedCategoryGuid</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.GetManagedCategoryGuid</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.GetManagedCategoryGuid</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.GetManagedCategoryGuid</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.GetManagedCategoryGuid</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.GetManagedCategoryGuid</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -112,6 +127,21 @@
       <MemberSignature Language="F#" Value="abstract member GetProgIdForType : Type -&gt; string&#xA;override this.GetProgIdForType : Type -&gt; string" Usage="registrationServices.GetProgIdForType type" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.GetProgIdForType(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.GetProgIdForType(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.GetProgIdForType(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.GetProgIdForType(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.GetProgIdForType(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.GetProgIdForType(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.GetProgIdForType(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.GetProgIdForType(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.GetProgIdForType(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.GetProgIdForType(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.GetProgIdForType(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.GetProgIdForType(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.GetProgIdForType(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.GetProgIdForType(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.GetProgIdForType(System.Type)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.GetProgIdForType(System.Type)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -148,6 +178,21 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.GetRegistrableTypesInAssembly(System.Reflection.Assembly)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.GetRegistrableTypesInAssembly(System.Reflection.Assembly)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.GetRegistrableTypesInAssembly(System.Reflection.Assembly)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.GetRegistrableTypesInAssembly(System.Reflection.Assembly)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.GetRegistrableTypesInAssembly(System.Reflection.Assembly)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.GetRegistrableTypesInAssembly(System.Reflection.Assembly)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.GetRegistrableTypesInAssembly(System.Reflection.Assembly)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.GetRegistrableTypesInAssembly(System.Reflection.Assembly)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.GetRegistrableTypesInAssembly(System.Reflection.Assembly)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.GetRegistrableTypesInAssembly(System.Reflection.Assembly)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.GetRegistrableTypesInAssembly(System.Reflection.Assembly)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.GetRegistrableTypesInAssembly(System.Reflection.Assembly)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.GetRegistrableTypesInAssembly(System.Reflection.Assembly)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.GetRegistrableTypesInAssembly(System.Reflection.Assembly)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.GetRegistrableTypesInAssembly(System.Reflection.Assembly)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.GetRegistrableTypesInAssembly(System.Reflection.Assembly)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -183,6 +228,21 @@
       <MemberSignature Language="F#" Value="abstract member RegisterAssembly : System.Reflection.Assembly * System.Runtime.InteropServices.AssemblyRegistrationFlags -&gt; bool&#xA;override this.RegisterAssembly : System.Reflection.Assembly * System.Runtime.InteropServices.AssemblyRegistrationFlags -&gt; bool" Usage="registrationServices.RegisterAssembly (assembly, flags)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.RegisterAssembly(System.Reflection.Assembly,System.Runtime.InteropServices.AssemblyRegistrationFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.RegisterAssembly(System.Reflection.Assembly,System.Runtime.InteropServices.AssemblyRegistrationFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.RegisterAssembly(System.Reflection.Assembly,System.Runtime.InteropServices.AssemblyRegistrationFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.RegisterAssembly(System.Reflection.Assembly,System.Runtime.InteropServices.AssemblyRegistrationFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.RegisterAssembly(System.Reflection.Assembly,System.Runtime.InteropServices.AssemblyRegistrationFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.RegisterAssembly(System.Reflection.Assembly,System.Runtime.InteropServices.AssemblyRegistrationFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.RegisterAssembly(System.Reflection.Assembly,System.Runtime.InteropServices.AssemblyRegistrationFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.RegisterAssembly(System.Reflection.Assembly,System.Runtime.InteropServices.AssemblyRegistrationFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.RegisterAssembly(System.Reflection.Assembly,System.Runtime.InteropServices.AssemblyRegistrationFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.RegisterAssembly(System.Reflection.Assembly,System.Runtime.InteropServices.AssemblyRegistrationFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.RegisterAssembly(System.Reflection.Assembly,System.Runtime.InteropServices.AssemblyRegistrationFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.RegisterAssembly(System.Reflection.Assembly,System.Runtime.InteropServices.AssemblyRegistrationFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.RegisterAssembly(System.Reflection.Assembly,System.Runtime.InteropServices.AssemblyRegistrationFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.RegisterAssembly(System.Reflection.Assembly,System.Runtime.InteropServices.AssemblyRegistrationFlags)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.RegisterAssembly(System.Reflection.Assembly,System.Runtime.InteropServices.AssemblyRegistrationFlags)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.RegisterAssembly(System.Reflection.Assembly,System.Runtime.InteropServices.AssemblyRegistrationFlags)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -263,6 +323,21 @@
       <MemberSignature Language="F#" Value="abstract member RegisterTypeForComClients : Type * Guid -&gt; unit&#xA;override this.RegisterTypeForComClients : Type * Guid -&gt; unit" Usage="registrationServices.RegisterTypeForComClients (type, g)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.RegisterTypeForComClients(System.Type,System.Guid@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.RegisterTypeForComClients(System.Type,System.Guid@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.RegisterTypeForComClients(System.Type,System.Guid@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.RegisterTypeForComClients(System.Type,System.Guid@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.RegisterTypeForComClients(System.Type,System.Guid@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.RegisterTypeForComClients(System.Type,System.Guid@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.RegisterTypeForComClients(System.Type,System.Guid@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.RegisterTypeForComClients(System.Type,System.Guid@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.RegisterTypeForComClients(System.Type,System.Guid@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.RegisterTypeForComClients(System.Type,System.Guid@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.RegisterTypeForComClients(System.Type,System.Guid@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.RegisterTypeForComClients(System.Type,System.Guid@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.RegisterTypeForComClients(System.Type,System.Guid@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.RegisterTypeForComClients(System.Type,System.Guid@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.RegisterTypeForComClients(System.Type,System.Guid@)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.RegisterTypeForComClients(System.Type,System.Guid@)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -365,6 +440,21 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.TypeRepresentsComType(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.TypeRepresentsComType(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.TypeRepresentsComType(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.TypeRepresentsComType(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.TypeRepresentsComType(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.TypeRepresentsComType(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.TypeRepresentsComType(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.TypeRepresentsComType(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.TypeRepresentsComType(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.TypeRepresentsComType(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.TypeRepresentsComType(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.TypeRepresentsComType(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.TypeRepresentsComType(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.TypeRepresentsComType(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.TypeRepresentsComType(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.TypeRepresentsComType(System.Type)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -399,6 +489,21 @@
       <MemberSignature Language="F#" Value="abstract member TypeRequiresRegistration : Type -&gt; bool&#xA;override this.TypeRequiresRegistration : Type -&gt; bool" Usage="registrationServices.TypeRequiresRegistration type" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.TypeRequiresRegistration(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.TypeRequiresRegistration(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.TypeRequiresRegistration(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.TypeRequiresRegistration(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.TypeRequiresRegistration(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.TypeRequiresRegistration(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.TypeRequiresRegistration(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.TypeRequiresRegistration(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.TypeRequiresRegistration(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.TypeRequiresRegistration(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.TypeRequiresRegistration(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.TypeRequiresRegistration(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.TypeRequiresRegistration(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.TypeRequiresRegistration(System.Type)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.TypeRequiresRegistration(System.Type)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.TypeRequiresRegistration(System.Type)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -435,6 +540,21 @@
       <MemberSignature Language="F#" Value="abstract member UnregisterAssembly : System.Reflection.Assembly -&gt; bool&#xA;override this.UnregisterAssembly : System.Reflection.Assembly -&gt; bool" Usage="registrationServices.UnregisterAssembly assembly" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.UnregisterAssembly(System.Reflection.Assembly)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.UnregisterAssembly(System.Reflection.Assembly)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.UnregisterAssembly(System.Reflection.Assembly)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.UnregisterAssembly(System.Reflection.Assembly)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.UnregisterAssembly(System.Reflection.Assembly)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.UnregisterAssembly(System.Reflection.Assembly)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.UnregisterAssembly(System.Reflection.Assembly)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.UnregisterAssembly(System.Reflection.Assembly)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.UnregisterAssembly(System.Reflection.Assembly)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.UnregisterAssembly(System.Reflection.Assembly)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.UnregisterAssembly(System.Reflection.Assembly)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.UnregisterAssembly(System.Reflection.Assembly)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.UnregisterAssembly(System.Reflection.Assembly)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.UnregisterAssembly(System.Reflection.Assembly)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.UnregisterAssembly(System.Reflection.Assembly)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices.IRegistrationServices.UnregisterAssembly(System.Reflection.Assembly)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

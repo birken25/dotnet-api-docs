@@ -450,6 +450,17 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.UI.IScriptControl.GetScriptDescriptors</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IScriptControl.GetScriptDescriptors</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IScriptControl.GetScriptDescriptors</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IScriptControl.GetScriptDescriptors</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IScriptControl.GetScriptDescriptors</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IScriptControl.GetScriptDescriptors</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IScriptControl.GetScriptDescriptors</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IScriptControl.GetScriptDescriptors</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IScriptControl.GetScriptDescriptors</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IScriptControl.GetScriptDescriptors</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IScriptControl.GetScriptDescriptors</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IScriptControl.GetScriptDescriptors</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Extensions</AssemblyName>
@@ -492,6 +503,17 @@
       <MemberSignature Language="VB.NET" Value="Protected Iterator Overridable Function GetScriptReferences () As IEnumerable(Of ScriptReference)" FrameworkAlternate="netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.UI.IScriptControl.GetScriptReferences</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IScriptControl.GetScriptReferences</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IScriptControl.GetScriptReferences</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IScriptControl.GetScriptReferences</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IScriptControl.GetScriptReferences</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IScriptControl.GetScriptReferences</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IScriptControl.GetScriptReferences</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IScriptControl.GetScriptReferences</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IScriptControl.GetScriptReferences</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IScriptControl.GetScriptReferences</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IScriptControl.GetScriptReferences</InterfaceMember>
         <InterfaceMember>M:System.Web.UI.IScriptControl.GetScriptReferences</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -642,6 +664,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.GetAttribute(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Extensions</AssemblyName>
@@ -675,6 +707,16 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Web.UI.IAttributeAccessor.SetAttribute(System::String ^ key, System::String ^ value) = System::Web::UI::IAttributeAccessor::SetAttribute;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
         <InterfaceMember>M:System.Web.UI.IAttributeAccessor.SetAttribute(System.String,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -710,6 +752,17 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Collections::Generic::IEnumerable&lt;System::Web::UI::ScriptDescriptor ^&gt; ^ System.Web.UI.IScriptControl.GetScriptDescriptors() = System::Web::UI::IScriptControl::GetScriptDescriptors;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.UI.IScriptControl.GetScriptDescriptors</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IScriptControl.GetScriptDescriptors</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IScriptControl.GetScriptDescriptors</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IScriptControl.GetScriptDescriptors</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IScriptControl.GetScriptDescriptors</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IScriptControl.GetScriptDescriptors</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IScriptControl.GetScriptDescriptors</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IScriptControl.GetScriptDescriptors</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IScriptControl.GetScriptDescriptors</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IScriptControl.GetScriptDescriptors</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IScriptControl.GetScriptDescriptors</InterfaceMember>
         <InterfaceMember>M:System.Web.UI.IScriptControl.GetScriptDescriptors</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -748,6 +801,17 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Collections::Generic::IEnumerable&lt;System::Web::UI::ScriptReference ^&gt; ^ System.Web.UI.IScriptControl.GetScriptReferences() = System::Web::UI::IScriptControl::GetScriptReferences;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.UI.IScriptControl.GetScriptReferences</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IScriptControl.GetScriptReferences</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IScriptControl.GetScriptReferences</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IScriptControl.GetScriptReferences</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IScriptControl.GetScriptReferences</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IScriptControl.GetScriptReferences</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IScriptControl.GetScriptReferences</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IScriptControl.GetScriptReferences</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IScriptControl.GetScriptReferences</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IScriptControl.GetScriptReferences</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IScriptControl.GetScriptReferences</InterfaceMember>
         <InterfaceMember>M:System.Web.UI.IScriptControl.GetScriptReferences</InterfaceMember>
       </Implements>
       <AssemblyInfo>

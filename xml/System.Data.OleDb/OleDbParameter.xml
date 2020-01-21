@@ -474,6 +474,21 @@ Parameter = new OleDbParameter("@pname", Convert.ToInt32(0));
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Data.IDataParameter.DbType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.DbType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.DbType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.DbType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.DbType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.DbType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.DbType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.DbType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.DbType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.DbType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.DbType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.DbType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.DbType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.DbType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.DbType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.DbType</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data</AssemblyName>
@@ -540,6 +555,21 @@ Parameter = new OleDbParameter("@pname", Convert.ToInt32(0));
       <MemberSignature Language="C++ CLI" Value="public:&#xA; property System::Data::ParameterDirection Direction { System::Data::ParameterDirection get(); void set(System::Data::ParameterDirection value); };" FrameworkAlternate="netframework-1.1" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Data.IDataParameter.Direction</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.Direction</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.Direction</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.Direction</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.Direction</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.Direction</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.Direction</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.Direction</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.Direction</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.Direction</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.Direction</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.Direction</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.Direction</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.Direction</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.Direction</InterfaceMember>
         <InterfaceMember>P:System.Data.IDataParameter.Direction</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -786,6 +816,21 @@ public void CreateOleDbParameter()
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Data.IDataParameter.ParameterName</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.ParameterName</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.ParameterName</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.ParameterName</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.ParameterName</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.ParameterName</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.ParameterName</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.ParameterName</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.ParameterName</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.ParameterName</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.ParameterName</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.ParameterName</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.ParameterName</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.ParameterName</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.ParameterName</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.ParameterName</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data</AssemblyName>
@@ -852,6 +897,21 @@ public void CreateOleDbParameter()
       <MemberSignature Language="F#" Value="member this.Precision : byte with get, set" Usage="System.Data.OleDb.OleDbParameter.Precision" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Precision</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Precision</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Precision</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Precision</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Precision</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Precision</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Precision</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Precision</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Precision</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Precision</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Precision</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Precision</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Precision</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Precision</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Precision</InterfaceMember>
         <InterfaceMember>P:System.Data.IDbDataParameter.Precision</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1013,6 +1073,21 @@ public void CreateOleDbParameter()
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Data.IDbDataParameter.Scale</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Scale</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Scale</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Scale</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Scale</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Scale</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Scale</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Scale</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Scale</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Scale</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Scale</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Scale</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Scale</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Scale</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Scale</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Scale</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data</AssemblyName>
@@ -1096,6 +1171,21 @@ public void CreateOleDbParameter()
       <MemberSignature Language="C++ CLI" Value="public:&#xA; property int Size { int get(); void set(int value); };" FrameworkAlternate="netframework-1.1" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Size</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Size</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Size</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Size</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Size</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Size</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Size</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Size</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Size</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Size</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Size</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Size</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Size</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Size</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbDataParameter.Size</InterfaceMember>
         <InterfaceMember>P:System.Data.IDbDataParameter.Size</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1184,6 +1274,21 @@ public void CreateOleDbParameter()
       <MemberSignature Language="C++ CLI" Value="public:&#xA; property System::String ^ SourceColumn { System::String ^ get(); void set(System::String ^ value); };" FrameworkAlternate="netframework-1.1" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Data.IDataParameter.SourceColumn</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.SourceColumn</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.SourceColumn</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.SourceColumn</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.SourceColumn</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.SourceColumn</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.SourceColumn</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.SourceColumn</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.SourceColumn</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.SourceColumn</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.SourceColumn</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.SourceColumn</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.SourceColumn</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.SourceColumn</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.SourceColumn</InterfaceMember>
         <InterfaceMember>P:System.Data.IDataParameter.SourceColumn</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1308,6 +1413,21 @@ FieldName = @OriginalFieldName
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Data.IDataParameter.SourceVersion</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.SourceVersion</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.SourceVersion</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.SourceVersion</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.SourceVersion</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.SourceVersion</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.SourceVersion</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.SourceVersion</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.SourceVersion</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.SourceVersion</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.SourceVersion</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.SourceVersion</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.SourceVersion</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.SourceVersion</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.SourceVersion</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.SourceVersion</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data</AssemblyName>
@@ -1376,6 +1496,23 @@ public void CreateOleDbParameter()
       <MemberSignature Language="C++ CLI" Value=" virtual System::Object ^ System.ICloneable.Clone() = ICloneable::Clone;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
         <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1449,6 +1586,21 @@ public void CreateOleDbParameter()
       <MemberSignature Language="C++ CLI" Value="public:&#xA; property System::Object ^ Value { System::Object ^ get(); void set(System::Object ^ value); };" FrameworkAlternate="netframework-1.1" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Data.IDataParameter.Value</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.Value</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.Value</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.Value</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.Value</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.Value</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.Value</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.Value</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.Value</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.Value</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.Value</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.Value</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.Value</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.Value</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDataParameter.Value</InterfaceMember>
         <InterfaceMember>P:System.Data.IDataParameter.Value</InterfaceMember>
       </Implements>
       <AssemblyInfo>

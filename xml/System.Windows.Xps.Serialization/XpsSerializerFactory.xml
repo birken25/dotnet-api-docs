@@ -55,6 +55,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Documents.Serialization.ISerializerFactory.CreateSerializerWriter(System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.Serialization.ISerializerFactory.CreateSerializerWriter(System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.Serialization.ISerializerFactory.CreateSerializerWriter(System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.Serialization.ISerializerFactory.CreateSerializerWriter(System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.Serialization.ISerializerFactory.CreateSerializerWriter(System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.Serialization.ISerializerFactory.CreateSerializerWriter(System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.Serialization.ISerializerFactory.CreateSerializerWriter(System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.Serialization.ISerializerFactory.CreateSerializerWriter(System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.Serialization.ISerializerFactory.CreateSerializerWriter(System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.Serialization.ISerializerFactory.CreateSerializerWriter(System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.Serialization.ISerializerFactory.CreateSerializerWriter(System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.Serialization.ISerializerFactory.CreateSerializerWriter(System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.Serialization.ISerializerFactory.CreateSerializerWriter(System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.Serialization.ISerializerFactory.CreateSerializerWriter(System.IO.Stream)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Documents.Serialization.ISerializerFactory.CreateSerializerWriter(System.IO.Stream)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>ReachFramework</AssemblyName>
@@ -83,6 +97,20 @@
       <MemberSignature Language="F#" Value="member this.DefaultFileExtension : string" Usage="System.Windows.Xps.Serialization.XpsSerializerFactory.DefaultFileExtension" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.DefaultFileExtension</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.DefaultFileExtension</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.DefaultFileExtension</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.DefaultFileExtension</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.DefaultFileExtension</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.DefaultFileExtension</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.DefaultFileExtension</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.DefaultFileExtension</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.DefaultFileExtension</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.DefaultFileExtension</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.DefaultFileExtension</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.DefaultFileExtension</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.DefaultFileExtension</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.DefaultFileExtension</InterfaceMember>
         <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.DefaultFileExtension</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -116,6 +144,20 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.DisplayName</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.DisplayName</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.DisplayName</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.DisplayName</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.DisplayName</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.DisplayName</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.DisplayName</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.DisplayName</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.DisplayName</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.DisplayName</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.DisplayName</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.DisplayName</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.DisplayName</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.DisplayName</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.DisplayName</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>ReachFramework</AssemblyName>
@@ -148,6 +190,20 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.ManufacturerName</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.ManufacturerName</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.ManufacturerName</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.ManufacturerName</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.ManufacturerName</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.ManufacturerName</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.ManufacturerName</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.ManufacturerName</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.ManufacturerName</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.ManufacturerName</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.ManufacturerName</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.ManufacturerName</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.ManufacturerName</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.ManufacturerName</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.ManufacturerName</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>ReachFramework</AssemblyName>
@@ -179,6 +235,20 @@
       <MemberSignature Language="F#" Value="member this.ManufacturerWebsite : Uri" Usage="System.Windows.Xps.Serialization.XpsSerializerFactory.ManufacturerWebsite" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.ManufacturerWebsite</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.ManufacturerWebsite</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.ManufacturerWebsite</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.ManufacturerWebsite</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.ManufacturerWebsite</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.ManufacturerWebsite</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.ManufacturerWebsite</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.ManufacturerWebsite</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.ManufacturerWebsite</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.ManufacturerWebsite</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.ManufacturerWebsite</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.ManufacturerWebsite</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.ManufacturerWebsite</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.ManufacturerWebsite</InterfaceMember>
         <InterfaceMember>P:System.Windows.Documents.Serialization.ISerializerFactory.ManufacturerWebsite</InterfaceMember>
       </Implements>
       <AssemblyInfo>

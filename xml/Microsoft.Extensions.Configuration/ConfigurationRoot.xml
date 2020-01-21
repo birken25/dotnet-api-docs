@@ -71,6 +71,7 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Configuration</AssemblyName>
@@ -96,6 +97,12 @@
       <MemberSignature Language="F#" Value="abstract member GetChildren : unit -&gt; seq&lt;Microsoft.Extensions.Configuration.IConfigurationSection&gt;&#xA;override this.GetChildren : unit -&gt; seq&lt;Microsoft.Extensions.Configuration.IConfigurationSection&gt;" Usage="configurationRoot.GetChildren " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfiguration.GetChildren</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfiguration.GetChildren</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfiguration.GetChildren</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfiguration.GetChildren</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfiguration.GetChildren</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfiguration.GetChildren</InterfaceMember>
         <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfiguration.GetChildren</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -128,6 +135,12 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfiguration.GetReloadToken</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfiguration.GetReloadToken</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfiguration.GetReloadToken</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfiguration.GetReloadToken</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfiguration.GetReloadToken</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfiguration.GetReloadToken</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfiguration.GetReloadToken</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Configuration</AssemblyName>
@@ -158,6 +171,12 @@
       <MemberSignature Language="F#" Value="abstract member GetSection : string -&gt; Microsoft.Extensions.Configuration.IConfigurationSection&#xA;override this.GetSection : string -&gt; Microsoft.Extensions.Configuration.IConfigurationSection" Usage="configurationRoot.GetSection key" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfiguration.GetSection(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfiguration.GetSection(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfiguration.GetSection(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfiguration.GetSection(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfiguration.GetSection(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfiguration.GetSection(System.String)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfiguration.GetSection(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -194,6 +213,12 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Extensions.Configuration.IConfiguration.Item(System.String)</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.Configuration.IConfiguration.Item(System.String)</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.Configuration.IConfiguration.Item(System.String)</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.Configuration.IConfiguration.Item(System.String)</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.Configuration.IConfiguration.Item(System.String)</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.Configuration.IConfiguration.Item(System.String)</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.Configuration.IConfiguration.Item(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Configuration</AssemblyName>
@@ -228,6 +253,10 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Extensions.Configuration.IConfigurationRoot.Providers</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.Configuration.IConfigurationRoot.Providers</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.Configuration.IConfigurationRoot.Providers</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.Configuration.IConfigurationRoot.Providers</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.Configuration.IConfigurationRoot.Providers</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Configuration</AssemblyName>
@@ -255,6 +284,12 @@
       <MemberSignature Language="F#" Value="abstract member Reload : unit -&gt; unit&#xA;override this.Reload : unit -&gt; unit" Usage="configurationRoot.Reload " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationRoot.Reload</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationRoot.Reload</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationRoot.Reload</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationRoot.Reload</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationRoot.Reload</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationRoot.Reload</InterfaceMember>
         <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationRoot.Reload</InterfaceMember>
       </Implements>
       <AssemblyInfo>

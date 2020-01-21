@@ -1008,6 +1008,29 @@ String dt4 = reader.GetAttribute("dt",http://www.w3.org/2000/xmlns/);
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Xml.IXmlLineInfo.HasLineInfo</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlLineInfo.HasLineInfo</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlLineInfo.HasLineInfo</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlLineInfo.HasLineInfo</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlLineInfo.HasLineInfo</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlLineInfo.HasLineInfo</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlLineInfo.HasLineInfo</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlLineInfo.HasLineInfo</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlLineInfo.HasLineInfo</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlLineInfo.HasLineInfo</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlLineInfo.HasLineInfo</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlLineInfo.HasLineInfo</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlLineInfo.HasLineInfo</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlLineInfo.HasLineInfo</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlLineInfo.HasLineInfo</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlLineInfo.HasLineInfo</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlLineInfo.HasLineInfo</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlLineInfo.HasLineInfo</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlLineInfo.HasLineInfo</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlLineInfo.HasLineInfo</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlLineInfo.HasLineInfo</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlLineInfo.HasLineInfo</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlLineInfo.HasLineInfo</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlLineInfo.HasLineInfo</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Xml</AssemblyName>
@@ -1366,6 +1389,29 @@ If the reader is positioned on a `DocumentType` node, this method can be used to
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Xml.IXmlLineInfo.LineNumber</InterfaceMember>
+        <InterfaceMember>P:System.Xml.IXmlLineInfo.LineNumber</InterfaceMember>
+        <InterfaceMember>P:System.Xml.IXmlLineInfo.LineNumber</InterfaceMember>
+        <InterfaceMember>P:System.Xml.IXmlLineInfo.LineNumber</InterfaceMember>
+        <InterfaceMember>P:System.Xml.IXmlLineInfo.LineNumber</InterfaceMember>
+        <InterfaceMember>P:System.Xml.IXmlLineInfo.LineNumber</InterfaceMember>
+        <InterfaceMember>P:System.Xml.IXmlLineInfo.LineNumber</InterfaceMember>
+        <InterfaceMember>P:System.Xml.IXmlLineInfo.LineNumber</InterfaceMember>
+        <InterfaceMember>P:System.Xml.IXmlLineInfo.LineNumber</InterfaceMember>
+        <InterfaceMember>P:System.Xml.IXmlLineInfo.LineNumber</InterfaceMember>
+        <InterfaceMember>P:System.Xml.IXmlLineInfo.LineNumber</InterfaceMember>
+        <InterfaceMember>P:System.Xml.IXmlLineInfo.LineNumber</InterfaceMember>
+        <InterfaceMember>P:System.Xml.IXmlLineInfo.LineNumber</InterfaceMember>
+        <InterfaceMember>P:System.Xml.IXmlLineInfo.LineNumber</InterfaceMember>
+        <InterfaceMember>P:System.Xml.IXmlLineInfo.LineNumber</InterfaceMember>
+        <InterfaceMember>P:System.Xml.IXmlLineInfo.LineNumber</InterfaceMember>
+        <InterfaceMember>P:System.Xml.IXmlLineInfo.LineNumber</InterfaceMember>
+        <InterfaceMember>P:System.Xml.IXmlLineInfo.LineNumber</InterfaceMember>
+        <InterfaceMember>P:System.Xml.IXmlLineInfo.LineNumber</InterfaceMember>
+        <InterfaceMember>P:System.Xml.IXmlLineInfo.LineNumber</InterfaceMember>
+        <InterfaceMember>P:System.Xml.IXmlLineInfo.LineNumber</InterfaceMember>
+        <InterfaceMember>P:System.Xml.IXmlLineInfo.LineNumber</InterfaceMember>
+        <InterfaceMember>P:System.Xml.IXmlLineInfo.LineNumber</InterfaceMember>
+        <InterfaceMember>P:System.Xml.IXmlLineInfo.LineNumber</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Xml</AssemblyName>
@@ -1414,6 +1460,29 @@ If the reader is positioned on a `DocumentType` node, this method can be used to
       <MemberSignature Language="F#" Value="member this.LinePosition : int" Usage="System.Xml.XmlValidatingReader.LinePosition" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Xml.IXmlLineInfo.LinePosition</InterfaceMember>
+        <InterfaceMember>P:System.Xml.IXmlLineInfo.LinePosition</InterfaceMember>
+        <InterfaceMember>P:System.Xml.IXmlLineInfo.LinePosition</InterfaceMember>
+        <InterfaceMember>P:System.Xml.IXmlLineInfo.LinePosition</InterfaceMember>
+        <InterfaceMember>P:System.Xml.IXmlLineInfo.LinePosition</InterfaceMember>
+        <InterfaceMember>P:System.Xml.IXmlLineInfo.LinePosition</InterfaceMember>
+        <InterfaceMember>P:System.Xml.IXmlLineInfo.LinePosition</InterfaceMember>
+        <InterfaceMember>P:System.Xml.IXmlLineInfo.LinePosition</InterfaceMember>
+        <InterfaceMember>P:System.Xml.IXmlLineInfo.LinePosition</InterfaceMember>
+        <InterfaceMember>P:System.Xml.IXmlLineInfo.LinePosition</InterfaceMember>
+        <InterfaceMember>P:System.Xml.IXmlLineInfo.LinePosition</InterfaceMember>
+        <InterfaceMember>P:System.Xml.IXmlLineInfo.LinePosition</InterfaceMember>
+        <InterfaceMember>P:System.Xml.IXmlLineInfo.LinePosition</InterfaceMember>
+        <InterfaceMember>P:System.Xml.IXmlLineInfo.LinePosition</InterfaceMember>
+        <InterfaceMember>P:System.Xml.IXmlLineInfo.LinePosition</InterfaceMember>
+        <InterfaceMember>P:System.Xml.IXmlLineInfo.LinePosition</InterfaceMember>
+        <InterfaceMember>P:System.Xml.IXmlLineInfo.LinePosition</InterfaceMember>
+        <InterfaceMember>P:System.Xml.IXmlLineInfo.LinePosition</InterfaceMember>
+        <InterfaceMember>P:System.Xml.IXmlLineInfo.LinePosition</InterfaceMember>
+        <InterfaceMember>P:System.Xml.IXmlLineInfo.LinePosition</InterfaceMember>
+        <InterfaceMember>P:System.Xml.IXmlLineInfo.LinePosition</InterfaceMember>
+        <InterfaceMember>P:System.Xml.IXmlLineInfo.LinePosition</InterfaceMember>
+        <InterfaceMember>P:System.Xml.IXmlLineInfo.LinePosition</InterfaceMember>
         <InterfaceMember>P:System.Xml.IXmlLineInfo.LinePosition</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1530,6 +1599,29 @@ If the reader is positioned on a `DocumentType` node, this method can be used to
       <MemberSignature Language="F#" Value="override this.LookupNamespace : string -&gt; string" Usage="xmlValidatingReader.LookupNamespace prefix" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
         <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -3325,6 +3417,29 @@ object obj = vreader.SchemaType;
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Xml</AssemblyName>
@@ -3371,6 +3486,29 @@ object obj = vreader.SchemaType;
       <MemberSignature Language="C++ CLI" Value=" virtual System::String ^ System.Xml.IXmlNamespaceResolver.LookupNamespace(System::String ^ prefix) = System::Xml::IXmlNamespaceResolver::LookupNamespace;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
         <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -3419,6 +3557,29 @@ object obj = vreader.SchemaType;
       <MemberSignature Language="C++ CLI" Value=" virtual System::String ^ System.Xml.IXmlNamespaceResolver.LookupPrefix(System::String ^ namespaceName) = System::Xml::IXmlNamespaceResolver::LookupPrefix;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
         <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

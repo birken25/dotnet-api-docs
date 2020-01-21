@@ -104,6 +104,30 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ComponentModel.IContainer.Add(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Add(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Add(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Add(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Add(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Add(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Add(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Add(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Add(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Add(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Add(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Add(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Add(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Add(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Add(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Add(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Add(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Add(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Add(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Add(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Add(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Add(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Add(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Add(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Add(System.ComponentModel.IComponent)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System</AssemblyName>
@@ -161,6 +185,30 @@
       <MemberSignature Language="F#" Value="abstract member Add : System.ComponentModel.IComponent * string -&gt; unit&#xA;override this.Add : System.ComponentModel.IComponent * string -&gt; unit" Usage="container.Add (component, name)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Add(System.ComponentModel.IComponent,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Add(System.ComponentModel.IComponent,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Add(System.ComponentModel.IComponent,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Add(System.ComponentModel.IComponent,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Add(System.ComponentModel.IComponent,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Add(System.ComponentModel.IComponent,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Add(System.ComponentModel.IComponent,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Add(System.ComponentModel.IComponent,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Add(System.ComponentModel.IComponent,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Add(System.ComponentModel.IComponent,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Add(System.ComponentModel.IComponent,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Add(System.ComponentModel.IComponent,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Add(System.ComponentModel.IComponent,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Add(System.ComponentModel.IComponent,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Add(System.ComponentModel.IComponent,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Add(System.ComponentModel.IComponent,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Add(System.ComponentModel.IComponent,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Add(System.ComponentModel.IComponent,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Add(System.ComponentModel.IComponent,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Add(System.ComponentModel.IComponent,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Add(System.ComponentModel.IComponent,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Add(System.ComponentModel.IComponent,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Add(System.ComponentModel.IComponent,System.String)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Add(System.ComponentModel.IComponent,System.String)</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.IContainer.Add(System.ComponentModel.IComponent,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -222,6 +270,30 @@
       <MemberSignature Language="F#" Value="member this.Components : System.ComponentModel.ComponentCollection" Usage="System.ComponentModel.Container.Components" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.ComponentModel.IContainer.Components</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IContainer.Components</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IContainer.Components</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IContainer.Components</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IContainer.Components</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IContainer.Components</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IContainer.Components</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IContainer.Components</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IContainer.Components</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IContainer.Components</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IContainer.Components</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IContainer.Components</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IContainer.Components</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IContainer.Components</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IContainer.Components</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IContainer.Components</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IContainer.Components</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IContainer.Components</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IContainer.Components</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IContainer.Components</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IContainer.Components</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IContainer.Components</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IContainer.Components</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IContainer.Components</InterfaceMember>
         <InterfaceMember>P:System.ComponentModel.IContainer.Components</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -329,6 +401,30 @@
       <MemberSignature Language="F#" Value="abstract member Dispose : unit -&gt; unit&#xA;override this.Dispose : unit -&gt; unit" Usage="container.Dispose " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -522,6 +618,30 @@
       <MemberSignature Language="F#" Value="abstract member Remove : System.ComponentModel.IComponent -&gt; unit&#xA;override this.Remove : System.ComponentModel.IComponent -&gt; unit" Usage="container.Remove component" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Remove(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Remove(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Remove(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Remove(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Remove(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Remove(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Remove(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Remove(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Remove(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Remove(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Remove(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Remove(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Remove(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Remove(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Remove(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Remove(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Remove(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Remove(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Remove(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Remove(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Remove(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Remove(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Remove(System.ComponentModel.IComponent)</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IContainer.Remove(System.ComponentModel.IComponent)</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.IContainer.Remove(System.ComponentModel.IComponent)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

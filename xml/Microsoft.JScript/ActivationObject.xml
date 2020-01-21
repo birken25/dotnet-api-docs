@@ -111,6 +111,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetDefaultThisObject</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetDefaultThisObject</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetDefaultThisObject</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetDefaultThisObject</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetDefaultThisObject</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetDefaultThisObject</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetDefaultThisObject</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetDefaultThisObject</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetDefaultThisObject</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetDefaultThisObject</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetDefaultThisObject</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetDefaultThisObject</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetDefaultThisObject</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetDefaultThisObject</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetDefaultThisObject</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.JScript</AssemblyName>
@@ -144,6 +158,20 @@
       <MemberSignature Language="F#" Value="override this.GetField : string * int -&gt; System.Reflection.FieldInfo" Usage="activationObject.GetField (name, lexLevel)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetField(System.String,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetField(System.String,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetField(System.String,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetField(System.String,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetField(System.String,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetField(System.String,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetField(System.String,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetField(System.String,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetField(System.String,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetField(System.String,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetField(System.String,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetField(System.String,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetField(System.String,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetField(System.String,System.Int32)</InterfaceMember>
         <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetField(System.String,System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -190,6 +218,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetGlobalScope</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetGlobalScope</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetGlobalScope</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetGlobalScope</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetGlobalScope</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetGlobalScope</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetGlobalScope</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetGlobalScope</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetGlobalScope</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetGlobalScope</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetGlobalScope</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetGlobalScope</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetGlobalScope</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetGlobalScope</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetGlobalScope</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.JScript</AssemblyName>
@@ -222,6 +264,20 @@
       <MemberSignature Language="F#" Value="abstract member GetLocalField : string -&gt; System.Reflection.FieldInfo&#xA;override this.GetLocalField : string -&gt; System.Reflection.FieldInfo" Usage="activationObject.GetLocalField name" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetLocalField(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetLocalField(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetLocalField(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetLocalField(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetLocalField(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetLocalField(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetLocalField(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetLocalField(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetLocalField(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetLocalField(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetLocalField(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetLocalField(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetLocalField(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetLocalField(System.String)</InterfaceMember>
         <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetLocalField(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -327,6 +383,20 @@
       <MemberSignature Language="F#" Value="abstract member GetMemberValue : string * int -&gt; obj&#xA;override this.GetMemberValue : string * int -&gt; obj" Usage="activationObject.GetMemberValue (name, lexlevel)" FrameworkAlternate="netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetMemberValue(System.String,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetMemberValue(System.String,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetMemberValue(System.String,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetMemberValue(System.String,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetMemberValue(System.String,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetMemberValue(System.String,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetMemberValue(System.String,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetMemberValue(System.String,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetMemberValue(System.String,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetMemberValue(System.String,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetMemberValue(System.String,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetMemberValue(System.String,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetMemberValue(System.String,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetMemberValue(System.String,System.Int32)</InterfaceMember>
         <InterfaceMember>M:Microsoft.JScript.IActivationObject.GetMemberValue(System.String,System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

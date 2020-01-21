@@ -61,6 +61,10 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Extensions.Logging.Console.Internal.IConsole.Flush</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.Console.Internal.IConsole.Flush</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.Console.Internal.IConsole.Flush</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.Console.Internal.IConsole.Flush</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.Console.Internal.IConsole.Flush</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Logging.Console</AssemblyName>
@@ -88,6 +92,10 @@
       <MemberSignature Language="F#" Value="abstract member Write : string * Nullable&lt;ConsoleColor&gt; * Nullable&lt;ConsoleColor&gt; -&gt; unit&#xA;override this.Write : string * Nullable&lt;ConsoleColor&gt; * Nullable&lt;ConsoleColor&gt; -&gt; unit" Usage="ansiLogConsole.Write (message, background, foreground)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.Console.Internal.IConsole.Write(System.String,System.Nullable{System.ConsoleColor},System.Nullable{System.ConsoleColor})</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.Console.Internal.IConsole.Write(System.String,System.Nullable{System.ConsoleColor},System.Nullable{System.ConsoleColor})</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.Console.Internal.IConsole.Write(System.String,System.Nullable{System.ConsoleColor},System.Nullable{System.ConsoleColor})</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.Console.Internal.IConsole.Write(System.String,System.Nullable{System.ConsoleColor},System.Nullable{System.ConsoleColor})</InterfaceMember>
         <InterfaceMember>M:Microsoft.Extensions.Logging.Console.Internal.IConsole.Write(System.String,System.Nullable{System.ConsoleColor},System.Nullable{System.ConsoleColor})</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -123,6 +131,10 @@
       <MemberSignature Language="F#" Value="abstract member WriteLine : string * Nullable&lt;ConsoleColor&gt; * Nullable&lt;ConsoleColor&gt; -&gt; unit&#xA;override this.WriteLine : string * Nullable&lt;ConsoleColor&gt; * Nullable&lt;ConsoleColor&gt; -&gt; unit" Usage="ansiLogConsole.WriteLine (message, background, foreground)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.Console.Internal.IConsole.WriteLine(System.String,System.Nullable{System.ConsoleColor},System.Nullable{System.ConsoleColor})</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.Console.Internal.IConsole.WriteLine(System.String,System.Nullable{System.ConsoleColor},System.Nullable{System.ConsoleColor})</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.Console.Internal.IConsole.WriteLine(System.String,System.Nullable{System.ConsoleColor},System.Nullable{System.ConsoleColor})</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Logging.Console.Internal.IConsole.WriteLine(System.String,System.Nullable{System.ConsoleColor},System.Nullable{System.ConsoleColor})</InterfaceMember>
         <InterfaceMember>M:Microsoft.Extensions.Logging.Console.Internal.IConsole.WriteLine(System.String,System.Nullable{System.ConsoleColor},System.Nullable{System.ConsoleColor})</InterfaceMember>
       </Implements>
       <AssemblyInfo>

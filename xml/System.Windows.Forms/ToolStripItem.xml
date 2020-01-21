@@ -945,6 +945,21 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Windows.Forms.Layout.IArrangedElement.Bounds</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.Layout.IArrangedElement.Bounds</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.Layout.IArrangedElement.Bounds</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.Layout.IArrangedElement.Bounds</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.Layout.IArrangedElement.Bounds</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.Layout.IArrangedElement.Bounds</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.Layout.IArrangedElement.Bounds</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.Layout.IArrangedElement.Bounds</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.Layout.IArrangedElement.Bounds</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.Layout.IArrangedElement.Bounds</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.Layout.IArrangedElement.Bounds</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.Layout.IArrangedElement.Bounds</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.Layout.IArrangedElement.Bounds</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.Layout.IArrangedElement.Bounds</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.Layout.IArrangedElement.Bounds</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Forms.Layout.IArrangedElement.Bounds</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Forms</AssemblyName>
@@ -2040,6 +2055,21 @@
       <MemberSignature Language="F#" Value="abstract member GetPreferredSize : System.Drawing.Size -&gt; System.Drawing.Size&#xA;override this.GetPreferredSize : System.Drawing.Size -&gt; System.Drawing.Size" Usage="toolStripItem.GetPreferredSize constrainingSize" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Forms.Layout.IArrangedElement.GetPreferredSize(System.Drawing.Size)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Layout.IArrangedElement.GetPreferredSize(System.Drawing.Size)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Layout.IArrangedElement.GetPreferredSize(System.Drawing.Size)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Layout.IArrangedElement.GetPreferredSize(System.Drawing.Size)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Layout.IArrangedElement.GetPreferredSize(System.Drawing.Size)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Layout.IArrangedElement.GetPreferredSize(System.Drawing.Size)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Layout.IArrangedElement.GetPreferredSize(System.Drawing.Size)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Layout.IArrangedElement.GetPreferredSize(System.Drawing.Size)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Layout.IArrangedElement.GetPreferredSize(System.Drawing.Size)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Layout.IArrangedElement.GetPreferredSize(System.Drawing.Size)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Layout.IArrangedElement.GetPreferredSize(System.Drawing.Size)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Layout.IArrangedElement.GetPreferredSize(System.Drawing.Size)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Layout.IArrangedElement.GetPreferredSize(System.Drawing.Size)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Layout.IArrangedElement.GetPreferredSize(System.Drawing.Size)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.Layout.IArrangedElement.GetPreferredSize(System.Drawing.Size)</InterfaceMember>
         <InterfaceMember>M:System.Windows.Forms.Layout.IArrangedElement.GetPreferredSize(System.Drawing.Size)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -3505,6 +3535,21 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragDrop(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragDrop(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragDrop(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragDrop(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragDrop(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragDrop(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragDrop(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragDrop(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragDrop(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragDrop(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragDrop(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragDrop(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragDrop(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragDrop(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragDrop(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragDrop(System.Windows.Forms.DragEventArgs)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Forms</AssemblyName>
@@ -3549,6 +3594,21 @@
       <MemberSignature Language="F#" Value="abstract member OnDragEnter : System.Windows.Forms.DragEventArgs -&gt; unit&#xA;override this.OnDragEnter : System.Windows.Forms.DragEventArgs -&gt; unit" Usage="toolStripItem.OnDragEnter dragEvent" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragEnter(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragEnter(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragEnter(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragEnter(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragEnter(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragEnter(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragEnter(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragEnter(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragEnter(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragEnter(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragEnter(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragEnter(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragEnter(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragEnter(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragEnter(System.Windows.Forms.DragEventArgs)</InterfaceMember>
         <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragEnter(System.Windows.Forms.DragEventArgs)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -3595,6 +3655,21 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragLeave(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragLeave(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragLeave(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragLeave(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragLeave(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragLeave(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragLeave(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragLeave(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragLeave(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragLeave(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragLeave(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragLeave(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragLeave(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragLeave(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragLeave(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragLeave(System.EventArgs)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Forms</AssemblyName>
@@ -3639,6 +3714,21 @@
       <MemberSignature Language="F#" Value="abstract member OnDragOver : System.Windows.Forms.DragEventArgs -&gt; unit&#xA;override this.OnDragOver : System.Windows.Forms.DragEventArgs -&gt; unit" Usage="toolStripItem.OnDragOver dragEvent" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragOver(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragOver(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragOver(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragOver(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragOver(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragOver(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragOver(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragOver(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragOver(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragOver(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragOver(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragOver(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragOver(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragOver(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragOver(System.Windows.Forms.DragEventArgs)</InterfaceMember>
         <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragOver(System.Windows.Forms.DragEventArgs)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -3804,6 +3894,13 @@
       <MemberSignature Language="C++ CLI" Value="protected:&#xA; virtual void OnGiveFeedback(System::Windows::Forms::GiveFeedbackEventArgs ^ giveFeedbackEvent);" />
       <MemberSignature Language="F#" Value="abstract member OnGiveFeedback : System.Windows.Forms.GiveFeedbackEventArgs -&gt; unit&#xA;override this.OnGiveFeedback : System.Windows.Forms.GiveFeedbackEventArgs -&gt; unit" Usage="toolStripItem.OnGiveFeedback giveFeedbackEvent" />
       <MemberType>Method</MemberType>
+      <Implements>
+        <InterfaceMember>M:System.Windows.Forms.ISupportOleDropSource.OnGiveFeedback(System.Windows.Forms.GiveFeedbackEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.ISupportOleDropSource.OnGiveFeedback(System.Windows.Forms.GiveFeedbackEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.ISupportOleDropSource.OnGiveFeedback(System.Windows.Forms.GiveFeedbackEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.ISupportOleDropSource.OnGiveFeedback(System.Windows.Forms.GiveFeedbackEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.ISupportOleDropSource.OnGiveFeedback(System.Windows.Forms.GiveFeedbackEventArgs)</InterfaceMember>
+      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Forms</AssemblyName>
         <AssemblyVersion>2.0.0.0</AssemblyVersion>
@@ -4488,6 +4585,13 @@
       <MemberSignature Language="C++ CLI" Value="protected:&#xA; virtual void OnQueryContinueDrag(System::Windows::Forms::QueryContinueDragEventArgs ^ queryContinueDragEvent);" />
       <MemberSignature Language="F#" Value="abstract member OnQueryContinueDrag : System.Windows.Forms.QueryContinueDragEventArgs -&gt; unit&#xA;override this.OnQueryContinueDrag : System.Windows.Forms.QueryContinueDragEventArgs -&gt; unit" Usage="toolStripItem.OnQueryContinueDrag queryContinueDragEvent" />
       <MemberType>Method</MemberType>
+      <Implements>
+        <InterfaceMember>M:System.Windows.Forms.ISupportOleDropSource.OnQueryContinueDrag(System.Windows.Forms.QueryContinueDragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.ISupportOleDropSource.OnQueryContinueDrag(System.Windows.Forms.QueryContinueDragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.ISupportOleDropSource.OnQueryContinueDrag(System.Windows.Forms.QueryContinueDragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.ISupportOleDropSource.OnQueryContinueDrag(System.Windows.Forms.QueryContinueDragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.ISupportOleDropSource.OnQueryContinueDrag(System.Windows.Forms.QueryContinueDragEventArgs)</InterfaceMember>
+      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Forms</AssemblyName>
         <AssemblyVersion>2.0.0.0</AssemblyVersion>
@@ -5878,6 +5982,21 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragDrop(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragDrop(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragDrop(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragDrop(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragDrop(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragDrop(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragDrop(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragDrop(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragDrop(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragDrop(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragDrop(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragDrop(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragDrop(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragDrop(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragDrop(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragDrop(System.Windows.Forms.DragEventArgs)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Forms</AssemblyName>
@@ -5921,6 +6040,21 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Windows.Forms.IDropTarget.OnDragEnter(System::Windows::Forms::DragEventArgs ^ dragEvent) = System::Windows::Forms::IDropTarget::OnDragEnter;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragEnter(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragEnter(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragEnter(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragEnter(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragEnter(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragEnter(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragEnter(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragEnter(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragEnter(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragEnter(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragEnter(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragEnter(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragEnter(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragEnter(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragEnter(System.Windows.Forms.DragEventArgs)</InterfaceMember>
         <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragEnter(System.Windows.Forms.DragEventArgs)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -5966,6 +6100,21 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragLeave(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragLeave(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragLeave(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragLeave(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragLeave(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragLeave(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragLeave(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragLeave(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragLeave(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragLeave(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragLeave(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragLeave(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragLeave(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragLeave(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragLeave(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragLeave(System.EventArgs)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Forms</AssemblyName>
@@ -6009,6 +6158,21 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Windows.Forms.IDropTarget.OnDragOver(System::Windows::Forms::DragEventArgs ^ dragEvent) = System::Windows::Forms::IDropTarget::OnDragOver;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragOver(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragOver(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragOver(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragOver(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragOver(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragOver(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragOver(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragOver(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragOver(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragOver(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragOver(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragOver(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragOver(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragOver(System.Windows.Forms.DragEventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragOver(System.Windows.Forms.DragEventArgs)</InterfaceMember>
         <InterfaceMember>M:System.Windows.Forms.IDropTarget.OnDragOver(System.Windows.Forms.DragEventArgs)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

@@ -133,6 +133,20 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Windows.Automation.Provider.IMultipleViewProvider.CurrentView</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IMultipleViewProvider.CurrentView</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IMultipleViewProvider.CurrentView</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IMultipleViewProvider.CurrentView</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IMultipleViewProvider.CurrentView</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IMultipleViewProvider.CurrentView</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IMultipleViewProvider.CurrentView</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IMultipleViewProvider.CurrentView</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IMultipleViewProvider.CurrentView</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IMultipleViewProvider.CurrentView</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IMultipleViewProvider.CurrentView</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IMultipleViewProvider.CurrentView</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IMultipleViewProvider.CurrentView</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IMultipleViewProvider.CurrentView</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IMultipleViewProvider.CurrentView</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -163,6 +177,20 @@
       <MemberSignature Language="C++ CLI" Value=" virtual cli::array &lt;int&gt; ^ System.Windows.Automation.Provider.IMultipleViewProvider.GetSupportedViews() = System::Windows::Automation::Provider::IMultipleViewProvider::GetSupportedViews;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IMultipleViewProvider.GetSupportedViews</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IMultipleViewProvider.GetSupportedViews</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IMultipleViewProvider.GetSupportedViews</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IMultipleViewProvider.GetSupportedViews</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IMultipleViewProvider.GetSupportedViews</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IMultipleViewProvider.GetSupportedViews</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IMultipleViewProvider.GetSupportedViews</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IMultipleViewProvider.GetSupportedViews</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IMultipleViewProvider.GetSupportedViews</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IMultipleViewProvider.GetSupportedViews</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IMultipleViewProvider.GetSupportedViews</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IMultipleViewProvider.GetSupportedViews</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IMultipleViewProvider.GetSupportedViews</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IMultipleViewProvider.GetSupportedViews</InterfaceMember>
         <InterfaceMember>M:System.Windows.Automation.Provider.IMultipleViewProvider.GetSupportedViews</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -195,6 +223,20 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::String ^ System.Windows.Automation.Provider.IMultipleViewProvider.GetViewName(int viewId) = System::Windows::Automation::Provider::IMultipleViewProvider::GetViewName;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IMultipleViewProvider.GetViewName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IMultipleViewProvider.GetViewName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IMultipleViewProvider.GetViewName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IMultipleViewProvider.GetViewName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IMultipleViewProvider.GetViewName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IMultipleViewProvider.GetViewName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IMultipleViewProvider.GetViewName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IMultipleViewProvider.GetViewName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IMultipleViewProvider.GetViewName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IMultipleViewProvider.GetViewName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IMultipleViewProvider.GetViewName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IMultipleViewProvider.GetViewName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IMultipleViewProvider.GetViewName(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IMultipleViewProvider.GetViewName(System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Windows.Automation.Provider.IMultipleViewProvider.GetViewName(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -230,6 +272,20 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Windows.Automation.Provider.IMultipleViewProvider.SetCurrentView(int viewId) = System::Windows::Automation::Provider::IMultipleViewProvider::SetCurrentView;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IMultipleViewProvider.SetCurrentView(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IMultipleViewProvider.SetCurrentView(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IMultipleViewProvider.SetCurrentView(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IMultipleViewProvider.SetCurrentView(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IMultipleViewProvider.SetCurrentView(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IMultipleViewProvider.SetCurrentView(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IMultipleViewProvider.SetCurrentView(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IMultipleViewProvider.SetCurrentView(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IMultipleViewProvider.SetCurrentView(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IMultipleViewProvider.SetCurrentView(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IMultipleViewProvider.SetCurrentView(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IMultipleViewProvider.SetCurrentView(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IMultipleViewProvider.SetCurrentView(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IMultipleViewProvider.SetCurrentView(System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Windows.Automation.Provider.IMultipleViewProvider.SetCurrentView(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

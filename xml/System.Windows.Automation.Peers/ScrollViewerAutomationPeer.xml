@@ -159,6 +159,20 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.HorizontallyScrollable</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.HorizontallyScrollable</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.HorizontallyScrollable</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.HorizontallyScrollable</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.HorizontallyScrollable</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.HorizontallyScrollable</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.HorizontallyScrollable</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.HorizontallyScrollable</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.HorizontallyScrollable</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.HorizontallyScrollable</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.HorizontallyScrollable</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.HorizontallyScrollable</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.HorizontallyScrollable</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.HorizontallyScrollable</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.HorizontallyScrollable</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -189,6 +203,20 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.HorizontalScrollPercent</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.HorizontalScrollPercent</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.HorizontalScrollPercent</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.HorizontalScrollPercent</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.HorizontalScrollPercent</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.HorizontalScrollPercent</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.HorizontalScrollPercent</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.HorizontalScrollPercent</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.HorizontalScrollPercent</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.HorizontalScrollPercent</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.HorizontalScrollPercent</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.HorizontalScrollPercent</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.HorizontalScrollPercent</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.HorizontalScrollPercent</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.HorizontalScrollPercent</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -214,6 +242,20 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.HorizontalViewSize</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.HorizontalViewSize</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.HorizontalViewSize</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.HorizontalViewSize</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.HorizontalViewSize</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.HorizontalViewSize</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.HorizontalViewSize</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.HorizontalViewSize</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.HorizontalViewSize</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.HorizontalViewSize</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.HorizontalViewSize</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.HorizontalViewSize</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.HorizontalViewSize</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.HorizontalViewSize</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.HorizontalViewSize</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -237,6 +279,20 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Windows.Automation.Provider.IScrollProvider.Scroll(System::Windows::Automation::ScrollAmount horizontalAmount, System::Windows::Automation::ScrollAmount verticalAmount) = System::Windows::Automation::Provider::IScrollProvider::Scroll;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IScrollProvider.Scroll(System.Windows.Automation.ScrollAmount,System.Windows.Automation.ScrollAmount)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IScrollProvider.Scroll(System.Windows.Automation.ScrollAmount,System.Windows.Automation.ScrollAmount)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IScrollProvider.Scroll(System.Windows.Automation.ScrollAmount,System.Windows.Automation.ScrollAmount)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IScrollProvider.Scroll(System.Windows.Automation.ScrollAmount,System.Windows.Automation.ScrollAmount)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IScrollProvider.Scroll(System.Windows.Automation.ScrollAmount,System.Windows.Automation.ScrollAmount)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IScrollProvider.Scroll(System.Windows.Automation.ScrollAmount,System.Windows.Automation.ScrollAmount)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IScrollProvider.Scroll(System.Windows.Automation.ScrollAmount,System.Windows.Automation.ScrollAmount)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IScrollProvider.Scroll(System.Windows.Automation.ScrollAmount,System.Windows.Automation.ScrollAmount)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IScrollProvider.Scroll(System.Windows.Automation.ScrollAmount,System.Windows.Automation.ScrollAmount)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IScrollProvider.Scroll(System.Windows.Automation.ScrollAmount,System.Windows.Automation.ScrollAmount)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IScrollProvider.Scroll(System.Windows.Automation.ScrollAmount,System.Windows.Automation.ScrollAmount)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IScrollProvider.Scroll(System.Windows.Automation.ScrollAmount,System.Windows.Automation.ScrollAmount)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IScrollProvider.Scroll(System.Windows.Automation.ScrollAmount,System.Windows.Automation.ScrollAmount)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IScrollProvider.Scroll(System.Windows.Automation.ScrollAmount,System.Windows.Automation.ScrollAmount)</InterfaceMember>
         <InterfaceMember>M:System.Windows.Automation.Provider.IScrollProvider.Scroll(System.Windows.Automation.ScrollAmount,System.Windows.Automation.ScrollAmount)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -267,6 +323,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Automation.Provider.IScrollProvider.SetScrollPercent(System.Double,System.Double)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IScrollProvider.SetScrollPercent(System.Double,System.Double)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IScrollProvider.SetScrollPercent(System.Double,System.Double)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IScrollProvider.SetScrollPercent(System.Double,System.Double)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IScrollProvider.SetScrollPercent(System.Double,System.Double)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IScrollProvider.SetScrollPercent(System.Double,System.Double)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IScrollProvider.SetScrollPercent(System.Double,System.Double)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IScrollProvider.SetScrollPercent(System.Double,System.Double)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IScrollProvider.SetScrollPercent(System.Double,System.Double)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IScrollProvider.SetScrollPercent(System.Double,System.Double)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IScrollProvider.SetScrollPercent(System.Double,System.Double)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IScrollProvider.SetScrollPercent(System.Double,System.Double)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IScrollProvider.SetScrollPercent(System.Double,System.Double)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IScrollProvider.SetScrollPercent(System.Double,System.Double)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IScrollProvider.SetScrollPercent(System.Double,System.Double)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -296,6 +366,20 @@
       <MemberSignature Language="F#" Usage="System.Windows.Automation.Provider.IScrollProvider.VerticallyScrollable" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.VerticallyScrollable</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.VerticallyScrollable</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.VerticallyScrollable</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.VerticallyScrollable</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.VerticallyScrollable</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.VerticallyScrollable</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.VerticallyScrollable</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.VerticallyScrollable</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.VerticallyScrollable</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.VerticallyScrollable</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.VerticallyScrollable</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.VerticallyScrollable</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.VerticallyScrollable</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.VerticallyScrollable</InterfaceMember>
         <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.VerticallyScrollable</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -328,6 +412,20 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.VerticalScrollPercent</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.VerticalScrollPercent</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.VerticalScrollPercent</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.VerticalScrollPercent</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.VerticalScrollPercent</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.VerticalScrollPercent</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.VerticalScrollPercent</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.VerticalScrollPercent</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.VerticalScrollPercent</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.VerticalScrollPercent</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.VerticalScrollPercent</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.VerticalScrollPercent</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.VerticalScrollPercent</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.VerticalScrollPercent</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.VerticalScrollPercent</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -352,6 +450,20 @@
       <MemberSignature Language="F#" Usage="System.Windows.Automation.Provider.IScrollProvider.VerticalViewSize" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.VerticalViewSize</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.VerticalViewSize</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.VerticalViewSize</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.VerticalViewSize</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.VerticalViewSize</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.VerticalViewSize</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.VerticalViewSize</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.VerticalViewSize</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.VerticalViewSize</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.VerticalViewSize</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.VerticalViewSize</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.VerticalViewSize</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.VerticalViewSize</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.VerticalViewSize</InterfaceMember>
         <InterfaceMember>P:System.Windows.Automation.Provider.IScrollProvider.VerticalViewSize</InterfaceMember>
       </Implements>
       <AssemblyInfo>

@@ -321,6 +321,21 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.IDbCommand.Cancel</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Cancel</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Cancel</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Cancel</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Cancel</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Cancel</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Cancel</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Cancel</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Cancel</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Cancel</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Cancel</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Cancel</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Cancel</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Cancel</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Cancel</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Cancel</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data</AssemblyName>
@@ -399,6 +414,21 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; property System::String ^ CommandText { System::String ^ get(); void set(System::String ^ value); };" FrameworkAlternate="netframework-1.1" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandText</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandText</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandText</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandText</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandText</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandText</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandText</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandText</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandText</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandText</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandText</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandText</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandText</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandText</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandText</InterfaceMember>
         <InterfaceMember>P:System.Data.IDbCommand.CommandText</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -488,6 +518,21 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Data.IDbCommand.CommandTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandTimeout</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data</AssemblyName>
@@ -537,6 +582,21 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; property System::Data::CommandType CommandType { System::Data::CommandType get(); void set(System::Data::CommandType value); };" FrameworkAlternate="netframework-1.1" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandType</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.CommandType</InterfaceMember>
         <InterfaceMember>P:System.Data.IDbCommand.CommandType</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -933,6 +993,21 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.IDbCommand.ExecuteNonQuery</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteNonQuery</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteNonQuery</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteNonQuery</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteNonQuery</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteNonQuery</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteNonQuery</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteNonQuery</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteNonQuery</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteNonQuery</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteNonQuery</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteNonQuery</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteNonQuery</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteNonQuery</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteNonQuery</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteNonQuery</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data</AssemblyName>
@@ -1114,6 +1189,21 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.IDbCommand.ExecuteScalar</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteScalar</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteScalar</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteScalar</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteScalar</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteScalar</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteScalar</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteScalar</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteScalar</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteScalar</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteScalar</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteScalar</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteScalar</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteScalar</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteScalar</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteScalar</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data</AssemblyName>
@@ -1238,6 +1328,21 @@ Int32 count = (int32) ExecuteScalar();
       <MemberSignature Language="F#" Value="override this.Prepare : unit -&gt; unit" Usage="oleDbCommand.Prepare " FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8;xamarinmac-3.0" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Data.IDbCommand.Prepare</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Prepare</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Prepare</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Prepare</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Prepare</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Prepare</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Prepare</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Prepare</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Prepare</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Prepare</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Prepare</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Prepare</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Prepare</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Prepare</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.Prepare</InterfaceMember>
         <InterfaceMember>M:System.Data.IDbCommand.Prepare</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1377,6 +1482,21 @@ Int32 count = (int32) ExecuteScalar();
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data</AssemblyName>
@@ -1414,6 +1534,21 @@ Int32 count = (int32) ExecuteScalar();
       <MemberSignature Language="C++ CLI" Value=" virtual System::Data::IDataReader ^ System.Data.IDbCommand.ExecuteReader(System::Data::CommandBehavior behavior) = System::Data::IDbCommand::ExecuteReader;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader(System.Data.CommandBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader(System.Data.CommandBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader(System.Data.CommandBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader(System.Data.CommandBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader(System.Data.CommandBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader(System.Data.CommandBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader(System.Data.CommandBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader(System.Data.CommandBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader(System.Data.CommandBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader(System.Data.CommandBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader(System.Data.CommandBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader(System.Data.CommandBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader(System.Data.CommandBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader(System.Data.CommandBehavior)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader(System.Data.CommandBehavior)</InterfaceMember>
         <InterfaceMember>M:System.Data.IDbCommand.ExecuteReader(System.Data.CommandBehavior)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1457,6 +1592,23 @@ Int32 count = (int32) ExecuteScalar();
       <MemberSignature Language="C++ CLI" Value=" virtual System::Object ^ System.ICloneable.Clone() = ICloneable::Clone;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
         <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1549,6 +1701,21 @@ Int32 count = (int32) ExecuteScalar();
       <MemberSignature Language="C++ CLI" Value="public:&#xA; property System::Data::UpdateRowSource UpdatedRowSource { System::Data::UpdateRowSource get(); void set(System::Data::UpdateRowSource value); };" FrameworkAlternate="netframework-1.1" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Data.IDbCommand.UpdatedRowSource</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.UpdatedRowSource</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.UpdatedRowSource</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.UpdatedRowSource</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.UpdatedRowSource</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.UpdatedRowSource</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.UpdatedRowSource</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.UpdatedRowSource</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.UpdatedRowSource</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.UpdatedRowSource</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.UpdatedRowSource</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.UpdatedRowSource</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.UpdatedRowSource</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.UpdatedRowSource</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbCommand.UpdatedRowSource</InterfaceMember>
         <InterfaceMember>P:System.Data.IDbCommand.UpdatedRowSource</InterfaceMember>
       </Implements>
       <AssemblyInfo>

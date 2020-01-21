@@ -98,6 +98,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Activities.Hosting.IWorkflowInstanceExtension.GetAdditionalExtensions</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Hosting.IWorkflowInstanceExtension.GetAdditionalExtensions</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Hosting.IWorkflowInstanceExtension.GetAdditionalExtensions</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Hosting.IWorkflowInstanceExtension.GetAdditionalExtensions</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Hosting.IWorkflowInstanceExtension.GetAdditionalExtensions</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Hosting.IWorkflowInstanceExtension.GetAdditionalExtensions</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Hosting.IWorkflowInstanceExtension.GetAdditionalExtensions</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Hosting.IWorkflowInstanceExtension.GetAdditionalExtensions</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Hosting.IWorkflowInstanceExtension.GetAdditionalExtensions</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Hosting.IWorkflowInstanceExtension.GetAdditionalExtensions</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Hosting.IWorkflowInstanceExtension.GetAdditionalExtensions</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Activities</AssemblyName>
@@ -121,6 +131,16 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Activities.Hosting.IWorkflowInstanceExtension.SetInstance(System::Activities::Hosting::WorkflowInstanceProxy ^ instance) = System::Activities::Hosting::IWorkflowInstanceExtension::SetInstance;" FrameworkAlternate="netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Activities.Hosting.IWorkflowInstanceExtension.SetInstance(System.Activities.Hosting.WorkflowInstanceProxy)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Hosting.IWorkflowInstanceExtension.SetInstance(System.Activities.Hosting.WorkflowInstanceProxy)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Hosting.IWorkflowInstanceExtension.SetInstance(System.Activities.Hosting.WorkflowInstanceProxy)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Hosting.IWorkflowInstanceExtension.SetInstance(System.Activities.Hosting.WorkflowInstanceProxy)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Hosting.IWorkflowInstanceExtension.SetInstance(System.Activities.Hosting.WorkflowInstanceProxy)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Hosting.IWorkflowInstanceExtension.SetInstance(System.Activities.Hosting.WorkflowInstanceProxy)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Hosting.IWorkflowInstanceExtension.SetInstance(System.Activities.Hosting.WorkflowInstanceProxy)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Hosting.IWorkflowInstanceExtension.SetInstance(System.Activities.Hosting.WorkflowInstanceProxy)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Hosting.IWorkflowInstanceExtension.SetInstance(System.Activities.Hosting.WorkflowInstanceProxy)</InterfaceMember>
+        <InterfaceMember>M:System.Activities.Hosting.IWorkflowInstanceExtension.SetInstance(System.Activities.Hosting.WorkflowInstanceProxy)</InterfaceMember>
         <InterfaceMember>M:System.Activities.Hosting.IWorkflowInstanceExtension.SetInstance(System.Activities.Hosting.WorkflowInstanceProxy)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

@@ -77,6 +77,19 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.UI.IBindableTemplate.ExtractValues(System.Web.UI.Control)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IBindableTemplate.ExtractValues(System.Web.UI.Control)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IBindableTemplate.ExtractValues(System.Web.UI.Control)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IBindableTemplate.ExtractValues(System.Web.UI.Control)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IBindableTemplate.ExtractValues(System.Web.UI.Control)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IBindableTemplate.ExtractValues(System.Web.UI.Control)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IBindableTemplate.ExtractValues(System.Web.UI.Control)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IBindableTemplate.ExtractValues(System.Web.UI.Control)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IBindableTemplate.ExtractValues(System.Web.UI.Control)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IBindableTemplate.ExtractValues(System.Web.UI.Control)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IBindableTemplate.ExtractValues(System.Web.UI.Control)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IBindableTemplate.ExtractValues(System.Web.UI.Control)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IBindableTemplate.ExtractValues(System.Web.UI.Control)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IBindableTemplate.ExtractValues(System.Web.UI.Control)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -115,6 +128,19 @@
       <MemberSignature Language="F#" Value="abstract member InstantiateIn : System.Web.UI.Control -&gt; unit&#xA;override this.InstantiateIn : System.Web.UI.Control -&gt; unit" Usage="compiledBindableTemplateBuilder.InstantiateIn container" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.UI.ITemplate.InstantiateIn(System.Web.UI.Control)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.ITemplate.InstantiateIn(System.Web.UI.Control)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.ITemplate.InstantiateIn(System.Web.UI.Control)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.ITemplate.InstantiateIn(System.Web.UI.Control)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.ITemplate.InstantiateIn(System.Web.UI.Control)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.ITemplate.InstantiateIn(System.Web.UI.Control)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.ITemplate.InstantiateIn(System.Web.UI.Control)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.ITemplate.InstantiateIn(System.Web.UI.Control)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.ITemplate.InstantiateIn(System.Web.UI.Control)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.ITemplate.InstantiateIn(System.Web.UI.Control)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.ITemplate.InstantiateIn(System.Web.UI.Control)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.ITemplate.InstantiateIn(System.Web.UI.Control)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.ITemplate.InstantiateIn(System.Web.UI.Control)</InterfaceMember>
         <InterfaceMember>M:System.Web.UI.ITemplate.InstantiateIn(System.Web.UI.Control)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

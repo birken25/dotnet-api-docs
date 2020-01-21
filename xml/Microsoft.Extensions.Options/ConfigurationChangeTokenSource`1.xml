@@ -96,6 +96,11 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Extensions.Options.IOptionsChangeTokenSource`1.GetChangeToken</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Options.IOptionsChangeTokenSource`1.GetChangeToken</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Options.IOptionsChangeTokenSource`1.GetChangeToken</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Options.IOptionsChangeTokenSource`1.GetChangeToken</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Options.IOptionsChangeTokenSource`1.GetChangeToken</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Options.IOptionsChangeTokenSource`1.GetChangeToken</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Options.ConfigurationExtensions</AssemblyName>
@@ -125,6 +130,10 @@
       <MemberSignature Language="F#" Value="member this.Name : string" Usage="Microsoft.Extensions.Options.ConfigurationChangeTokenSource&lt;'Options&gt;.Name" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:Microsoft.Extensions.Options.IOptionsChangeTokenSource`1.Name</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.Options.IOptionsChangeTokenSource`1.Name</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.Options.IOptionsChangeTokenSource`1.Name</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.Options.IOptionsChangeTokenSource`1.Name</InterfaceMember>
         <InterfaceMember>P:Microsoft.Extensions.Options.IOptionsChangeTokenSource`1.Name</InterfaceMember>
       </Implements>
       <AssemblyInfo>

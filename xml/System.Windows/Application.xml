@@ -1618,6 +1618,18 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Windows.Markup.IHaveResources.Resources</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Markup.IHaveResources.Resources</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Markup.IHaveResources.Resources</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Markup.IHaveResources.Resources</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Markup.IHaveResources.Resources</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Markup.IHaveResources.Resources</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Markup.IHaveResources.Resources</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Markup.IHaveResources.Resources</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Markup.IHaveResources.Resources</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Markup.IHaveResources.Resources</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Markup.IHaveResources.Resources</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Markup.IHaveResources.Resources</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Markup.IHaveResources.Resources</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -2178,6 +2190,18 @@ This example illustrates how to use XAML together with application-scope resourc
       <MemberSignature Language="C++ CLI" Value=" virtual bool System.Windows.Markup.IQueryAmbient.IsAmbientPropertyAvailable(System::String ^ propertyName) = System::Windows::Markup::IQueryAmbient::IsAmbientPropertyAvailable;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Markup.IQueryAmbient.IsAmbientPropertyAvailable(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IQueryAmbient.IsAmbientPropertyAvailable(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IQueryAmbient.IsAmbientPropertyAvailable(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IQueryAmbient.IsAmbientPropertyAvailable(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IQueryAmbient.IsAmbientPropertyAvailable(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IQueryAmbient.IsAmbientPropertyAvailable(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IQueryAmbient.IsAmbientPropertyAvailable(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IQueryAmbient.IsAmbientPropertyAvailable(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IQueryAmbient.IsAmbientPropertyAvailable(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IQueryAmbient.IsAmbientPropertyAvailable(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IQueryAmbient.IsAmbientPropertyAvailable(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IQueryAmbient.IsAmbientPropertyAvailable(System.String)</InterfaceMember>
         <InterfaceMember>M:System.Windows.Markup.IQueryAmbient.IsAmbientPropertyAvailable(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

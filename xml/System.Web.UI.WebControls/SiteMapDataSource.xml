@@ -166,6 +166,19 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -245,6 +258,19 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -284,6 +310,19 @@
       <MemberSignature Language="F#" Value="abstract member GetView : string -&gt; System.Web.UI.DataSourceView&#xA;override this.GetView : string -&gt; System.Web.UI.DataSourceView" Usage="siteMapDataSource.GetView viewName" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
         <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -328,6 +367,19 @@
       <MemberSignature Language="F#" Value="abstract member GetViewNames : unit -&gt; System.Collections.ICollection&#xA;override this.GetViewNames : unit -&gt; System.Collections.ICollection" Usage="siteMapDataSource.GetViewNames " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
         <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -699,6 +751,19 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
+        <InterfaceMember>P:System.ComponentModel.IListSource.ContainsListCollection</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -737,6 +802,19 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
+        <InterfaceMember>M:System.ComponentModel.IListSource.GetList</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -772,6 +850,18 @@
       <MemberSignature Language="VB.NET" Value="Custom Event DataSourceChanged As EventHandler Implements System.Web.UI.IDataSource" />
       <MemberType>Event</MemberType>
       <Implements>
+        <InterfaceMember>E:System.Web.UI.IDataSource.DataSourceChanged</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.IDataSource.DataSourceChanged</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.IDataSource.DataSourceChanged</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.IDataSource.DataSourceChanged</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.IDataSource.DataSourceChanged</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.IDataSource.DataSourceChanged</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.IDataSource.DataSourceChanged</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.IDataSource.DataSourceChanged</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.IDataSource.DataSourceChanged</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.IDataSource.DataSourceChanged</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.IDataSource.DataSourceChanged</InterfaceMember>
+        <InterfaceMember>E:System.Web.UI.IDataSource.DataSourceChanged</InterfaceMember>
         <InterfaceMember>E:System.Web.UI.IDataSource.DataSourceChanged</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -809,6 +899,19 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Web::UI::DataSourceView ^ System.Web.UI.IDataSource.GetView(System::String ^ viewName) = System::Web::UI::IDataSource::GetView;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
         <InterfaceMember>M:System.Web.UI.IDataSource.GetView(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -856,6 +959,19 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Collections::ICollection ^ System.Web.UI.IDataSource.GetViewNames() = System::Web::UI::IDataSource::GetViewNames;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
         <InterfaceMember>M:System.Web.UI.IDataSource.GetViewNames</InterfaceMember>
       </Implements>
       <AssemblyInfo>

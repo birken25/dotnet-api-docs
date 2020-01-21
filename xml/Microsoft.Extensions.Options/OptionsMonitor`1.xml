@@ -101,6 +101,11 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Extensions.Options.IOptionsMonitor`1.CurrentValue</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.Options.IOptionsMonitor`1.CurrentValue</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.Options.IOptionsMonitor`1.CurrentValue</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.Options.IOptionsMonitor`1.CurrentValue</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.Options.IOptionsMonitor`1.CurrentValue</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.Options.IOptionsMonitor`1.CurrentValue</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Options</AssemblyName>
@@ -130,6 +135,7 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Options</AssemblyName>
@@ -154,6 +160,10 @@
       <MemberSignature Language="F#" Value="abstract member Get : string -&gt; 'Options&#xA;override this.Get : string -&gt; 'Options" Usage="optionsMonitor.Get name" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Extensions.Options.IOptionsMonitor`1.Get(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Options.IOptionsMonitor`1.Get(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Options.IOptionsMonitor`1.Get(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Options.IOptionsMonitor`1.Get(System.String)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Extensions.Options.IOptionsMonitor`1.Get(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -186,6 +196,10 @@
       <MemberSignature Language="F#" Value="abstract member OnChange : Action&lt;'Options, string (requires 'Options : null and 'Options : (new : unit -&gt; 'Options))&gt; -&gt; IDisposable&#xA;override this.OnChange : Action&lt;'Options, string (requires 'Options : null and 'Options : (new : unit -&gt; 'Options))&gt; -&gt; IDisposable" Usage="optionsMonitor.OnChange listener" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Extensions.Options.IOptionsMonitor`1.OnChange(System.Action{`0,System.String})</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Options.IOptionsMonitor`1.OnChange(System.Action{`0,System.String})</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Options.IOptionsMonitor`1.OnChange(System.Action{`0,System.String})</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Options.IOptionsMonitor`1.OnChange(System.Action{`0,System.String})</InterfaceMember>
         <InterfaceMember>M:Microsoft.Extensions.Options.IOptionsMonitor`1.OnChange(System.Action{`0,System.String})</InterfaceMember>
       </Implements>
       <AssemblyInfo>

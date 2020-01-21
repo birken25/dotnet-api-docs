@@ -174,6 +174,18 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Windows.Automation.Provider.IGridProvider.ColumnCount</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IGridProvider.ColumnCount</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IGridProvider.ColumnCount</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IGridProvider.ColumnCount</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IGridProvider.ColumnCount</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IGridProvider.ColumnCount</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IGridProvider.ColumnCount</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IGridProvider.ColumnCount</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IGridProvider.ColumnCount</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IGridProvider.ColumnCount</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IGridProvider.ColumnCount</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IGridProvider.ColumnCount</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IGridProvider.ColumnCount</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -203,6 +215,18 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Windows::Automation::Provider::IRawElementProviderSimple ^ System.Windows.Automation.Provider.IGridProvider.GetItem(int row, int column) = System::Windows::Automation::Provider::IGridProvider::GetItem;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IGridProvider.GetItem(System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IGridProvider.GetItem(System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IGridProvider.GetItem(System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IGridProvider.GetItem(System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IGridProvider.GetItem(System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IGridProvider.GetItem(System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IGridProvider.GetItem(System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IGridProvider.GetItem(System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IGridProvider.GetItem(System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IGridProvider.GetItem(System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IGridProvider.GetItem(System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IGridProvider.GetItem(System.Int32,System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Windows.Automation.Provider.IGridProvider.GetItem(System.Int32,System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -241,6 +265,18 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Windows.Automation.Provider.IGridProvider.RowCount</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IGridProvider.RowCount</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IGridProvider.RowCount</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IGridProvider.RowCount</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IGridProvider.RowCount</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IGridProvider.RowCount</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IGridProvider.RowCount</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IGridProvider.RowCount</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IGridProvider.RowCount</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IGridProvider.RowCount</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IGridProvider.RowCount</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IGridProvider.RowCount</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IGridProvider.RowCount</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -272,6 +308,18 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.CanSelectMultiple</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.CanSelectMultiple</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.CanSelectMultiple</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.CanSelectMultiple</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.CanSelectMultiple</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.CanSelectMultiple</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.CanSelectMultiple</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.CanSelectMultiple</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.CanSelectMultiple</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.CanSelectMultiple</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.CanSelectMultiple</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.CanSelectMultiple</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.CanSelectMultiple</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -302,6 +350,18 @@
       <MemberSignature Language="C++ CLI" Value=" virtual cli::array &lt;System::Windows::Automation::Provider::IRawElementProviderSimple ^&gt; ^ System.Windows.Automation.Provider.ISelectionProvider.GetSelection() = System::Windows::Automation::Provider::ISelectionProvider::GetSelection;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionProvider.GetSelection</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionProvider.GetSelection</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionProvider.GetSelection</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionProvider.GetSelection</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionProvider.GetSelection</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionProvider.GetSelection</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionProvider.GetSelection</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionProvider.GetSelection</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionProvider.GetSelection</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionProvider.GetSelection</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionProvider.GetSelection</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionProvider.GetSelection</InterfaceMember>
         <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionProvider.GetSelection</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -335,6 +395,18 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.IsSelectionRequired</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.IsSelectionRequired</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.IsSelectionRequired</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.IsSelectionRequired</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.IsSelectionRequired</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.IsSelectionRequired</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.IsSelectionRequired</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.IsSelectionRequired</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.IsSelectionRequired</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.IsSelectionRequired</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.IsSelectionRequired</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.IsSelectionRequired</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.IsSelectionRequired</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -365,6 +437,18 @@
       <MemberSignature Language="C++ CLI" Value=" virtual cli::array &lt;System::Windows::Automation::Provider::IRawElementProviderSimple ^&gt; ^ System.Windows.Automation.Provider.ITableProvider.GetColumnHeaders() = System::Windows::Automation::Provider::ITableProvider::GetColumnHeaders;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Automation.Provider.ITableProvider.GetColumnHeaders</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.ITableProvider.GetColumnHeaders</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.ITableProvider.GetColumnHeaders</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.ITableProvider.GetColumnHeaders</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.ITableProvider.GetColumnHeaders</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.ITableProvider.GetColumnHeaders</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.ITableProvider.GetColumnHeaders</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.ITableProvider.GetColumnHeaders</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.ITableProvider.GetColumnHeaders</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.ITableProvider.GetColumnHeaders</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.ITableProvider.GetColumnHeaders</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.ITableProvider.GetColumnHeaders</InterfaceMember>
         <InterfaceMember>M:System.Windows.Automation.Provider.ITableProvider.GetColumnHeaders</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -397,6 +481,18 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Automation.Provider.ITableProvider.GetRowHeaders</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.ITableProvider.GetRowHeaders</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.ITableProvider.GetRowHeaders</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.ITableProvider.GetRowHeaders</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.ITableProvider.GetRowHeaders</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.ITableProvider.GetRowHeaders</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.ITableProvider.GetRowHeaders</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.ITableProvider.GetRowHeaders</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.ITableProvider.GetRowHeaders</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.ITableProvider.GetRowHeaders</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.ITableProvider.GetRowHeaders</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.ITableProvider.GetRowHeaders</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.ITableProvider.GetRowHeaders</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -428,6 +524,18 @@
       <MemberSignature Language="F#" Usage="System.Windows.Automation.Provider.ITableProvider.RowOrColumnMajor" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ITableProvider.RowOrColumnMajor</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ITableProvider.RowOrColumnMajor</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ITableProvider.RowOrColumnMajor</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ITableProvider.RowOrColumnMajor</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ITableProvider.RowOrColumnMajor</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ITableProvider.RowOrColumnMajor</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ITableProvider.RowOrColumnMajor</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ITableProvider.RowOrColumnMajor</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ITableProvider.RowOrColumnMajor</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ITableProvider.RowOrColumnMajor</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ITableProvider.RowOrColumnMajor</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.ITableProvider.RowOrColumnMajor</InterfaceMember>
         <InterfaceMember>P:System.Windows.Automation.Provider.ITableProvider.RowOrColumnMajor</InterfaceMember>
       </Implements>
       <AssemblyInfo>

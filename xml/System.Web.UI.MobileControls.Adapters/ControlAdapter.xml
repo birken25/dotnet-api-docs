@@ -181,6 +181,20 @@ This API is obsolete. For information about how to develop ASP.NET mobile applic
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.UI.MobileControls.IControlAdapter.Control</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.MobileControls.IControlAdapter.Control</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.MobileControls.IControlAdapter.Control</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.MobileControls.IControlAdapter.Control</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.MobileControls.IControlAdapter.Control</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.MobileControls.IControlAdapter.Control</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.MobileControls.IControlAdapter.Control</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.MobileControls.IControlAdapter.Control</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.MobileControls.IControlAdapter.Control</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.MobileControls.IControlAdapter.Control</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.MobileControls.IControlAdapter.Control</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.MobileControls.IControlAdapter.Control</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.MobileControls.IControlAdapter.Control</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.MobileControls.IControlAdapter.Control</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.MobileControls.IControlAdapter.Control</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Mobile</AssemblyName>
@@ -216,6 +230,20 @@ This API is obsolete. For information about how to develop ASP.NET mobile applic
       <MemberSignature Language="F#" Value="abstract member CreateTemplatedUI : bool -&gt; unit&#xA;override this.CreateTemplatedUI : bool -&gt; unit" Usage="controlAdapter.CreateTemplatedUI doDataBind" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.CreateTemplatedUI(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.CreateTemplatedUI(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.CreateTemplatedUI(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.CreateTemplatedUI(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.CreateTemplatedUI(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.CreateTemplatedUI(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.CreateTemplatedUI(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.CreateTemplatedUI(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.CreateTemplatedUI(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.CreateTemplatedUI(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.CreateTemplatedUI(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.CreateTemplatedUI(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.CreateTemplatedUI(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.CreateTemplatedUI(System.Boolean)</InterfaceMember>
         <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.CreateTemplatedUI(System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -365,6 +393,20 @@ This API is obsolete. For information about how to develop ASP.NET mobile applic
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.HandlePostBackEvent(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.HandlePostBackEvent(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.HandlePostBackEvent(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.HandlePostBackEvent(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.HandlePostBackEvent(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.HandlePostBackEvent(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.HandlePostBackEvent(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.HandlePostBackEvent(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.HandlePostBackEvent(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.HandlePostBackEvent(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.HandlePostBackEvent(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.HandlePostBackEvent(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.HandlePostBackEvent(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.HandlePostBackEvent(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.HandlePostBackEvent(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Mobile</AssemblyName>
@@ -405,6 +447,20 @@ This API is obsolete. For information about how to develop ASP.NET mobile applic
       <MemberSignature Language="F#" Value="member this.ItemWeight : int" Usage="System.Web.UI.MobileControls.Adapters.ControlAdapter.ItemWeight" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Web.UI.MobileControls.IControlAdapter.ItemWeight</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.MobileControls.IControlAdapter.ItemWeight</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.MobileControls.IControlAdapter.ItemWeight</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.MobileControls.IControlAdapter.ItemWeight</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.MobileControls.IControlAdapter.ItemWeight</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.MobileControls.IControlAdapter.ItemWeight</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.MobileControls.IControlAdapter.ItemWeight</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.MobileControls.IControlAdapter.ItemWeight</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.MobileControls.IControlAdapter.ItemWeight</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.MobileControls.IControlAdapter.ItemWeight</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.MobileControls.IControlAdapter.ItemWeight</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.MobileControls.IControlAdapter.ItemWeight</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.MobileControls.IControlAdapter.ItemWeight</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.MobileControls.IControlAdapter.ItemWeight</InterfaceMember>
         <InterfaceMember>P:System.Web.UI.MobileControls.IControlAdapter.ItemWeight</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -476,6 +532,20 @@ This API is obsolete. For information about how to develop ASP.NET mobile applic
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.LoadAdapterState(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.LoadAdapterState(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.LoadAdapterState(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.LoadAdapterState(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.LoadAdapterState(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.LoadAdapterState(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.LoadAdapterState(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.LoadAdapterState(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.LoadAdapterState(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.LoadAdapterState(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.LoadAdapterState(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.LoadAdapterState(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.LoadAdapterState(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.LoadAdapterState(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.LoadAdapterState(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Mobile</AssemblyName>
@@ -512,6 +582,20 @@ This API is obsolete. For information about how to develop ASP.NET mobile applic
       <MemberSignature Language="F#" Value="abstract member LoadPostData : string * System.Collections.Specialized.NameValueCollection * obj * bool -&gt; bool&#xA;override this.LoadPostData : string * System.Collections.Specialized.NameValueCollection * obj * bool -&gt; bool" Usage="controlAdapter.LoadPostData (key, data, controlPrivateData, dataChanged)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.LoadPostData(System.String,System.Collections.Specialized.NameValueCollection,System.Object,System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.LoadPostData(System.String,System.Collections.Specialized.NameValueCollection,System.Object,System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.LoadPostData(System.String,System.Collections.Specialized.NameValueCollection,System.Object,System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.LoadPostData(System.String,System.Collections.Specialized.NameValueCollection,System.Object,System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.LoadPostData(System.String,System.Collections.Specialized.NameValueCollection,System.Object,System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.LoadPostData(System.String,System.Collections.Specialized.NameValueCollection,System.Object,System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.LoadPostData(System.String,System.Collections.Specialized.NameValueCollection,System.Object,System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.LoadPostData(System.String,System.Collections.Specialized.NameValueCollection,System.Object,System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.LoadPostData(System.String,System.Collections.Specialized.NameValueCollection,System.Object,System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.LoadPostData(System.String,System.Collections.Specialized.NameValueCollection,System.Object,System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.LoadPostData(System.String,System.Collections.Specialized.NameValueCollection,System.Object,System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.LoadPostData(System.String,System.Collections.Specialized.NameValueCollection,System.Object,System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.LoadPostData(System.String,System.Collections.Specialized.NameValueCollection,System.Object,System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.LoadPostData(System.String,System.Collections.Specialized.NameValueCollection,System.Object,System.Boolean@)</InterfaceMember>
         <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.LoadPostData(System.String,System.Collections.Specialized.NameValueCollection,System.Object,System.Boolean@)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -657,6 +741,20 @@ This API is obsolete. For information about how to develop ASP.NET mobile applic
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnInit(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnInit(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnInit(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnInit(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnInit(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnInit(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnInit(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnInit(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnInit(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnInit(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnInit(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnInit(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnInit(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnInit(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnInit(System.EventArgs)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Mobile</AssemblyName>
@@ -693,6 +791,20 @@ This API is obsolete. For information about how to develop ASP.NET mobile applic
       <MemberSignature Language="F#" Value="abstract member OnLoad : EventArgs -&gt; unit&#xA;override this.OnLoad : EventArgs -&gt; unit" Usage="controlAdapter.OnLoad e" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnLoad(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnLoad(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnLoad(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnLoad(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnLoad(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnLoad(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnLoad(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnLoad(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnLoad(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnLoad(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnLoad(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnLoad(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnLoad(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnLoad(System.EventArgs)</InterfaceMember>
         <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnLoad(System.EventArgs)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -732,6 +844,20 @@ This API is obsolete. For information about how to develop ASP.NET mobile applic
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnPreRender(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnPreRender(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnPreRender(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnPreRender(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnPreRender(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnPreRender(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnPreRender(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnPreRender(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnPreRender(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnPreRender(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnPreRender(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnPreRender(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnPreRender(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnPreRender(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnPreRender(System.EventArgs)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Mobile</AssemblyName>
@@ -761,6 +887,20 @@ This API is obsolete. For information about how to develop ASP.NET mobile applic
       <MemberSignature Language="F#" Value="abstract member OnUnload : EventArgs -&gt; unit&#xA;override this.OnUnload : EventArgs -&gt; unit" Usage="controlAdapter.OnUnload e" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnUnload(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnUnload(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnUnload(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnUnload(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnUnload(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnUnload(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnUnload(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnUnload(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnUnload(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnUnload(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnUnload(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnUnload(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnUnload(System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnUnload(System.EventArgs)</InterfaceMember>
         <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.OnUnload(System.EventArgs)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -893,6 +1033,20 @@ This API is obsolete. For information about how to develop ASP.NET mobile applic
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.Render(System.Web.UI.HtmlTextWriter)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.Render(System.Web.UI.HtmlTextWriter)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.Render(System.Web.UI.HtmlTextWriter)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.Render(System.Web.UI.HtmlTextWriter)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.Render(System.Web.UI.HtmlTextWriter)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.Render(System.Web.UI.HtmlTextWriter)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.Render(System.Web.UI.HtmlTextWriter)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.Render(System.Web.UI.HtmlTextWriter)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.Render(System.Web.UI.HtmlTextWriter)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.Render(System.Web.UI.HtmlTextWriter)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.Render(System.Web.UI.HtmlTextWriter)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.Render(System.Web.UI.HtmlTextWriter)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.Render(System.Web.UI.HtmlTextWriter)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.Render(System.Web.UI.HtmlTextWriter)</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.Render(System.Web.UI.HtmlTextWriter)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Mobile</AssemblyName>
@@ -957,6 +1111,20 @@ This API is obsolete. For information about how to develop ASP.NET mobile applic
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.SaveAdapterState</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.SaveAdapterState</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.SaveAdapterState</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.SaveAdapterState</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.SaveAdapterState</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.SaveAdapterState</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.SaveAdapterState</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.SaveAdapterState</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.SaveAdapterState</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.SaveAdapterState</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.SaveAdapterState</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.SaveAdapterState</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.SaveAdapterState</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.SaveAdapterState</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.MobileControls.IControlAdapter.SaveAdapterState</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Mobile</AssemblyName>
@@ -1017,6 +1185,20 @@ This API is obsolete. For information about how to develop ASP.NET mobile applic
       <MemberSignature Language="F#" Value="member this.VisibleWeight : int" Usage="System.Web.UI.MobileControls.Adapters.ControlAdapter.VisibleWeight" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Web.UI.MobileControls.IControlAdapter.VisibleWeight</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.MobileControls.IControlAdapter.VisibleWeight</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.MobileControls.IControlAdapter.VisibleWeight</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.MobileControls.IControlAdapter.VisibleWeight</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.MobileControls.IControlAdapter.VisibleWeight</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.MobileControls.IControlAdapter.VisibleWeight</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.MobileControls.IControlAdapter.VisibleWeight</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.MobileControls.IControlAdapter.VisibleWeight</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.MobileControls.IControlAdapter.VisibleWeight</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.MobileControls.IControlAdapter.VisibleWeight</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.MobileControls.IControlAdapter.VisibleWeight</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.MobileControls.IControlAdapter.VisibleWeight</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.MobileControls.IControlAdapter.VisibleWeight</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.MobileControls.IControlAdapter.VisibleWeight</InterfaceMember>
         <InterfaceMember>P:System.Web.UI.MobileControls.IControlAdapter.VisibleWeight</InterfaceMember>
       </Implements>
       <AssemblyInfo>

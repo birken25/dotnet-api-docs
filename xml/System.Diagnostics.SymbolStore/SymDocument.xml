@@ -163,6 +163,20 @@ Use the <xref:System.Diagnostics.SymbolStore.SymDocument.Finalize> method to rel
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.CheckSumAlgorithmId</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.CheckSumAlgorithmId</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.CheckSumAlgorithmId</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.CheckSumAlgorithmId</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.CheckSumAlgorithmId</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.CheckSumAlgorithmId</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.CheckSumAlgorithmId</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.CheckSumAlgorithmId</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.CheckSumAlgorithmId</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.CheckSumAlgorithmId</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.CheckSumAlgorithmId</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.CheckSumAlgorithmId</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.CheckSumAlgorithmId</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.CheckSumAlgorithmId</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.CheckSumAlgorithmId</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>ISymWrapper</AssemblyName>
@@ -198,6 +212,15 @@ Use the <xref:System.Diagnostics.SymbolStore.SymDocument.Finalize> method to rel
       <MemberSignature Language="F#" Value="abstract member Dispose : unit -&gt; unit&#xA;override this.Dispose : unit -&gt; unit" Usage="symDocument.Dispose " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -262,6 +285,20 @@ Use the <xref:System.Diagnostics.SymbolStore.SymDocument.Finalize> method to rel
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.DocumentType</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.DocumentType</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.DocumentType</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.DocumentType</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.DocumentType</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.DocumentType</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.DocumentType</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.DocumentType</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.DocumentType</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.DocumentType</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.DocumentType</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.DocumentType</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.DocumentType</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.DocumentType</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.DocumentType</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>ISymWrapper</AssemblyName>
@@ -323,6 +360,20 @@ Use the <xref:System.Diagnostics.SymbolStore.SymDocument.Finalize> method to rel
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocument.FindClosestLine(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocument.FindClosestLine(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocument.FindClosestLine(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocument.FindClosestLine(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocument.FindClosestLine(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocument.FindClosestLine(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocument.FindClosestLine(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocument.FindClosestLine(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocument.FindClosestLine(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocument.FindClosestLine(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocument.FindClosestLine(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocument.FindClosestLine(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocument.FindClosestLine(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocument.FindClosestLine(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocument.FindClosestLine(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>ISymWrapper</AssemblyName>
@@ -357,6 +408,20 @@ Use the <xref:System.Diagnostics.SymbolStore.SymDocument.Finalize> method to rel
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocument.GetCheckSum</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocument.GetCheckSum</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocument.GetCheckSum</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocument.GetCheckSum</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocument.GetCheckSum</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocument.GetCheckSum</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocument.GetCheckSum</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocument.GetCheckSum</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocument.GetCheckSum</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocument.GetCheckSum</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocument.GetCheckSum</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocument.GetCheckSum</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocument.GetCheckSum</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocument.GetCheckSum</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocument.GetCheckSum</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>ISymWrapper</AssemblyName>
@@ -388,6 +453,20 @@ Use the <xref:System.Diagnostics.SymbolStore.SymDocument.Finalize> method to rel
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual cli::array &lt;System::Byte&gt; ^ GetSourceRange(int startLine, int startColumn, int endLine, int endColumn);" FrameworkAlternate="netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocument.GetSourceRange(System.Int32,System.Int32,System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocument.GetSourceRange(System.Int32,System.Int32,System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocument.GetSourceRange(System.Int32,System.Int32,System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocument.GetSourceRange(System.Int32,System.Int32,System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocument.GetSourceRange(System.Int32,System.Int32,System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocument.GetSourceRange(System.Int32,System.Int32,System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocument.GetSourceRange(System.Int32,System.Int32,System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocument.GetSourceRange(System.Int32,System.Int32,System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocument.GetSourceRange(System.Int32,System.Int32,System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocument.GetSourceRange(System.Int32,System.Int32,System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocument.GetSourceRange(System.Int32,System.Int32,System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocument.GetSourceRange(System.Int32,System.Int32,System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocument.GetSourceRange(System.Int32,System.Int32,System.Int32,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocument.GetSourceRange(System.Int32,System.Int32,System.Int32,System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolDocument.GetSourceRange(System.Int32,System.Int32,System.Int32,System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -457,6 +536,20 @@ The unmanaged [ISymUnmanagedDocument](~/docs/framework/unmanaged-api/diagnostics
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.HasEmbeddedSource</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.HasEmbeddedSource</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.HasEmbeddedSource</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.HasEmbeddedSource</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.HasEmbeddedSource</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.HasEmbeddedSource</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.HasEmbeddedSource</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.HasEmbeddedSource</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.HasEmbeddedSource</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.HasEmbeddedSource</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.HasEmbeddedSource</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.HasEmbeddedSource</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.HasEmbeddedSource</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.HasEmbeddedSource</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.HasEmbeddedSource</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>ISymWrapper</AssemblyName>
@@ -485,6 +578,20 @@ The unmanaged [ISymUnmanagedDocument](~/docs/framework/unmanaged-api/diagnostics
       <MemberSignature Language="VB.NET" Value="Public Overridable ReadOnly Property Language As Guid" FrameworkAlternate="netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.Language</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.Language</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.Language</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.Language</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.Language</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.Language</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.Language</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.Language</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.Language</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.Language</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.Language</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.Language</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.Language</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.Language</InterfaceMember>
         <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.Language</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -521,6 +628,20 @@ The unmanaged [ISymUnmanagedDocument](~/docs/framework/unmanaged-api/diagnostics
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.LanguageVendor</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.LanguageVendor</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.LanguageVendor</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.LanguageVendor</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.LanguageVendor</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.LanguageVendor</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.LanguageVendor</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.LanguageVendor</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.LanguageVendor</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.LanguageVendor</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.LanguageVendor</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.LanguageVendor</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.LanguageVendor</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.LanguageVendor</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.LanguageVendor</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>ISymWrapper</AssemblyName>
@@ -556,6 +677,20 @@ The unmanaged [ISymUnmanagedDocument](~/docs/framework/unmanaged-api/diagnostics
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.SourceLength</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.SourceLength</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.SourceLength</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.SourceLength</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.SourceLength</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.SourceLength</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.SourceLength</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.SourceLength</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.SourceLength</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.SourceLength</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.SourceLength</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.SourceLength</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.SourceLength</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.SourceLength</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.SourceLength</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>ISymWrapper</AssemblyName>
@@ -583,6 +718,20 @@ The unmanaged [ISymUnmanagedDocument](~/docs/framework/unmanaged-api/diagnostics
       <MemberSignature Language="VB.NET" Value="Public Overridable ReadOnly Property URL As String" FrameworkAlternate="netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.URL</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.URL</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.URL</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.URL</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.URL</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.URL</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.URL</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.URL</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.URL</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.URL</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.URL</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.URL</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.URL</InterfaceMember>
+        <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.URL</InterfaceMember>
         <InterfaceMember>P:System.Diagnostics.SymbolStore.ISymbolDocument.URL</InterfaceMember>
       </Implements>
       <AssemblyInfo>

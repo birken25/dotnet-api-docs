@@ -64,6 +64,9 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Extensions.Primitives.IChangeToken.ActiveChangeCallbacks</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.Primitives.IChangeToken.ActiveChangeCallbacks</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.Primitives.IChangeToken.ActiveChangeCallbacks</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.Primitives.IChangeToken.ActiveChangeCallbacks</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Primitives</AssemblyName>
@@ -95,6 +98,12 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Extensions.Primitives.IChangeToken.HasChanged</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.Primitives.IChangeToken.HasChanged</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.Primitives.IChangeToken.HasChanged</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.Primitives.IChangeToken.HasChanged</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.Primitives.IChangeToken.HasChanged</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.Primitives.IChangeToken.HasChanged</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Extensions.Primitives.IChangeToken.HasChanged</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Primitives</AssemblyName>
@@ -125,6 +134,12 @@
       <MemberSignature Language="F#" Value="abstract member RegisterChangeCallback : Action&lt;obj&gt; * obj -&gt; IDisposable&#xA;override this.RegisterChangeCallback : Action&lt;obj&gt; * obj -&gt; IDisposable" Usage="cancellationChangeToken.RegisterChangeCallback (callback, state)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Extensions.Primitives.IChangeToken.RegisterChangeCallback(System.Action{System.Object},System.Object)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Primitives.IChangeToken.RegisterChangeCallback(System.Action{System.Object},System.Object)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Primitives.IChangeToken.RegisterChangeCallback(System.Action{System.Object},System.Object)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Primitives.IChangeToken.RegisterChangeCallback(System.Action{System.Object},System.Object)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Primitives.IChangeToken.RegisterChangeCallback(System.Action{System.Object},System.Object)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Extensions.Primitives.IChangeToken.RegisterChangeCallback(System.Action{System.Object},System.Object)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Extensions.Primitives.IChangeToken.RegisterChangeCallback(System.Action{System.Object},System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

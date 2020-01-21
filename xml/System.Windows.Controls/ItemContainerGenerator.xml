@@ -358,6 +358,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GenerateNext</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GenerateNext</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GenerateNext</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GenerateNext</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GenerateNext</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GenerateNext</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GenerateNext</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GenerateNext</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GenerateNext</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GenerateNext</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GenerateNext</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GenerateNext</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GenerateNext</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GenerateNext</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GenerateNext</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -382,6 +396,20 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Windows::DependencyObject ^ System.Windows.Controls.Primitives.IItemContainerGenerator.GenerateNext([Runtime::InteropServices::Out] bool % isNewlyRealized) = System::Windows::Controls::Primitives::IItemContainerGenerator::GenerateNext;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GenerateNext(System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GenerateNext(System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GenerateNext(System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GenerateNext(System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GenerateNext(System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GenerateNext(System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GenerateNext(System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GenerateNext(System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GenerateNext(System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GenerateNext(System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GenerateNext(System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GenerateNext(System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GenerateNext(System.Boolean@)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GenerateNext(System.Boolean@)</InterfaceMember>
         <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GenerateNext(System.Boolean@)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -411,6 +439,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GeneratorPositionFromIndex(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GeneratorPositionFromIndex(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GeneratorPositionFromIndex(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GeneratorPositionFromIndex(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GeneratorPositionFromIndex(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GeneratorPositionFromIndex(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GeneratorPositionFromIndex(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GeneratorPositionFromIndex(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GeneratorPositionFromIndex(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GeneratorPositionFromIndex(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GeneratorPositionFromIndex(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GeneratorPositionFromIndex(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GeneratorPositionFromIndex(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GeneratorPositionFromIndex(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GeneratorPositionFromIndex(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -437,6 +479,20 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Windows::Controls::ItemContainerGenerator ^ System.Windows.Controls.Primitives.IItemContainerGenerator.GetItemContainerGeneratorForPanel(System::Windows::Controls::Panel ^ panel) = System::Windows::Controls::Primitives::IItemContainerGenerator::GetItemContainerGeneratorForPanel;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GetItemContainerGeneratorForPanel(System.Windows.Controls.Panel)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GetItemContainerGeneratorForPanel(System.Windows.Controls.Panel)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GetItemContainerGeneratorForPanel(System.Windows.Controls.Panel)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GetItemContainerGeneratorForPanel(System.Windows.Controls.Panel)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GetItemContainerGeneratorForPanel(System.Windows.Controls.Panel)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GetItemContainerGeneratorForPanel(System.Windows.Controls.Panel)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GetItemContainerGeneratorForPanel(System.Windows.Controls.Panel)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GetItemContainerGeneratorForPanel(System.Windows.Controls.Panel)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GetItemContainerGeneratorForPanel(System.Windows.Controls.Panel)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GetItemContainerGeneratorForPanel(System.Windows.Controls.Panel)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GetItemContainerGeneratorForPanel(System.Windows.Controls.Panel)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GetItemContainerGeneratorForPanel(System.Windows.Controls.Panel)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GetItemContainerGeneratorForPanel(System.Windows.Controls.Panel)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GetItemContainerGeneratorForPanel(System.Windows.Controls.Panel)</InterfaceMember>
         <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.GetItemContainerGeneratorForPanel(System.Windows.Controls.Panel)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -466,6 +522,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.IndexFromGeneratorPosition(System.Windows.Controls.Primitives.GeneratorPosition)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.IndexFromGeneratorPosition(System.Windows.Controls.Primitives.GeneratorPosition)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.IndexFromGeneratorPosition(System.Windows.Controls.Primitives.GeneratorPosition)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.IndexFromGeneratorPosition(System.Windows.Controls.Primitives.GeneratorPosition)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.IndexFromGeneratorPosition(System.Windows.Controls.Primitives.GeneratorPosition)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.IndexFromGeneratorPosition(System.Windows.Controls.Primitives.GeneratorPosition)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.IndexFromGeneratorPosition(System.Windows.Controls.Primitives.GeneratorPosition)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.IndexFromGeneratorPosition(System.Windows.Controls.Primitives.GeneratorPosition)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.IndexFromGeneratorPosition(System.Windows.Controls.Primitives.GeneratorPosition)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.IndexFromGeneratorPosition(System.Windows.Controls.Primitives.GeneratorPosition)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.IndexFromGeneratorPosition(System.Windows.Controls.Primitives.GeneratorPosition)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.IndexFromGeneratorPosition(System.Windows.Controls.Primitives.GeneratorPosition)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.IndexFromGeneratorPosition(System.Windows.Controls.Primitives.GeneratorPosition)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.IndexFromGeneratorPosition(System.Windows.Controls.Primitives.GeneratorPosition)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.IndexFromGeneratorPosition(System.Windows.Controls.Primitives.GeneratorPosition)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -494,6 +564,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.PrepareItemContainer(System.Windows.DependencyObject)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.PrepareItemContainer(System.Windows.DependencyObject)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.PrepareItemContainer(System.Windows.DependencyObject)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.PrepareItemContainer(System.Windows.DependencyObject)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.PrepareItemContainer(System.Windows.DependencyObject)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.PrepareItemContainer(System.Windows.DependencyObject)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.PrepareItemContainer(System.Windows.DependencyObject)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.PrepareItemContainer(System.Windows.DependencyObject)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.PrepareItemContainer(System.Windows.DependencyObject)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.PrepareItemContainer(System.Windows.DependencyObject)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.PrepareItemContainer(System.Windows.DependencyObject)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.PrepareItemContainer(System.Windows.DependencyObject)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.PrepareItemContainer(System.Windows.DependencyObject)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.PrepareItemContainer(System.Windows.DependencyObject)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.PrepareItemContainer(System.Windows.DependencyObject)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -520,6 +604,20 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Windows.Controls.Primitives.IItemContainerGenerator.Remove(System::Windows::Controls::Primitives::GeneratorPosition position, int count) = System::Windows::Controls::Primitives::IItemContainerGenerator::Remove;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.Remove(System.Windows.Controls.Primitives.GeneratorPosition,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.Remove(System.Windows.Controls.Primitives.GeneratorPosition,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.Remove(System.Windows.Controls.Primitives.GeneratorPosition,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.Remove(System.Windows.Controls.Primitives.GeneratorPosition,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.Remove(System.Windows.Controls.Primitives.GeneratorPosition,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.Remove(System.Windows.Controls.Primitives.GeneratorPosition,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.Remove(System.Windows.Controls.Primitives.GeneratorPosition,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.Remove(System.Windows.Controls.Primitives.GeneratorPosition,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.Remove(System.Windows.Controls.Primitives.GeneratorPosition,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.Remove(System.Windows.Controls.Primitives.GeneratorPosition,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.Remove(System.Windows.Controls.Primitives.GeneratorPosition,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.Remove(System.Windows.Controls.Primitives.GeneratorPosition,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.Remove(System.Windows.Controls.Primitives.GeneratorPosition,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.Remove(System.Windows.Controls.Primitives.GeneratorPosition,System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.Remove(System.Windows.Controls.Primitives.GeneratorPosition,System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -555,6 +653,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.RemoveAll</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.RemoveAll</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.RemoveAll</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.RemoveAll</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.RemoveAll</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.RemoveAll</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.RemoveAll</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.RemoveAll</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.RemoveAll</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.RemoveAll</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.RemoveAll</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.RemoveAll</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.RemoveAll</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.RemoveAll</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.RemoveAll</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -588,6 +700,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.StartAt(System.Windows.Controls.Primitives.GeneratorPosition,System.Windows.Controls.Primitives.GeneratorDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.StartAt(System.Windows.Controls.Primitives.GeneratorPosition,System.Windows.Controls.Primitives.GeneratorDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.StartAt(System.Windows.Controls.Primitives.GeneratorPosition,System.Windows.Controls.Primitives.GeneratorDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.StartAt(System.Windows.Controls.Primitives.GeneratorPosition,System.Windows.Controls.Primitives.GeneratorDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.StartAt(System.Windows.Controls.Primitives.GeneratorPosition,System.Windows.Controls.Primitives.GeneratorDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.StartAt(System.Windows.Controls.Primitives.GeneratorPosition,System.Windows.Controls.Primitives.GeneratorDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.StartAt(System.Windows.Controls.Primitives.GeneratorPosition,System.Windows.Controls.Primitives.GeneratorDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.StartAt(System.Windows.Controls.Primitives.GeneratorPosition,System.Windows.Controls.Primitives.GeneratorDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.StartAt(System.Windows.Controls.Primitives.GeneratorPosition,System.Windows.Controls.Primitives.GeneratorDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.StartAt(System.Windows.Controls.Primitives.GeneratorPosition,System.Windows.Controls.Primitives.GeneratorDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.StartAt(System.Windows.Controls.Primitives.GeneratorPosition,System.Windows.Controls.Primitives.GeneratorDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.StartAt(System.Windows.Controls.Primitives.GeneratorPosition,System.Windows.Controls.Primitives.GeneratorDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.StartAt(System.Windows.Controls.Primitives.GeneratorPosition,System.Windows.Controls.Primitives.GeneratorDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.StartAt(System.Windows.Controls.Primitives.GeneratorPosition,System.Windows.Controls.Primitives.GeneratorDirection)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.StartAt(System.Windows.Controls.Primitives.GeneratorPosition,System.Windows.Controls.Primitives.GeneratorDirection)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -617,6 +743,20 @@
       <MemberSignature Language="C++ CLI" Value=" virtual IDisposable ^ System.Windows.Controls.Primitives.IItemContainerGenerator.StartAt(System::Windows::Controls::Primitives::GeneratorPosition position, System::Windows::Controls::Primitives::GeneratorDirection direction, bool allowStartAtRealizedItem) = System::Windows::Controls::Primitives::IItemContainerGenerator::StartAt;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.StartAt(System.Windows.Controls.Primitives.GeneratorPosition,System.Windows.Controls.Primitives.GeneratorDirection,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.StartAt(System.Windows.Controls.Primitives.GeneratorPosition,System.Windows.Controls.Primitives.GeneratorDirection,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.StartAt(System.Windows.Controls.Primitives.GeneratorPosition,System.Windows.Controls.Primitives.GeneratorDirection,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.StartAt(System.Windows.Controls.Primitives.GeneratorPosition,System.Windows.Controls.Primitives.GeneratorDirection,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.StartAt(System.Windows.Controls.Primitives.GeneratorPosition,System.Windows.Controls.Primitives.GeneratorDirection,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.StartAt(System.Windows.Controls.Primitives.GeneratorPosition,System.Windows.Controls.Primitives.GeneratorDirection,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.StartAt(System.Windows.Controls.Primitives.GeneratorPosition,System.Windows.Controls.Primitives.GeneratorDirection,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.StartAt(System.Windows.Controls.Primitives.GeneratorPosition,System.Windows.Controls.Primitives.GeneratorDirection,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.StartAt(System.Windows.Controls.Primitives.GeneratorPosition,System.Windows.Controls.Primitives.GeneratorDirection,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.StartAt(System.Windows.Controls.Primitives.GeneratorPosition,System.Windows.Controls.Primitives.GeneratorDirection,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.StartAt(System.Windows.Controls.Primitives.GeneratorPosition,System.Windows.Controls.Primitives.GeneratorDirection,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.StartAt(System.Windows.Controls.Primitives.GeneratorPosition,System.Windows.Controls.Primitives.GeneratorDirection,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.StartAt(System.Windows.Controls.Primitives.GeneratorPosition,System.Windows.Controls.Primitives.GeneratorDirection,System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.StartAt(System.Windows.Controls.Primitives.GeneratorPosition,System.Windows.Controls.Primitives.GeneratorDirection,System.Boolean)</InterfaceMember>
         <InterfaceMember>M:System.Windows.Controls.Primitives.IItemContainerGenerator.StartAt(System.Windows.Controls.Primitives.GeneratorPosition,System.Windows.Controls.Primitives.GeneratorDirection,System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -649,6 +789,20 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Windows.Controls.Primitives.IRecyclingItemContainerGenerator.Recycle(System::Windows::Controls::Primitives::GeneratorPosition position, int count) = System::Windows::Controls::Primitives::IRecyclingItemContainerGenerator::Recycle;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IRecyclingItemContainerGenerator.Recycle(System.Windows.Controls.Primitives.GeneratorPosition,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IRecyclingItemContainerGenerator.Recycle(System.Windows.Controls.Primitives.GeneratorPosition,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IRecyclingItemContainerGenerator.Recycle(System.Windows.Controls.Primitives.GeneratorPosition,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IRecyclingItemContainerGenerator.Recycle(System.Windows.Controls.Primitives.GeneratorPosition,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IRecyclingItemContainerGenerator.Recycle(System.Windows.Controls.Primitives.GeneratorPosition,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IRecyclingItemContainerGenerator.Recycle(System.Windows.Controls.Primitives.GeneratorPosition,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IRecyclingItemContainerGenerator.Recycle(System.Windows.Controls.Primitives.GeneratorPosition,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IRecyclingItemContainerGenerator.Recycle(System.Windows.Controls.Primitives.GeneratorPosition,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IRecyclingItemContainerGenerator.Recycle(System.Windows.Controls.Primitives.GeneratorPosition,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IRecyclingItemContainerGenerator.Recycle(System.Windows.Controls.Primitives.GeneratorPosition,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IRecyclingItemContainerGenerator.Recycle(System.Windows.Controls.Primitives.GeneratorPosition,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IRecyclingItemContainerGenerator.Recycle(System.Windows.Controls.Primitives.GeneratorPosition,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IRecyclingItemContainerGenerator.Recycle(System.Windows.Controls.Primitives.GeneratorPosition,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Controls.Primitives.IRecyclingItemContainerGenerator.Recycle(System.Windows.Controls.Primitives.GeneratorPosition,System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Windows.Controls.Primitives.IRecyclingItemContainerGenerator.Recycle(System.Windows.Controls.Primitives.GeneratorPosition,System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -683,6 +837,20 @@
       <MemberSignature Language="C++ CLI" Value=" virtual bool System.Windows.IWeakEventListener.ReceiveWeakEvent(Type ^ managerType, System::Object ^ sender, EventArgs ^ e) = System::Windows::IWeakEventListener::ReceiveWeakEvent;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
         <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

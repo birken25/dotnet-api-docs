@@ -42,6 +42,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Markup.IComponentConnector.InitializeComponent</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IComponentConnector.InitializeComponent</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IComponentConnector.InitializeComponent</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IComponentConnector.InitializeComponent</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IComponentConnector.InitializeComponent</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IComponentConnector.InitializeComponent</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IComponentConnector.InitializeComponent</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IComponentConnector.InitializeComponent</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IComponentConnector.InitializeComponent</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IComponentConnector.InitializeComponent</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IComponentConnector.InitializeComponent</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Activities.Core.Presentation</AssemblyName>
@@ -93,6 +103,16 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Windows.Markup.IComponentConnector.Connect(int connectionId, System::Object ^ target) = System::Windows::Markup::IComponentConnector::Connect;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Markup.IComponentConnector.Connect(System.Int32,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IComponentConnector.Connect(System.Int32,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IComponentConnector.Connect(System.Int32,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IComponentConnector.Connect(System.Int32,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IComponentConnector.Connect(System.Int32,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IComponentConnector.Connect(System.Int32,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IComponentConnector.Connect(System.Int32,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IComponentConnector.Connect(System.Int32,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IComponentConnector.Connect(System.Int32,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IComponentConnector.Connect(System.Int32,System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Windows.Markup.IComponentConnector.Connect(System.Int32,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

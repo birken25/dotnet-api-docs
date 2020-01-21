@@ -49,6 +49,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Build.Framework.ITaskFactory.CleanupTask(Microsoft.Build.Framework.ITask)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITaskFactory.CleanupTask(Microsoft.Build.Framework.ITask)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITaskFactory.CleanupTask(Microsoft.Build.Framework.ITask)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITaskFactory.CleanupTask(Microsoft.Build.Framework.ITask)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITaskFactory.CleanupTask(Microsoft.Build.Framework.ITask)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITaskFactory.CleanupTask(Microsoft.Build.Framework.ITask)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITaskFactory.CleanupTask(Microsoft.Build.Framework.ITask)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITaskFactory.CleanupTask(Microsoft.Build.Framework.ITask)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITaskFactory.CleanupTask(Microsoft.Build.Framework.ITask)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITaskFactory.CleanupTask(Microsoft.Build.Framework.ITask)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITaskFactory.CleanupTask(Microsoft.Build.Framework.ITask)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Build.Tasks.v4.0</AssemblyName>
@@ -75,6 +85,16 @@
       <MemberSignature Language="F#" Value="abstract member CreateTask : Microsoft.Build.Framework.IBuildEngine -&gt; Microsoft.Build.Framework.ITask&#xA;override this.CreateTask : Microsoft.Build.Framework.IBuildEngine -&gt; Microsoft.Build.Framework.ITask" Usage="codeTaskFactory.CreateTask loggingHost" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITaskFactory.CreateTask(Microsoft.Build.Framework.IBuildEngine)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITaskFactory.CreateTask(Microsoft.Build.Framework.IBuildEngine)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITaskFactory.CreateTask(Microsoft.Build.Framework.IBuildEngine)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITaskFactory.CreateTask(Microsoft.Build.Framework.IBuildEngine)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITaskFactory.CreateTask(Microsoft.Build.Framework.IBuildEngine)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITaskFactory.CreateTask(Microsoft.Build.Framework.IBuildEngine)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITaskFactory.CreateTask(Microsoft.Build.Framework.IBuildEngine)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITaskFactory.CreateTask(Microsoft.Build.Framework.IBuildEngine)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITaskFactory.CreateTask(Microsoft.Build.Framework.IBuildEngine)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITaskFactory.CreateTask(Microsoft.Build.Framework.IBuildEngine)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Build.Framework.ITaskFactory.CreateTask(Microsoft.Build.Framework.IBuildEngine)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -104,6 +124,16 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Build.Framework.ITaskFactory.FactoryName</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Framework.ITaskFactory.FactoryName</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Framework.ITaskFactory.FactoryName</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Framework.ITaskFactory.FactoryName</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Framework.ITaskFactory.FactoryName</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Framework.ITaskFactory.FactoryName</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Framework.ITaskFactory.FactoryName</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Framework.ITaskFactory.FactoryName</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Framework.ITaskFactory.FactoryName</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Framework.ITaskFactory.FactoryName</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.Framework.ITaskFactory.FactoryName</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Build.Tasks.v4.0</AssemblyName>
@@ -127,6 +157,16 @@
       <MemberSignature Language="F#" Value="abstract member GetTaskParameters : unit -&gt; Microsoft.Build.Framework.TaskPropertyInfo[]&#xA;override this.GetTaskParameters : unit -&gt; Microsoft.Build.Framework.TaskPropertyInfo[]" Usage="codeTaskFactory.GetTaskParameters " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITaskFactory.GetTaskParameters</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITaskFactory.GetTaskParameters</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITaskFactory.GetTaskParameters</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITaskFactory.GetTaskParameters</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITaskFactory.GetTaskParameters</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITaskFactory.GetTaskParameters</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITaskFactory.GetTaskParameters</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITaskFactory.GetTaskParameters</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITaskFactory.GetTaskParameters</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITaskFactory.GetTaskParameters</InterfaceMember>
         <InterfaceMember>M:Microsoft.Build.Framework.ITaskFactory.GetTaskParameters</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -152,6 +192,16 @@
       <MemberSignature Language="F#" Value="abstract member Initialize : string * System.Collections.Generic.IDictionary&lt;string, Microsoft.Build.Framework.TaskPropertyInfo&gt; * string * Microsoft.Build.Framework.IBuildEngine -&gt; bool&#xA;override this.Initialize : string * System.Collections.Generic.IDictionary&lt;string, Microsoft.Build.Framework.TaskPropertyInfo&gt; * string * Microsoft.Build.Framework.IBuildEngine -&gt; bool" Usage="codeTaskFactory.Initialize (taskName, taskParameters, taskElementContents, taskFactoryLoggingHost)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITaskFactory.Initialize(System.String,System.Collections.Generic.IDictionary{System.String,Microsoft.Build.Framework.TaskPropertyInfo},System.String,Microsoft.Build.Framework.IBuildEngine)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITaskFactory.Initialize(System.String,System.Collections.Generic.IDictionary{System.String,Microsoft.Build.Framework.TaskPropertyInfo},System.String,Microsoft.Build.Framework.IBuildEngine)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITaskFactory.Initialize(System.String,System.Collections.Generic.IDictionary{System.String,Microsoft.Build.Framework.TaskPropertyInfo},System.String,Microsoft.Build.Framework.IBuildEngine)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITaskFactory.Initialize(System.String,System.Collections.Generic.IDictionary{System.String,Microsoft.Build.Framework.TaskPropertyInfo},System.String,Microsoft.Build.Framework.IBuildEngine)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITaskFactory.Initialize(System.String,System.Collections.Generic.IDictionary{System.String,Microsoft.Build.Framework.TaskPropertyInfo},System.String,Microsoft.Build.Framework.IBuildEngine)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITaskFactory.Initialize(System.String,System.Collections.Generic.IDictionary{System.String,Microsoft.Build.Framework.TaskPropertyInfo},System.String,Microsoft.Build.Framework.IBuildEngine)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITaskFactory.Initialize(System.String,System.Collections.Generic.IDictionary{System.String,Microsoft.Build.Framework.TaskPropertyInfo},System.String,Microsoft.Build.Framework.IBuildEngine)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITaskFactory.Initialize(System.String,System.Collections.Generic.IDictionary{System.String,Microsoft.Build.Framework.TaskPropertyInfo},System.String,Microsoft.Build.Framework.IBuildEngine)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITaskFactory.Initialize(System.String,System.Collections.Generic.IDictionary{System.String,Microsoft.Build.Framework.TaskPropertyInfo},System.String,Microsoft.Build.Framework.IBuildEngine)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.Framework.ITaskFactory.Initialize(System.String,System.Collections.Generic.IDictionary{System.String,Microsoft.Build.Framework.TaskPropertyInfo},System.String,Microsoft.Build.Framework.IBuildEngine)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Build.Framework.ITaskFactory.Initialize(System.String,System.Collections.Generic.IDictionary{System.String,Microsoft.Build.Framework.TaskPropertyInfo},System.String,Microsoft.Build.Framework.IBuildEngine)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

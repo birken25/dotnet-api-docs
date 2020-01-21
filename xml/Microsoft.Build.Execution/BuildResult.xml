@@ -194,6 +194,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Build.BackEnd.IBuildResults.HasResultsForTarget(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.BackEnd.IBuildResults.HasResultsForTarget(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.BackEnd.IBuildResults.HasResultsForTarget(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.BackEnd.IBuildResults.HasResultsForTarget(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.BackEnd.IBuildResults.HasResultsForTarget(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.BackEnd.IBuildResults.HasResultsForTarget(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.BackEnd.IBuildResults.HasResultsForTarget(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.BackEnd.IBuildResults.HasResultsForTarget(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.BackEnd.IBuildResults.HasResultsForTarget(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.BackEnd.IBuildResults.HasResultsForTarget(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.Build.BackEnd.IBuildResults.HasResultsForTarget(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Build</AssemblyName>
@@ -222,6 +232,16 @@
       <MemberSignature Language="F#" Value="member this.Item(string) : Microsoft.Build.Execution.ITargetResult" Usage="Microsoft.Build.Execution.BuildResult.Item" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:Microsoft.Build.BackEnd.IBuildResults.Item(System.String)</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.BackEnd.IBuildResults.Item(System.String)</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.BackEnd.IBuildResults.Item(System.String)</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.BackEnd.IBuildResults.Item(System.String)</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.BackEnd.IBuildResults.Item(System.String)</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.BackEnd.IBuildResults.Item(System.String)</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.BackEnd.IBuildResults.Item(System.String)</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.BackEnd.IBuildResults.Item(System.String)</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.BackEnd.IBuildResults.Item(System.String)</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.BackEnd.IBuildResults.Item(System.String)</InterfaceMember>
         <InterfaceMember>P:Microsoft.Build.BackEnd.IBuildResults.Item(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -316,6 +336,16 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Build.BackEnd.IBuildResults.OverallResult</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.BackEnd.IBuildResults.OverallResult</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.BackEnd.IBuildResults.OverallResult</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.BackEnd.IBuildResults.OverallResult</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.BackEnd.IBuildResults.OverallResult</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.BackEnd.IBuildResults.OverallResult</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.BackEnd.IBuildResults.OverallResult</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.BackEnd.IBuildResults.OverallResult</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.BackEnd.IBuildResults.OverallResult</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.BackEnd.IBuildResults.OverallResult</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.BackEnd.IBuildResults.OverallResult</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Build</AssemblyName>
@@ -396,6 +426,16 @@
       <MemberSignature Language="F#" Value="member this.ResultsByTarget : System.Collections.Generic.IDictionary&lt;string, Microsoft.Build.Execution.TargetResult&gt;" Usage="Microsoft.Build.Execution.BuildResult.ResultsByTarget" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:Microsoft.Build.BackEnd.IBuildResults.ResultsByTarget</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.BackEnd.IBuildResults.ResultsByTarget</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.BackEnd.IBuildResults.ResultsByTarget</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.BackEnd.IBuildResults.ResultsByTarget</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.BackEnd.IBuildResults.ResultsByTarget</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.BackEnd.IBuildResults.ResultsByTarget</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.BackEnd.IBuildResults.ResultsByTarget</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.BackEnd.IBuildResults.ResultsByTarget</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.BackEnd.IBuildResults.ResultsByTarget</InterfaceMember>
+        <InterfaceMember>P:Microsoft.Build.BackEnd.IBuildResults.ResultsByTarget</InterfaceMember>
         <InterfaceMember>P:Microsoft.Build.BackEnd.IBuildResults.ResultsByTarget</InterfaceMember>
       </Implements>
       <AssemblyInfo>

@@ -113,6 +113,23 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.Attributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.Attributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.Attributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.Attributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.Attributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.Attributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.Attributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.Attributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.Attributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.Attributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.Attributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.Attributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.Attributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.Attributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.Attributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.Attributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.Attributes</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.Attributes</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Reflection</AssemblyName>
@@ -196,6 +213,23 @@
       <MemberSignature Language="F#" Value="member this.CallingConvention : System.Reflection.CallingConventions" Usage="System.Reflection.MethodBase.CallingConvention" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.CallingConvention</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.CallingConvention</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.CallingConvention</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.CallingConvention</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.CallingConvention</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.CallingConvention</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.CallingConvention</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.CallingConvention</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.CallingConvention</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.CallingConvention</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.CallingConvention</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.CallingConvention</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.CallingConvention</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.CallingConvention</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.CallingConvention</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.CallingConvention</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.CallingConvention</InterfaceMember>
         <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.CallingConvention</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -298,6 +332,19 @@
       <MemberSignature Language="F#" Value="override this.Equals : obj -&gt; bool" Usage="methodBase.Equals obj" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Equals(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Equals(System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Equals(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -479,6 +526,19 @@
       <MemberSignature Language="F#" Value="override this.GetHashCode : unit -&gt; int" Usage="methodBase.GetHashCode " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetHashCode</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetHashCode</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetHashCode</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -726,6 +786,23 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetMethodImplementationFlags</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetMethodImplementationFlags</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetMethodImplementationFlags</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetMethodImplementationFlags</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetMethodImplementationFlags</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetMethodImplementationFlags</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetMethodImplementationFlags</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetMethodImplementationFlags</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetMethodImplementationFlags</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetMethodImplementationFlags</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetMethodImplementationFlags</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetMethodImplementationFlags</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetMethodImplementationFlags</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetMethodImplementationFlags</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetMethodImplementationFlags</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetMethodImplementationFlags</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetMethodImplementationFlags</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetMethodImplementationFlags</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Reflection</AssemblyName>
@@ -781,6 +858,23 @@
       <MemberSignature Language="F#" Value="abstract member GetParameters : unit -&gt; System.Reflection.ParameterInfo[]" Usage="methodBase.GetParameters " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetParameters</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetParameters</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetParameters</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetParameters</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetParameters</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetParameters</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetParameters</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetParameters</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetParameters</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetParameters</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetParameters</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetParameters</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetParameters</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetParameters</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetParameters</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetParameters</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetParameters</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetParameters</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -891,6 +985,23 @@
       <MemberSignature Language="F#" Value="member this.Invoke : obj * obj[] -&gt; obj" Usage="methodBase.Invoke (obj, parameters)" FrameworkAlternate="netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netcore-3.1;netstandard-1.0;netstandard-1.1;netstandard-1.2;netstandard-2.0;netstandard-2.1" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Invoke(System.Object,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Invoke(System.Object,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Invoke(System.Object,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Invoke(System.Object,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Invoke(System.Object,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Invoke(System.Object,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Invoke(System.Object,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Invoke(System.Object,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Invoke(System.Object,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Invoke(System.Object,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Invoke(System.Object,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Invoke(System.Object,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Invoke(System.Object,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Invoke(System.Object,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Invoke(System.Object,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Invoke(System.Object,System.Object[])</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Invoke(System.Object,System.Object[])</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Invoke(System.Object,System.Object[])</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1017,6 +1128,23 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Invoke(System.Object,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Invoke(System.Object,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Invoke(System.Object,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Invoke(System.Object,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Invoke(System.Object,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Invoke(System.Object,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Invoke(System.Object,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Invoke(System.Object,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Invoke(System.Object,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Invoke(System.Object,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Invoke(System.Object,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Invoke(System.Object,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Invoke(System.Object,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Invoke(System.Object,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Invoke(System.Object,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Invoke(System.Object,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Invoke(System.Object,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Invoke(System.Object,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -1129,6 +1257,23 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAbstract</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAbstract</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAbstract</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAbstract</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAbstract</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAbstract</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAbstract</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAbstract</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAbstract</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAbstract</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAbstract</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAbstract</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAbstract</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAbstract</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAbstract</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAbstract</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAbstract</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAbstract</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Reflection</AssemblyName>
@@ -1193,6 +1338,23 @@
       <MemberSignature Language="F#" Value="member this.IsAssembly : bool" Usage="System.Reflection.MethodBase.IsAssembly" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAssembly</InterfaceMember>
         <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAssembly</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1296,6 +1458,23 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsConstructor</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsConstructor</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsConstructor</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsConstructor</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsConstructor</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsConstructor</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsConstructor</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsConstructor</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsConstructor</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsConstructor</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsConstructor</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsConstructor</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsConstructor</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsConstructor</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsConstructor</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsConstructor</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsConstructor</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsConstructor</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Reflection</AssemblyName>
@@ -1355,6 +1534,23 @@
       <MemberSignature Language="F#" Value="member this.IsFamily : bool" Usage="System.Reflection.MethodBase.IsFamily" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamily</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamily</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamily</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamily</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamily</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamily</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamily</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamily</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamily</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamily</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamily</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamily</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamily</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamily</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamily</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamily</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamily</InterfaceMember>
         <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamily</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1424,6 +1620,23 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyAndAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyAndAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyAndAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyAndAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyAndAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyAndAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyAndAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyAndAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyAndAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyAndAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyAndAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyAndAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyAndAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyAndAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyAndAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyAndAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyAndAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyAndAssembly</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Reflection</AssemblyName>
@@ -1491,6 +1704,23 @@
       <MemberSignature Language="F#" Value="member this.IsFamilyOrAssembly : bool" Usage="System.Reflection.MethodBase.IsFamilyOrAssembly" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyOrAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyOrAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyOrAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyOrAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyOrAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyOrAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyOrAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyOrAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyOrAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyOrAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyOrAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyOrAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyOrAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyOrAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyOrAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyOrAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyOrAssembly</InterfaceMember>
         <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyOrAssembly</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1563,6 +1793,23 @@
       <MemberSignature Language="F#" Value="member this.IsFinal : bool" Usage="System.Reflection.MethodBase.IsFinal" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFinal</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFinal</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFinal</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFinal</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFinal</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFinal</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFinal</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFinal</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFinal</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFinal</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFinal</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFinal</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFinal</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFinal</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFinal</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFinal</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFinal</InterfaceMember>
         <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFinal</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1760,6 +2007,23 @@ The following table summarizes the invariant conditions for terms specific to ge
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsHideBySig</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsHideBySig</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsHideBySig</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsHideBySig</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsHideBySig</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsHideBySig</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsHideBySig</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsHideBySig</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsHideBySig</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsHideBySig</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsHideBySig</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsHideBySig</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsHideBySig</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsHideBySig</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsHideBySig</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsHideBySig</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsHideBySig</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsHideBySig</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Reflection</AssemblyName>
@@ -1824,6 +2088,23 @@ The following table summarizes the invariant conditions for terms specific to ge
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPrivate</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPrivate</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPrivate</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPrivate</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPrivate</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPrivate</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPrivate</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPrivate</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPrivate</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPrivate</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPrivate</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPrivate</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPrivate</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPrivate</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPrivate</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPrivate</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPrivate</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPrivate</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Reflection</AssemblyName>
@@ -1876,6 +2157,23 @@ The following table summarizes the invariant conditions for terms specific to ge
       <MemberSignature Language="F#" Value="member this.IsPublic : bool" Usage="System.Reflection.MethodBase.IsPublic" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPublic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPublic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPublic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPublic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPublic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPublic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPublic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPublic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPublic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPublic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPublic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPublic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPublic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPublic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPublic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPublic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPublic</InterfaceMember>
         <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPublic</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2117,6 +2415,23 @@ The following table summarizes the invariant conditions for terms specific to ge
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsSpecialName</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Reflection</AssemblyName>
@@ -2180,6 +2495,23 @@ The following table summarizes the invariant conditions for terms specific to ge
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsStatic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsStatic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsStatic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsStatic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsStatic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsStatic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsStatic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsStatic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsStatic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsStatic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsStatic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsStatic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsStatic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsStatic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsStatic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsStatic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsStatic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsStatic</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Reflection</AssemblyName>
@@ -2233,6 +2565,23 @@ The following table summarizes the invariant conditions for terms specific to ge
       <MemberSignature Language="F#" Value="member this.IsVirtual : bool" Usage="System.Reflection.MethodBase.IsVirtual" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsVirtual</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsVirtual</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsVirtual</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsVirtual</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsVirtual</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsVirtual</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsVirtual</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsVirtual</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsVirtual</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsVirtual</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsVirtual</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsVirtual</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsVirtual</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsVirtual</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsVirtual</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsVirtual</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsVirtual</InterfaceMember>
         <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsVirtual</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2313,6 +2662,23 @@ If MethodInfo.IsVirtual AndAlso Not MethodInfo.IsFinal Then
       <MemberSignature Language="F#" Value="member this.MethodHandle : RuntimeMethodHandle" Usage="System.Reflection.MethodBase.MethodHandle" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.MethodHandle</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.MethodHandle</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.MethodHandle</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.MethodHandle</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.MethodHandle</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.MethodHandle</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.MethodHandle</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.MethodHandle</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.MethodHandle</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.MethodHandle</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.MethodHandle</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.MethodHandle</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.MethodHandle</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.MethodHandle</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.MethodHandle</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.MethodHandle</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.MethodHandle</InterfaceMember>
         <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.MethodHandle</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2496,6 +2862,23 @@ If MethodInfo.IsVirtual AndAlso Not MethodInfo.IsFinal Then
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -2550,6 +2933,22 @@ If MethodInfo.IsVirtual AndAlso Not MethodInfo.IsFinal Then
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetType</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetType</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -2591,6 +2990,23 @@ If MethodInfo.IsVirtual AndAlso Not MethodInfo.IsFinal Then
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Runtime.InteropServices._MethodBase.GetTypeInfo(System::UInt32 iTInfo, System::UInt32 lcid, IntPtr ppTInfo) = System::Runtime::InteropServices::_MethodBase::GetTypeInfo;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2642,6 +3058,23 @@ If MethodInfo.IsVirtual AndAlso Not MethodInfo.IsFinal Then
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -2687,6 +3120,23 @@ If MethodInfo.IsVirtual AndAlso Not MethodInfo.IsFinal Then
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Runtime.InteropServices._MethodBase.Invoke(System::UInt32 dispIdMember, Guid % riid, System::UInt32 lcid, short wFlags, IntPtr pDispParams, IntPtr pVarResult, IntPtr pExcepInfo, IntPtr puArgErr) = System::Runtime::InteropServices::_MethodBase::Invoke;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
+        <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.InteropServices._MethodBase.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2749,6 +3199,22 @@ If MethodInfo.IsVirtual AndAlso Not MethodInfo.IsFinal Then
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAbstract</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAbstract</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAbstract</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAbstract</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAbstract</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAbstract</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAbstract</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAbstract</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAbstract</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAbstract</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAbstract</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAbstract</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAbstract</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAbstract</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAbstract</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAbstract</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAbstract</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -2790,6 +3256,22 @@ If MethodInfo.IsVirtual AndAlso Not MethodInfo.IsFinal Then
       <MemberSignature Language="F#" Usage="System.Runtime.InteropServices._MethodBase.IsAssembly" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAssembly</InterfaceMember>
         <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsAssembly</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2833,6 +3315,22 @@ If MethodInfo.IsVirtual AndAlso Not MethodInfo.IsFinal Then
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsConstructor</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsConstructor</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsConstructor</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsConstructor</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsConstructor</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsConstructor</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsConstructor</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsConstructor</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsConstructor</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsConstructor</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsConstructor</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsConstructor</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsConstructor</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsConstructor</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsConstructor</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsConstructor</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsConstructor</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -2874,6 +3372,22 @@ If MethodInfo.IsVirtual AndAlso Not MethodInfo.IsFinal Then
       <MemberSignature Language="F#" Usage="System.Runtime.InteropServices._MethodBase.IsFamily" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamily</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamily</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamily</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamily</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamily</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamily</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamily</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamily</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamily</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamily</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamily</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamily</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamily</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamily</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamily</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamily</InterfaceMember>
         <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamily</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2917,6 +3431,22 @@ If MethodInfo.IsVirtual AndAlso Not MethodInfo.IsFinal Then
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyAndAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyAndAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyAndAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyAndAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyAndAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyAndAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyAndAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyAndAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyAndAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyAndAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyAndAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyAndAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyAndAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyAndAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyAndAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyAndAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyAndAssembly</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -2958,6 +3488,22 @@ If MethodInfo.IsVirtual AndAlso Not MethodInfo.IsFinal Then
       <MemberSignature Language="F#" Usage="System.Runtime.InteropServices._MethodBase.IsFamilyOrAssembly" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyOrAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyOrAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyOrAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyOrAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyOrAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyOrAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyOrAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyOrAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyOrAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyOrAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyOrAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyOrAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyOrAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyOrAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyOrAssembly</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyOrAssembly</InterfaceMember>
         <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFamilyOrAssembly</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -3001,6 +3547,22 @@ If MethodInfo.IsVirtual AndAlso Not MethodInfo.IsFinal Then
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFinal</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFinal</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFinal</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFinal</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFinal</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFinal</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFinal</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFinal</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFinal</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFinal</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFinal</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFinal</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFinal</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFinal</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFinal</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFinal</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsFinal</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -3042,6 +3604,22 @@ If MethodInfo.IsVirtual AndAlso Not MethodInfo.IsFinal Then
       <MemberSignature Language="F#" Usage="System.Runtime.InteropServices._MethodBase.IsHideBySig" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsHideBySig</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsHideBySig</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsHideBySig</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsHideBySig</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsHideBySig</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsHideBySig</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsHideBySig</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsHideBySig</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsHideBySig</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsHideBySig</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsHideBySig</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsHideBySig</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsHideBySig</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsHideBySig</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsHideBySig</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsHideBySig</InterfaceMember>
         <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsHideBySig</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -3085,6 +3663,22 @@ If MethodInfo.IsVirtual AndAlso Not MethodInfo.IsFinal Then
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPrivate</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPrivate</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPrivate</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPrivate</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPrivate</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPrivate</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPrivate</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPrivate</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPrivate</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPrivate</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPrivate</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPrivate</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPrivate</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPrivate</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPrivate</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPrivate</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPrivate</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -3126,6 +3720,22 @@ If MethodInfo.IsVirtual AndAlso Not MethodInfo.IsFinal Then
       <MemberSignature Language="F#" Usage="System.Runtime.InteropServices._MethodBase.IsPublic" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPublic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPublic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPublic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPublic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPublic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPublic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPublic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPublic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPublic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPublic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPublic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPublic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPublic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPublic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPublic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPublic</InterfaceMember>
         <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsPublic</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -3169,6 +3779,22 @@ If MethodInfo.IsVirtual AndAlso Not MethodInfo.IsFinal Then
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsSpecialName</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsSpecialName</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -3211,6 +3837,22 @@ If MethodInfo.IsVirtual AndAlso Not MethodInfo.IsFinal Then
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsStatic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsStatic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsStatic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsStatic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsStatic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsStatic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsStatic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsStatic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsStatic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsStatic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsStatic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsStatic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsStatic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsStatic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsStatic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsStatic</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsStatic</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -3252,6 +3894,22 @@ If MethodInfo.IsVirtual AndAlso Not MethodInfo.IsFinal Then
       <MemberSignature Language="F#" Usage="System.Runtime.InteropServices._MethodBase.IsVirtual" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsVirtual</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsVirtual</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsVirtual</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsVirtual</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsVirtual</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsVirtual</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsVirtual</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsVirtual</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsVirtual</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsVirtual</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsVirtual</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsVirtual</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsVirtual</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsVirtual</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsVirtual</InterfaceMember>
+        <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsVirtual</InterfaceMember>
         <InterfaceMember>P:System.Runtime.InteropServices._MethodBase.IsVirtual</InterfaceMember>
       </Implements>
       <AssemblyInfo>

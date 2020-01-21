@@ -81,6 +81,16 @@ CivicAddressResolver resolver = new CivicAddressResolver();
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Device.Location.ICivicAddressResolver.ResolveAddress(System.Device.Location.GeoCoordinate)</InterfaceMember>
+        <InterfaceMember>M:System.Device.Location.ICivicAddressResolver.ResolveAddress(System.Device.Location.GeoCoordinate)</InterfaceMember>
+        <InterfaceMember>M:System.Device.Location.ICivicAddressResolver.ResolveAddress(System.Device.Location.GeoCoordinate)</InterfaceMember>
+        <InterfaceMember>M:System.Device.Location.ICivicAddressResolver.ResolveAddress(System.Device.Location.GeoCoordinate)</InterfaceMember>
+        <InterfaceMember>M:System.Device.Location.ICivicAddressResolver.ResolveAddress(System.Device.Location.GeoCoordinate)</InterfaceMember>
+        <InterfaceMember>M:System.Device.Location.ICivicAddressResolver.ResolveAddress(System.Device.Location.GeoCoordinate)</InterfaceMember>
+        <InterfaceMember>M:System.Device.Location.ICivicAddressResolver.ResolveAddress(System.Device.Location.GeoCoordinate)</InterfaceMember>
+        <InterfaceMember>M:System.Device.Location.ICivicAddressResolver.ResolveAddress(System.Device.Location.GeoCoordinate)</InterfaceMember>
+        <InterfaceMember>M:System.Device.Location.ICivicAddressResolver.ResolveAddress(System.Device.Location.GeoCoordinate)</InterfaceMember>
+        <InterfaceMember>M:System.Device.Location.ICivicAddressResolver.ResolveAddress(System.Device.Location.GeoCoordinate)</InterfaceMember>
+        <InterfaceMember>M:System.Device.Location.ICivicAddressResolver.ResolveAddress(System.Device.Location.GeoCoordinate)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Device</AssemblyName>
@@ -128,6 +138,16 @@ CivicAddressResolver resolver = new CivicAddressResolver();
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Device.Location.ICivicAddressResolver.ResolveAddressAsync(System.Device.Location.GeoCoordinate)</InterfaceMember>
+        <InterfaceMember>M:System.Device.Location.ICivicAddressResolver.ResolveAddressAsync(System.Device.Location.GeoCoordinate)</InterfaceMember>
+        <InterfaceMember>M:System.Device.Location.ICivicAddressResolver.ResolveAddressAsync(System.Device.Location.GeoCoordinate)</InterfaceMember>
+        <InterfaceMember>M:System.Device.Location.ICivicAddressResolver.ResolveAddressAsync(System.Device.Location.GeoCoordinate)</InterfaceMember>
+        <InterfaceMember>M:System.Device.Location.ICivicAddressResolver.ResolveAddressAsync(System.Device.Location.GeoCoordinate)</InterfaceMember>
+        <InterfaceMember>M:System.Device.Location.ICivicAddressResolver.ResolveAddressAsync(System.Device.Location.GeoCoordinate)</InterfaceMember>
+        <InterfaceMember>M:System.Device.Location.ICivicAddressResolver.ResolveAddressAsync(System.Device.Location.GeoCoordinate)</InterfaceMember>
+        <InterfaceMember>M:System.Device.Location.ICivicAddressResolver.ResolveAddressAsync(System.Device.Location.GeoCoordinate)</InterfaceMember>
+        <InterfaceMember>M:System.Device.Location.ICivicAddressResolver.ResolveAddressAsync(System.Device.Location.GeoCoordinate)</InterfaceMember>
+        <InterfaceMember>M:System.Device.Location.ICivicAddressResolver.ResolveAddressAsync(System.Device.Location.GeoCoordinate)</InterfaceMember>
+        <InterfaceMember>M:System.Device.Location.ICivicAddressResolver.ResolveAddressAsync(System.Device.Location.GeoCoordinate)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Device</AssemblyName>
@@ -169,6 +189,16 @@ CivicAddressResolver resolver = new CivicAddressResolver();
       <MemberSignature Language="VB.NET" Value="Public Event ResolveAddressCompleted As EventHandler(Of ResolveAddressCompletedEventArgs) " FrameworkAlternate="netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Event</MemberType>
       <Implements>
+        <InterfaceMember>E:System.Device.Location.ICivicAddressResolver.ResolveAddressCompleted</InterfaceMember>
+        <InterfaceMember>E:System.Device.Location.ICivicAddressResolver.ResolveAddressCompleted</InterfaceMember>
+        <InterfaceMember>E:System.Device.Location.ICivicAddressResolver.ResolveAddressCompleted</InterfaceMember>
+        <InterfaceMember>E:System.Device.Location.ICivicAddressResolver.ResolveAddressCompleted</InterfaceMember>
+        <InterfaceMember>E:System.Device.Location.ICivicAddressResolver.ResolveAddressCompleted</InterfaceMember>
+        <InterfaceMember>E:System.Device.Location.ICivicAddressResolver.ResolveAddressCompleted</InterfaceMember>
+        <InterfaceMember>E:System.Device.Location.ICivicAddressResolver.ResolveAddressCompleted</InterfaceMember>
+        <InterfaceMember>E:System.Device.Location.ICivicAddressResolver.ResolveAddressCompleted</InterfaceMember>
+        <InterfaceMember>E:System.Device.Location.ICivicAddressResolver.ResolveAddressCompleted</InterfaceMember>
+        <InterfaceMember>E:System.Device.Location.ICivicAddressResolver.ResolveAddressCompleted</InterfaceMember>
         <InterfaceMember>E:System.Device.Location.ICivicAddressResolver.ResolveAddressCompleted</InterfaceMember>
       </Implements>
       <AssemblyInfo>

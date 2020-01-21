@@ -62,6 +62,18 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.EnterpriseServices.IProcessInitializer.Shutdown</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.IProcessInitializer.Shutdown</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.IProcessInitializer.Shutdown</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.IProcessInitializer.Shutdown</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.IProcessInitializer.Shutdown</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.IProcessInitializer.Shutdown</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.IProcessInitializer.Shutdown</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.IProcessInitializer.Shutdown</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.IProcessInitializer.Shutdown</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.IProcessInitializer.Shutdown</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.IProcessInitializer.Shutdown</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.IProcessInitializer.Shutdown</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.IProcessInitializer.Shutdown</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -86,6 +98,18 @@
       <MemberSignature Language="F#" Value="abstract member Startup : obj -&gt; unit&#xA;override this.Startup : obj -&gt; unit" Usage="dllHostInitializer.Startup punkProcessControl" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.EnterpriseServices.IProcessInitializer.Startup(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.IProcessInitializer.Startup(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.IProcessInitializer.Startup(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.IProcessInitializer.Startup(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.IProcessInitializer.Startup(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.IProcessInitializer.Startup(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.IProcessInitializer.Startup(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.IProcessInitializer.Startup(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.IProcessInitializer.Startup(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.IProcessInitializer.Startup(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.IProcessInitializer.Startup(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.EnterpriseServices.IProcessInitializer.Startup(System.Object)</InterfaceMember>
         <InterfaceMember>M:System.EnterpriseServices.IProcessInitializer.Startup(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

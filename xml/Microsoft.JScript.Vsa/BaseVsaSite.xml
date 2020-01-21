@@ -101,6 +101,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaSite.GetCompiledState(System.Byte[]@,System.Byte[]@)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaSite.GetCompiledState(System.Byte[]@,System.Byte[]@)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaSite.GetCompiledState(System.Byte[]@,System.Byte[]@)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaSite.GetCompiledState(System.Byte[]@,System.Byte[]@)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaSite.GetCompiledState(System.Byte[]@,System.Byte[]@)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaSite.GetCompiledState(System.Byte[]@,System.Byte[]@)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaSite.GetCompiledState(System.Byte[]@,System.Byte[]@)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaSite.GetCompiledState(System.Byte[]@,System.Byte[]@)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaSite.GetCompiledState(System.Byte[]@,System.Byte[]@)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaSite.GetCompiledState(System.Byte[]@,System.Byte[]@)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaSite.GetCompiledState(System.Byte[]@,System.Byte[]@)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.JScript</AssemblyName>
@@ -129,6 +139,16 @@
       <MemberSignature Language="F#" Value="abstract member GetEventSourceInstance : string * string -&gt; obj&#xA;override this.GetEventSourceInstance : string * string -&gt; obj" Usage="baseVsaSite.GetEventSourceInstance (itemName, eventSourceName)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaSite.GetEventSourceInstance(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaSite.GetEventSourceInstance(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaSite.GetEventSourceInstance(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaSite.GetEventSourceInstance(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaSite.GetEventSourceInstance(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaSite.GetEventSourceInstance(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaSite.GetEventSourceInstance(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaSite.GetEventSourceInstance(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaSite.GetEventSourceInstance(System.String,System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaSite.GetEventSourceInstance(System.String,System.String)</InterfaceMember>
         <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaSite.GetEventSourceInstance(System.String,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -160,6 +180,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaSite.GetGlobalInstance(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaSite.GetGlobalInstance(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaSite.GetGlobalInstance(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaSite.GetGlobalInstance(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaSite.GetGlobalInstance(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaSite.GetGlobalInstance(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaSite.GetGlobalInstance(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaSite.GetGlobalInstance(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaSite.GetGlobalInstance(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaSite.GetGlobalInstance(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaSite.GetGlobalInstance(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.JScript</AssemblyName>
@@ -187,6 +217,16 @@
       <MemberSignature Language="F#" Value="abstract member Notify : string * obj -&gt; unit&#xA;override this.Notify : string * obj -&gt; unit" Usage="baseVsaSite.Notify (notify, optional)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaSite.Notify(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaSite.Notify(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaSite.Notify(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaSite.Notify(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaSite.Notify(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaSite.Notify(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaSite.Notify(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaSite.Notify(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaSite.Notify(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaSite.Notify(System.String,System.Object)</InterfaceMember>
         <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaSite.Notify(System.String,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -216,6 +256,16 @@
       <MemberSignature Language="F#" Value="abstract member OnCompilerError : Microsoft.JScript.Vsa.IJSVsaError -&gt; bool&#xA;override this.OnCompilerError : Microsoft.JScript.Vsa.IJSVsaError -&gt; bool" Usage="baseVsaSite.OnCompilerError error" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaSite.OnCompilerError(Microsoft.JScript.Vsa.IJSVsaError)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaSite.OnCompilerError(Microsoft.JScript.Vsa.IJSVsaError)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaSite.OnCompilerError(Microsoft.JScript.Vsa.IJSVsaError)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaSite.OnCompilerError(Microsoft.JScript.Vsa.IJSVsaError)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaSite.OnCompilerError(Microsoft.JScript.Vsa.IJSVsaError)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaSite.OnCompilerError(Microsoft.JScript.Vsa.IJSVsaError)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaSite.OnCompilerError(Microsoft.JScript.Vsa.IJSVsaError)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaSite.OnCompilerError(Microsoft.JScript.Vsa.IJSVsaError)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaSite.OnCompilerError(Microsoft.JScript.Vsa.IJSVsaError)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaSite.OnCompilerError(Microsoft.JScript.Vsa.IJSVsaError)</InterfaceMember>
         <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaSite.OnCompilerError(Microsoft.JScript.Vsa.IJSVsaError)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

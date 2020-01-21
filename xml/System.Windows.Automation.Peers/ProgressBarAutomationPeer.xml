@@ -135,6 +135,20 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Windows.Automation.Provider.IRangeValueProvider.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IRangeValueProvider.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IRangeValueProvider.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IRangeValueProvider.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IRangeValueProvider.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IRangeValueProvider.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IRangeValueProvider.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IRangeValueProvider.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IRangeValueProvider.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IRangeValueProvider.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IRangeValueProvider.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IRangeValueProvider.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IRangeValueProvider.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IRangeValueProvider.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IRangeValueProvider.IsReadOnly</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -161,6 +175,20 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Windows.Automation.Provider.IRangeValueProvider.LargeChange</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IRangeValueProvider.LargeChange</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IRangeValueProvider.LargeChange</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IRangeValueProvider.LargeChange</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IRangeValueProvider.LargeChange</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IRangeValueProvider.LargeChange</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IRangeValueProvider.LargeChange</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IRangeValueProvider.LargeChange</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IRangeValueProvider.LargeChange</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IRangeValueProvider.LargeChange</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IRangeValueProvider.LargeChange</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IRangeValueProvider.LargeChange</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IRangeValueProvider.LargeChange</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IRangeValueProvider.LargeChange</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IRangeValueProvider.LargeChange</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -184,6 +212,20 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Windows.Automation.Provider.IRangeValueProvider.SetValue(double val) = System::Windows::Automation::Provider::IRangeValueProvider::SetValue;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IRangeValueProvider.SetValue(System.Double)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IRangeValueProvider.SetValue(System.Double)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IRangeValueProvider.SetValue(System.Double)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IRangeValueProvider.SetValue(System.Double)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IRangeValueProvider.SetValue(System.Double)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IRangeValueProvider.SetValue(System.Double)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IRangeValueProvider.SetValue(System.Double)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IRangeValueProvider.SetValue(System.Double)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IRangeValueProvider.SetValue(System.Double)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IRangeValueProvider.SetValue(System.Double)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IRangeValueProvider.SetValue(System.Double)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IRangeValueProvider.SetValue(System.Double)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IRangeValueProvider.SetValue(System.Double)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Automation.Provider.IRangeValueProvider.SetValue(System.Double)</InterfaceMember>
         <InterfaceMember>M:System.Windows.Automation.Provider.IRangeValueProvider.SetValue(System.Double)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -212,6 +254,20 @@
       <MemberSignature Language="F#" Usage="System.Windows.Automation.Provider.IRangeValueProvider.SmallChange" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IRangeValueProvider.SmallChange</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IRangeValueProvider.SmallChange</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IRangeValueProvider.SmallChange</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IRangeValueProvider.SmallChange</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IRangeValueProvider.SmallChange</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IRangeValueProvider.SmallChange</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IRangeValueProvider.SmallChange</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IRangeValueProvider.SmallChange</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IRangeValueProvider.SmallChange</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IRangeValueProvider.SmallChange</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IRangeValueProvider.SmallChange</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IRangeValueProvider.SmallChange</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IRangeValueProvider.SmallChange</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Automation.Provider.IRangeValueProvider.SmallChange</InterfaceMember>
         <InterfaceMember>P:System.Windows.Automation.Provider.IRangeValueProvider.SmallChange</InterfaceMember>
       </Implements>
       <AssemblyInfo>

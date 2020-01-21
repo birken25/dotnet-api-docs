@@ -1266,6 +1266,19 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -1302,6 +1315,19 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Web::UI::IHierarchicalEnumerable ^ System.Web.UI.IHierarchyData.GetChildren() = System::Web::UI::IHierarchyData::GetChildren;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.UI.IHierarchyData.GetChildren</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IHierarchyData.GetChildren</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IHierarchyData.GetChildren</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IHierarchyData.GetChildren</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IHierarchyData.GetChildren</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IHierarchyData.GetChildren</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IHierarchyData.GetChildren</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IHierarchyData.GetChildren</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IHierarchyData.GetChildren</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IHierarchyData.GetChildren</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IHierarchyData.GetChildren</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IHierarchyData.GetChildren</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IHierarchyData.GetChildren</InterfaceMember>
         <InterfaceMember>M:System.Web.UI.IHierarchyData.GetChildren</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1344,6 +1370,19 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.UI.IHierarchyData.GetParent</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IHierarchyData.GetParent</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IHierarchyData.GetParent</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IHierarchyData.GetParent</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IHierarchyData.GetParent</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IHierarchyData.GetParent</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IHierarchyData.GetParent</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IHierarchyData.GetParent</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IHierarchyData.GetParent</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IHierarchyData.GetParent</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IHierarchyData.GetParent</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IHierarchyData.GetParent</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IHierarchyData.GetParent</InterfaceMember>
+        <InterfaceMember>M:System.Web.UI.IHierarchyData.GetParent</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -1380,6 +1419,19 @@
       <MemberSignature Language="F#" Usage="System.Web.UI.IHierarchyData.HasChildren" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Web.UI.IHierarchyData.HasChildren</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IHierarchyData.HasChildren</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IHierarchyData.HasChildren</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IHierarchyData.HasChildren</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IHierarchyData.HasChildren</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IHierarchyData.HasChildren</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IHierarchyData.HasChildren</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IHierarchyData.HasChildren</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IHierarchyData.HasChildren</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IHierarchyData.HasChildren</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IHierarchyData.HasChildren</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IHierarchyData.HasChildren</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IHierarchyData.HasChildren</InterfaceMember>
         <InterfaceMember>P:System.Web.UI.IHierarchyData.HasChildren</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1423,6 +1475,19 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.UI.IHierarchyData.Item</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IHierarchyData.Item</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IHierarchyData.Item</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IHierarchyData.Item</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IHierarchyData.Item</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IHierarchyData.Item</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IHierarchyData.Item</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IHierarchyData.Item</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IHierarchyData.Item</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IHierarchyData.Item</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IHierarchyData.Item</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IHierarchyData.Item</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IHierarchyData.Item</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IHierarchyData.Item</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -1455,6 +1520,19 @@
       <MemberSignature Language="F#" Usage="System.Web.UI.IHierarchyData.Path" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Web.UI.IHierarchyData.Path</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IHierarchyData.Path</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IHierarchyData.Path</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IHierarchyData.Path</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IHierarchyData.Path</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IHierarchyData.Path</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IHierarchyData.Path</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IHierarchyData.Path</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IHierarchyData.Path</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IHierarchyData.Path</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IHierarchyData.Path</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IHierarchyData.Path</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IHierarchyData.Path</InterfaceMember>
         <InterfaceMember>P:System.Web.UI.IHierarchyData.Path</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1497,6 +1575,19 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.UI.IHierarchyData.Type</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IHierarchyData.Type</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IHierarchyData.Type</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IHierarchyData.Type</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IHierarchyData.Type</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IHierarchyData.Type</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IHierarchyData.Type</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IHierarchyData.Type</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IHierarchyData.Type</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IHierarchyData.Type</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IHierarchyData.Type</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IHierarchyData.Type</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IHierarchyData.Type</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.IHierarchyData.Type</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -1529,6 +1620,19 @@
       <MemberSignature Language="F#" Usage="System.Web.UI.INavigateUIData.Description" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Web.UI.INavigateUIData.Description</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.INavigateUIData.Description</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.INavigateUIData.Description</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.INavigateUIData.Description</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.INavigateUIData.Description</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.INavigateUIData.Description</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.INavigateUIData.Description</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.INavigateUIData.Description</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.INavigateUIData.Description</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.INavigateUIData.Description</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.INavigateUIData.Description</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.INavigateUIData.Description</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.INavigateUIData.Description</InterfaceMember>
         <InterfaceMember>P:System.Web.UI.INavigateUIData.Description</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1569,6 +1673,19 @@
       <MemberSignature Language="F#" Usage="System.Web.UI.INavigateUIData.Name" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Web.UI.INavigateUIData.Name</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.INavigateUIData.Name</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.INavigateUIData.Name</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.INavigateUIData.Name</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.INavigateUIData.Name</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.INavigateUIData.Name</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.INavigateUIData.Name</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.INavigateUIData.Name</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.INavigateUIData.Name</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.INavigateUIData.Name</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.INavigateUIData.Name</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.INavigateUIData.Name</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.INavigateUIData.Name</InterfaceMember>
         <InterfaceMember>P:System.Web.UI.INavigateUIData.Name</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1611,6 +1728,19 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.UI.INavigateUIData.NavigateUrl</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.INavigateUIData.NavigateUrl</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.INavigateUIData.NavigateUrl</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.INavigateUIData.NavigateUrl</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.INavigateUIData.NavigateUrl</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.INavigateUIData.NavigateUrl</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.INavigateUIData.NavigateUrl</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.INavigateUIData.NavigateUrl</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.INavigateUIData.NavigateUrl</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.INavigateUIData.NavigateUrl</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.INavigateUIData.NavigateUrl</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.INavigateUIData.NavigateUrl</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.INavigateUIData.NavigateUrl</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.INavigateUIData.NavigateUrl</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -1650,6 +1780,19 @@
       <MemberSignature Language="F#" Usage="System.Web.UI.INavigateUIData.Value" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Web.UI.INavigateUIData.Value</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.INavigateUIData.Value</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.INavigateUIData.Value</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.INavigateUIData.Value</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.INavigateUIData.Value</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.INavigateUIData.Value</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.INavigateUIData.Value</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.INavigateUIData.Value</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.INavigateUIData.Value</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.INavigateUIData.Value</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.INavigateUIData.Value</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.INavigateUIData.Value</InterfaceMember>
+        <InterfaceMember>P:System.Web.UI.INavigateUIData.Value</InterfaceMember>
         <InterfaceMember>P:System.Web.UI.INavigateUIData.Value</InterfaceMember>
       </Implements>
       <AssemblyInfo>

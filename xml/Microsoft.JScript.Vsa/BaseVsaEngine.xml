@@ -105,6 +105,16 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Assembly</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Assembly</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Assembly</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Assembly</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Assembly</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Assembly</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Assembly</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Assembly</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Assembly</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Assembly</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Assembly</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.JScript</AssemblyName>
@@ -149,6 +159,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.Close</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.Close</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.Close</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.Close</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.Close</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.Close</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.Close</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.Close</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.Close</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.Close</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.Close</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.JScript</AssemblyName>
@@ -172,6 +192,16 @@
       <MemberSignature Language="F#" Value="abstract member Compile : unit -&gt; bool&#xA;override this.Compile : unit -&gt; bool" Usage="baseVsaEngine.Compile " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.Compile</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.Compile</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.Compile</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.Compile</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.Compile</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.Compile</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.Compile</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.Compile</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.Compile</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.Compile</InterfaceMember>
         <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.Compile</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -442,6 +472,16 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Evidence</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Evidence</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Evidence</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Evidence</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Evidence</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Evidence</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Evidence</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Evidence</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Evidence</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Evidence</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Evidence</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.JScript</AssemblyName>
@@ -526,6 +566,16 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.GenerateDebugInfo</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.GenerateDebugInfo</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.GenerateDebugInfo</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.GenerateDebugInfo</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.GenerateDebugInfo</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.GenerateDebugInfo</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.GenerateDebugInfo</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.GenerateDebugInfo</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.GenerateDebugInfo</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.GenerateDebugInfo</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.GenerateDebugInfo</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.JScript</AssemblyName>
@@ -576,6 +626,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.GetOption(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.GetOption(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.GetOption(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.GetOption(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.GetOption(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.GetOption(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.GetOption(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.GetOption(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.GetOption(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.GetOption(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.GetOption(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.JScript</AssemblyName>
@@ -624,6 +684,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.InitNew</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.InitNew</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.InitNew</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.InitNew</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.InitNew</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.InitNew</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.InitNew</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.InitNew</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.InitNew</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.InitNew</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.InitNew</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.JScript</AssemblyName>
@@ -667,6 +737,16 @@
       <MemberSignature Language="F#" Value="member this.IsCompiled : bool" Usage="Microsoft.JScript.Vsa.BaseVsaEngine.IsCompiled" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.IsCompiled</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.IsCompiled</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.IsCompiled</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.IsCompiled</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.IsCompiled</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.IsCompiled</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.IsCompiled</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.IsCompiled</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.IsCompiled</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.IsCompiled</InterfaceMember>
         <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.IsCompiled</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -815,6 +895,16 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.IsRunning</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.IsRunning</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.IsRunning</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.IsRunning</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.IsRunning</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.IsRunning</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.IsRunning</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.IsRunning</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.IsRunning</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.IsRunning</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.IsRunning</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.JScript</AssemblyName>
@@ -839,6 +929,16 @@
       <MemberSignature Language="F#" Value="abstract member IsValidIdentifier : string -&gt; bool" Usage="baseVsaEngine.IsValidIdentifier ident" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.IsValidIdentifier(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.IsValidIdentifier(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.IsValidIdentifier(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.IsValidIdentifier(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.IsValidIdentifier(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.IsValidIdentifier(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.IsValidIdentifier(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.IsValidIdentifier(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.IsValidIdentifier(System.String)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.IsValidIdentifier(System.String)</InterfaceMember>
         <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.IsValidIdentifier(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -895,6 +995,16 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Items</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Items</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Items</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Items</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Items</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Items</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Items</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Items</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Items</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Items</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Items</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.JScript</AssemblyName>
@@ -919,6 +1029,16 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Language</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Language</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Language</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Language</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Language</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Language</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Language</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Language</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Language</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Language</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Language</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.JScript</AssemblyName>
@@ -942,6 +1062,16 @@
       <MemberSignature Language="F#" Value="member this.LCID : int with get, set" Usage="Microsoft.JScript.Vsa.BaseVsaEngine.LCID" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.LCID</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.LCID</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.LCID</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.LCID</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.LCID</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.LCID</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.LCID</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.LCID</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.LCID</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.LCID</InterfaceMember>
         <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.LCID</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1009,6 +1139,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.LoadSourceState(Microsoft.JScript.Vsa.IJSVsaPersistSite)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.LoadSourceState(Microsoft.JScript.Vsa.IJSVsaPersistSite)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.LoadSourceState(Microsoft.JScript.Vsa.IJSVsaPersistSite)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.LoadSourceState(Microsoft.JScript.Vsa.IJSVsaPersistSite)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.LoadSourceState(Microsoft.JScript.Vsa.IJSVsaPersistSite)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.LoadSourceState(Microsoft.JScript.Vsa.IJSVsaPersistSite)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.LoadSourceState(Microsoft.JScript.Vsa.IJSVsaPersistSite)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.LoadSourceState(Microsoft.JScript.Vsa.IJSVsaPersistSite)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.LoadSourceState(Microsoft.JScript.Vsa.IJSVsaPersistSite)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.LoadSourceState(Microsoft.JScript.Vsa.IJSVsaPersistSite)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.LoadSourceState(Microsoft.JScript.Vsa.IJSVsaPersistSite)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.JScript</AssemblyName>
@@ -1035,6 +1175,16 @@
       <MemberSignature Language="F#" Value="member this.Name : string with get, set" Usage="Microsoft.JScript.Vsa.BaseVsaEngine.Name" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Name</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Name</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Name</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Name</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Name</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Name</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Name</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Name</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Name</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Name</InterfaceMember>
         <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Name</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1104,6 +1254,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.Reset</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.Reset</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.Reset</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.Reset</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.Reset</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.Reset</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.Reset</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.Reset</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.Reset</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.Reset</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.Reset</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.JScript</AssemblyName>
@@ -1149,6 +1309,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.RevokeCache</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.RevokeCache</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.RevokeCache</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.RevokeCache</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.RevokeCache</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.RevokeCache</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.RevokeCache</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.RevokeCache</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.RevokeCache</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.RevokeCache</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.RevokeCache</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.JScript</AssemblyName>
@@ -1172,6 +1342,16 @@
       <MemberSignature Language="F#" Value="member this.RootMoniker : string with get, set" Usage="Microsoft.JScript.Vsa.BaseVsaEngine.RootMoniker" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.RootMoniker</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.RootMoniker</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.RootMoniker</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.RootMoniker</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.RootMoniker</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.RootMoniker</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.RootMoniker</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.RootMoniker</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.RootMoniker</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.RootMoniker</InterfaceMember>
         <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.RootMoniker</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1217,6 +1397,16 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.RootNamespace</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.RootNamespace</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.RootNamespace</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.RootNamespace</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.RootNamespace</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.RootNamespace</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.RootNamespace</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.RootNamespace</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.RootNamespace</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.RootNamespace</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.RootNamespace</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.JScript</AssemblyName>
@@ -1241,6 +1431,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.Run</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.Run</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.Run</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.Run</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.Run</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.Run</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.Run</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.Run</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.Run</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.Run</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.Run</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.JScript</AssemblyName>
@@ -1264,6 +1464,16 @@
       <MemberSignature Language="F#" Value="abstract member SaveCompiledState : Byte[] * Byte[] -&gt; unit&#xA;override this.SaveCompiledState : Byte[] * Byte[] -&gt; unit" Usage="baseVsaEngine.SaveCompiledState (pe, debugInfo)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.SaveCompiledState(System.Byte[]@,System.Byte[]@)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.SaveCompiledState(System.Byte[]@,System.Byte[]@)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.SaveCompiledState(System.Byte[]@,System.Byte[]@)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.SaveCompiledState(System.Byte[]@,System.Byte[]@)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.SaveCompiledState(System.Byte[]@,System.Byte[]@)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.SaveCompiledState(System.Byte[]@,System.Byte[]@)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.SaveCompiledState(System.Byte[]@,System.Byte[]@)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.SaveCompiledState(System.Byte[]@,System.Byte[]@)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.SaveCompiledState(System.Byte[]@,System.Byte[]@)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.SaveCompiledState(System.Byte[]@,System.Byte[]@)</InterfaceMember>
         <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.SaveCompiledState(System.Byte[]@,System.Byte[]@)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1293,6 +1503,16 @@
       <MemberSignature Language="F#" Value="abstract member SaveSourceState : Microsoft.JScript.Vsa.IJSVsaPersistSite -&gt; unit&#xA;override this.SaveSourceState : Microsoft.JScript.Vsa.IJSVsaPersistSite -&gt; unit" Usage="baseVsaEngine.SaveSourceState site" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.SaveSourceState(Microsoft.JScript.Vsa.IJSVsaPersistSite)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.SaveSourceState(Microsoft.JScript.Vsa.IJSVsaPersistSite)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.SaveSourceState(Microsoft.JScript.Vsa.IJSVsaPersistSite)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.SaveSourceState(Microsoft.JScript.Vsa.IJSVsaPersistSite)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.SaveSourceState(Microsoft.JScript.Vsa.IJSVsaPersistSite)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.SaveSourceState(Microsoft.JScript.Vsa.IJSVsaPersistSite)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.SaveSourceState(Microsoft.JScript.Vsa.IJSVsaPersistSite)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.SaveSourceState(Microsoft.JScript.Vsa.IJSVsaPersistSite)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.SaveSourceState(Microsoft.JScript.Vsa.IJSVsaPersistSite)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.SaveSourceState(Microsoft.JScript.Vsa.IJSVsaPersistSite)</InterfaceMember>
         <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.SaveSourceState(Microsoft.JScript.Vsa.IJSVsaPersistSite)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1367,6 +1587,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.SetOption(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.SetOption(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.SetOption(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.SetOption(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.SetOption(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.SetOption(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.SetOption(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.SetOption(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.SetOption(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.SetOption(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:Microsoft.JScript.Vsa.IJSVsaEngine.SetOption(System.String,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.JScript</AssemblyName>
@@ -1395,6 +1625,16 @@
       <MemberSignature Language="F#" Value="member this.Site : Microsoft.JScript.Vsa.IJSVsaSite with get, set" Usage="Microsoft.JScript.Vsa.BaseVsaEngine.Site" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Site</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Site</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Site</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Site</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Site</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Site</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Site</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Site</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Site</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Site</InterfaceMember>
         <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Site</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1483,6 +1723,16 @@
       <MemberSignature Language="F#" Value="member this.Version : string" Usage="Microsoft.JScript.Vsa.BaseVsaEngine.Version" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Version</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Version</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Version</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Version</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Version</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Version</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Version</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Version</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Version</InterfaceMember>
+        <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Version</InterfaceMember>
         <InterfaceMember>P:Microsoft.JScript.Vsa.IJSVsaEngine.Version</InterfaceMember>
       </Implements>
       <AssemblyInfo>

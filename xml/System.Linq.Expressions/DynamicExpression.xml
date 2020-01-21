@@ -192,6 +192,30 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Linq.Expressions.IDynamicExpression.DelegateType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.Expressions.IDynamicExpression.DelegateType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.Expressions.IDynamicExpression.DelegateType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.Expressions.IDynamicExpression.DelegateType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.Expressions.IDynamicExpression.DelegateType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.Expressions.IDynamicExpression.DelegateType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.Expressions.IDynamicExpression.DelegateType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.Expressions.IDynamicExpression.DelegateType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.Expressions.IDynamicExpression.DelegateType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.Expressions.IDynamicExpression.DelegateType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.Expressions.IDynamicExpression.DelegateType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.Expressions.IDynamicExpression.DelegateType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.Expressions.IDynamicExpression.DelegateType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.Expressions.IDynamicExpression.DelegateType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.Expressions.IDynamicExpression.DelegateType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.Expressions.IDynamicExpression.DelegateType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.Expressions.IDynamicExpression.DelegateType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.Expressions.IDynamicExpression.DelegateType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.Expressions.IDynamicExpression.DelegateType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.Expressions.IDynamicExpression.DelegateType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.Expressions.IDynamicExpression.DelegateType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.Expressions.IDynamicExpression.DelegateType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.Expressions.IDynamicExpression.DelegateType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.Expressions.IDynamicExpression.DelegateType</InterfaceMember>
+        <InterfaceMember>P:System.Linq.Expressions.IDynamicExpression.DelegateType</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Dynamic.Runtime</AssemblyName>
@@ -910,6 +934,30 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Linq.Expressions.IArgumentProvider.ArgumentCount</InterfaceMember>
+        <InterfaceMember>P:System.Linq.Expressions.IArgumentProvider.ArgumentCount</InterfaceMember>
+        <InterfaceMember>P:System.Linq.Expressions.IArgumentProvider.ArgumentCount</InterfaceMember>
+        <InterfaceMember>P:System.Linq.Expressions.IArgumentProvider.ArgumentCount</InterfaceMember>
+        <InterfaceMember>P:System.Linq.Expressions.IArgumentProvider.ArgumentCount</InterfaceMember>
+        <InterfaceMember>P:System.Linq.Expressions.IArgumentProvider.ArgumentCount</InterfaceMember>
+        <InterfaceMember>P:System.Linq.Expressions.IArgumentProvider.ArgumentCount</InterfaceMember>
+        <InterfaceMember>P:System.Linq.Expressions.IArgumentProvider.ArgumentCount</InterfaceMember>
+        <InterfaceMember>P:System.Linq.Expressions.IArgumentProvider.ArgumentCount</InterfaceMember>
+        <InterfaceMember>P:System.Linq.Expressions.IArgumentProvider.ArgumentCount</InterfaceMember>
+        <InterfaceMember>P:System.Linq.Expressions.IArgumentProvider.ArgumentCount</InterfaceMember>
+        <InterfaceMember>P:System.Linq.Expressions.IArgumentProvider.ArgumentCount</InterfaceMember>
+        <InterfaceMember>P:System.Linq.Expressions.IArgumentProvider.ArgumentCount</InterfaceMember>
+        <InterfaceMember>P:System.Linq.Expressions.IArgumentProvider.ArgumentCount</InterfaceMember>
+        <InterfaceMember>P:System.Linq.Expressions.IArgumentProvider.ArgumentCount</InterfaceMember>
+        <InterfaceMember>P:System.Linq.Expressions.IArgumentProvider.ArgumentCount</InterfaceMember>
+        <InterfaceMember>P:System.Linq.Expressions.IArgumentProvider.ArgumentCount</InterfaceMember>
+        <InterfaceMember>P:System.Linq.Expressions.IArgumentProvider.ArgumentCount</InterfaceMember>
+        <InterfaceMember>P:System.Linq.Expressions.IArgumentProvider.ArgumentCount</InterfaceMember>
+        <InterfaceMember>P:System.Linq.Expressions.IArgumentProvider.ArgumentCount</InterfaceMember>
+        <InterfaceMember>P:System.Linq.Expressions.IArgumentProvider.ArgumentCount</InterfaceMember>
+        <InterfaceMember>P:System.Linq.Expressions.IArgumentProvider.ArgumentCount</InterfaceMember>
+        <InterfaceMember>P:System.Linq.Expressions.IArgumentProvider.ArgumentCount</InterfaceMember>
+        <InterfaceMember>P:System.Linq.Expressions.IArgumentProvider.ArgumentCount</InterfaceMember>
+        <InterfaceMember>P:System.Linq.Expressions.IArgumentProvider.ArgumentCount</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Dynamic.Runtime</AssemblyName>
@@ -948,6 +996,30 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Linq::Expressions::Expression ^ System.Linq.Expressions.IArgumentProvider.GetArgument(int index) = System::Linq::Expressions::IArgumentProvider::GetArgument;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Linq.Expressions.IArgumentProvider.GetArgument(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IArgumentProvider.GetArgument(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IArgumentProvider.GetArgument(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IArgumentProvider.GetArgument(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IArgumentProvider.GetArgument(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IArgumentProvider.GetArgument(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IArgumentProvider.GetArgument(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IArgumentProvider.GetArgument(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IArgumentProvider.GetArgument(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IArgumentProvider.GetArgument(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IArgumentProvider.GetArgument(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IArgumentProvider.GetArgument(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IArgumentProvider.GetArgument(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IArgumentProvider.GetArgument(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IArgumentProvider.GetArgument(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IArgumentProvider.GetArgument(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IArgumentProvider.GetArgument(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IArgumentProvider.GetArgument(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IArgumentProvider.GetArgument(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IArgumentProvider.GetArgument(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IArgumentProvider.GetArgument(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IArgumentProvider.GetArgument(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IArgumentProvider.GetArgument(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IArgumentProvider.GetArgument(System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Linq.Expressions.IArgumentProvider.GetArgument(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -992,6 +1064,30 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Linq.Expressions.IDynamicExpression.CreateCallSite</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IDynamicExpression.CreateCallSite</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IDynamicExpression.CreateCallSite</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IDynamicExpression.CreateCallSite</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IDynamicExpression.CreateCallSite</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IDynamicExpression.CreateCallSite</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IDynamicExpression.CreateCallSite</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IDynamicExpression.CreateCallSite</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IDynamicExpression.CreateCallSite</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IDynamicExpression.CreateCallSite</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IDynamicExpression.CreateCallSite</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IDynamicExpression.CreateCallSite</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IDynamicExpression.CreateCallSite</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IDynamicExpression.CreateCallSite</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IDynamicExpression.CreateCallSite</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IDynamicExpression.CreateCallSite</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IDynamicExpression.CreateCallSite</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IDynamicExpression.CreateCallSite</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IDynamicExpression.CreateCallSite</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IDynamicExpression.CreateCallSite</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IDynamicExpression.CreateCallSite</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IDynamicExpression.CreateCallSite</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IDynamicExpression.CreateCallSite</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IDynamicExpression.CreateCallSite</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IDynamicExpression.CreateCallSite</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Dynamic.Runtime</AssemblyName>
@@ -1031,6 +1127,30 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Linq::Expressions::Expression ^ System.Linq.Expressions.IDynamicExpression.Rewrite(cli::array &lt;System::Linq::Expressions::Expression ^&gt; ^ args) = System::Linq::Expressions::IDynamicExpression::Rewrite;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Linq.Expressions.IDynamicExpression.Rewrite(System.Linq.Expressions.Expression[])</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IDynamicExpression.Rewrite(System.Linq.Expressions.Expression[])</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IDynamicExpression.Rewrite(System.Linq.Expressions.Expression[])</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IDynamicExpression.Rewrite(System.Linq.Expressions.Expression[])</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IDynamicExpression.Rewrite(System.Linq.Expressions.Expression[])</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IDynamicExpression.Rewrite(System.Linq.Expressions.Expression[])</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IDynamicExpression.Rewrite(System.Linq.Expressions.Expression[])</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IDynamicExpression.Rewrite(System.Linq.Expressions.Expression[])</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IDynamicExpression.Rewrite(System.Linq.Expressions.Expression[])</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IDynamicExpression.Rewrite(System.Linq.Expressions.Expression[])</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IDynamicExpression.Rewrite(System.Linq.Expressions.Expression[])</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IDynamicExpression.Rewrite(System.Linq.Expressions.Expression[])</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IDynamicExpression.Rewrite(System.Linq.Expressions.Expression[])</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IDynamicExpression.Rewrite(System.Linq.Expressions.Expression[])</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IDynamicExpression.Rewrite(System.Linq.Expressions.Expression[])</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IDynamicExpression.Rewrite(System.Linq.Expressions.Expression[])</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IDynamicExpression.Rewrite(System.Linq.Expressions.Expression[])</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IDynamicExpression.Rewrite(System.Linq.Expressions.Expression[])</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IDynamicExpression.Rewrite(System.Linq.Expressions.Expression[])</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IDynamicExpression.Rewrite(System.Linq.Expressions.Expression[])</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IDynamicExpression.Rewrite(System.Linq.Expressions.Expression[])</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IDynamicExpression.Rewrite(System.Linq.Expressions.Expression[])</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IDynamicExpression.Rewrite(System.Linq.Expressions.Expression[])</InterfaceMember>
+        <InterfaceMember>M:System.Linq.Expressions.IDynamicExpression.Rewrite(System.Linq.Expressions.Expression[])</InterfaceMember>
         <InterfaceMember>M:System.Linq.Expressions.IDynamicExpression.Rewrite(System.Linq.Expressions.Expression[])</InterfaceMember>
       </Implements>
       <AssemblyInfo>

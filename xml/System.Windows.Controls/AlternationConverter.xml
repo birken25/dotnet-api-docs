@@ -74,6 +74,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Data.IValueConverter.Convert(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Data.IValueConverter.Convert(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Data.IValueConverter.Convert(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Data.IValueConverter.Convert(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Data.IValueConverter.Convert(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Data.IValueConverter.Convert(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Data.IValueConverter.Convert(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Data.IValueConverter.Convert(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Data.IValueConverter.Convert(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Data.IValueConverter.Convert(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Data.IValueConverter.Convert(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Data.IValueConverter.Convert(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Data.IValueConverter.Convert(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Data.IValueConverter.Convert(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Data.IValueConverter.Convert(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -108,6 +122,20 @@
       <MemberSignature Language="F#" Value="abstract member ConvertBack : obj * Type * obj * System.Globalization.CultureInfo -&gt; obj&#xA;override this.ConvertBack : obj * Type * obj * System.Globalization.CultureInfo -&gt; obj" Usage="alternationConverter.ConvertBack (o, targetType, parameter, culture)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Data.IValueConverter.ConvertBack(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Data.IValueConverter.ConvertBack(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Data.IValueConverter.ConvertBack(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Data.IValueConverter.ConvertBack(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Data.IValueConverter.ConvertBack(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Data.IValueConverter.ConvertBack(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Data.IValueConverter.ConvertBack(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Data.IValueConverter.ConvertBack(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Data.IValueConverter.ConvertBack(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Data.IValueConverter.ConvertBack(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Data.IValueConverter.ConvertBack(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Data.IValueConverter.ConvertBack(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Data.IValueConverter.ConvertBack(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Data.IValueConverter.ConvertBack(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)</InterfaceMember>
         <InterfaceMember>M:System.Windows.Data.IValueConverter.ConvertBack(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

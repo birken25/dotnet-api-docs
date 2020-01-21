@@ -102,6 +102,19 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.Abandon</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.Abandon</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.Abandon</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.Abandon</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.Abandon</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.Abandon</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.Abandon</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.Abandon</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.Abandon</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.Abandon</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.Abandon</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.Abandon</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.Abandon</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.Abandon</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -134,6 +147,19 @@
       <MemberSignature Language="F#" Value="abstract member Add : string * obj -&gt; unit&#xA;override this.Add : string * obj -&gt; unit" Usage="httpSessionStateContainer.Add (name, value)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.Add(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.Add(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.Add(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.Add(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.Add(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.Add(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.Add(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.Add(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.Add(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.Add(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.Add(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.Add(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.Add(System.String,System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.Add(System.String,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -173,6 +199,19 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.Clear</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -198,6 +237,19 @@
       <MemberSignature Language="F#" Value="member this.CodePage : int with get, set" Usage="System.Web.SessionState.HttpSessionStateContainer.CodePage" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.CodePage</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.CodePage</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.CodePage</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.CodePage</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.CodePage</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.CodePage</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.CodePage</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.CodePage</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.CodePage</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.CodePage</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.CodePage</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.CodePage</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.CodePage</InterfaceMember>
         <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.CodePage</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -233,6 +285,19 @@
       <MemberSignature Language="F#" Value="member this.CookieMode : System.Web.HttpCookieMode" Usage="System.Web.SessionState.HttpSessionStateContainer.CookieMode" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.CookieMode</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.CookieMode</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.CookieMode</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.CookieMode</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.CookieMode</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.CookieMode</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.CookieMode</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.CookieMode</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.CookieMode</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.CookieMode</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.CookieMode</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.CookieMode</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.CookieMode</InterfaceMember>
         <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.CookieMode</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -271,6 +336,19 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.CopyTo(System.Array,System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.CopyTo(System.Array,System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -302,6 +380,19 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Count</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Count</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Count</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Count</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Count</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Count</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Count</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Count</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Count</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Count</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Count</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Count</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Count</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Count</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -327,6 +418,19 @@
       <MemberSignature Language="F#" Value="abstract member GetEnumerator : unit -&gt; System.Collections.IEnumerator&#xA;override this.GetEnumerator : unit -&gt; System.Collections.IEnumerator" Usage="httpSessionStateContainer.GetEnumerator " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.GetEnumerator</InterfaceMember>
         <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.GetEnumerator</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -384,6 +488,19 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.IsCookieless</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.IsCookieless</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.IsCookieless</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.IsCookieless</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.IsCookieless</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.IsCookieless</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.IsCookieless</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.IsCookieless</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.IsCookieless</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.IsCookieless</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.IsCookieless</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.IsCookieless</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.IsCookieless</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.IsCookieless</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -419,6 +536,19 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.IsNewSession</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.IsNewSession</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.IsNewSession</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.IsNewSession</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.IsNewSession</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.IsNewSession</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.IsNewSession</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.IsNewSession</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.IsNewSession</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.IsNewSession</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.IsNewSession</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.IsNewSession</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.IsNewSession</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.IsNewSession</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -451,6 +581,19 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.IsReadOnly</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.IsReadOnly</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -482,6 +625,19 @@
       <MemberSignature Language="F#" Value="member this.IsSynchronized : bool" Usage="System.Web.SessionState.HttpSessionStateContainer.IsSynchronized" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.IsSynchronized</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.IsSynchronized</InterfaceMember>
         <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.IsSynchronized</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -526,6 +682,19 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Item(System.Int32)</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Item(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -555,6 +724,19 @@
       <MemberSignature Language="F#" Value="member this.Item(string) : obj with get, set" Usage="System.Web.SessionState.HttpSessionStateContainer.Item" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Item(System.String)</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Item(System.String)</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Item(System.String)</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Item(System.String)</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Item(System.String)</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Item(System.String)</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Item(System.String)</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Item(System.String)</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Item(System.String)</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Item(System.String)</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Item(System.String)</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Item(System.String)</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Item(System.String)</InterfaceMember>
         <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Item(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -586,6 +768,19 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Keys</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Keys</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Keys</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Keys</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Keys</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Keys</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Keys</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Keys</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Keys</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Keys</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Keys</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Keys</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Keys</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Keys</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -611,6 +806,19 @@
       <MemberSignature Language="F#" Value="member this.LCID : int with get, set" Usage="System.Web.SessionState.HttpSessionStateContainer.LCID" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.LCID</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.LCID</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.LCID</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.LCID</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.LCID</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.LCID</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.LCID</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.LCID</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.LCID</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.LCID</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.LCID</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.LCID</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.LCID</InterfaceMember>
         <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.LCID</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -646,6 +854,19 @@
       <MemberSignature Language="F#" Value="member this.Mode : System.Web.SessionState.SessionStateMode" Usage="System.Web.SessionState.HttpSessionStateContainer.Mode" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Mode</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Mode</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Mode</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Mode</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Mode</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Mode</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Mode</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Mode</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Mode</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Mode</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Mode</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Mode</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Mode</InterfaceMember>
         <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Mode</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -685,6 +906,19 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.Remove(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.Remove(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.Remove(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.Remove(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.Remove(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.Remove(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.Remove(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.Remove(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.Remove(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.Remove(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.Remove(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.Remove(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.Remove(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.Remove(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -720,6 +954,19 @@
       <MemberSignature Language="F#" Value="abstract member RemoveAll : unit -&gt; unit&#xA;override this.RemoveAll : unit -&gt; unit" Usage="httpSessionStateContainer.RemoveAll " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.RemoveAll</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.RemoveAll</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.RemoveAll</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.RemoveAll</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.RemoveAll</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.RemoveAll</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.RemoveAll</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.RemoveAll</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.RemoveAll</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.RemoveAll</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.RemoveAll</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.RemoveAll</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.RemoveAll</InterfaceMember>
         <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.RemoveAll</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -759,6 +1006,19 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.RemoveAt(System.Int32)</InterfaceMember>
+        <InterfaceMember>M:System.Web.SessionState.IHttpSessionState.RemoveAt(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -794,6 +1054,19 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.SessionID</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.SessionID</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.SessionID</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.SessionID</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.SessionID</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.SessionID</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.SessionID</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.SessionID</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.SessionID</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.SessionID</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.SessionID</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.SessionID</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.SessionID</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.SessionID</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -819,6 +1092,19 @@
       <MemberSignature Language="F#" Value="member this.StaticObjects : System.Web.HttpStaticObjectsCollection" Usage="System.Web.SessionState.HttpSessionStateContainer.StaticObjects" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.StaticObjects</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.StaticObjects</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.StaticObjects</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.StaticObjects</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.StaticObjects</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.StaticObjects</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.StaticObjects</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.StaticObjects</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.StaticObjects</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.StaticObjects</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.StaticObjects</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.StaticObjects</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.StaticObjects</InterfaceMember>
         <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.StaticObjects</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -860,6 +1146,19 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.SyncRoot</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.SyncRoot</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -885,6 +1184,19 @@
       <MemberSignature Language="F#" Value="member this.Timeout : int with get, set" Usage="System.Web.SessionState.HttpSessionStateContainer.Timeout" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Timeout</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Timeout</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Timeout</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Timeout</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Timeout</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Timeout</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Timeout</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Timeout</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Timeout</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Timeout</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Timeout</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Timeout</InterfaceMember>
+        <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Timeout</InterfaceMember>
         <InterfaceMember>P:System.Web.SessionState.IHttpSessionState.Timeout</InterfaceMember>
       </Implements>
       <AssemblyInfo>

@@ -44,6 +44,18 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.ServiceModel.IOnlineStatus.IsOnline</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IOnlineStatus.IsOnline</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IOnlineStatus.IsOnline</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IOnlineStatus.IsOnline</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IOnlineStatus.IsOnline</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IOnlineStatus.IsOnline</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IOnlineStatus.IsOnline</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IOnlineStatus.IsOnline</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IOnlineStatus.IsOnline</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IOnlineStatus.IsOnline</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IOnlineStatus.IsOnline</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IOnlineStatus.IsOnline</InterfaceMember>
+        <InterfaceMember>P:System.ServiceModel.IOnlineStatus.IsOnline</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -109,6 +121,18 @@
       <MemberType>Event</MemberType>
       <Implements>
         <InterfaceMember>E:System.ServiceModel.IOnlineStatus.Offline</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.IOnlineStatus.Offline</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.IOnlineStatus.Offline</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.IOnlineStatus.Offline</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.IOnlineStatus.Offline</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.IOnlineStatus.Offline</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.IOnlineStatus.Offline</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.IOnlineStatus.Offline</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.IOnlineStatus.Offline</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.IOnlineStatus.Offline</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.IOnlineStatus.Offline</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.IOnlineStatus.Offline</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.IOnlineStatus.Offline</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -140,6 +164,18 @@
       <MemberSignature Language="VB.NET" Value="Public Event Online As EventHandler " FrameworkAlternate="netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Event</MemberType>
       <Implements>
+        <InterfaceMember>E:System.ServiceModel.IOnlineStatus.Online</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.IOnlineStatus.Online</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.IOnlineStatus.Online</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.IOnlineStatus.Online</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.IOnlineStatus.Online</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.IOnlineStatus.Online</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.IOnlineStatus.Online</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.IOnlineStatus.Online</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.IOnlineStatus.Online</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.IOnlineStatus.Online</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.IOnlineStatus.Online</InterfaceMember>
+        <InterfaceMember>E:System.ServiceModel.IOnlineStatus.Online</InterfaceMember>
         <InterfaceMember>E:System.ServiceModel.IOnlineStatus.Online</InterfaceMember>
       </Implements>
       <AssemblyInfo>

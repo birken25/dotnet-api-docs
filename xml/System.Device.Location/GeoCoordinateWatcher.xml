@@ -237,6 +237,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
+        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Device</AssemblyName>
@@ -496,6 +506,16 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Device.Location.IGeoPositionWatcher`1.Position</InterfaceMember>
+        <InterfaceMember>P:System.Device.Location.IGeoPositionWatcher`1.Position</InterfaceMember>
+        <InterfaceMember>P:System.Device.Location.IGeoPositionWatcher`1.Position</InterfaceMember>
+        <InterfaceMember>P:System.Device.Location.IGeoPositionWatcher`1.Position</InterfaceMember>
+        <InterfaceMember>P:System.Device.Location.IGeoPositionWatcher`1.Position</InterfaceMember>
+        <InterfaceMember>P:System.Device.Location.IGeoPositionWatcher`1.Position</InterfaceMember>
+        <InterfaceMember>P:System.Device.Location.IGeoPositionWatcher`1.Position</InterfaceMember>
+        <InterfaceMember>P:System.Device.Location.IGeoPositionWatcher`1.Position</InterfaceMember>
+        <InterfaceMember>P:System.Device.Location.IGeoPositionWatcher`1.Position</InterfaceMember>
+        <InterfaceMember>P:System.Device.Location.IGeoPositionWatcher`1.Position</InterfaceMember>
+        <InterfaceMember>P:System.Device.Location.IGeoPositionWatcher`1.Position</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Device</AssemblyName>
@@ -535,6 +555,16 @@
       <MemberSignature Language="VB.NET" Value="Public Event PositionChanged As EventHandler(Of GeoPositionChangedEventArgs(Of GeoCoordinate)) " FrameworkAlternate="netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Event</MemberType>
       <Implements>
+        <InterfaceMember>E:System.Device.Location.IGeoPositionWatcher`1.PositionChanged</InterfaceMember>
+        <InterfaceMember>E:System.Device.Location.IGeoPositionWatcher`1.PositionChanged</InterfaceMember>
+        <InterfaceMember>E:System.Device.Location.IGeoPositionWatcher`1.PositionChanged</InterfaceMember>
+        <InterfaceMember>E:System.Device.Location.IGeoPositionWatcher`1.PositionChanged</InterfaceMember>
+        <InterfaceMember>E:System.Device.Location.IGeoPositionWatcher`1.PositionChanged</InterfaceMember>
+        <InterfaceMember>E:System.Device.Location.IGeoPositionWatcher`1.PositionChanged</InterfaceMember>
+        <InterfaceMember>E:System.Device.Location.IGeoPositionWatcher`1.PositionChanged</InterfaceMember>
+        <InterfaceMember>E:System.Device.Location.IGeoPositionWatcher`1.PositionChanged</InterfaceMember>
+        <InterfaceMember>E:System.Device.Location.IGeoPositionWatcher`1.PositionChanged</InterfaceMember>
+        <InterfaceMember>E:System.Device.Location.IGeoPositionWatcher`1.PositionChanged</InterfaceMember>
         <InterfaceMember>E:System.Device.Location.IGeoPositionWatcher`1.PositionChanged</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -585,6 +615,16 @@
       <MemberSignature Language="F#" Value="abstract member Start : unit -&gt; unit&#xA;override this.Start : unit -&gt; unit" Usage="geoCoordinateWatcher.Start " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Device.Location.IGeoPositionWatcher`1.Start</InterfaceMember>
+        <InterfaceMember>M:System.Device.Location.IGeoPositionWatcher`1.Start</InterfaceMember>
+        <InterfaceMember>M:System.Device.Location.IGeoPositionWatcher`1.Start</InterfaceMember>
+        <InterfaceMember>M:System.Device.Location.IGeoPositionWatcher`1.Start</InterfaceMember>
+        <InterfaceMember>M:System.Device.Location.IGeoPositionWatcher`1.Start</InterfaceMember>
+        <InterfaceMember>M:System.Device.Location.IGeoPositionWatcher`1.Start</InterfaceMember>
+        <InterfaceMember>M:System.Device.Location.IGeoPositionWatcher`1.Start</InterfaceMember>
+        <InterfaceMember>M:System.Device.Location.IGeoPositionWatcher`1.Start</InterfaceMember>
+        <InterfaceMember>M:System.Device.Location.IGeoPositionWatcher`1.Start</InterfaceMember>
+        <InterfaceMember>M:System.Device.Location.IGeoPositionWatcher`1.Start</InterfaceMember>
         <InterfaceMember>M:System.Device.Location.IGeoPositionWatcher`1.Start</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -638,6 +678,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Device.Location.IGeoPositionWatcher`1.Start(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Device.Location.IGeoPositionWatcher`1.Start(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Device.Location.IGeoPositionWatcher`1.Start(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Device.Location.IGeoPositionWatcher`1.Start(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Device.Location.IGeoPositionWatcher`1.Start(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Device.Location.IGeoPositionWatcher`1.Start(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Device.Location.IGeoPositionWatcher`1.Start(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Device.Location.IGeoPositionWatcher`1.Start(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Device.Location.IGeoPositionWatcher`1.Start(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Device.Location.IGeoPositionWatcher`1.Start(System.Boolean)</InterfaceMember>
+        <InterfaceMember>M:System.Device.Location.IGeoPositionWatcher`1.Start(System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Device</AssemblyName>
@@ -670,6 +720,16 @@
       <MemberSignature Language="F#" Value="member this.Status : System.Device.Location.GeoPositionStatus" Usage="System.Device.Location.GeoCoordinateWatcher.Status" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Device.Location.IGeoPositionWatcher`1.Status</InterfaceMember>
+        <InterfaceMember>P:System.Device.Location.IGeoPositionWatcher`1.Status</InterfaceMember>
+        <InterfaceMember>P:System.Device.Location.IGeoPositionWatcher`1.Status</InterfaceMember>
+        <InterfaceMember>P:System.Device.Location.IGeoPositionWatcher`1.Status</InterfaceMember>
+        <InterfaceMember>P:System.Device.Location.IGeoPositionWatcher`1.Status</InterfaceMember>
+        <InterfaceMember>P:System.Device.Location.IGeoPositionWatcher`1.Status</InterfaceMember>
+        <InterfaceMember>P:System.Device.Location.IGeoPositionWatcher`1.Status</InterfaceMember>
+        <InterfaceMember>P:System.Device.Location.IGeoPositionWatcher`1.Status</InterfaceMember>
+        <InterfaceMember>P:System.Device.Location.IGeoPositionWatcher`1.Status</InterfaceMember>
+        <InterfaceMember>P:System.Device.Location.IGeoPositionWatcher`1.Status</InterfaceMember>
         <InterfaceMember>P:System.Device.Location.IGeoPositionWatcher`1.Status</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -712,6 +772,16 @@
       <MemberType>Event</MemberType>
       <Implements>
         <InterfaceMember>E:System.Device.Location.IGeoPositionWatcher`1.StatusChanged</InterfaceMember>
+        <InterfaceMember>E:System.Device.Location.IGeoPositionWatcher`1.StatusChanged</InterfaceMember>
+        <InterfaceMember>E:System.Device.Location.IGeoPositionWatcher`1.StatusChanged</InterfaceMember>
+        <InterfaceMember>E:System.Device.Location.IGeoPositionWatcher`1.StatusChanged</InterfaceMember>
+        <InterfaceMember>E:System.Device.Location.IGeoPositionWatcher`1.StatusChanged</InterfaceMember>
+        <InterfaceMember>E:System.Device.Location.IGeoPositionWatcher`1.StatusChanged</InterfaceMember>
+        <InterfaceMember>E:System.Device.Location.IGeoPositionWatcher`1.StatusChanged</InterfaceMember>
+        <InterfaceMember>E:System.Device.Location.IGeoPositionWatcher`1.StatusChanged</InterfaceMember>
+        <InterfaceMember>E:System.Device.Location.IGeoPositionWatcher`1.StatusChanged</InterfaceMember>
+        <InterfaceMember>E:System.Device.Location.IGeoPositionWatcher`1.StatusChanged</InterfaceMember>
+        <InterfaceMember>E:System.Device.Location.IGeoPositionWatcher`1.StatusChanged</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Device</AssemblyName>
@@ -750,6 +820,16 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Device.Location.IGeoPositionWatcher`1.Stop</InterfaceMember>
+        <InterfaceMember>M:System.Device.Location.IGeoPositionWatcher`1.Stop</InterfaceMember>
+        <InterfaceMember>M:System.Device.Location.IGeoPositionWatcher`1.Stop</InterfaceMember>
+        <InterfaceMember>M:System.Device.Location.IGeoPositionWatcher`1.Stop</InterfaceMember>
+        <InterfaceMember>M:System.Device.Location.IGeoPositionWatcher`1.Stop</InterfaceMember>
+        <InterfaceMember>M:System.Device.Location.IGeoPositionWatcher`1.Stop</InterfaceMember>
+        <InterfaceMember>M:System.Device.Location.IGeoPositionWatcher`1.Stop</InterfaceMember>
+        <InterfaceMember>M:System.Device.Location.IGeoPositionWatcher`1.Stop</InterfaceMember>
+        <InterfaceMember>M:System.Device.Location.IGeoPositionWatcher`1.Stop</InterfaceMember>
+        <InterfaceMember>M:System.Device.Location.IGeoPositionWatcher`1.Stop</InterfaceMember>
+        <InterfaceMember>M:System.Device.Location.IGeoPositionWatcher`1.Stop</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Device</AssemblyName>
@@ -786,6 +866,15 @@
       <MemberType>Event</MemberType>
       <Implements>
         <InterfaceMember>E:System.ComponentModel.INotifyPropertyChanged.PropertyChanged</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.INotifyPropertyChanged.PropertyChanged</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.INotifyPropertyChanged.PropertyChanged</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.INotifyPropertyChanged.PropertyChanged</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.INotifyPropertyChanged.PropertyChanged</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.INotifyPropertyChanged.PropertyChanged</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.INotifyPropertyChanged.PropertyChanged</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.INotifyPropertyChanged.PropertyChanged</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.INotifyPropertyChanged.PropertyChanged</InterfaceMember>
+        <InterfaceMember>E:System.ComponentModel.INotifyPropertyChanged.PropertyChanged</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Device</AssemblyName>
@@ -815,6 +904,15 @@
       <MemberType>Event</MemberType>
       <Implements>
         <InterfaceMember>E:System.Device.Location.IGeoPositionWatcher`1.PositionChanged</InterfaceMember>
+        <InterfaceMember>E:System.Device.Location.IGeoPositionWatcher`1.PositionChanged</InterfaceMember>
+        <InterfaceMember>E:System.Device.Location.IGeoPositionWatcher`1.PositionChanged</InterfaceMember>
+        <InterfaceMember>E:System.Device.Location.IGeoPositionWatcher`1.PositionChanged</InterfaceMember>
+        <InterfaceMember>E:System.Device.Location.IGeoPositionWatcher`1.PositionChanged</InterfaceMember>
+        <InterfaceMember>E:System.Device.Location.IGeoPositionWatcher`1.PositionChanged</InterfaceMember>
+        <InterfaceMember>E:System.Device.Location.IGeoPositionWatcher`1.PositionChanged</InterfaceMember>
+        <InterfaceMember>E:System.Device.Location.IGeoPositionWatcher`1.PositionChanged</InterfaceMember>
+        <InterfaceMember>E:System.Device.Location.IGeoPositionWatcher`1.PositionChanged</InterfaceMember>
+        <InterfaceMember>E:System.Device.Location.IGeoPositionWatcher`1.PositionChanged</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Device</AssemblyName>
@@ -843,6 +941,15 @@
       <MemberSignature Language="VB.NET" Value="Custom Event StatusChanged As EventHandler(Of GeoPositionStatusChangedEventArgs) Implements System.Device.Location.IGeoPositionWatcher&lt;System.Device.Location.GeoCoordinate&gt;" />
       <MemberType>Event</MemberType>
       <Implements>
+        <InterfaceMember>E:System.Device.Location.IGeoPositionWatcher`1.StatusChanged</InterfaceMember>
+        <InterfaceMember>E:System.Device.Location.IGeoPositionWatcher`1.StatusChanged</InterfaceMember>
+        <InterfaceMember>E:System.Device.Location.IGeoPositionWatcher`1.StatusChanged</InterfaceMember>
+        <InterfaceMember>E:System.Device.Location.IGeoPositionWatcher`1.StatusChanged</InterfaceMember>
+        <InterfaceMember>E:System.Device.Location.IGeoPositionWatcher`1.StatusChanged</InterfaceMember>
+        <InterfaceMember>E:System.Device.Location.IGeoPositionWatcher`1.StatusChanged</InterfaceMember>
+        <InterfaceMember>E:System.Device.Location.IGeoPositionWatcher`1.StatusChanged</InterfaceMember>
+        <InterfaceMember>E:System.Device.Location.IGeoPositionWatcher`1.StatusChanged</InterfaceMember>
+        <InterfaceMember>E:System.Device.Location.IGeoPositionWatcher`1.StatusChanged</InterfaceMember>
         <InterfaceMember>E:System.Device.Location.IGeoPositionWatcher`1.StatusChanged</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -874,6 +981,16 @@
       <MemberSignature Language="F#" Value="abstract member TryStart : bool * TimeSpan -&gt; bool&#xA;override this.TryStart : bool * TimeSpan -&gt; bool" Usage="geoCoordinateWatcher.TryStart (suppressPermissionPrompt, timeout)" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Device.Location.IGeoPositionWatcher`1.TryStart(System.Boolean,System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.Device.Location.IGeoPositionWatcher`1.TryStart(System.Boolean,System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.Device.Location.IGeoPositionWatcher`1.TryStart(System.Boolean,System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.Device.Location.IGeoPositionWatcher`1.TryStart(System.Boolean,System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.Device.Location.IGeoPositionWatcher`1.TryStart(System.Boolean,System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.Device.Location.IGeoPositionWatcher`1.TryStart(System.Boolean,System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.Device.Location.IGeoPositionWatcher`1.TryStart(System.Boolean,System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.Device.Location.IGeoPositionWatcher`1.TryStart(System.Boolean,System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.Device.Location.IGeoPositionWatcher`1.TryStart(System.Boolean,System.TimeSpan)</InterfaceMember>
+        <InterfaceMember>M:System.Device.Location.IGeoPositionWatcher`1.TryStart(System.Boolean,System.TimeSpan)</InterfaceMember>
         <InterfaceMember>M:System.Device.Location.IGeoPositionWatcher`1.TryStart(System.Boolean,System.TimeSpan)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

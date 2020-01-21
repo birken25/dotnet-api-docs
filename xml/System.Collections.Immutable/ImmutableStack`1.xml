@@ -142,6 +142,13 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.Immutable.IImmutableStack`1.IsEmpty</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Immutable.IImmutableStack`1.IsEmpty</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Immutable.IImmutableStack`1.IsEmpty</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Immutable.IImmutableStack`1.IsEmpty</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Immutable.IImmutableStack`1.IsEmpty</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Immutable.IImmutableStack`1.IsEmpty</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Immutable.IImmutableStack`1.IsEmpty</InterfaceMember>
+        <InterfaceMember>P:System.Collections.Immutable.IImmutableStack`1.IsEmpty</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -172,6 +179,13 @@
       <MemberSignature Language="F#" Value="abstract member Peek : unit -&gt; 'T&#xA;override this.Peek : unit -&gt; 'T" Usage="immutableStack.Peek " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableStack`1.Peek</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableStack`1.Peek</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableStack`1.Peek</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableStack`1.Peek</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableStack`1.Peek</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableStack`1.Peek</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableStack`1.Peek</InterfaceMember>
         <InterfaceMember>M:System.Collections.Immutable.IImmutableStack`1.Peek</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -325,6 +339,11 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -361,6 +380,11 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Collections::IEnumerator ^ System.Collections.IEnumerable.GetEnumerator() = System::Collections::IEnumerable::GetEnumerator;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
+        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
         <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -399,6 +423,13 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.Immutable.IImmutableStack`1.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableStack`1.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableStack`1.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableStack`1.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableStack`1.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableStack`1.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableStack`1.Clear</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableStack`1.Clear</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -436,6 +467,13 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.Immutable.IImmutableStack`1.Pop</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableStack`1.Pop</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableStack`1.Pop</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableStack`1.Pop</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableStack`1.Pop</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableStack`1.Pop</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableStack`1.Pop</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableStack`1.Pop</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -472,6 +510,13 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Collections::Immutable::IImmutableStack&lt;T&gt; ^ System.Collections.Immutable.IImmutableStack&lt;T&gt;.Push(T value) = System::Collections::Immutable::IImmutableStack&lt;T&gt;::Push;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableStack`1.Push(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableStack`1.Push(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableStack`1.Push(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableStack`1.Push(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableStack`1.Push(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableStack`1.Push(`0)</InterfaceMember>
+        <InterfaceMember>M:System.Collections.Immutable.IImmutableStack`1.Push(`0)</InterfaceMember>
         <InterfaceMember>M:System.Collections.Immutable.IImmutableStack`1.Push(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

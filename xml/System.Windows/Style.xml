@@ -268,6 +268,18 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Windows.ISealable.IsSealed</InterfaceMember>
+        <InterfaceMember>P:System.Windows.ISealable.IsSealed</InterfaceMember>
+        <InterfaceMember>P:System.Windows.ISealable.IsSealed</InterfaceMember>
+        <InterfaceMember>P:System.Windows.ISealable.IsSealed</InterfaceMember>
+        <InterfaceMember>P:System.Windows.ISealable.IsSealed</InterfaceMember>
+        <InterfaceMember>P:System.Windows.ISealable.IsSealed</InterfaceMember>
+        <InterfaceMember>P:System.Windows.ISealable.IsSealed</InterfaceMember>
+        <InterfaceMember>P:System.Windows.ISealable.IsSealed</InterfaceMember>
+        <InterfaceMember>P:System.Windows.ISealable.IsSealed</InterfaceMember>
+        <InterfaceMember>P:System.Windows.ISealable.IsSealed</InterfaceMember>
+        <InterfaceMember>P:System.Windows.ISealable.IsSealed</InterfaceMember>
+        <InterfaceMember>P:System.Windows.ISealable.IsSealed</InterfaceMember>
+        <InterfaceMember>P:System.Windows.ISealable.IsSealed</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -302,6 +314,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Markup.INameScope.RegisterName(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.INameScope.RegisterName(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.INameScope.RegisterName(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.INameScope.RegisterName(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.INameScope.RegisterName(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.INameScope.RegisterName(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.INameScope.RegisterName(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.INameScope.RegisterName(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.INameScope.RegisterName(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.INameScope.RegisterName(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.INameScope.RegisterName(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.INameScope.RegisterName(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.INameScope.RegisterName(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.INameScope.RegisterName(System.String,System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.INameScope.RegisterName(System.String,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -331,6 +357,18 @@
       <MemberSignature Language="F#" Value="member this.Resources : System.Windows.ResourceDictionary with get, set" Usage="System.Windows.Style.Resources" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Windows.Markup.IHaveResources.Resources</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Markup.IHaveResources.Resources</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Markup.IHaveResources.Resources</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Markup.IHaveResources.Resources</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Markup.IHaveResources.Resources</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Markup.IHaveResources.Resources</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Markup.IHaveResources.Resources</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Markup.IHaveResources.Resources</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Markup.IHaveResources.Resources</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Markup.IHaveResources.Resources</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Markup.IHaveResources.Resources</InterfaceMember>
+        <InterfaceMember>P:System.Windows.Markup.IHaveResources.Resources</InterfaceMember>
         <InterfaceMember>P:System.Windows.Markup.IHaveResources.Resources</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -396,6 +434,18 @@
       <MemberSignature Language="F#" Value="member this.Seal : unit -&gt; unit" Usage="style.Seal " />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.ISealable.Seal</InterfaceMember>
+        <InterfaceMember>M:System.Windows.ISealable.Seal</InterfaceMember>
+        <InterfaceMember>M:System.Windows.ISealable.Seal</InterfaceMember>
+        <InterfaceMember>M:System.Windows.ISealable.Seal</InterfaceMember>
+        <InterfaceMember>M:System.Windows.ISealable.Seal</InterfaceMember>
+        <InterfaceMember>M:System.Windows.ISealable.Seal</InterfaceMember>
+        <InterfaceMember>M:System.Windows.ISealable.Seal</InterfaceMember>
+        <InterfaceMember>M:System.Windows.ISealable.Seal</InterfaceMember>
+        <InterfaceMember>M:System.Windows.ISealable.Seal</InterfaceMember>
+        <InterfaceMember>M:System.Windows.ISealable.Seal</InterfaceMember>
+        <InterfaceMember>M:System.Windows.ISealable.Seal</InterfaceMember>
+        <InterfaceMember>M:System.Windows.ISealable.Seal</InterfaceMember>
         <InterfaceMember>M:System.Windows.ISealable.Seal</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -495,6 +545,18 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Windows.ISealable.CanSeal</InterfaceMember>
+        <InterfaceMember>P:System.Windows.ISealable.CanSeal</InterfaceMember>
+        <InterfaceMember>P:System.Windows.ISealable.CanSeal</InterfaceMember>
+        <InterfaceMember>P:System.Windows.ISealable.CanSeal</InterfaceMember>
+        <InterfaceMember>P:System.Windows.ISealable.CanSeal</InterfaceMember>
+        <InterfaceMember>P:System.Windows.ISealable.CanSeal</InterfaceMember>
+        <InterfaceMember>P:System.Windows.ISealable.CanSeal</InterfaceMember>
+        <InterfaceMember>P:System.Windows.ISealable.CanSeal</InterfaceMember>
+        <InterfaceMember>P:System.Windows.ISealable.CanSeal</InterfaceMember>
+        <InterfaceMember>P:System.Windows.ISealable.CanSeal</InterfaceMember>
+        <InterfaceMember>P:System.Windows.ISealable.CanSeal</InterfaceMember>
+        <InterfaceMember>P:System.Windows.ISealable.CanSeal</InterfaceMember>
+        <InterfaceMember>P:System.Windows.ISealable.CanSeal</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -519,6 +581,18 @@
       <MemberSignature Language="F#" Usage="System.Windows.ISealable.IsSealed" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Windows.ISealable.IsSealed</InterfaceMember>
+        <InterfaceMember>P:System.Windows.ISealable.IsSealed</InterfaceMember>
+        <InterfaceMember>P:System.Windows.ISealable.IsSealed</InterfaceMember>
+        <InterfaceMember>P:System.Windows.ISealable.IsSealed</InterfaceMember>
+        <InterfaceMember>P:System.Windows.ISealable.IsSealed</InterfaceMember>
+        <InterfaceMember>P:System.Windows.ISealable.IsSealed</InterfaceMember>
+        <InterfaceMember>P:System.Windows.ISealable.IsSealed</InterfaceMember>
+        <InterfaceMember>P:System.Windows.ISealable.IsSealed</InterfaceMember>
+        <InterfaceMember>P:System.Windows.ISealable.IsSealed</InterfaceMember>
+        <InterfaceMember>P:System.Windows.ISealable.IsSealed</InterfaceMember>
+        <InterfaceMember>P:System.Windows.ISealable.IsSealed</InterfaceMember>
+        <InterfaceMember>P:System.Windows.ISealable.IsSealed</InterfaceMember>
         <InterfaceMember>P:System.Windows.ISealable.IsSealed</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -549,6 +623,18 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.ISealable.Seal</InterfaceMember>
+        <InterfaceMember>M:System.Windows.ISealable.Seal</InterfaceMember>
+        <InterfaceMember>M:System.Windows.ISealable.Seal</InterfaceMember>
+        <InterfaceMember>M:System.Windows.ISealable.Seal</InterfaceMember>
+        <InterfaceMember>M:System.Windows.ISealable.Seal</InterfaceMember>
+        <InterfaceMember>M:System.Windows.ISealable.Seal</InterfaceMember>
+        <InterfaceMember>M:System.Windows.ISealable.Seal</InterfaceMember>
+        <InterfaceMember>M:System.Windows.ISealable.Seal</InterfaceMember>
+        <InterfaceMember>M:System.Windows.ISealable.Seal</InterfaceMember>
+        <InterfaceMember>M:System.Windows.ISealable.Seal</InterfaceMember>
+        <InterfaceMember>M:System.Windows.ISealable.Seal</InterfaceMember>
+        <InterfaceMember>M:System.Windows.ISealable.Seal</InterfaceMember>
+        <InterfaceMember>M:System.Windows.ISealable.Seal</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -577,6 +663,20 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Windows.Markup.IAddChild.AddChild(System::Object ^ value) = System::Windows::Markup::IAddChild::AddChild;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -612,6 +712,20 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -645,6 +759,20 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Object ^ System.Windows.Markup.INameScope.FindName(System::String ^ name) = System::Windows::Markup::INameScope::FindName;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Markup.INameScope.FindName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.INameScope.FindName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.INameScope.FindName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.INameScope.FindName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.INameScope.FindName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.INameScope.FindName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.INameScope.FindName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.INameScope.FindName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.INameScope.FindName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.INameScope.FindName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.INameScope.FindName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.INameScope.FindName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.INameScope.FindName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.INameScope.FindName(System.String)</InterfaceMember>
         <InterfaceMember>M:System.Windows.Markup.INameScope.FindName(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -680,6 +808,18 @@
       <MemberSignature Language="C++ CLI" Value=" virtual bool System.Windows.Markup.IQueryAmbient.IsAmbientPropertyAvailable(System::String ^ propertyName) = System::Windows::Markup::IQueryAmbient::IsAmbientPropertyAvailable;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Markup.IQueryAmbient.IsAmbientPropertyAvailable(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IQueryAmbient.IsAmbientPropertyAvailable(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IQueryAmbient.IsAmbientPropertyAvailable(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IQueryAmbient.IsAmbientPropertyAvailable(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IQueryAmbient.IsAmbientPropertyAvailable(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IQueryAmbient.IsAmbientPropertyAvailable(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IQueryAmbient.IsAmbientPropertyAvailable(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IQueryAmbient.IsAmbientPropertyAvailable(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IQueryAmbient.IsAmbientPropertyAvailable(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IQueryAmbient.IsAmbientPropertyAvailable(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IQueryAmbient.IsAmbientPropertyAvailable(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.IQueryAmbient.IsAmbientPropertyAvailable(System.String)</InterfaceMember>
         <InterfaceMember>M:System.Windows.Markup.IQueryAmbient.IsAmbientPropertyAvailable(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -838,6 +978,20 @@
       <MemberSignature Language="F#" Value="abstract member UnregisterName : string -&gt; unit&#xA;override this.UnregisterName : string -&gt; unit" Usage="style.UnregisterName name" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Windows.Markup.INameScope.UnregisterName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.INameScope.UnregisterName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.INameScope.UnregisterName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.INameScope.UnregisterName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.INameScope.UnregisterName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.INameScope.UnregisterName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.INameScope.UnregisterName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.INameScope.UnregisterName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.INameScope.UnregisterName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.INameScope.UnregisterName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.INameScope.UnregisterName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.INameScope.UnregisterName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.INameScope.UnregisterName(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Windows.Markup.INameScope.UnregisterName(System.String)</InterfaceMember>
         <InterfaceMember>M:System.Windows.Markup.INameScope.UnregisterName(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

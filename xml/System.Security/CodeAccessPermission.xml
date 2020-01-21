@@ -123,6 +123,29 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Security.IStackWalk.Assert</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Assert</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Assert</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Assert</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Assert</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Assert</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Assert</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Assert</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Assert</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Assert</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Assert</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Assert</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Assert</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Assert</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Assert</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Assert</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Assert</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Assert</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Assert</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Assert</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Assert</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Assert</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Assert</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Assert</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -189,6 +212,29 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Security.IPermission.Copy</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Copy</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Copy</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Copy</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Copy</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Copy</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Copy</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Copy</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Copy</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Copy</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Copy</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Copy</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Copy</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Copy</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Copy</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Copy</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Copy</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Copy</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Copy</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Copy</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Copy</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Copy</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Copy</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Copy</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -245,6 +291,52 @@
       <MemberSignature Language="F#" Value="member this.Demand : unit -&gt; unit" Usage="codeAccessPermission.Demand " FrameworkAlternate="xamarinandroid-7.1;xamarinios-10.8" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Security.IPermission.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Demand</InterfaceMember>
         <InterfaceMember>M:System.Security.IPermission.Demand</InterfaceMember>
         <InterfaceMember>M:System.Security.IStackWalk.Demand</InterfaceMember>
       </Implements>
@@ -308,6 +400,29 @@
       <MemberSignature Language="F#" Value="member this.Deny : unit -&gt; unit" Usage="codeAccessPermission.Deny " FrameworkAlternate="xamarinandroid-7.1;xamarinios-10.8" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Security.IStackWalk.Deny</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Deny</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Deny</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Deny</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Deny</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Deny</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Deny</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Deny</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Deny</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Deny</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Deny</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Deny</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Deny</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Deny</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Deny</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Deny</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Deny</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Deny</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Deny</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Deny</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Deny</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Deny</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Deny</InterfaceMember>
         <InterfaceMember>M:System.Security.IStackWalk.Deny</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -423,6 +538,29 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.FromXml(System.Security.SecurityElement)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -528,6 +666,29 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Security.IPermission.Intersect(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Intersect(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Intersect(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Intersect(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Intersect(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Intersect(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Intersect(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Intersect(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Intersect(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Intersect(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Intersect(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Intersect(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Intersect(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Intersect(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Intersect(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Intersect(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Intersect(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Intersect(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Intersect(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Intersect(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Intersect(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Intersect(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Intersect(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Intersect(System.Security.IPermission)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -585,6 +746,29 @@
       <MemberSignature Language="F#" Value="abstract member IsSubsetOf : System.Security.IPermission -&gt; bool" Usage="codeAccessPermission.IsSubsetOf target" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Security.IPermission.IsSubsetOf(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.IsSubsetOf(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.IsSubsetOf(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.IsSubsetOf(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.IsSubsetOf(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.IsSubsetOf(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.IsSubsetOf(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.IsSubsetOf(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.IsSubsetOf(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.IsSubsetOf(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.IsSubsetOf(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.IsSubsetOf(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.IsSubsetOf(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.IsSubsetOf(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.IsSubsetOf(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.IsSubsetOf(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.IsSubsetOf(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.IsSubsetOf(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.IsSubsetOf(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.IsSubsetOf(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.IsSubsetOf(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.IsSubsetOf(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.IsSubsetOf(System.Security.IPermission)</InterfaceMember>
         <InterfaceMember>M:System.Security.IPermission.IsSubsetOf(System.Security.IPermission)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -663,6 +847,29 @@
       <MemberSignature Language="F#" Value="member this.PermitOnly : unit -&gt; unit" Usage="codeAccessPermission.PermitOnly " FrameworkAlternate="xamarinandroid-7.1;xamarinios-10.8" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Security.IStackWalk.PermitOnly</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.PermitOnly</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.PermitOnly</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.PermitOnly</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.PermitOnly</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.PermitOnly</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.PermitOnly</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.PermitOnly</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.PermitOnly</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.PermitOnly</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.PermitOnly</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.PermitOnly</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.PermitOnly</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.PermitOnly</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.PermitOnly</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.PermitOnly</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.PermitOnly</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.PermitOnly</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.PermitOnly</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.PermitOnly</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.PermitOnly</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.PermitOnly</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.PermitOnly</InterfaceMember>
         <InterfaceMember>M:System.Security.IStackWalk.PermitOnly</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -918,6 +1125,7 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Security.IPermission.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Demand</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -943,6 +1151,7 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Security.IStackWalk.Assert() = System::Security::IStackWalk::Assert;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Security.IStackWalk.Assert</InterfaceMember>
         <InterfaceMember>M:System.Security.IStackWalk.Assert</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -970,6 +1179,7 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Security.IStackWalk.Demand</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Demand</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -996,6 +1206,7 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Security.IStackWalk.Deny</InterfaceMember>
+        <InterfaceMember>M:System.Security.IStackWalk.Deny</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -1021,6 +1232,7 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Security.IStackWalk.PermitOnly() = System::Security::IStackWalk::PermitOnly;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Security.IStackWalk.PermitOnly</InterfaceMember>
         <InterfaceMember>M:System.Security.IStackWalk.PermitOnly</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1088,6 +1300,29 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
+        <InterfaceMember>M:System.Security.ISecurityEncodable.ToXml</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -1141,6 +1376,29 @@
       <MemberSignature Language="F#" Value="abstract member Union : System.Security.IPermission -&gt; System.Security.IPermission&#xA;override this.Union : System.Security.IPermission -&gt; System.Security.IPermission" Usage="codeAccessPermission.Union other" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.Security.IPermission.Union(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Union(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Union(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Union(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Union(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Union(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Union(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Union(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Union(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Union(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Union(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Union(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Union(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Union(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Union(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Union(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Union(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Union(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Union(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Union(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Union(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Union(System.Security.IPermission)</InterfaceMember>
+        <InterfaceMember>M:System.Security.IPermission.Union(System.Security.IPermission)</InterfaceMember>
         <InterfaceMember>M:System.Security.IPermission.Union(System.Security.IPermission)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

@@ -678,6 +678,9 @@ using (SqlConnection connection = new SqlConnection(connectionString))
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.IDbConnection.ChangeDatabase(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.ChangeDatabase(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.ChangeDatabase(System.String)</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.ChangeDatabase(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.SqlClient</AssemblyName>
@@ -1052,6 +1055,9 @@ The connection string contains <see langword="Context Connection=true" />.
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.IDbConnection.Close</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.Close</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.Close</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.Close</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.SqlClient</AssemblyName>
@@ -1223,6 +1229,9 @@ The connection string contains <see langword="Context Connection=true" />.
       <MemberSignature Language="C++ CLI" Value="public:&#xA; property System::String ^ ConnectionString { System::String ^ get(); void set(System::String ^ value); };" FrameworkAlternate="netframework-1.1" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Data.IDbConnection.ConnectionString</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.ConnectionString</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.ConnectionString</InterfaceMember>
         <InterfaceMember>P:System.Data.IDbConnection.ConnectionString</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1411,6 +1420,9 @@ The connection string contains <see langword="Context Connection=true" />.
       <MemberSignature Language="C++ CLI" Value="public:&#xA; property int ConnectionTimeout { int get(); };" FrameworkAlternate="netframework-1.1" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Data.IDbConnection.ConnectionTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.ConnectionTimeout</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.ConnectionTimeout</InterfaceMember>
         <InterfaceMember>P:System.Data.IDbConnection.ConnectionTimeout</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1650,6 +1662,9 @@ The connection string contains <see langword="Context Connection=true" />.
       <MemberSignature Language="C++ CLI" Value="public:&#xA; property System::String ^ Database { System::String ^ get(); };" FrameworkAlternate="netframework-1.1" />
       <MemberType>Property</MemberType>
       <Implements>
+        <InterfaceMember>P:System.Data.IDbConnection.Database</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.Database</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.Database</InterfaceMember>
         <InterfaceMember>P:System.Data.IDbConnection.Database</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2429,6 +2444,9 @@ class Program {
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.IDbConnection.Open</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.Open</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.Open</InterfaceMember>
+        <InterfaceMember>M:System.Data.IDbConnection.Open</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.SqlClient</AssemblyName>
@@ -2821,6 +2839,9 @@ class Program {
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Data.IDbConnection.State</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.State</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.State</InterfaceMember>
+        <InterfaceMember>P:System.Data.IDbConnection.State</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.SqlClient</AssemblyName>
@@ -3055,6 +3076,27 @@ Once the transaction has completed, you must explicitly commit or roll back the 
       <MemberSignature Language="C++ CLI" Value=" virtual System::Object ^ System.ICloneable.Clone() = ICloneable::Clone;" />
       <MemberType>Method</MemberType>
       <Implements>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
+        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
         <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
       </Implements>
       <AssemblyInfo>
